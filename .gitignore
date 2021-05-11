@@ -33,6 +33,17 @@ MANIFEST
 *.manifest
 *.spec
 
+# Embeddings
+embeddings/
+
+# Models
+models/
+
+# Files
+wl_files/
+neural_layered_files/
+
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt

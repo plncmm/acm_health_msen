@@ -1,3 +1,5 @@
+# python -m spacy download es_core_news_lg
+
 blis==0.7.4
 bpemb==0.3.2
 catalogue==2.0.3
@@ -7,10 +9,8 @@ click==7.1.2
 cloudpickle==1.6.0
 cycler==0.10.0
 cymem==2.0.5
-Cython==0.29.14
 decorator==4.4.2
 Deprecated==1.2.12
-es-core-news-lg @ https://github.com/explosion/spacy-models/releases/download/es_core_news_lg-3.0.0/es_core_news_lg-3.0.0-py3-none-any.whl
 filelock==3.0.12
 flair==0.8.0.post1
 ftfy==5.9
@@ -60,9 +60,8 @@ tabulate==0.8.9
 thinc==8.0.3
 threadpoolctl==2.1.0
 tokenizers==0.10.1
+-f https://download.pytorch.org/whl/torch_stable.html
 torch==1.8.1+cu102
-torchaudio==0.8.1
-torchvision==0.9.1+cu102
 tqdm==4.59.0
 transformers==4.4.2
 typer==0.3.2
