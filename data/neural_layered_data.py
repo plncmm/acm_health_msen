@@ -188,8 +188,8 @@ if __name__=='__main__':
     logging.info('Obtaining the depth-level of each entity...')
     ar = get_grade(entities_flatten)
     text = codecs.open('../wl_files/wl_entities.conll', 'r', 'UTF-8').read()
-    if not os.path.exists('../neural_layered_data'): os.mkdir('../neural_layered_data') 
-    new_text = codecs.open('../neural_layered_data/entities.conll', 'w', 'UTF-8')
+    if not os.path.exists('../neural_layered_files'): os.mkdir('../neural_layered_files') 
+    new_text = codecs.open('../neural_layered_files/entities.conll', 'w', 'UTF-8')
     annotations = text.split('\n\n')[:-1]
     entities_index = 0
     count = 0
@@ -231,7 +231,7 @@ if __name__=='__main__':
         
         if k!=len(annotations)-1: new_text.write('\n')
     
-    create_partitions('../neural_layered_data/entities.conll', '../neural_layered_data/train.conll', '../neural_layered_data/dev.conll', '../neural_layered_data/test.conll')
+    create_partitions('../neural_layered_files/entities.conll', '../neural_layered_files/train.conll', '../neural_layered_files/dev.conll', '../neural_layered_files/test.conll')
 
 
 
