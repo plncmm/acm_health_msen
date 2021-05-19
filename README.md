@@ -16,7 +16,7 @@ Code for the paper Automatic extraction of nested entities in clinical referrals
 
 Multiple Single Entity architecture files:
 
-1. Request credentials from authors to obtain data from the MINIO object repository. Write to the following email: plncmm@gmail.com
+1. Request credentials from authors to obtain data from the MINIO object repository. Write to the following email: pln@cmm.uchile.cl
 2. Execute the following code by entering the credentials:
 
 `python msen_data.py --server minio.cmm.uchile.cl --access_key your_username --secret_key your_pass --types Disease Finding Abbreviation Medication Body_Part Family_Member Procedure`. Files will be located in the wl_files folder.
