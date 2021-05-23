@@ -1,7 +1,6 @@
 
 
 #  The Chilean Waiting List Corpus.
-======================================================================
 Code for the paper Automatic extraction of nested entities in clinical referrals in Spanish. This repository contains brat to conll transformation and Single Entity Model.
 
 ## Install
@@ -17,7 +16,7 @@ Code for the paper Automatic extraction of nested entities in clinical referrals
 Multiple Single Entity architecture files:
 
 1. Request credentials from authors to obtain data from the MINIO object repository. Write to the following email: pln@cmm.uchile.cl
-2. Execute the following code by entering the credentials:
+2. Execute the following code in the data directory by entering the credentials:
 
 `python msen_data.py --server minio.cmm.uchile.cl --access_key your_username --secret_key your_pass --types Disease Finding Abbreviation Medication Body_Part Family_Member Procedure`. Files will be located in the wl_files folder.
 
@@ -33,7 +32,7 @@ Neural Layered architecture files:
 
 Put the `cwlce.vec` embeddings (it can be downloaded from here: https://zenodo.org/record/3924799).
 
-The BERT and Flair cpntextual embeddings are generated using this code: https://github.com/zalandoresearch/flair. 
+The BERT and Flair contextual embeddings are generated using the Flair framework: https://github.com/zalandoresearch/flair. 
 
 The selection of embeddings to be used can be modified in the `params.json` file.
 

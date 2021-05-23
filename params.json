@@ -1,5 +1,5 @@
 {   
-    "device": "cpu",
+    "device": "cuda",
     "optimizer": "SGD",
     "learning_rate": 0.1,
     "max_epochs": 100,
@@ -11,7 +11,7 @@
     "rnn_layers": 3, 
     "use_pretrained_embeddings": true,
     "static_embeddings": false, 
-    "use_char_embeddings": false,
+    "use_char_embeddings": true,
     "use_flair_embeddings": false,
     "use_bert_embeddings": false,
     "bert_layers": "all",
