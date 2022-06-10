@@ -1,0 +1,5 @@
+T1	Abbreviation 0 4	pcte
+T2	Disease 5 32	desdentada parcial superior
+T3	Sign_or_Symptom 38 76	protesis parcial removible desajustada
+T4	Therapeutic_Procedure 102 151	prótesis parcial removible superior base metálica
+A1	Pending T4

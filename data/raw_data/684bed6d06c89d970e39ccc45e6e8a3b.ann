@@ -1,0 +1,7 @@
+T1	Abbreviation 32 35	MAC
+T2	Abbreviation 79 82	TTO
+T3	Abbreviation 0 1	M
+T4	Clinical_Finding 0 2	M1
+T5	Therapeutic_Procedure 32 35	MAC
+T6	Clinical_Finding 91 99	EMBARAZO
+T7	Clinical_Finding 17 25	EMBARAZO

@@ -1,0 +1,52 @@
+T1	Abbreviation 24 29	ANTEC
+T2	Abbreviation 30 32	DM
+T3	Abbreviation 38 40	IR
+T4	Abbreviation 42 45	DLP
+T5	Abbreviation 47 50	HTA
+T6	Abbreviation 53 56	TTO
+T7	Abbreviation 58 61	AAS
+T8	Medication 58 61	AAS
+T9	Abbreviation 66 68	MG
+T10	Abbreviation 79 81	HR
+T11	Medication 83 93	METFORMINA
+T12	Medication 94 107	GLIBENCLAMIDA
+T13	Abbreviation 114 116	MG
+T14	Abbreviation 127 129	HR
+T15	Medication 131 139	LOSARTAN
+T16	Abbreviation 143 145	MG
+T17	Abbreviation 156 158	HR
+T18	Medication 160 174	ATORASVATATINA
+T19	Abbreviation 178 180	MG
+T20	Abbreviation 191 193	HR
+T21	Abbreviation 196 201	PACTE
+T22	Body_Part 235 250	REGION INGUINAL
+T23	Abbreviation 256 258	EX
+T24	Body_Part 260 267	ABDOMEN
+T25	Abbreviation 268 271	BDI
+T26	Abbreviation 284 286	TR
+T27	Body_Part 306 314	PROSTATA
+T28	Abbreviation 349 352	ECO
+T29	Body_Part 354 362	PROSTATA
+T30	Abbreviation 421 423	CC
+T31	Abbreviation 454 456	CC
+T32	Medication 565 576	TAMSULOSINA
+T33	Abbreviation 581 583	MG
+T34	Abbreviation 592 594	HR
+T35	Abbreviation 595 597	VO
+T36	Abbreviation 600 604	ATTE
+T37	Disease 2 20	RETENCIÓN DE ORINA
+T38	Disease 30 34	DM 2
+T39	Disease 42 45	DLP
+T40	Disease 47 50	HTA
+T41	Sign_or_Symptom 216 250	DOLOR IRRADIADO EN REGION INGUINAL
+T42	Sign_or_Symptom 260 271	ABDOMEN BDI
+T43	Sign_or_Symptom 277 282	MASAS
+A1	Negated T43
+T44	Sign_or_Symptom 306 346	PROSTATA ADENOMATOSA AUMENTADA DE TAMAÑO
+T45	Sign_or_Symptom 284 304	TR: SIN DEPOSICIONES
+T46	Diagnostic_Procedure 349 352	ECO
+T48	Laboratory_or_Test_Result 425 447	RESIDUO POST MICCIONAL
+R2	Has Arg1:T46 Arg2:T48	
+T49	Disease 521 539	RETENCION DE ORINA
+T47	Laboratory_or_Test_Result 354 395	PROSTATA DE CONFIGURACION Y TAMAÑO NORMAL
+R1	Has Arg1:T46 Arg2:T47	

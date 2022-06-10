@@ -1,0 +1,11 @@
+T1	Body_Part 23 30	PÁRPADO
+T2	Body_Part 39 57	COMISURA PALPEBRAL
+T3	Abbreviation 81 84	APS
+T4	Body_Part 109 132	mucosa ocular izquierda
+T5	Family_Member 134 139	madre
+T6	Body_Part 225 232	parpado
+T7	Body_Part 241 259	comisura palpebral
+T8	Disease 2 57	MELANOMA IN SITU DEL PÁRPADO Y DE LA COMISURA PALPEBRAL
+T9	Sign_or_Symptom 87 132	lunar melanocitico en mucosa ocular izquierda
+T10	Sign_or_Symptom 148 159	crecimiento
+T11	Disease 204 259	Melanoma in situ del parpado y de la comisura palpebral

@@ -1,0 +1,7 @@
+T1	Disease 2 60	OTRAS DEGENERACIONES ESPECIFICADAS DE DISCO INTERVERTEBRAL
+T2	Sign_or_Symptom 143 255	dolor region lumbar y sacro de varios meses limitacion a ciertas posiciones y aumenta con actividades y posicion
+T3	Abbreviation 84 87	APS
+#1	AnnotatorNotes T3	atención primaria de la salud
+T4	Body_Part 40 60	DISCO INTERVERTEBRAL
+T5	Body_Part 149 162	region lumbar
+T6	Body_Part 165 170	sacro

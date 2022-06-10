@@ -1,0 +1,6 @@
+T1	Body_Part 26 33	glúteos
+T3	Disease 41 60	quemadura por calor
+T4	Therapeutic_Procedure 80 90	curaciones
+T5	Sign_or_Symptom 106 112	herida
+T2	Disease 0 9	quemadura
+T6	Sign_or_Symptom 10 16	tipo A

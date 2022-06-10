@@ -1,0 +1,7 @@
+T1	Disease 0 12	Extrasistole
+T2	Disease 50 73	taquicardia ventricular
+T3	Laboratory_or_Test_Result 0 47	Extrasistole pares frecuentes tripletas escasas
+T4	Laboratory_or_Test_Result 50 99	taquicardia ventricular no  sostenida ocasionales
+T5	Abbreviation 107 110	HTA
+T6	Disease 107 110	HTA
+T7	Abbreviation 101 106	Antec

@@ -1,0 +1,25 @@
+T1	Disease 90 99	SOBREPESO
+T2	Disease 105 125	DIABETES GESTACIONAL
+T3	Abbreviation 0 1	G
+#1	AnnotatorNotes T3	gestaciones
+T4	Abbreviation 3 4	A
+#2	AnnotatorNotes T4	abortos
+T5	Abbreviation 6 7	P
+#3	AnnotatorNotes T5	partos
+T6	Abbreviation 71 74	EMB
+#4	AnnotatorNotes T6	embarazo
+T7	Abbreviation 100 103	OBS
+#5	AnnotatorNotes T7	observaciones
+T8	Abbreviation 128 131	PTG
+#6	AnnotatorNotes T8	prueba de la tolerancia a la glucosa
+T9	Abbreviation 136 138	MG
+#7	AnnotatorNotes T9	milígramos
+T10	Abbreviation 139 141	UD
+#8	AnnotatorNotes T10	unidades 
+T11	Clinical_Finding 0 2	G2
+T12	Clinical_Finding 3 5	A1
+T13	Clinical_Finding 6 8	PO
+T14	Therapeutic_Procedure 10 32	SALPIMGECTOMIA DERECHA
+T15	Therapeutic_Procedure 35 63	OOCORECTOMIA PARCIAL DERECHA
+T16	Clinical_Finding 71 74	EMB
+T17	Laboratory_Procedure 128 131	PTG

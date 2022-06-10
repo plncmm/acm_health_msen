@@ -1,0 +1,10 @@
+T1	Disease 2 36	DIABETES MELLITUS, NO ESPECIFICADA
+T2	Disease 40 94	DEGENERACIÓN DE LA MÁCULA Y DEL POLO POSTERIOR DEL OJO
+T3	Body_Part 91 94	OJO
+T4	Abbreviation 118 121	APS
+T5	Abbreviation 144 149	antec
+T6	Abbreviation 153 156	DM2
+T7	Abbreviation 159 162	DLP
+T8	Disease 159 162	DLP
+T10	Disease 153 156	DM2
+T9	Laboratory_or_Test_Result 195 216	Informe Retinográfico

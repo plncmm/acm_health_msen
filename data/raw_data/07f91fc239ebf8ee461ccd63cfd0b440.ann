@@ -1,0 +1,46 @@
+T1	Abbreviation 114 117	HTA
+T2	Medication 134 151	Losartan Potasico
+T3	Abbreviation 179 181	Mg
+T4	Medication 212 220	Atenolol
+T5	Abbreviation 224 226	Mg
+T6	Abbreviation 270 275	DM II
+T7	Medication 286 296	Metformina
+T8	Abbreviation 301 303	Mg
+T9	Medication 359 372	Atorvastatina
+T10	Abbreviation 400 402	Mg
+T11	Abbreviation 438 442	TACO
+T12	Medication 444 455	NEO-SINTROM
+T13	Abbreviation 646 648	EF
+T14	Body_Part 651 658	FARINGE
+T15	Body_Part 668 673	TORAX
+T16	Abbreviation 686 688	CP
+T17	Abbreviation 718 720	RC
+T18	Body_Part 747 754	ABDOMEN
+T19	Abbreviation 775 777	RH
+T20	Abbreviation 802 805	SPA
+T21	Abbreviation 473 476	ACV
+T22	Abbreviation 610 611	-
+T23	Abbreviation 621 622	-
+T24	Abbreviation 640 641	-
+T25	Body_Part 788 800	EXTREMIDADES
+T26	Disease 114 117	HTA
+T27	Disease 2 76	SECUELAS DE OTRAS ENFERMEDADES CEREBROVASCULARES Y DE LAS NO ESPECIFICADAS
+T28	Disease 270 275	DM II
+T29	Disease 345 357	DISLIPIDEMIA
+T30	Medication 438 442	TACO
+T31	Disease 473 476	ACV
+T32	Sign_or_Symptom 519 538	PERDIDAD DE MEMORIA
+T33	Sign_or_Symptom 543 571	DISMINUCION DE FUERZA MOTORA
+T34	Sign_or_Symptom 574 595	ALTERACIONES DE ANIMO
+T35	Sign_or_Symptom 602 608	DISNEA
+T36	Sign_or_Symptom 614 619	ANGOR
+A1	Negated T35
+A2	Negated T36
+T37	Sign_or_Symptom 625 638	PALPITACIONES
+A3	Negated T37
+T38	Clinical_Finding 651 666	FARINGE. NORMAL
+T39	Clinical_Finding 668 684	TORAX. SIMETRICO
+T40	Clinical_Finding 686 716	CP. CLAROS NO RUIDOS AGREGADOS
+T42	Clinical_Finding 747 774	ABDOMEN. BLANDO NO DOLOROSO
+T43	Clinical_Finding 775 786	RH AUDIBLES
+T44	Clinical_Finding 718 745	RC. RITMICOS NORMOFONETICOS

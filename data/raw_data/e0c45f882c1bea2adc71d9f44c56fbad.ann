@@ -1,0 +1,7 @@
+T1	Disease 13 28	necrosis pulpar
+T2	Sign_or_Symptom 0 28	Pieza 8 y 10 necrosis pulpar
+T3	Body_Part 0 12	Pieza 8 y 10
+T4	Sign_or_Symptom 30 53	Restauraciones extensas
+T5	Diagnostic_Procedure 57 76	examen Radiografico
+T6	Laboratory_or_Test_Result 88 101	lesión apical
+R1	Has Arg1:T5 Arg2:T6	

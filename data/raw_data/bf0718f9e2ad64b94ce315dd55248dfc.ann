@@ -1,0 +1,21 @@
+T1	Abbreviation 47 50	HTA
+T2	Abbreviation 53 59	Hiperl
+T3	Abbreviation 225 227	ex
+T4	Body_Part 314 332	Extr. superior izq
+T5	Abbreviation 313 318	(Extr
+T6	Abbreviation 329 332	izq
+T7	Abbreviation 51 52	+
+T8	Abbreviation 85 88	+/-
+T9	Abbreviation 278 281	+/-
+T10	Disease 2 25	ENFERMEDAD DE PARKINSON
+T11	Disease 47 50	HTA
+T12	Disease 53 71	Hiperl. prostatica
+T13	Sign_or_Symptom 109 124	rigidez musular
+T14	Sign_or_Symptom 126 145	lentitud al moverse
+T15	Sign_or_Symptom 147 172	aumento de cifosis dorsal
+T16	Sign_or_Symptom 174 198	inestabilidad al caminar
+T17	Sign_or_Symptom 204 221	temblor de reposo
+A1	Negated T17
+T18	Sign_or_Symptom 236 259	tono muscular aumentado
+T19	Sign_or_Symptom 261 277	rigidez muscular
+T20	Sign_or_Symptom 283 333	signos rueda dentada esbozado (Extr. superior izq)

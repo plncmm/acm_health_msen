@@ -1,0 +1,8 @@
+T1	Body_Part 2 15	pieza 1.8-2.8
+T2	Body_Part 59 66	3.8-4.8
+T4	Body_Part 51 58	2 molar
+T5	Body_Part 109 123	canal cervical
+T6	Laboratory_or_Test_Result 2 58	pieza 1.8-2.8,semincluida vertical impactado con 2 molar
+T7	Disease 37 46	impactado
+T8	Laboratory_or_Test_Result 59 123	3.8-4.8 semincluida vertical alices proyectado eb canal cervical
+T9	Body_Part 88 94	alices

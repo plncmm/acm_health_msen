@@ -1,0 +1,8 @@
+T2	Body_Part 122 125	PIE
+T3	Abbreviation 209 212	TTO
+T4	Abbreviation 0 5	PACTE
+T1	Abbreviation 70 73	IZQ
+T5	Body_Part 53 73	PRIMERO  ORTEGO  IZQ
+T6	Therapeutic_Procedure 41 73	AMPUTACION  PRIMERO  ORTEGO  IZQ
+T7	Sign_or_Symptom 99 125	ESCORIACIONES LEVE DEL PIE
+T8	Laboratory_or_Test_Result 150 172	LESIONES  ORTEOLITICAS

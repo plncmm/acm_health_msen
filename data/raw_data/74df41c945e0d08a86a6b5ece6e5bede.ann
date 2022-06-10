@@ -1,0 +1,8 @@
+T1	Body_Part 0 8	Pieza 11
+T2	Disease 13 46	pulpitis irreversible sintomática
+T3	Therapeutic_Procedure 73 84	trepanación
+T4	Medication 107 126	hidroxido de calcio
+T5	Clinical_Finding 152 168	cemento temporal
+T6	Disease 170 191	PULPITIS IRREVERSIBLE
+T7	Disease 62 68	caries
+T8	Abbreviation 69 71	OD

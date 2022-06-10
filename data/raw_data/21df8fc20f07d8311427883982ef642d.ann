@@ -1,0 +1,14 @@
+T1	Disease 2 17	PERICORONARITIS
+T2	Abbreviation 41 44	APS
+T3	Sign_or_Symptom 133 156	dolor en zona de pz 3,8
+T4	Abbreviation 150 152	pz
+T5	Body_Part 142 156	zona de pz 3,8
+T6	Sign_or_Symptom 169 201	capuchon pericoronario inflamado
+T7	Body_Part 169 191	capuchon pericoronario
+T8	Therapeutic_Procedure 214 246	irrigacion con suero fisiologico
+T9	Medication 229 246	suero fisiologico
+T10	Abbreviation 262 265	tto
+T11	Therapeutic_Procedure 262 276	tto analgesico
+T12	Abbreviation 292 294	Rx
+T13	Diagnostic_Procedure 292 305	Rx panorámica
+T14	Disease 306 321	Pericoronaritis

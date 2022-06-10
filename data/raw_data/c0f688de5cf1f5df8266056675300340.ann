@@ -1,0 +1,8 @@
+T1	Body_Part 25 34	pieza 2.1
+T2	Body_Part 67 72	pieza
+T3	Disease 0 24	Necrosis pulpar aseptica
+T4	Laboratory_or_Test_Result 48 64	granuloma apical
+A1	Negated T4
+T5	Therapeutic_Procedure 73 82	trepanada
+T6	Sign_or_Symptom 83 110	necrosis pos trauma oclusal
+T7	Disease 83 91	necrosis

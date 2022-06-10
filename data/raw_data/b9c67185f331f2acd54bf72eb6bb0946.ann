@@ -1,0 +1,12 @@
+T1	Body_Part 20 28	PRÓSTATA
+T2	Abbreviation 52 55	APS
+T3	Abbreviation 98 101	ITU
+T4	Abbreviation 146 149	PSA
+T5	Body_Part 190 198	prostata
+T6	Disease 2 28	HIPERPLASIA DE LA PRÓSTATA
+T7	Disease 98 114	ITU A REPETICIÓN
+T8	Sign_or_Symptom 117 146	ESFUERZO MICCIONAL PROGRESIVO
+T9	Laboratory_Procedure 146 149	PSA
+T10	Laboratory_or_Test_Result 160 171	RANG NORMAL
+R1	Has Arg1:T9 Arg2:T10	
+T11	Disease 172 198	Hiperplasia de la prostata

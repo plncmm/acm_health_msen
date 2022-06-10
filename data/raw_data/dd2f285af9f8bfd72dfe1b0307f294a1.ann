@@ -1,0 +1,12 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Abbreviation 74 77	APS
+T3	Clinical_Finding 92 114	antecdentes sistemicos
+A1	Negated T3
+T4	Sign_or_Symptom 126 153	apiñamiento anterior severo
+T5	Disease 126 137	apiñamiento
+T6	Sign_or_Symptom 156 173	mordida invertida
+T7	Sign_or_Symptom 176 211	premolares inferiores lingualizados
+T8	Body_Part 176 197	premolares inferiores
+T9	Therapeutic_Procedure 239 264	tratamiento de ortodoncia
+A2	Pending T9
+T10	Disease 266 314	Anomalias dentofaciales (incluso la maloclusion)

@@ -1,0 +1,10 @@
+T1	Abbreviation 56 59	APS
+T2	Abbreviation 205 207	kg
+T3	Disease 2 32	ANEMIA DE TIPO NO ESPECIFICADO
+T4	Disease 90 103	neumoconiosis
+T5	Disease 105 111	anemia
+T6	Medication 146 152	hierro
+T7	Sign_or_Symptom 188 207	disminucion de 6 kg
+T8	Sign_or_Symptom 220 247	sudoracion profusa nocturna
+T9	Sign_or_Symptom 250 299	sensacion de temperatura elevada, no cuantificada
+T10	Disease 301 331	Anemia de tipo no especificado

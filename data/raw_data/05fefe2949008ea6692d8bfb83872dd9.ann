@@ -1,0 +1,10 @@
+T1	Disease 2 10	PULPITIS
+T2	Abbreviation 34 37	APS
+T3	Disease 52 73	pulpitis irreversible
+T4	Body_Part 88 98	diente 1.4
+T5	Disease 78 84	caries
+T6	Therapeutic_Procedure 111 122	trepanación
+T7	Medication 141 144	chx
+T8	Abbreviation 141 144	chx
+T9	Medication 172 191	hidróxido de calcio
+T10	Disease 192 200	Pulpitis

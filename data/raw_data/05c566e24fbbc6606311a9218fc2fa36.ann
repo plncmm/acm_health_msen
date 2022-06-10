@@ -1,0 +1,9 @@
+T1	Disease 5 28	SINDROME DE LANCE ADAMS
+T2	Abbreviation 0 2	PG
+T3	Abbreviation 31 34	EMB
+T4	Abbreviation 66 69	PCR
+T5	Abbreviation 94 97	TTO
+T6	Clinical_Finding 0 2	PG
+T7	Clinical_Finding 31 34	EMB
+T8	Disease 66 69	PCR
+T9	Therapeutic_Procedure 94 115	TTO CON NEUROCIRUGANO

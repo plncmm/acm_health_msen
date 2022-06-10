@@ -1,0 +1,17 @@
+T1	Abbreviation 68 71	APS
+T3	Body_Part 2 10	PREPUCIO
+T4	Body_Part 122 130	prepucio
+T5	Body_Part 332 340	Prepucio
+T6	Body_Part 86 95	genitales
+T7	Body_Part 206 214	frenillo
+T2	Body_Part 256 268	cuelllo pene
+T8	Disease 2 44	PREPUCIO REDUNDANTE, FIMOSIS Y PARAFIMOSIS
+T9	Clinical_Finding 86 116	genitales de apariencia normal
+T10	Sign_or_Symptom 122 141	prepucio redundante
+T11	Sign_or_Symptom 147 166	signos inflamtorios
+A1	Negated T11
+T12	Sign_or_Symptom 173 200	resistencia en decapulación
+T13	Sign_or_Symptom 206 220	frenillo corto
+T14	Sign_or_Symptom 223 268	discreta compresión en anillo en cuelllo pene
+T15	Disease 286 297	parafimosis
+T16	Disease 332 374	Prepucio redundante, fimosis y parafimosis

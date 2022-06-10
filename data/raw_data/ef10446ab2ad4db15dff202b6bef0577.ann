@@ -1,0 +1,13 @@
+T1	Body_Part 2 9	DIENTES
+T3	Body_Part 147 154	Dientes
+T2	Body_Part 97 112	piezas dentales
+T4	Body_Part 113 116	2.8
+T5	Body_Part 123 126	3.8
+T6	Body_Part 132 135	4.8
+T7	Abbreviation 56 59	APS
+T8	Abbreviation 67 69	rx
+T9	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T10	Diagnostic_Procedure 67 80	rx panoramica
+T11	Laboratory_or_Test_Result 97 145	piezas dentales 2.8   -   3.8  -   4.8 incluidos
+R1	Has Arg1:T10 Arg2:T11	
+T12	Disease 147 177	Dientes incluidos e impactados

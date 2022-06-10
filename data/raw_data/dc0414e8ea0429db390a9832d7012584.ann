@@ -1,0 +1,37 @@
+T1	Abbreviation 68 71	APS
+T2	Family_Member 166 171	Madre
+T3	Family_Member 277 282	madre
+T4	Abbreviation 160 162	Cx
+T5	Body_Part 249 258	testiculo
+T6	Body_Part 2 10	PREPUCIO
+T7	Abbreviation 437 441	RR2T
+T8	Abbreviation 442 444	SS
+T9	Abbreviation 444 446	Mp
+T10	Abbreviation 446 447	+
+T11	Abbreviation 448 451	SRA
+T12	Body_Part 452 459	abdomen
+T13	Abbreviation 517 520	RHA
+T15	Body_Part 565 569	pene
+T16	Body_Part 721 729	Prepucio
+T14	Body_Part 533 541	prepucio
+T17	Body_Part 628 638	Testiculos
+T18	Body_Part 660 667	escroto
+T19	Disease 2 44	PREPUCIO REDUNDANTE, FIMOSIS Y PARAFIMOSIS
+T20	Clinical_Finding 93 115	Alergia a medicamentos
+A1	Negated T20
+T21	Clinical_Finding 119 140	Antecedentes morbidos
+A2	Negated T21
+T22	Clinical_Finding 144 162	Antecedentes de Cx
+A3	Negated T22
+T23	Sign_or_Symptom 249 272	testiculo no descendido
+T24	Clinical_Finding 437 444	RR2T SS
+T25	Clinical_Finding 444 451	Mp+ SRA
+T26	Clinical_Finding 452 503	abdomen Blando depresible e indoloro a la palpacion
+T27	Sign_or_Symptom 508 516	megalias
+A4	Negated T27
+T28	Sign_or_Symptom 533 552	prepucio redundante
+T29	Sign_or_Symptom 554 577	impresiona pene pequeño
+T30	Sign_or_Symptom 588 627	tejido adiposo en zona pubica aumentado
+T31	Sign_or_Symptom 628 667	Testiculos impresionan ambos es escroto
+T32	Disease 721 763	Prepucio redundante, fimosis y parafimosis
+T33	Body_Part 522 531	Genitales

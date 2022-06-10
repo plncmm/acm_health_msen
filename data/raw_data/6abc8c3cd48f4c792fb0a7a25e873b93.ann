@@ -1,0 +1,11 @@
+T1	Abbreviation 26 28	RR
+T2	Abbreviation 29 32	dte
+T3	Body_Part 29 44	dte 3,4,13,y 19
+T4	Abbreviation 54 56	rx
+T5	Abbreviation 81 85	pzas
+T6	Body_Part 81 85	pzas
+T7	Therapeutic_Procedure 15 28	exodoncias RR
+A1	Pending T7
+T8	Diagnostic_Procedure 54 56	rx
+T9	Diagnostic_Procedure 101 112	pase dental
+#1	AnnotatorNotes T9	whatt????????????

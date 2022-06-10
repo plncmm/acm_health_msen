@@ -1,0 +1,8 @@
+T1	Disease 2 30	PERIODONTITIS APICAL CRÓNICA
+T2	Body_Part 37 46	Pieza 1.4
+T3	Disease 47 64	caries penetrante
+T4	Laboratory_or_Test_Result 47 64	caries penetrante
+T5	Disease 67 95	periodontitis apical crónica
+T6	Therapeutic_Procedure 100 107	trepana
+T7	Therapeutic_Procedure 118 141	tratamiento de conducto
+A1	Pending T7

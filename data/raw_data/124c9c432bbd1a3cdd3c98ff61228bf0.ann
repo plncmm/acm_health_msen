@@ -1,0 +1,14 @@
+T2	Abbreviation 158 161	tto
+T3	Medication 166 172	hydrea
+T4	Abbreviation 179 183	mgrs
+T1	Body_Part 22 34	region malar
+T5	Abbreviation 45 48	der
+T6	Abbreviation 99 105	t de s
+T7	Abbreviation 92 98	evolan
+T8	Sign_or_Symptom 0 48	lesion eritematosa en region malar , mayor a der
+T9	Sign_or_Symptom 54 65	pruriginosa
+A1	Negated T9
+T10	Sign_or_Symptom 68 76	indolora
+T11	Disease 104 124	s mieloproliferativo
+T13	Laboratory_or_Test_Result 131 144	trombocitemia
+T12	Disease 131 153	trombocitemia esencial

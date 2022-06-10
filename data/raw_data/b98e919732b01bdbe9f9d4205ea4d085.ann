@@ -1,0 +1,5 @@
+T1	Abbreviation 62 64	FE
+T2	Disease 0 64	A NEMIA  FERROPRIVA  CRONICA  POR  DEFICIT DE  ABSORCION  DE  FE
+T3	Diagnostic_Procedure 70 102	ESTUDIO  DIGESTIVO  ALTO Y  BAJO
+T4	Laboratory_or_Test_Result 104 110	NORMAL
+R1	Has Arg1:T3 Arg2:T4	

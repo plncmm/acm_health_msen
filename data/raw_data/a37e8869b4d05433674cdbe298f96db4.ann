@@ -1,0 +1,7 @@
+T1	Body_Part 0 9	Pieza 3.6
+T2	Disease 10 38	periodontitis apical crónica
+T3	Laboratory_or_Test_Result 39 71	granuloma periapical raiz mesial
+T4	Clinical_Finding 73 82	trepanada
+T5	Body_Part 84 93	Pieza 4.6
+T6	Disease 94 115	pulpitis irreversible
+T7	Therapeutic_Procedure 117 126	trepanada

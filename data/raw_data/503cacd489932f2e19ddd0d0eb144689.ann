@@ -1,0 +1,18 @@
+T1	Abbreviation 63 66	APS
+T2	Abbreviation 70 71	G
+T3	Abbreviation 72 73	P
+T4	Abbreviation 74 75	A
+T5	Abbreviation 95 98	SEM
+T6	Abbreviation 103 106	ECO
+T7	Medication 118 128	PENICILINA
+T8	Abbreviation 130 133	OBS
+T9	Clinical_Finding 2 10	EMBARAZO
+T10	Disease 25 39	HIPOTIROIDISMO
+T11	Clinical_Finding 70 72	G2
+T12	Clinical_Finding 72 74	P1
+T13	Clinical_Finding 74 76	A0
+T14	Clinical_Finding 78 86	EMBARAZO
+T15	Diagnostic_Procedure 103 106	ECO
+T16	Disease 110 128	ALERGIA PENICILINA
+T17	Disease 135 149	HIPOTIROIDISMO
+T18	Clinical_Finding 150 158	Embarazo

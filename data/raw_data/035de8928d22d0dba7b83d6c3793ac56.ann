@@ -1,0 +1,9 @@
+T1	Disease 2 21	LEIOMIOMA DEL ÚTERO
+T3	Disease 87 93	MIOMAS
+T4	Disease 96 103	QUISTES
+T5	Sign_or_Symptom 152 168	DOLOR ESPORADICO
+T6	Disease 181 200	Leiomioma del utero
+T8	Abbreviation 45 48	APS
+T9	Abbreviation 118 121	+/-
+T2	Body_Part 16 21	ÚTERO
+T7	Body_Part 195 200	utero

@@ -1,0 +1,7 @@
+T1	Abbreviation 38 41	APS
+T2	Abbreviation 43 46	ECO
+T3	Disease 2 14	COLELITIASIS
+T4	Diagnostic_Procedure 43 56	ECO ABDOMINAL
+T5	Laboratory_or_Test_Result 58 70	COLELITIASIS
+R1	Has Arg1:T4 Arg2:T5	
+T6	Disease 109 121	Colelitiasis

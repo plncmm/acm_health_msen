@@ -1,0 +1,9 @@
+T1	Abbreviation 28 29	X
+T2	Abbreviation 30 33	RGE
+T3	Sign_or_Symptom 9 27	LARINGITIS CRONICA
+T4	Disease 30 33	RGE
+T5	Sign_or_Symptom 49 67	CARRESPERA CRONICA
+T6	Disease 108 132	REFLUJO GASTRO ESOFAGICO
+T7	Sign_or_Symptom 149 167	IRRITACION CRONICA
+T8	Diagnostic_Procedure 133 143	ENDOSCOPIA
+A1	Pending T8

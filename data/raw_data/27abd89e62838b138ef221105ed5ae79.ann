@@ -1,0 +1,26 @@
+T1	Abbreviation 64 66	AF
+T2	Family_Member 68 75	hermano
+T3	Abbreviation 459 461	Ex
+T4	Abbreviation 462 465	fis
+T5	Abbreviation 467 470	BCG
+T6	Abbreviation 472 474	Ex
+T7	Body_Part 495 510	pares craneanos
+T8	Disease 2 25	MAREO Y DESVANECIMIENTO
+T9	Disease 29 36	CEFALEA
+T10	Disease 53 62	sobrepeso
+T11	Disease 88 106	aneurisma cerebral
+R1	Has Arg1:T2 Arg2:T11	
+T12	Sign_or_Symptom 152 262	dolor hemicraneano derecho tipo opresivo de intensidad leve a moderado intermitente asociado a "adormecimiento
+T13	Sign_or_Symptom 334 346	mareos leves
+T14	Sign_or_Symptom 349 377	sensacion de desvanecimiento
+T15	Sign_or_Symptom 440 447	vomitos
+T16	Sign_or_Symptom 451 457	fiebre
+A1	Negated T16
+A2	Negated T15
+T17	Clinical_Finding 467 470	BCG
+T18	Clinical_Finding 475 493	neurologico normal
+T19	Clinical_Finding 495 519	pares craneanos normales
+T20	Clinical_Finding 521 554	fuerza y sensibilidad conservadas
+T21	Sign_or_Symptom 560 583	signos extrapiramidales
+A3	Negated T21
+T22	Clinical_Finding 585 615	pruebas de equilibrio normales

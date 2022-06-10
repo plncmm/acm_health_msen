@@ -1,0 +1,7 @@
+T1	Abbreviation 57 60	APS
+T2	Abbreviation 62 63	M
+T3	Disease 2 33	ATENCIÓN PARA LA ANTICONCEPCIÓN
+T4	Clinical_Finding 62 64	M2
+T5	Therapeutic_Procedure 78 85	Pomeroy
+T6	Disease 87 118	Atencion para la anticoncepcion
+A1	Pending T5

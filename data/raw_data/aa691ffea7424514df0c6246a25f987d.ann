@@ -1,0 +1,15 @@
+T1	Disease 0 4	K040
+T2	Disease 5 13	PULPITIS
+T3	Abbreviation 66 69	DTE
+T4	Body_Part 66 71	DTE 2
+T5	Sign_or_Symptom 29 38	MOLESTIAS
+T6	Abbreviation 73 75	RX
+T7	Diagnostic_Procedure 73 75	RX
+T8	Laboratory_or_Test_Result 87 103	DESAJUSTE DISTAL
+R1	Has Arg1:T7 Arg2:T8	
+T9	Disease 121 124	HTA
+T10	Abbreviation 121 124	HTA
+T11	Disease 126 128	DM
+T12	Abbreviation 126 128	DM
+T13	Disease 130 134	ASMA
+T14	Disease 136 150	HIPOTIROIDISMO

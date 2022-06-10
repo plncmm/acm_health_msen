@@ -1,0 +1,8 @@
+T1	Disease 2 18	DESDENTADO TOTAL
+T2	Abbreviation 43 46	APS
+T3	Disease 57 101	desdentado total superior y parcial inferior
+T4	Sign_or_Symptom 104 152	protesis antiguas desajustadas en muy mal estado
+T5	Therapeutic_Procedure 176 196	recambio de protesis
+A1	Pending T5
+T6	Disease 198 274	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T7	Body_Part 236 243	dientes

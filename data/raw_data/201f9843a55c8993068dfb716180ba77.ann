@@ -1,0 +1,13 @@
+T1	Disease 2 22	NECROSIS DE LA PULPA
+T2	Body_Part 17 22	PULPA
+T3	Abbreviation 46 49	APS
+T4	Body_Part 51 54	2.5
+T5	Disease 55 70	necrosis pulpar
+T6	Clinical_Finding 83 94	trepanacion
+T8	Body_Part 152 165	camara pulpar
+T9	Clinical_Finding 168 189	obturacion provisoria
+T10	Clinical_Finding 190 196	fermin
+T11	Disease 197 217	Necrosis de la pulpa
+T12	Body_Part 212 217	pulpa
+T7	Medication 140 148	paramono
+T13	Abbreviation 140 148	paramono

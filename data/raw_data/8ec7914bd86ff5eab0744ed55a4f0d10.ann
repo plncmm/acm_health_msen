@@ -1,0 +1,9 @@
+T1	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T2	Abbreviation 52 55	APS
+T3	Disease 57 72	CARIES PROFUNDA
+T4	Abbreviation 73 76	PZA
+T5	Body_Part 73 79	PZA 20
+T6	Sign_or_Symptom 81 101	DOLOR A LA PERCUSION
+T7	Therapeutic_Procedure 114 125	TREPANACION
+T8	Disease 179 199	Caries de la dentina
+T9	Body_Part 192 199	dentina

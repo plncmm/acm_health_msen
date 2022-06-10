@@ -1,0 +1,11 @@
+T1	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T2	Body_Part 31 37	DIENTE
+T3	Abbreviation 61 64	APS
+T5	Laboratory_or_Test_Result 66 108	4.8 posicion horizontal - impactado en 4.7
+T6	Body_Part 105 108	4.7
+T7	Body_Part 109 112	3.8
+T8	Laboratory_or_Test_Result 109 138	3.8 semiincluido - posicion B
+T10	Disease 151 166	pericoronaritis
+T11	Disease 178 213	Anomalias de la posicion del diente
+T12	Body_Part 207 213	diente
+T4	Body_Part 66 69	4.8

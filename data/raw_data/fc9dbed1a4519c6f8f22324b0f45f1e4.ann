@@ -1,0 +1,12 @@
+T1	Abbreviation 0 4	Pcte
+T2	Abbreviation 33 35	RM
+T3	Abbreviation 38 41	EMG
+T4	Abbreviation 57 59	qx
+T5	Abbreviation 92 94	DR
+T6	Abbreviation 127 130	STC
+T7	Sign_or_Symptom 20 31	cervicalgia
+T8	Diagnostic_Procedure 33 35	RM
+T9	Diagnostic_Procedure 38 41	EMG
+T10	Therapeutic_Procedure 57 59	qx
+T11	Therapeutic_Procedure 116 130	cirugía de STC
+A1	Pending T11

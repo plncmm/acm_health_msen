@@ -1,0 +1,11 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Abbreviation 44 47	APS
+T3	Therapeutic_Procedure 75 100	prótesis parcial superior
+A1	Pending T3
+T4	Sign_or_Symptom 106 137	perdida de 2 dientes por caries
+T5	Body_Part 119 126	dientes
+T6	Disease 131 137	caries
+T7	Sign_or_Symptom 160 235	sufrio accidente hace años motivo por ql cual perdio sus dientes delnateros
+T8	Body_Part 217 235	dientes delnateros
+T9	Disease 237 313	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T10	Body_Part 275 282	dientes

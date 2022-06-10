@@ -1,0 +1,31 @@
+T1	Body_Part 53 63	OÍDO MEDIO
+T2	Body_Part 73 111	ÓRGANOS RESPIRATORIOS E INTRATORÁCICOS
+T3	Abbreviation 135 138	APS
+T4	Abbreviation 140 143	pac
+T5	Abbreviation 144 146	DM
+T6	Abbreviation 147 150	HTA
+T7	Abbreviation 151 153	FA
+T8	Abbreviation 146 147	+
+T9	Abbreviation 150 151	+
+T10	Abbreviation 153 154	+
+T11	Abbreviation 154 158	ERC3
+T12	Body_Part 200 212	oido derecho
+T13	Body_Part 260 265	oídos
+T14	Body_Part 345 363	membrana timpànica
+T15	Body_Part 466 476	oido medio
+T16	Body_Part 486 524	organos respiratorios e intratoracicos
+T17	Disease 2 111	TUMOR DE COMPARTIMIENTO INCIERTO O DESCONOCIDO DEL OÍDO MEDIO Y DE LOS ÓRGANOS RESPIRATORIOS E INTRATORÁCICOS
+T18	Disease 144 146	DM
+T19	Disease 147 150	HTA
+T20	Disease 151 153	FA
+T21	Disease 154 158	ERC3
+T22	Clinical_Finding 189 212	audifno en oido derecho
+T23	Sign_or_Symptom 223 265	dolor recurrente lancinante en mismo oídos
+T24	Sign_or_Symptom 270 278	secrecón
+A1	Negated T24
+T25	Sign_or_Symptom 281 298	mareos a valsalva
+T26	Sign_or_Symptom 323 339	eritema de fondo
+T27	Sign_or_Symptom 345 363	membrana timpànica
+A2	Negated T27
+T28	Sign_or_Symptom 386 413	focos sangrantes y sinuosos
+T29	Disease 415 524	Tumor de compartimiento incierto o desconocido del oido medio y de los organos respiratorios e intratoracicos

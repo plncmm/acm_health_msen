@@ -1,0 +1,12 @@
+T1	Abbreviation 0 1	M
+T2	Clinical_Finding 0 2	M4
+T4	Body_Part 24 38	MAMA IZQUIERDA
+T5	Sign_or_Symptom 73 98	ENDURECIMIENTO NO MOVIBLE
+T7	Body_Part 123 127	PIEL
+T9	Body_Part 150 155	PEZON
+T10	Abbreviation 164 167	DRA
+T3	Sign_or_Symptom 15 38	DOLOR EN MAMA IZQUIERDA
+T6	Sign_or_Symptom 104 127	ALTERACIONES DE LA PIEL
+A1	Negated T6
+T8	Sign_or_Symptom 133 155	SECRECION POR EL PEZON
+A2	Negated T8

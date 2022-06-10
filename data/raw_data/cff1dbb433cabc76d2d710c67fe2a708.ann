@@ -1,0 +1,7 @@
+T1	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T2	Abbreviation 52 55	APS
+T3	Disease 95 101	caries
+T4	Sign_or_Symptom 95 111	caries multiples
+T6	Disease 179 199	Caries de la dentina
+T7	Body_Part 192 199	dentina
+T8	Body_Part 171 176	pulpa

@@ -1,0 +1,21 @@
+T1	Body_Part 38 44	CADERA
+T2	Body_Part 59 66	CADERAS
+T3	Body_Part 83 97	CUELLO FEMORAL
+T4	Body_Part 98 102	COXA
+T5	Body_Part 114 126	VARA O VALGA
+T6	Abbreviation 151 154	APS
+T7	Abbreviation 191 193	pn
+T8	Abbreviation 199 201	gr
+T9	Abbreviation 251 253	rx
+T10	Body_Part 257 263	pelvis
+T11	Abbreviation 333 336	aps
+T12	Body_Part 419 435	cadera izquierda
+T13	Disease 2 127	OTRAS DEFORMIDADES CONGÉNITAS DE LA CADERA (DISPLASIA DE CADERAS ANTEVERSIÓN DEL CUELLO FEMORAL COXA CONGÉNITA: VARA O VALGA)
+T14	Clinical_Finding 223 232	displasia
+A1	Negated T14
+A2	Implicit_Family_Background T14
+T15	Diagnostic_Procedure 251 263	rx de pelvis
+T16	Laboratory_or_Test_Result 288 311	angulo limite bilateral
+R1	Has Arg1:T15 Arg2:T16	
+T17	Laboratory_or_Test_Result 346 387	angulo de 30º a izquierda y 26º a derecha
+R2	Has Arg1:T15 Arg2:T17	

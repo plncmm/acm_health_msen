@@ -1,0 +1,13 @@
+T1	Body_Part 24 30	HÍGADO
+T2	Abbreviation 67 70	DHC
+T3	Abbreviation 71 75	NASH
+T4	Abbreviation 93 96	ANA
+T5	Abbreviation 76 78	VS
+T6	Disease 0 4	K746
+T7	Disease 5 53	OTRAS CIRROSIS DEL HÍGADO Y LAS NO ESPECIFICADAS
+T9	Laboratory_Procedure 93 96	ANA
+T10	Laboratory_or_Test_Result 97 105	NEGATIVO
+R1	Has Arg1:T9 Arg2:T10	
+T11	Disease 67 70	DHC
+T12	Laboratory_or_Test_Result 71 75	NASH
+T13	Disease 71 75	NASH

@@ -1,0 +1,9 @@
+T1	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T2	Body_Part 31 37	DIENTE
+T3	Abbreviation 61 64	APS
+T4	Abbreviation 66 71	pacte
+T5	Sign_or_Symptom 76 118	apiñamiento dentario mal posicion dentaria
+T6	Sign_or_Symptom 120 136	paladar profundo
+T7	Body_Part 120 127	paladar
+T8	Disease 138 173	Anomalias de la posicion del diente
+T9	Body_Part 167 173	diente

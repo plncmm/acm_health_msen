@@ -1,0 +1,41 @@
+T1	Disease 2 63	ANEURISMA DE LA AORTA TORACOABDOMINAL, SIN MENCIÓN DE RUPTURA
+T2	Body_Part 18 39	AORTA TORACOABDOMINAL
+T3	Disease 67 98	HIPERTENSIÓN ESENCIAL (PRIMARIA
+T4	Disease 103 120	DIABETES MELLITUS
+T5	Abbreviation 167 170	APS
+T6	Abbreviation 192 194	CV
+T7	Abbreviation 199 201	Rx
+T8	Abbreviation 210 213	EKG
+T9	Diagnostic_Procedure 199 207	Rx Tórax
+T10	Body_Part 202 207	Tórax
+T11	Diagnostic_Procedure 210 213	EKG
+T13	Laboratory_or_Test_Result 324 359	cambios sugerente de EPOC tabáquico
+R2	Has Arg1:T9 Arg2:T13	
+T14	Clinical_Finding 377 380	TBQ
+T15	Laboratory_or_Test_Result 387 394	derrame
+R3	Has Arg1:T9 Arg2:T15	
+T16	Laboratory_or_Test_Result 409 421	condensación
+A1	Negated T16
+R4	Has Arg1:T9 Arg2:T16	
+T17	Diagnostic_Procedure 427 430	EKG
+T18	Laboratory_or_Test_Result 431 456	bloqueo de rama izquierdo
+T19	Laboratory_or_Test_Result 459 479	bloqueo AV 1er grado
+T20	Laboratory_or_Test_Result 484 497	ritmo sinusal
+T21	Laboratory_or_Test_Result 500 512	SDST V1 y V2
+T22	Abbreviation 500 504	SDST
+R5	Has Arg1:T17 Arg2:T18	
+R6	Has Arg1:T17 Arg2:T19	
+R7	Has Arg1:T17 Arg2:T20	
+R8	Has Arg1:T17 Arg2:T21	
+T23	Disease 459 479	bloqueo AV 1er grado
+T24	Disease 431 456	bloqueo de rama izquierdo
+T12	Laboratory_or_Test_Result 246 274	ensanchamiento de mediastino
+R1	Has Arg1:T9 Arg2:T12	
+T25	Laboratory_or_Test_Result 277 315	ateroesclerosis Ao torácica ensanchada
+R9	Has Arg1:T9 Arg2:T25	
+T26	Abbreviation 293 295	Ao
+T27	Abbreviation 345 349	EPOC
+T28	Abbreviation 377 380	TBQ
+T29	Abbreviation 427 430	EKG
+T30	Abbreviation 467 469	AV
+T31	Abbreviation 470 473	1er

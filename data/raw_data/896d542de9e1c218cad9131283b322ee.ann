@@ -1,0 +1,18 @@
+T1	Body_Part 17 26	CLAVÍCULA
+T2	Abbreviation 50 53	APS
+T3	Abbreviation 92 94	DM
+T4	Abbreviation 98 100	IR
+T5	Abbreviation 102 105	HTA
+T6	Body_Part 196 212	hombro izquierdo
+T7	Body_Part 358 367	clavicula
+T8	Disease 2 26	FRACTURA DE LA CLAVÍCULA
+T9	Disease 92 97	DM II
+T10	Disease 102 105	HTA
+T11	Abbreviation 107 117	politrauma
+T12	Disease 107 117	politrauma
+T13	Sign_or_Symptom 187 212	dolor en hombro izquierdo
+T14	Diagnostic_Procedure 221 232	radiografía
+T15	Laboratory_or_Test_Result 247 289	luxofractura clavicular izquierda grado IV
+R1	Has Arg1:T14 Arg2:T15	
+T16	Disease 247 280	luxofractura clavicular izquierda
+T17	Disease 343 367	Fractura de la clavicula

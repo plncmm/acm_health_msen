@@ -1,0 +1,12 @@
+T1	Disease 0 31	Hipertrofia benigna de próstata
+T2	Body_Part 23 31	próstata
+T3	Abbreviation 33 36	Obs
+T4	Abbreviation 38 41	Neo
+T5	Disease 38 52	Neo prostática
+T6	Abbreviation 54 57	ITU
+T7	Disease 54 75	ITU bajo a repetición
+T8	Disease 77 88	prostatismo
+T10	Abbreviation 155 157	AO
+T11	Sign_or_Symptom 163 192	aumento de volumen prostático
+T13	Abbreviation 238 241	APS
+T9	Disease 90 109	Monorreno izquierdo

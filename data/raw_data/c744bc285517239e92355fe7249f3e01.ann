@@ -1,0 +1,7 @@
+T1	Body_Part 106 115	pieza 1.3
+T2	Body_Part 158 167	pieza 2.3
+T3	Sign_or_Symptom 21 58	apiñamiento anterosuperior e inferior
+T4	Clinical_Finding 60 83	modida clase I bderecha
+T5	Sign_or_Symptom 86 104	clase II izquierda
+T6	Laboratory_or_Test_Result 106 156	pieza 1.3 intraosea retenida levemente mesializada
+T7	Sign_or_Symptom 158 199	pieza 2.3 semierupcionada vestibularizada

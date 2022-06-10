@@ -1,0 +1,10 @@
+T1	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T2	Therapeutic_Procedure 30 41	TREPANACION
+T3	Abbreviation 65 68	APS
+T4	Body_Part 70 79	PIEZA 3,2
+T5	Disease 80 97	CARIES PENETRANTE
+T6	Laboratory_or_Test_Result 80 120	CARIES PENETRANTE CON LESION RADIOLUCIDA
+T7	Therapeutic_Procedure 136 147	TREPANACION
+T8	Body_Part 170 175	PIEZA
+T9	Disease 221 239	Caries del cemento
+T10	Body_Part 232 239	cemento

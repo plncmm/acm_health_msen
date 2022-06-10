@@ -1,0 +1,14 @@
+T1	Disease 2 30	BRADICARDIA, NO ESPECIFICADA
+T2	Disease 34 67	ANORMALIDADES DEL LATIDO CARDÍACO
+T3	Abbreviation 91 94	APS
+T8	Disease 425 453	Bradicardia, no especificada
+T7	Disease 298 370	extrasistoles supraventriculares  con complejos ventriculares prematuros
+T4	Disease 116 125	diabetico
+T9	Diagnostic_Procedure 173 201	estudio electrocardiografico
+T6	Disease 276 287	Bradicardia
+T5	Laboratory_or_Test_Result 215 272	alteraciones electrocardiograficas dfel ritmo en V1  y V5
+T10	Laboratory_or_Test_Result 276 295	Bradicardia sinusal
+T11	Laboratory_or_Test_Result 298 370	extrasistoles supraventriculares  con complejos ventriculares prematuros
+R1	Has Arg1:T9 Arg2:T5	
+R2	Has Arg1:T9 Arg2:T10	
+R3	Has Arg1:T9 Arg2:T11	

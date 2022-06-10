@@ -1,0 +1,18 @@
+T1	Abbreviation 75 78	dlp
+T2	Body_Part 144 152	vesicula
+T3	Body_Part 307 313	higado
+T4	Body_Part 260 283	vasos retroperitoneales
+T5	Disease 2 18	COLELITIASIS    
+T6	Disease 58 72	hipotiroidismo
+T7	Disease 75 78	dlp
+T8	Diagnostic_Procedure 101 120	ecografia abdominal
+T9	Laboratory_or_Test_Result 144 258	vesicula contraida, con aspecto de ocupacion completa por calculos en relacion a sombra acustica intensa posterior
+R1	Has Arg1:T8 Arg2:T9	
+T10	Laboratory_or_Test_Result 260 292	vasos retroperitoneales normales
+R2	Has Arg1:T8 Arg2:T10	
+T11	Laboratory_or_Test_Result 307 328	higado graso moderado
+T12	Laboratory_or_Test_Result 330 342	colelitiasis
+T13	Disease 330 342	colelitiasis
+T14	Disease 307 319	higado graso
+R3	Has Arg1:T8 Arg2:T11	
+R4	Has Arg1:T8 Arg2:T12	

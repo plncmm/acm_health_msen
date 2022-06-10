@@ -1,0 +1,6 @@
+T1	Abbreviation 123 125	RX
+T2	Body_Part 129 136	ABDOMEN
+T3	Disease 0 4	F981
+T4	Disease 5 27	ENCOPRESIS NO ORGANICA
+T5	Disease 64 74	ENCOPRESIS
+T6	Diagnostic_Procedure 123 136	RX DE ABDOMEN

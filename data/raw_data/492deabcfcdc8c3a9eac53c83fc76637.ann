@@ -1,0 +1,5 @@
+T1	Disease 9 27	desdentada parcial
+T2	Disease 40 81	Periodontitis crónica generalizada severa
+T3	Clinical_Finding 97 127	fase de Mantención periodontal
+T4	Therapeutic_Procedure 161 203	REHABILITACIÓN PROTÉSICA PARCIAL REMOVIBLE
+A1	Pending T4

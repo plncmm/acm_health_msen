@@ -1,0 +1,9 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Abbreviation 44 47	APS
+T3	Disease 58 96	desdentado parcial superior e inferior
+T4	Therapeutic_Procedure 122 132	exodoncias
+A1	Pending T4
+T5	Therapeutic_Procedure 137 157	rehabilitación de PR
+A2	Pending T5
+T6	Disease 175 251	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T7	Body_Part 213 220	dientes

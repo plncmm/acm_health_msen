@@ -1,0 +1,6 @@
+T1	Abbreviation 96 98	Tv
+T2	Sign_or_Symptom 16 28	Escucha Bien
+A1	Negated T2
+T3	Sign_or_Symptom 32 56	Entiende Alguna Palabras
+A2	Negated T3
+T4	Sign_or_Symptom 65 98	Problemas Con La Escucha De La Tv

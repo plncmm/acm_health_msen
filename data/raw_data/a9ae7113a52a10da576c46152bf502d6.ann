@@ -1,0 +1,11 @@
+T1	Disease 2 18	ABSCESO MARGINAL
+T2	Abbreviation 42 45	APS
+T3	Sign_or_Symptom 47 78	aumento de volumen zona lingual
+T6	Sign_or_Symptom 108 125	encia eritematosa
+T7	Body_Part 108 113	encia
+T8	Sign_or_Symptom 126 135	 signo H+
+T9	Abbreviation 133 135	H+
+T10	Sign_or_Symptom 137 142	dolor
+T11	Disease 143 170	Celulitis y absceso de boca
+T12	Body_Part 166 170	boca
+T4	Body_Part 66 78	zona lingual

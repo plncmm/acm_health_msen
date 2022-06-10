@@ -1,0 +1,20 @@
+T1	Body_Part 17 22	PULPA
+T2	Abbreviation 46 49	APS
+T3	Body_Part 83 92	PIEZA 2.2
+T4	Body_Part 112 115	2.3
+T5	Body_Part 137 146	3.3 Y 3.4
+T7	Body_Part 455 460	pulpa
+T8	Disease 2 22	NECROSIS DE LA PULPA
+T9	Therapeutic_Procedure 69 92	ENDODONCIA DE PIEZA 2.2
+A1	Pending T9
+T10	Disease 94 109	NECROSIS PULPAR
+T11	Laboratory_or_Test_Result 112 134	2.3  CARIES PENETRANTE
+T12	Laboratory_or_Test_Result 137 164	3.3 Y 3.4 CARIES PENETRANTE
+T13	Disease 261 274	OSTEONECROSIS
+T14	Disease 440 460	Necrosis de la pulpa
+T15	Clinical_Finding 406 438	DIFICULTAD PARA REALIZAR HIGIENE
+T16	Therapeutic_Procedure 179 202	TRATAMIENTO ENDODONTICO
+A2	Pending T16
+T17	Therapeutic_Procedure 231 241	EXODONCIAS
+A3	Negated T17
+T6	Medication 309 322	BISFOSFONATOS

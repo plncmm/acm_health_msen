@@ -1,0 +1,16 @@
+T1	Abbreviation 58 60	dm
+T2	Abbreviation 62 64	AR
+T3	Abbreviation 66 67	G
+T4	Abbreviation 68 69	P
+T5	Abbreviation 70 71	A
+T6	Disease 2 41	INCONTINENCIA URINARIA, NO ESPECIFICADA
+T7	Disease 58 60	dm
+T8	Disease 62 64	AR
+T9	Clinical_Finding 66 68	G3
+T10	Clinical_Finding 68 70	P3
+T11	Clinical_Finding 70 72	A0
+T12	Therapeutic_Procedure 74 81	cesarea
+T13	Disease 93 125	incontinenecia orina de esfuerzo
+T14	Sign_or_Symptom 149 166	urgeincontinencia
+T15	Clinical_Finding 168 189	afecta su vida diaria
+T16	Therapeutic_Procedure 225 232	cirugia

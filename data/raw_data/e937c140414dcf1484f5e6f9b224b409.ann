@@ -1,0 +1,14 @@
+T1	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T2	Body_Part 54 64	Diente 1.8
+T3	Sign_or_Symptom 65 80	semierupcionado
+T4	Sign_or_Symptom 87 128	falta de espacio para la higiene y acceso
+T5	Body_Part 130 140	diente 2.8
+T6	Laboratory_or_Test_Result 130 165	diente 2.8 incluido en mal posicion
+T7	Laboratory_or_Test_Result 166 219	inclinado hacia distal con imposibilidad de erupcion,
+T8	Body_Part 219 229	diente 3.8
+T10	Body_Part 253 263	diente 3.7
+T12	Body_Part 297 307	diente 4.8
+T13	Laboratory_or_Test_Result 297 378	diente 4.8 incluido e impactado en posicion completamente horizontal a diente 4.7
+T14	Body_Part 368 378	diente 4.7
+T9	Laboratory_or_Test_Result 219 295	diente 3.8 incluido e impactado a diente 3.7 con cercania a canal mandibular
+T11	Body_Part 279 295	canal mandibular

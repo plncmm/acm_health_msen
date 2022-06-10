@@ -1,0 +1,9 @@
+T1	Abbreviation 31 34	PAP
+T2	Abbreviation 95 97	CT
+T3	Abbreviation 0 1	M
+T4	Abbreviation 82 85	PAP
+T5	Clinical_Finding 0 2	M1
+T6	Clinical_Finding 4 16	PARTO NORMAL
+T7	Diagnostic_Procedure 31 34	PAP
+T8	Diagnostic_Procedure 82 85	PAP
+T9	Diagnostic_Procedure 95 97	CT

@@ -1,0 +1,17 @@
+T1	Abbreviation 0 2	pd
+T2	Body_Part 0 6	pd 3.5
+T3	Abbreviation 10 13	tto
+T4	Abbreviation 29 32	HRT
+T5	Therapeutic_Procedure 10 25	tto endodontico
+T6	Sign_or_Symptom 43 70	fractura de cuspide lingual
+T7	Clinical_Finding 90 105	vidrio ionomero
+T8	Abbreviation 131 134	pfs
+T9	Therapeutic_Procedure 116 134	rehabilitacion pfs
+A1	Pending T9
+T10	Abbreviation 136 138	pd
+T11	Body_Part 136 142	pd 3.6
+T12	Sign_or_Symptom 143 168	fractura de pared lingual
+T13	Therapeutic_Procedure 179 196	rehabiltacion pfs
+A2	Pending T13
+T14	Abbreviation 193 196	pfs
+T15	Body_Part 155 168	pared lingual

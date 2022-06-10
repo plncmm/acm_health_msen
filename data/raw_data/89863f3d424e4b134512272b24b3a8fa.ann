@@ -1,0 +1,9 @@
+T1	Abbreviation 52 54	cc
+T3	Abbreviation 45 46	m
+T2	Abbreviation 109 112	ref
+T4	Disease 2 41	INCONTINENCIA URINARIA, NO ESPECIFICADA
+T5	Clinical_Finding 45 47	m4
+T6	Sign_or_Symptom 52 54	cc
+T7	Disease 57 81	incontinencia   urinaria
+T8	Sign_or_Symptom 57 94	incontinencia   urinaria ,  al  toser
+T9	Disease 114 135	infecciones urinarias

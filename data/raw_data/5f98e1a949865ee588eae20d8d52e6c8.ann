@@ -1,0 +1,13 @@
+T1	Abbreviation 82 85	EMG
+T2	Body_Part 196 211	tunel del carpo
+T3	Abbreviation 258 261	izq
+T4	Body_Part 15 29	TÚNEL CARPIANO
+T5	Body_Part 48 62	tunel carpiano
+T6	Abbreviation 117 118	x
+T7	Abbreviation 165 166	N
+T8	Body_Part 165 174	N Mediano
+T9	Disease 2 29	SÍNDROME DEL TÚNEL CARPIANO
+T10	Disease 36 72	Sindrome de tunel carpiano bilateral
+T11	Diagnostic_Procedure 82 106	EMG y de neuroconduccion
+T12	Laboratory_or_Test_Result 149 261	atrapamiento de N Mediano bilateral a nivel de tunel del carpo,electricamente de grado moderado y predominio izq
+R1	Has Arg1:T11 Arg2:T12	

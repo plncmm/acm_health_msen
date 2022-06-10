@@ -1,0 +1,14 @@
+T1	Abbreviation 0 3	pac
+T2	Abbreviation 50 53	obs
+T3	Abbreviation 87 89	dm
+T4	Abbreviation 100 103	tto
+T5	Medication 108 121	insulina  nph
+T6	Abbreviation 195 197	ev
+T7	Abbreviation 198 199	x
+T8	Laboratory_or_Test_Result 19 45	pancreatitis balthazar   D
+T9	Disease 19 31	pancreatitis
+T10	Laboratory_or_Test_Result 54 62	necrosis
+T11	Disease 87 95	dm tipo1
+T12	Sign_or_Symptom 169 181	hipoglicemia
+T13	Laboratory_or_Test_Result 169 181	hipoglicemia
+T14	Disease 213 255	Hipoglicemia sin coma, inducida por drogas

@@ -1,0 +1,6 @@
+T1	Disease 0 15	Épulis fisurado
+T2	Sign_or_Symptom 51 73	rebordes hipertróficos
+T3	Sign_or_Symptom 76 83	móviles
+T4	Therapeutic_Procedure 131 154	cirugías pre protésicas
+A1	Pending T4
+T5	Body_Part 51 59	rebordes

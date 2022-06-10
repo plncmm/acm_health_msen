@@ -1,0 +1,5 @@
+T1	Sign_or_Symptom 0 23	Salto articular derecho
+T2	Sign_or_Symptom 25 50	apertura bucal disminuida
+T3	Sign_or_Symptom 53 70	dolor en apertura
+T4	Sign_or_Symptom 72 90	faceta de desgaste
+T5	Disease 95 103	bruxismo

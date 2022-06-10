@@ -1,0 +1,7 @@
+T1	Disease 2 52	GRANULOMA Y LESIONES SEMEJANTES DE LA MUCOSA BUCAL
+T2	Abbreviation 76 79	APS
+T3	Disease 122 131	granuloma
+T4	Body_Part 160 182	mucosa labial inferior
+T5	Abbreviation 220 223	CMF
+T6	Sign_or_Symptom 245 289	volvio a salir  nuevamente en el mismo sitio
+T7	Sign_or_Symptom 297 332	molesta actualmente mucho al hablar

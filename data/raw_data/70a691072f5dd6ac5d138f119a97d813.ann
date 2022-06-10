@@ -1,0 +1,8 @@
+T1	Abbreviation 30 33	pta
+T2	Abbreviation 153 156	pta
+T3	Disease 19 28	Epilepsia
+T4	Clinical_Finding 34 59	dificultades comprensivas
+T5	Sign_or_Symptom 105 124	labiidad atencional
+T6	Sign_or_Symptom 127 141	hiperactividad
+T7	Sign_or_Symptom 157 182	dificultades comprensivas
+T8	Disease 221 281	Otros trastornos del desarrollo de las habilidades escolares

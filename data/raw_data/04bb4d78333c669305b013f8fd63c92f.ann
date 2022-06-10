@@ -1,0 +1,12 @@
+T1	Abbreviation 74 77	APS
+T2	Body_Part 212 222	Diente 1.1
+T3	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T4	Clinical_Finding 111 132	antecedentes mórbidos
+A1	Negated T4
+T5	Sign_or_Symptom 134 153	Clase II esqueletal
+A2	Negated T5
+T6	Sign_or_Symptom 155 167	Distoclusión
+T7	Sign_or_Symptom 169 210	Discrepencia dentomaxilar negativa severa
+A3	Negated T7
+T8	Sign_or_Symptom 212 238	Diente 1.1 vestibularizado
+T9	Disease 240 287	Anomalias dentofaciales (incluso la maloclusion

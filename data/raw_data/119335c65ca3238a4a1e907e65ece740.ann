@@ -1,0 +1,10 @@
+T1	Disease 18 49	enfermedad periodontal avanzada
+T2	Body_Part 61 70	insisivos
+T3	Body_Part 84 90	piezas
+T4	Body_Part 120 129	grupo uno
+T5	Sign_or_Symptom 109 129	perdida de grupo uno
+T6	Sign_or_Symptom 132 154	movilidad generalizada
+T7	Clinical_Finding 183 224	pierde piezas dentarias muy temprana edad
+T8	Body_Part 190 206	piezas dentarias
+T9	Family_Member 176 182	abuela
+R1	Has Arg1:T9 Arg2:T7	

@@ -1,0 +1,9 @@
+T1	Body_Part 54 89	piezas 1.6, 2.3, 2.6, 4.3, 3.7, 3.4
+T2	Body_Part 161 167	piezas
+T3	Abbreviation 214 216	PB
+T4	Disease 0 50	Periodontitis crónica marginal avanzada localizada
+T5	Disease 91 141	Periodontitis crónica marginal moderada localizada
+T6	Disease 169 202	Gingivitis crónica marginopapilar
+T7	Sign_or_Symptom 214 229	PB generalizada
+T8	Abbreviation 250 255	abund
+T9	Sign_or_Symptom 231 255	Tártaro subgigival abund

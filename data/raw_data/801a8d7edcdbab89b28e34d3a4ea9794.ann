@@ -1,0 +1,5 @@
+T1	Abbreviation 56 59	ATM
+T2	Body_Part 56 67	ATM derecha
+T3	Clinical_Finding 15 43	caída con golpe lado derecho
+T4	Sign_or_Symptom 56 95	ATM derecha con apertura bucal desviada
+T5	Therapeutic_Procedure 108 126	terapia ortopédica

@@ -1,0 +1,12 @@
+T1	Laboratory_or_Test_Result 0 30	Proteinuria en rango nefrotico
+T2	Abbreviation 32 35	OBS
+T3	Disease 37 57	nefropatia diabetica
+T4	Abbreviation 59 62	Obs
+T5	Disease 64 81	anemia secundaria
+T6	Disease 83 86	DM2
+T7	Disease 91 94	HTA
+T8	Abbreviation 83 86	DM2
+T9	Abbreviation 87 89	IR
+T10	Abbreviation 91 94	HTA
+T11	Abbreviation 107 110	OBS
+T12	Disease 112 129	ANEMIA SECUNDARIA

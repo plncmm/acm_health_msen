@@ -1,0 +1,11 @@
+T1	Abbreviation 33 34	U
+T2	Abbreviation 52 53	U
+T3	Abbreviation 129 131	Hb
+T4	Abbreviation 211 214	VFG
+T5	Abbreviation 229 231	ml
+T6	Abbreviation 232 235	min
+T7	Laboratory_Procedure 129 143	Hb glicosilada
+T8	Laboratory_Procedure 185 203	glicemia en ayunas
+T9	Laboratory_Procedure 211 224	VFG calculada
+T10	Laboratory_or_Test_Result 235 251	Microalbuminuria
+T11	Therapeutic_Procedure 16 30	inulinoterapia

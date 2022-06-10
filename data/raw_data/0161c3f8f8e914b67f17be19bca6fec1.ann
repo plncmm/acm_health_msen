@@ -1,0 +1,13 @@
+T1	Body_Part 2 9	DIENTES
+T2	Body_Part 83 107	3ros molares definitivos
+T3	Body_Part 108 115	Pza 1.8
+T4	Body_Part 130 148	pzas 2.8, 3.8, 4.8
+T5	Abbreviation 43 46	APS
+T6	Abbreviation 48 51	Pac
+T7	Abbreviation 108 111	Pza
+T8	Abbreviation 130 134	pzas
+T9	Disease 2 19	DIENTES INCLUIDOS
+T10	Therapeutic_Procedure 70 107	exodoncia de 3ros molares definitivos
+A1	Pending T10
+T11	Sign_or_Symptom 108 128	Pza 1.8 semiincluída
+T12	Clinical_Finding 130 168	pzas 2.8, 3.8, 4.8 en estado submucoso

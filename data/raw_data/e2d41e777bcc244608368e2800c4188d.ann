@@ -1,0 +1,14 @@
+T1	Body_Part 88 92	MAMA
+T2	Abbreviation 0 1	M
+T3	Abbreviation 24 26	MX
+T4	Abbreviation 27 30	B-3
+T5	Clinical_Finding 0 2	M3
+T6	Therapeutic_Procedure 5 21	HISTERECTOMIZADA
+T7	Diagnostic_Procedure 24 26	MX
+T8	Laboratory_or_Test_Result 27 30	B-3
+R1	Has Arg1:T7 Arg2:T8	
+T9	Diagnostic_Procedure 31 41	MAMOGRAFIA
+T10	Laboratory_or_Test_Result 53 111	NODULO PARCIALMENTE CALCIFICADO DE MAMA DE ASPECTO BENIGNO
+R2	Has Arg1:T9 Arg2:T10	
+T11	Diagnostic_Procedure 136 176	ECOTOMOGRAFIA MAMARIA DE ALTA RESOLUCION
+A1	Pending T11

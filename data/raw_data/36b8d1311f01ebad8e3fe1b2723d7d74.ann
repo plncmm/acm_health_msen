@@ -1,0 +1,21 @@
+T1	Body_Part 2 5	PIE
+T2	Abbreviation 58 61	APS
+T3	Abbreviation 101 103	dg
+T4	Body_Part 108 111	pie
+T5	Abbreviation 147 151	EEII
+T6	Body_Part 147 151	EEII
+T7	Body_Part 192 196	pies
+T8	Abbreviation 253 256	cms
+T9	Body_Part 243 247	pies
+T10	Body_Part 288 291	Pie
+T11	Disease 2 33	PIE PLANO PES PLANUS (ADQUIRIDO
+T12	Disease 108 117	pie plano
+T13	Sign_or_Symptom 127 151	dolor recurrente en EEII
+T14	Sign_or_Symptom 192 206	pies paralelos
+T15	Sign_or_Symptom 208 223	genu valgo leve
+T16	Sign_or_Symptom 262 272	asimetrías
+A1	Negated T16
+T17	Sign_or_Symptom 276 286	toraciones
+A2	Negated T17
+T18	Disease 288 319	Pie plano pes planus (adquirido
+T19	Body_Part 180 183	pie

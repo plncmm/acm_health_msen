@@ -1,0 +1,12 @@
+T1	Disease 9 12	DM2
+T2	Abbreviation 9 12	DM2
+T3	Abbreviation 14 17	HTA
+T4	Disease 14 17	HTA
+T5	Disease 20 48	RETINOPATIA DIABÉTICA SEVERA
+T6	Abbreviation 50 53	ERC
+T7	Disease 50 56;73 82	ERC IV ETAPA III
+T8	Sign_or_Symptom 108 116	MIALGIAS
+T10	Sign_or_Symptom 118 125	ASTENIA
+T11	Sign_or_Symptom 127 135	ADINAMIA
+T9	Therapeutic_Procedure 181 189	diálisis
+A1	Pending T9

@@ -1,0 +1,10 @@
+T1	Disease 2 18	DESDENTADO TOTAL
+T2	Abbreviation 43 46	APS
+T3	Abbreviation 48 51	Pac
+T4	Disease 52 88	desdentada total superior e inferior
+T5	Sign_or_Symptom 94 124	prótesis superior (fracturada)
+T6	Therapeutic_Procedure 141 169	confección de ambas prótesis
+A1	Pending T6
+T7	Abbreviation 181 184	pac
+T8	Sign_or_Symptom 185 210	no puede alimentarse bien
+T9	Sign_or_Symptom 222 258	gran compromiso estético y funcional

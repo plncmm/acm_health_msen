@@ -1,0 +1,11 @@
+T1	Abbreviation 58 61	APS
+T2	Abbreviation 183 185	EF
+T3	Abbreviation 219 223	RR2T
+T4	Abbreviation 223 225	SS
+T5	Abbreviation 257 260	IMC
+T6	Disease 2 34	HIPERTENSIÓN ESENCIAL (PRIMARIA)
+T7	Disease 130 142	hipertension
+T8	Sign_or_Symptom 190 217	ausculto soplos abdominales
+A1	Negated T8
+T9	Clinical_Finding 219 225	RR2TSS
+T11	Disease 265 297	HIPERTENSION ESENCIAL (PRIMARIA)

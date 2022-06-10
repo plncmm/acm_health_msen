@@ -1,0 +1,27 @@
+T1	Abbreviation 34 37	TTO
+T2	Abbreviation 48 51	HTO
+T3	Body_Part 199 205	ROSTRO
+T4	Body_Part 208 214	CUERPO
+T5	Abbreviation 237 240	ITU
+T6	Abbreviation 248 251	REF
+T7	Sign_or_Symptom 12 37	ANEMIA REFRACTARIA AL TTO
+T9	Laboratory_Procedure 59 70	ERITORCITOS
+T8	Laboratory_Procedure 48 51	HTO
+T10	Laboratory_or_Test_Result 75 85	DISMINUIDO
+T11	Laboratory_Procedure 86 98	BACILIFORMAS
+T12	Laboratory_Procedure 113 124	NEUTROFILOS
+T14	Laboratory_Procedure 140 149	LIFOCITOS
+T15	Laboratory_or_Test_Result 102 112	DISMINUIDO
+T16	Laboratory_or_Test_Result 129 139	DISMINUIDO
+T17	Laboratory_or_Test_Result 154 164	DISMINUIDO
+T13	Sign_or_Symptom 175 214	HEMATOMAS Y PETEGUAS EN ROSTRO Y CUERPO
+T18	Sign_or_Symptom 218 231	EPIMIOMEGALIA
+A1	Negated T18
+T19	Disease 237 240	ITU
+A2	Negated T19
+T20	Disease 241 247	ANEMIA
+R1	Has Arg1:T9 Arg2:T10	
+T21	Disease 12 18	ANEMIA
+R2	Has Arg1:T11 Arg2:T15	
+R3	Has Arg1:T12 Arg2:T16	
+R4	Has Arg1:T14 Arg2:T17	

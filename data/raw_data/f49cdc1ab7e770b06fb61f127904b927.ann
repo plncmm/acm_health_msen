@@ -1,0 +1,23 @@
+T1	Medication 276 289	Amitriptilina
+T2	Body_Part 132 151	miembros superiores
+T3	Body_Part 173 181	rodillas
+T4	Body_Part 183 188	dorso
+T5	Body_Part 216 241	tunel carpiano izqiuierdo
+#1	AnnotatorNotes T5	a
+T6	Disease 2 14	FIBROMIALGIA
+T7	Disease 77 89	fibromialgia
+T8	Disease 474 486	Fibromialgia
+T9	Disease 212 241	Sd. tunel carpiano izqiuierdo
+T10	Abbreviation 212 214	Sd
+T11	Abbreviation 38 41	APS
+T12	Abbreviation 56 61	antec
+T13	Abbreviation 95 100	aprox
+T14	Abbreviation 360 363	VHS
+T15	Abbreviation 368 369	F
+T16	Abbreviation 468 472	atte
+T17	Sign_or_Symptom 109 188	dolor generalizado en  miembros superiores de mayor predominio, rodillas, dorso
+T18	Laboratory_Procedure 350 358	examenes
+T19	Laboratory_Procedure 360 363	VHS
+T20	Laboratory_Procedure 368 382	F. Reumatoideo
+T21	Laboratory_or_Test_Result 383 391	POSITIVO
+R1	Has Arg1:T20 Arg2:T21	

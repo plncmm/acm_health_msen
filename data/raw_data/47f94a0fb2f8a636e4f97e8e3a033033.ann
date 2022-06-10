@@ -1,0 +1,15 @@
+T1	Body_Part 223 252	extremidad superior izquierda
+T2	Body_Part 270 285	brazo izquierdo
+T3	Abbreviation 48 51	APS
+T4	Abbreviation 74 76	RN
+T5	Abbreviation 401 405	Atte
+T6	Abbreviation 408 410	Ud
+T7	Disease 2 24	RETARDO DEL DESARROLLO
+T8	Disease 74 86	RN prematuro
+T9	Disease 112 122	torticolis
+T10	Therapeutic_Procedure 149 163	kinesioterapia
+T11	Sign_or_Symptom 206 252	deficit motor en extremidad superior izquierda
+T13	Therapeutic_Procedure 349 356	terapia
+A1	Pending T13
+T14	Disease 411 433	Retardo del desarrollo
+T12	Sign_or_Symptom 254 310	no logra apoyar brazo izquierdo para levantarse en prono

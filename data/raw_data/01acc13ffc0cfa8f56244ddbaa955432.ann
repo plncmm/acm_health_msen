@@ -1,0 +1,13 @@
+T1	Abbreviation 9 13	ERC4
+T2	Disease 9 13	ERC4
+T3	Abbreviation 14 17	HTA
+T4	Disease 14 17	HTA
+T5	Disease 18 30	Hipotiroideo
+T6	Therapeutic_Procedure 54 57	FAV
+T7	Therapeutic_Procedure 63 66	TRR
+T8	Abbreviation 63 66	TRR
+T9	Therapeutic_Procedure 67 79	hemodialisis
+T10	Abbreviation 86 89	GES
+T11	Disease 91 123	Enfermedad renal cronica Etapa 4
+T12	Abbreviation 54 57	FAV
+A1	Pending T6

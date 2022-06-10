@@ -1,0 +1,9 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Abbreviation 44 47	APS
+T3	Abbreviation 49 53	pcte
+T4	Disease 54 72	desdentada parcial
+T6	Body_Part 104 111	dientes
+T7	Disease 143 155	periodontits
+T9	Disease 156 232	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T10	Body_Part 194 201	dientes
+T5	Sign_or_Symptom 74 155	desajuste entre su protesis y dientes que se han ido desplazando por periodontits

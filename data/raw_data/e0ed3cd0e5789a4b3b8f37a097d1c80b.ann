@@ -1,0 +1,13 @@
+T1	Abbreviation 151 154	APS
+#1	AnnotatorNotes T1	atención primaria de salud
+T2	Abbreviation 231 233	rx
+#2	AnnotatorNotes T2	radiografía
+T3	Body_Part 38 44	CADERA
+T4	Body_Part 59 66	CADERAS
+T5	Body_Part 83 97	CUELLO FEMORAL
+T6	Body_Part 234 240	pelvis
+T7	Disease 2 44	OTRAS DEFORMIDADES CONGÉNITAS DE LA CADERA
+T8	Disease 46 126	DISPLASIA DE CADERAS ANTEVERSIÓN DEL CUELLO FEMORAL COXA CONGÉNITA: VARA O VALGA
+T9	Diagnostic_Procedure 231 240	rx pelvis
+T10	Clinical_Finding 175 196	antecedentes morbidos
+A1	Negated T10

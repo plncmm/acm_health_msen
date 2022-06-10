@@ -1,0 +1,8 @@
+T1	Therapeutic_Procedure 21 31	endodoncia
+A1	Pending T1
+T2	Body_Part 35 44	pieza 2.1
+T3	Disease 53 56	TDA
+T4	Abbreviation 53 56	TDA
+T5	Therapeutic_Procedure 69 90	recubrimiento directo
+T6	Sign_or_Symptom 105 125	cambio de coloración
+T7	Body_Part 141 150	pieza 1.1

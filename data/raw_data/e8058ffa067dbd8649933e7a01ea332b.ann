@@ -1,0 +1,23 @@
+T1	Abbreviation 123 126	APS
+T2	Abbreviation 167 170	Dra
+T3	Abbreviation 191 194	+/-
+T4	Abbreviation 230 236	CESFAM
+T5	Abbreviation 310 313	tbn
+T6	Medication 345 353	Ravotril
+T7	Family_Member 374 379	padre
+T8	Abbreviation 381 384	Hno
+T9	Family_Member 381 384	Hno
+T10	Family_Member 431 436	madre
+T11	Family_Member 595 600	madre
+T12	Medication 676 686	Sertralina
+T13	Abbreviation 690 692	mg
+T14	Abbreviation 702 704	hr
+T15	Medication 704 714	Clonazepam
+T16	Abbreviation 717 719	mg
+T17	Medication 734 741	Sucedal
+T18	Abbreviation 744 746	mg
+T19	Medication 754 767	Carbamazepina
+T20	Disease 2 50	EPISODIO DEPRESIVO GRAVE SIN SÍNTOMAS PSICÓTICOS
+T21	Disease 54 99	TRASTORNO DE LA PERSONALIDAD, NO ESPECIFICADO
+T22	Sign_or_Symptom 248 273	intento suicidio "varios"
+T23	Disease 774 822	Episodio depresivo grave sin sintomas psicoticos

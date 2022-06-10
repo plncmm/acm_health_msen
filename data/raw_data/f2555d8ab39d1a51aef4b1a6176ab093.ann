@@ -1,0 +1,14 @@
+T1	Body_Part 52 66	CUELLO UTERINO
+T2	Abbreviation 90 93	APS
+T3	Abbreviation 98 101	CCA
+T4	Abbreviation 131 134	PAP
+T5	Body_Part 193 207	Cuello Uterino
+T6	Abbreviation 95 96	M
+T7	Disease 2 66	CELULAS ATIPICAS DE SIGNIFICADO INDETERMINADO DEL CUELLO UTERINO
+T8	Clinical_Finding 95 97	M1
+T9	Therapeutic_Procedure 98 101	CCA
+T10	Clinical_Finding 103 111	EMBARAZO
+T11	Laboratory_Procedure 131 134	PAP
+T12	Laboratory_or_Test_Result 135 142	ATIPICO
+R1	Has Arg1:T11 Arg2:T12	
+T13	Disease 143 207	Celulas Atipicas de Significado Indeterminado del Cuello Uterino

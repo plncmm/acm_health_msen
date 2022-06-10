@@ -1,0 +1,15 @@
+T1	Body_Part 19 28	ADENOIDES
+T2	Body_Part 55 64	ADENOIDES
+T3	Family_Member 89 94	madre
+T4	Abbreviation 102 107	trast
+T5	Abbreviation 119 123	saos
+T6	Abbreviation 125 127	rx
+T7	Disease 0 28	HIPERTROFIA DE LAS ADENOIDES
+T8	Disease 30 34	J352
+T9	Disease 36 64	HIPERTROFIA DE LAS ADENOIDES
+T10	Disease 65 87	Khipertrofia adenoidea
+T11	Disease 102 117	trast del sueño
+T12	Disease 119 123	saos
+T13	Diagnostic_Procedure 125 127	rx
+T14	Laboratory_or_Test_Result 128 138	compatible
+R1	Has Arg1:T13 Arg2:T14	

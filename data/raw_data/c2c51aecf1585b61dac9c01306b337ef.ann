@@ -1,0 +1,8 @@
+T1	Body_Part 0 8	Pieza 20
+T2	Therapeutic_Procedure 14 39	tratamiento de endodoncia
+T3	Sign_or_Symptom 72 94	sintomatología clínica
+A1	Negated T3
+T4	Laboratory_or_Test_Result 101 123	lesión osea periapical
+A2	Negated T4
+T5	Diagnostic_Procedure 124 136	radiográfica
+R1	Has Arg1:T5 Arg2:T4	

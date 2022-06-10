@@ -1,0 +1,17 @@
+T1	Disease 2 44	LUXACIÓN CONGÉNITA DE LA CADERA, BILATERAL
+T2	Body_Part 27 33	CADERA
+T3	Abbreviation 68 71	APS
+T4	Diagnostic_Procedure 109 121	Rx de pelvis
+T5	Laboratory_or_Test_Result 122 130	alterada
+R1	Has Arg1:T4 Arg2:T5	
+T6	Diagnostic_Procedure 132 141	RX PELVIS
+T8	Disease 410 452	Luxacion congenita de la cadera, bilateral
+T9	Abbreviation 109 111	Rx
+T10	Abbreviation 132 134	RX
+T7	Laboratory_or_Test_Result 206 231	retraso en la osificacion
+R2	Has Arg1:T6 Arg2:T7	
+T11	Disease 289 313	displasia del desarrollo
+T12	Body_Part 323 330	caderas
+T13	Laboratory_or_Test_Result 289 313	displasia del desarrollo
+R3	Has Arg1:T6 Arg2:T13	
+T14	Body_Part 435 441	cadera

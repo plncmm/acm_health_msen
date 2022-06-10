@@ -1,0 +1,7 @@
+T1	Disease 2 10	PULPITIS
+T2	Abbreviation 34 37	APS
+T3	Sign_or_Symptom 58 63	dolor
+T4	Disease 94 142	caries dentinaria profunda con compromiso pulpar
+T5	Body_Part 144 150	diente
+T6	Therapeutic_Procedure 151 160	trepanado
+T7	Disease 161 169	Pulpitis

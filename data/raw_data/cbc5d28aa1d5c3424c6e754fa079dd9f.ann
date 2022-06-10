@@ -1,0 +1,10 @@
+T1	Abbreviation 41 44	APS
+T2	Abbreviation 86 89	HTA
+T3	Abbreviation 217 219	IC
+T4	Disease 2 17	HERNIA INGUINAL
+T5	Disease 86 89	HTA
+T6	Sign_or_Symptom 117 173	protrusion a nivel inguinal que no se reduce manualmente
+T7	Sign_or_Symptom 188 193	dolor
+A1	Negated T7
+T8	Sign_or_Symptom 197 206	molestias
+A2	Negated T8

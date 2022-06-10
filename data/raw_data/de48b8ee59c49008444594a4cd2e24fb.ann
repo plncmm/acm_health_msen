@@ -1,0 +1,6 @@
+T1	Abbreviation 0 4	PZAS
+T2	Body_Part 0 14	PZAS 1.1 Y 1.2
+T3	Clinical_Finding 15 24	TREPANADA
+T4	Sign_or_Symptom 42 62	CAMBIO DE COLORACION
+T5	Sign_or_Symptom 63 101	AFECTA LA ESTETICA DEL SECTOR ANTERIOR
+T6	Abbreviation 108 112	PCTE

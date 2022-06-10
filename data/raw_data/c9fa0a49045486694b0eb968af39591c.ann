@@ -1,0 +1,27 @@
+T1	Abbreviation 15 18	HTA
+T2	Abbreviation 51 53	HB
+T3	Abbreviation 57 58	g
+T4	Abbreviation 59 60	l
+T5	Abbreviation 67 68	v
+T6	Abbreviation 69 72	cal
+T7	Abbreviation 78 80	CH
+T8	Abbreviation 81 84	cal
+T9	Abbreviation 92 96	Hcal
+T10	Abbreviation 101 104	VHS
+T11	Abbreviation 109 111	mn
+T12	Abbreviation 113 114	h
+T13	Disease 15 18	HTA
+T14	Disease 42 48	ANEMIA
+T15	Laboratory_Procedure 22 28	EXAMEN
+T16	Laboratory_or_Test_Result 42 48	ANEMIA
+R1	Has Arg1:T15 Arg2:T16	
+T17	Laboratory_Procedure 51 53	HB
+T18	Laboratory_Procedure 69 72	cal
+T19	Laboratory_Procedure 78 80	CH
+T20	Laboratory_Procedure 101 104	VHS
+T21	Laboratory_Procedure 116 133	hemorragia oculta
+T22	Laboratory_or_Test_Result 134 142	negativa
+R2	Has Arg1:T21 Arg2:T22	
+T23	Laboratory_Procedure 144 159	funcional renal
+T24	Laboratory_or_Test_Result 160 166	normal
+R3	Has Arg1:T23 Arg2:T24	

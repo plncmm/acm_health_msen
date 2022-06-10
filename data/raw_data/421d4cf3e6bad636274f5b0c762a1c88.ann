@@ -1,0 +1,7 @@
+T1	Laboratory_or_Test_Result 0 24	hernia hiatal incipiente
+T2	Laboratory_or_Test_Result 25 43	duodenitis nodular
+T3	Laboratory_or_Test_Result 61 87	lesion elevada subangualar
+T4	Diagnostic_Procedure 92 102	endoscopia
+R1	Has Arg1:T4 Arg2:T3	
+R2	Has Arg1:T4 Arg2:T2	
+R3	Has Arg1:T4 Arg2:T1	

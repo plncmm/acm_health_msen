@@ -1,0 +1,17 @@
+T1	Clinical_Finding 29 70	inmunodeficiencia secundaria a retrovirus
+T2	Disease 29 46	inmunodeficiencia
+T4	Sign_or_Symptom 178 187	hipomania
+A1	Negated T4
+T5	Disease 191 212	consumo de sustancias
+A2	Negated T5
+T8	Disease 292 326	TRASTORNO DEPRESIVO MAYOR MODERADO
+T3	Sign_or_Symptom 86 96	ánimo bajo
+T10	Sign_or_Symptom 98 122	insomnio de conciliación
+T11	Sign_or_Symptom 124 133	anhedonia
+T12	Sign_or_Symptom 135 141	fatiga
+T13	Sign_or_Symptom 144 172	ideación suicida persistente
+T6	Medication 230 240	sertralina
+T7	Medication 263 273	clonazepam
+T9	Sign_or_Symptom 331 367	IDEACION CONGRUENTE CON ESTADO ANIMO
+T14	Abbreviation 276 278	mg
+T15	Abbreviation 245 247	mg

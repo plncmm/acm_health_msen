@@ -1,0 +1,22 @@
+T1	Abbreviation 43 45	CA
+T2	Abbreviation 59 64	ANTEC
+T3	Abbreviation 134 139	ANTEC
+T4	Family_Member 65 70	PADRE
+T5	Family_Member 140 147	HERMANO
+T6	Abbreviation 80 82	CA
+T7	Abbreviation 157 159	CA
+T8	Body_Part 160 174	VIA ACNEA ALTA
+T9	Abbreviation 96 101	ANTEC
+T10	Family_Member 102 107	MADRE
+T11	Abbreviation 117 119	CA
+T12	Abbreviation 115 116	X
+T13	Abbreviation 78 79	X
+T14	Abbreviation 155 156	X
+T15	Sign_or_Symptom 3 18	DOLOR ABDOMINAL
+T16	Disease 43 54	CA GASTRICO
+T17	Disease 80 91	CA GASTRICO
+T18	Disease 117 129	CA VESICULAR
+T19	Disease 157 174	CA VIA ACNEA ALTA
+R1	Has Arg1:T4 Arg2:T17	
+R2	Has Arg1:T5 Arg2:T19	
+R3	Has Arg1:T10 Arg2:T18	

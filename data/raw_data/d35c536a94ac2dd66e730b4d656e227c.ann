@@ -1,0 +1,5 @@
+T1	Disease 0 4	D698
+T2	Disease 5 48	OTRAS AFECCIONES HEMORRÁGICAS ESPECIFICADAS
+T4	Abbreviation 49 52	ANT
+#1	AnnotatorNotes T4	antecedentes
+T3	Laboratory_or_Test_Result 56 78	DISFUNCIÓN PLAQUETARIA

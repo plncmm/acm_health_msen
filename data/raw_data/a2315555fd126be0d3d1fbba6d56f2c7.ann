@@ -1,0 +1,10 @@
+T1	Disease 2 35	OTROS TRASTORNOS DE LA REFRACCIÓN
+T2	Sign_or_Symptom 164 206	DISMINUCION DE LA AGUDEZA VISUAL BILATERAL
+T3	Sign_or_Symptom 208 217	FOTOFOBIA
+T4	Sign_or_Symptom 219 227	FOTOPSIA
+T5	Abbreviation 59 62	APS
+#1	AnnotatorNotes T5	atención primaria de salud
+T6	Abbreviation 112 115	+/-
+#2	AnnotatorNotes T6	más o menos
+T7	Clinical_Finding 268 274	LENTES
+A1	Negated T7

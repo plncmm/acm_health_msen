@@ -1,0 +1,8 @@
+T1	Abbreviation 0 3	DM2
+T2	Abbreviation 39 42	HTA
+T3	Abbreviation 43 46	ENF
+T5	Disease 39 42	HTA
+T6	Disease 43 61	ENF. RENAL CRONICA
+T7	Disease 62 71	EPILEPSIA
+T8	Disease 82 105	TRANSTORNO PERSONALIDAD
+T4	Disease 0 3	DM2

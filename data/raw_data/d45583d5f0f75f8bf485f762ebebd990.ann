@@ -1,0 +1,10 @@
+T1	Abbreviation 0 3	dte
+T2	Body_Part 0 6	dte 26
+T3	Body_Part 11 13	LP
+T4	Abbreviation 11 13	LP
+T5	Laboratory_or_Test_Result 0 51	dte 26 con LP engrosado y lesiones pararradiculares
+T6	Sign_or_Symptom 59 89	vitalidad positiva y aumentada
+T7	Abbreviation 106 110	pcte
+T8	Abbreviation 127 130	qmt
+T9	Therapeutic_Procedure 127 130	qmt
+A1	Pending T9

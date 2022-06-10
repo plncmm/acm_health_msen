@@ -1,0 +1,14 @@
+T1	Abbreviation 195 198	HTA
+T2	Medication 200 208	losartan
+T3	Abbreviation 211 213	mg
+T4	Abbreviation 219 222	ASA
+T5	Abbreviation 246 248	mg
+T6	Medication 230 242	gemfibrozilo
+T7	Medication 219 222	ASA
+T8	Abbreviation 254 257	FUR
+T9	Medication 254 257	FUR
+T10	Abbreviation 260 262	MG
+T11	Disease 2 48	HIPOACUSIA CONDUCTIVA, SIN OTRA ESPECIFICACIÓN
+T12	Disease 67 96	HIPOACUSIA CONDUCTIVA DERECHA
+T13	Clinical_Finding 155 163	audifono
+T14	Disease 195 198	HTA

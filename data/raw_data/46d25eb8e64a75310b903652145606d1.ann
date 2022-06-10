@@ -1,0 +1,9 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Abbreviation 44 47	APS
+T3	Disease 58 76	desdentado parcial
+T4	Abbreviation 85 88	PPR
+T5	Sign_or_Symptom 85 154	PPR de base acrílica, ha perdido remanentes, entre ellos, los pilares
+T6	Therapeutic_Procedure 173 181	prótesis
+A1	Pending T6
+T7	Disease 182 258	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T8	Body_Part 220 227	dientes

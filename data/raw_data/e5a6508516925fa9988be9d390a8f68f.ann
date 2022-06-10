@@ -1,0 +1,12 @@
+T1	Disease 2 37	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T2	Abbreviation 61 64	APS
+T3	Clinical_Finding 79 102	antecedentes sistémicos
+A1	Negated T3
+T4	Clinical_Finding 108 116	alergias
+A2	Negated T4
+T5	Sign_or_Symptom 127 162	apiñamiento dentario anteroinferior
+T6	Body_Part 164 173	pieza 2.3
+T7	Sign_or_Symptom 164 201	pieza 2.3 erupcionando por vestibular
+T8	Sign_or_Symptom 203 227	sin espacio en la arcada
+T9	Clinical_Finding 229 262	clase I molar derecha e izquierda
+T10	Sign_or_Symptom 264 292	desviación de la linea media

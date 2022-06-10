@@ -1,0 +1,86 @@
+T1	Disease 2 27	TRASTORNO DE SOMATIZACIÓN
+T2	Disease 32 56	REACCIÓN AL ESTRÉS GRAVE
+T3	Disease 59 83	TRASTORNOS DE ADAPTACIÓN
+T4	Disease 88 128	TRASTORNO DE ANSIEDAD SOCIAL EN LA NIÑEZ
+T5	Abbreviation 139 144	antec
+T6	Abbreviation 157 161	RAMS
+T7	Clinical_Finding 139 153	antec. médicos
+A1	Negated T7
+T8	Clinical_Finding 157 161	RAMS
+A2	Negated T8
+T9	Sign_or_Symptom 174 197	caida de pelo ocasional
+T10	Abbreviation 208 211	exs
+T11	Abbreviation 277 282	Hemog
+T13	Abbreviation 292 293	P
+T16	Abbreviation 313 314	P
+T17	Abbreviation 334 339	Creat
+T19	Abbreviation 347 351	Glic
+T22	Abbreviation 373 376	t4l
+T23	Abbreviation 357 360	TSH
+T24	Abbreviation 386 388	Ex
+T25	Disease 410 418	alopecia
+T27	Clinical_Finding 545 564	Regular rendimiento
+T28	Clinical_Finding 566 587	vive con ambos padres
+T29	Family_Member 581 587	padres
+T30	Family_Member 589 594	madre
+T31	Family_Member 605 610	padre
+T33	Family_Member 681 687	padres
+T34	Clinical_Finding 653 671	problemas de salud
+R1	Has Arg1:T33 Arg2:T34	
+T35	Disease 715 728	ACV secuelado
+T36	Family_Member 732 737	madre
+R2	Has Arg1:T36 Arg2:T35	
+T37	Family_Member 749 754	padre
+T38	Disease 759 787	lesión neoplásica de columna
+T39	Body_Part 780 787	columna
+R3	Has Arg1:T37 Arg2:T38	
+T40	Family_Member 791 796	Madre
+T42	Medication 952 965	METILFENIDATO
+T44	Family_Member 1110 1115	madre
+T45	Family_Member 1192 1197	padre
+T48	Family_Member 1390 1395	padre
+T49	Family_Member 1317 1327	familiares
+T50	Family_Member 1565 1573	familiar
+T51	Clinical_Finding 1645 1701	invisibilización de la identificación de género del niño
+T52	Disease 1728 1743	tr. de Atención
+T53	Abbreviation 1728 1730	tr
+T54	Abbreviation 1756 1758	Tr
+T55	Abbreviation 1769 1770	+
+T56	Abbreviation 1780 1782	Tr
+T57	Disease 1780 1805	Tr. de identida de género
+T58	Disease 1756 1768	Tr. reactivo
+T59	Family_Member 250 255	madre
+T60	Body_Part 183 187	pelo
+T61	Laboratory_Procedure 208 225	exs. de screening
+T62	Laboratory_Procedure 277 282	Hemog
+T63	Laboratory_or_Test_Result 284 290	normal
+R4	Has Arg1:T62 Arg2:T63	
+T64	Laboratory_Procedure 292 303	P. lipídico
+T65	Laboratory_or_Test_Result 305 311	normal
+R5	Has Arg1:T64 Arg2:T65	
+T66	Laboratory_Procedure 313 324	P. hepático
+T67	Laboratory_or_Test_Result 326 332	normal
+R6	Has Arg1:T66 Arg2:T67	
+T68	Laboratory_Procedure 334 339	Creat
+T69	Laboratory_Procedure 347 351	Glic
+T70	Laboratory_Procedure 357 360	TSH
+T71	Laboratory_Procedure 373 376	t4l
+T26	Sign_or_Symptom 432 515	zona menor con disminución de densidad capilar, impresiona Pseudo alopecia nerviosa
+T32	Sign_or_Symptom 805 857	cambio de conducta y personalidad, se tornó agresivo
+T12	Diagnostic_Procedure 1006 1029	Evaluado por Psicología
+T14	Clinical_Finding 1329 1340	sin límites
+T20	Diagnostic_Procedure 1861 1895	Evaluación por Psiquiatra infantil
+#1	AnnotatorNotes T20	Discutiblesi quieres lo borro pero yo me inclino por esta
+T21	Clinical_Finding 534 542	Buillyng
+A4	Negated T25
+T41	Family_Member 1233 1238	madre
+T43	Diagnostic_Procedure 1508 1521	test gráficos
+T15	Laboratory_or_Test_Result 1523 1538	baja autoestima
+T46	Laboratory_or_Test_Result 1540 1573	escasas redes de soporte familiar
+T47	Laboratory_or_Test_Result 1575 1643	despreocupación por temas escolares y de controles de salud del niño
+R7	Has Arg1:T43 Arg2:T15	
+R8	Has Arg1:T43 Arg2:T46	
+R9	Has Arg1:T43 Arg2:T47	
+A3	Negated T52
+T18	Diagnostic_Procedure 979 1003	evaluado por Psiquiatría
+A5	Negated T18

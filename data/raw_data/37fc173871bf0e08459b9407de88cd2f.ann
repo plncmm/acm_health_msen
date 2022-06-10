@@ -1,0 +1,9 @@
+T1	Body_Part 76 84	Pza. 2.5
+T2	Abbreviation 76 79	Pza
+T3	Body_Part 94 102	pza. 3.5
+T4	Abbreviation 94 97	pza
+T5	Clinical_Finding 9 27	clase I esqueletal
+T6	Sign_or_Symptom 28 74	apiñamiento moderado superior y severoinferior
+T7	Sign_or_Symptom 76 92	Pza. 2.5 cruzada
+T8	Laboratory_or_Test_Result 94 132	pza. 3.5 retenida por falta de espacio
+T9	Sign_or_Symptom 151 176	overjet overbiteaumentado

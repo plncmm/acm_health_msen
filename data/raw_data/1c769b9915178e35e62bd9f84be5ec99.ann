@@ -1,0 +1,8 @@
+T1	Body_Part 0 6	Pza 48
+T2	Body_Part 52 58	Pza 38
+T3	Abbreviation 0 3	Pza
+T4	Abbreviation 52 55	Pza
+T5	Sign_or_Symptom 0 51	Pza 48 pericoronaritis a repetición semierupcionada
+T6	Disease 7 22	pericoronaritis
+T8	Laboratory_or_Test_Result 91 129	Radiografícamente impactada horizontal
+T9	Clinical_Finding 52 88	Pza 38 semierupcionada, asintomática

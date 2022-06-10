@@ -1,0 +1,8 @@
+T1	Abbreviation 0 1	m
+T2	Abbreviation 38 41	fur
+T3	Abbreviation 56 61	aprox
+T4	Clinical_Finding 0 2	m4
+T5	Clinical_Finding 7 28	antecedentes mórbidos
+A1	Negated T5
+T6	Sign_or_Symptom 69 97	incontinencia urinaria mixta
+T7	Sign_or_Symptom 177 213	ante cualquier esfuerzo pierde orina

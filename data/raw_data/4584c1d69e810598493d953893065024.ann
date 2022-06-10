@@ -1,0 +1,13 @@
+T1	Abbreviation 33 36	APS
+T2	Abbreviation 38 42	pcte
+T3	Abbreviation 116 119	app
+T4	Abbreviation 151 154	p/a
+T5	Body_Part 79 85	cabeza
+T6	Abbreviation 102 103	>
+T7	Disease 2 9	CEFALEA
+T8	Sign_or_Symptom 56 85	larga data de dolor de cabeza
+T9	Clinical_Finding 124 131	alergia
+A1	Negated T9
+T10	Clinical_Finding 116 119	app
+A2	Negated T10
+T11	Disease 172 179	Cefalea

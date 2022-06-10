@@ -1,0 +1,10 @@
+T1	Abbreviation 54 57	APS
+T2	Body_Part 137 153	piezas dentarias
+T3	Body_Part 179 183	boca
+T4	Disease 2 30	PERIODONTITIS CRÓNICA SEVERA
+T5	Disease 72 105	periodontitis severa generalizada
+T6	Therapeutic_Procedure 228 263	protesis total maxilar y mandibular
+A1	Pending T6
+T7	Disease 265 286	Periodontitis cronica
+T8	Therapeutic_Procedure 205 214	exodoncia
+A2	Pending T8

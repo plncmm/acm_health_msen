@@ -1,0 +1,6 @@
+T1	Abbreviation 67 70	APS
+T2	Body_Part 72 78	ovario
+T3	Disease 72 91	ovario poliquistico
+T4	Sign_or_Symptom 92 106	hipermenorreas
+T5	Sign_or_Symptom 107 119	dismenorreas
+T6	Disease 120 130	obesidad  

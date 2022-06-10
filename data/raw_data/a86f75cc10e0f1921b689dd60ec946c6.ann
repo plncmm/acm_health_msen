@@ -1,0 +1,6 @@
+T1	Disease 13 24	irc etapa v
+T2	Disease 69 76	infarto
+T3	Disease 87 103	Cardiopatia leve
+T4	Abbreviation 13 16	irc
+#1	AnnotatorNotes T4	insuficiencia renal crónicaq
+T5	Therapeutic_Procedure 44 61	peritoneodialisis

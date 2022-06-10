@@ -1,0 +1,8 @@
+T1	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T2	Abbreviation 54 57	APS
+T3	Sign_or_Symptom 88 104	multiples caries
+T4	Disease 98 104	caries
+T5	Body_Part 106 121	pieza 8.5 y 7.5
+T6	Sign_or_Symptom 106 149	pieza 8.5 y 7.5 con caries oclusal extensas
+T7	Disease 126 132	caries
+T8	Sign_or_Symptom 155 169	dolor nocturno

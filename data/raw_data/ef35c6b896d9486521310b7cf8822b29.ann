@@ -1,0 +1,11 @@
+T1	Disease 2 10	PULPITIS
+T2	Abbreviation 34 37	APS
+T3	Clinical_Finding 52 75	antecedentes sistémicos
+A1	Negated T3
+T4	Clinical_Finding 81 89	alergias
+A2	Negated T4
+T5	Therapeutic_Procedure 111 136	tratamiento de ortodoncia
+T6	Sign_or_Symptom 138 155	mala higiene oral
+T7	Disease 166 187	pulpitis irreversible
+T8	Body_Part 191 200	pieza 2.2
+T9	Therapeutic_Procedure 212 226	biopulpectomía

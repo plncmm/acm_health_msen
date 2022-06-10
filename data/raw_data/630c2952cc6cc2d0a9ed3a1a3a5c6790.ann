@@ -1,0 +1,8 @@
+T1	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T2	Body_Part 31 37	DIENTE
+T3	Abbreviation 62 65	APS
+T4	Clinical_Finding 110 139	terceros molares erupcionados
+A1	Negated T4
+T5	Body_Part 181 197	terceros molares
+T6	Laboratory_or_Test_Result 174 252	cuatro terceros molares en intraoseos los inferiores se encuentran mesializado
+T7	Body_Part 110 126	terceros molares

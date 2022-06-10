@@ -1,0 +1,7 @@
+T1	Disease 2 41	GINGIVITIS Y ENFERMEDADES PERIODONTALES
+T2	Abbreviation 65 68	APS
+T3	Therapeutic_Procedure 124 147	tratamiento periodontal
+A1	Pending T3
+T4	Therapeutic_Procedure 173 190	plano de oclusion
+T5	Sign_or_Symptom 173 235	plano de oclusion de hace 6 años y que ahora ya no ajusta bien
+T6	Disease 236 275	Gingivitis y enfermedades periodontales

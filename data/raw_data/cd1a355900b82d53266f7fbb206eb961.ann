@@ -1,0 +1,40 @@
+T1	Disease 2 55	TRASTORNOS DE DISCO LUMBAR Y OTROS, CON RADICULOPATÍA
+T2	Disease 107 110	HNP
+T3	Disease 376 429	Trastornos de disco lumbar y otros, con radiculopatia
+T4	Abbreviation 79 82	APS
+#1	AnnotatorNotes T4	atención primaria de la salud
+T5	Abbreviation 107 110	HNP
+#2	AnnotatorNotes T5	hernia del núcleo pulposo
+T6	Abbreviation 119 120	x
+#3	AnnotatorNotes T6	por
+T7	Abbreviation 121 123	Dr
+#4	AnnotatorNotes T7	doctor
+T8	Abbreviation 341 344	RNM
+#5	AnnotatorNotes T8	resonancia nuclear magnética
+T9	Abbreviation 242 245	RNM
+#6	AnnotatorNotes T9	resonancia nuclear magnética
+T10	Abbreviation 165 168	RNM
+#7	AnnotatorNotes T10	resonancia nuclear magnética
+T11	Abbreviation 180 183	HNP
+#8	AnnotatorNotes T11	hernia del núcleo pulposo
+T12	Abbreviation 249 252	OCT
+#9	AnnotatorNotes T12	octubre
+T14	Abbreviation 297 298	x
+#11	AnnotatorNotes T14	por
+T15	Abbreviation 299 301	Dr
+#12	AnnotatorNotes T15	doctor
+T16	Abbreviation 131 134	TMT
+T13	Abbreviation 97 102	antec
+#10	AnnotatorNotes T13	antecedente
+#13	AnnotatorNotes T16	traumatólogo
+T17	Body_Part 16 28	DISCO LUMBAR
+T18	Body_Part 187 191	L4-5
+T19	Body_Part 194 199	L5-S1
+T20	Body_Part 390 402	disco lumbar
+T21	Diagnostic_Procedure 165 168	RNM
+T22	Laboratory_or_Test_Result 180 199	HNP en L4-5 y L5-S1
+R1	Has Arg1:T21 Arg2:T22	
+T23	Diagnostic_Procedure 242 245	RNM
+R2	Has Arg1:T23 Arg2:T22	
+T24	Diagnostic_Procedure 341 344	RNM
+A1	Pending T24

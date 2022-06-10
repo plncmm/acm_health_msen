@@ -1,0 +1,6 @@
+T1	Clinical_Finding 2 17	Denticion mixta
+T2	Sign_or_Symptom 56 64	clase II
+T3	Sign_or_Symptom 65 77	malaoclusion
+T4	Sign_or_Symptom 79 104	falta de espacios caninos
+T5	Body_Part 2 11	Denticion
+T6	Body_Part 97 104	caninos

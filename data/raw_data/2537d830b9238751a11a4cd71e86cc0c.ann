@@ -1,0 +1,7 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 97 106	pieza 1,1
+T3	Disease 2 37	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T4	Sign_or_Symptom 85 106	giroversion pieza 1,1
+T5	Sign_or_Symptom 108 141	linea media desviada a la derecha
+T6	Sign_or_Symptom 144 161	overjet aumentado
+T7	Disease 162 197	Maloclusion de tipo no especificado

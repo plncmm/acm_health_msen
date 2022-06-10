@@ -1,0 +1,16 @@
+T1	Disease 2 69	MALFORMACIONES CONGÉNITAS DE LAS CÁMARAS CARDIACAS Y SUS CONEXIONES
+T2	Body_Part 35 52	CÁMARAS CARDIACAS
+T3	Abbreviation 93 96	APS
+T5	Abbreviation 169 172	hto
+T6	Abbreviation 179 181	Hb
+T9	Disease 200 223	Soplo protomesositolico
+T10	Abbreviation 254 255	i
+T8	Body_Part 228 255	2-3er espacio intercostal i
+T11	Abbreviation 230 233	3er
+T4	Laboratory_Procedure 148 156	exámenes
+T12	Laboratory_Procedure 179 181	Hb
+T13	Laboratory_Procedure 169 172	hto
+T14	Laboratory_or_Test_Result 157 166	alterados
+R1	Has Arg1:T13 Arg2:T14	
+R2	Has Arg1:T12 Arg2:T14	
+T7	Sign_or_Symptom 200 255	Soplo protomesositolico 5/6 2-3er espacio intercostal i

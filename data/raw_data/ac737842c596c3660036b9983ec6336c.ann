@@ -1,0 +1,11 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 132 135	EDA
+T3	Disease 2 50	OTROS DOLORES ABDOMINALES Y LOS NO ESPECIFICADOS
+T4	Sign_or_Symptom 92 115	dolor abdominal cronico
+T5	Diagnostic_Procedure 132 135	EDA
+T6	Laboratory_or_Test_Result 156 177	incompetencia cardial
+R1	Has Arg1:T5 Arg2:T6	
+T7	Diagnostic_Procedure 179 202	Ecotomografía abdomianl
+T8	Laboratory_or_Test_Result 203 209	normal
+R2	Has Arg1:T7 Arg2:T8	
+T9	Disease 307 355	Otros dolores abdominales y los no especificados

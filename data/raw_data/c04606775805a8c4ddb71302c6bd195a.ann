@@ -1,0 +1,14 @@
+T1	Body_Part 65 70	ÚTERO
+T2	Abbreviation 94 97	APS
+T3	Abbreviation 213 216	Obs
+T4	Disease 2 47	OTROS QUISTES OVÁRICOS Y LOS NO ESPECIFICADOS
+T5	Disease 51 70	LEIOMIOMA DEL ÚTERO
+T6	Disease 99 127	Metrorragia post menopausica
+T7	Diagnostic_Procedure 164 186	ecografia ginecologica
+T8	Laboratory_or_Test_Result 218 252	quiste ovarico pequeño a izquierda
+T9	Laboratory_or_Test_Result 254 277	mioma submucoso pequeño
+T10	Disease 279 324	Otros quistes ovaricos y los no especificados
+T11	Disease 254 269	mioma submucoso
+T12	Disease 218 232	quiste ovarico
+R1	Has Arg1:T7 Arg2:T9	
+R2	Has Arg1:T7 Arg2:T8	

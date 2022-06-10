@@ -1,0 +1,33 @@
+T1	Abbreviation 90 93	APS
+T2	Abbreviation 140 142	RN
+T3	Abbreviation 146 149	SEM
+T4	Family_Member 231 236	MADRE
+T5	Abbreviation 252 255	ARO
+T6	Abbreviation 256 257	X
+T7	Abbreviation 258 262	RCIU
+T8	Abbreviation 264 267	ANT
+T9	Family_Member 268 273	MADRE
+T10	Abbreviation 291 293	OP
+T11	Abbreviation 363 366	DSM
+T12	Body_Part 507 512	MANOS
+T13	Disease 2 66	RETRASO MENTAL, NO ESPECIFICADORETRASO DEL DESARROLLO PSICOMOTOR
+T14	Disease 258 262	RCIU
+T15	Clinical_Finding 140 149	RN 39 SEM
+T16	Therapeutic_Procedure 162 174	PARTO NORMAL
+T17	Disease 275 290	ANO IMPERFORADO
+T18	Therapeutic_Procedure 275 293	ANO IMPERFORADO OP
+T19	Disease 351 366	RETRASO DEL DSM
+T21	Sign_or_Symptom 446 480	TOMA CUBIERTOS DE FORMA VOLUNTARIA
+A1	Negated T21
+R1	Has Arg1:T9 Arg2:T17	
+T22	Sign_or_Symptom 501 527	JUNTA MANOS EN LINEA MEDIA
+A2	Negated T22
+T23	Sign_or_Symptom 562 576	ENTREGA OBJETO
+A3	Negated T23
+T24	Sign_or_Symptom 577 595	DA PASOS CON AYUDA
+T25	Disease 640 671	Retraso mental, no especificado
+T26	Sign_or_Symptom 531 548	CONTRUYE PALABRAS
+A4	Negated T26
+T20	Sign_or_Symptom 405 410	GATEO
+T27	Sign_or_Symptom 423 442	SE PONE DE PIE SOLA
+A5	Negated T27

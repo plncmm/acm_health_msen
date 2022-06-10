@@ -1,0 +1,13 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Abbreviation 44 47	APS
+T3	Abbreviation 78 81	HTA
+T4	Abbreviation 83 85	DM
+T5	Clinical_Finding 87 106	portador marcapasos
+T6	Disease 78 81	HTA
+T7	Disease 83 85	DM
+T8	Disease 108 147	Desdentado parcial maxilar y mandibular
+T9	Abbreviation 162 167	rehab
+T11	Disease 199 275	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T12	Body_Part 237 244	dientes
+T10	Therapeutic_Procedure 162 197	rehab. en base a prótesis parciales
+A1	Pending T10

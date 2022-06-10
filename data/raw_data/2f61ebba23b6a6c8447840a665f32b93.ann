@@ -1,0 +1,11 @@
+T1	Abbreviation 62 65	APS
+T2	Abbreviation 223 226	GOT
+T3	Abbreviation 229 232	GPT
+T4	Abbreviation 300 304	atte
+T5	Abbreviation 286 289	eco
+T6	Laboratory_or_Test_Result 14 38	transaminasas aumentadas
+T7	Disease 96 110	Hipotiroidismo
+T8	Laboratory_Procedure 178 193	perfil hepatico
+T9	Laboratory_or_Test_Result 213 232	aumentado GOT y GPT
+R1	Has Arg1:T8 Arg2:T9	
+T10	Diagnostic_Procedure 286 298	ecoabdominal

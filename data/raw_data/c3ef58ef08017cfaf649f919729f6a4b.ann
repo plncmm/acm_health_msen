@@ -1,0 +1,14 @@
+T1	Abbreviation 36 40	PCTE
+T2	Body_Part 56 73	ARTERIA PULLMONAR
+T3	Abbreviation 77 80	TAC
+T4	Body_Part 84 89	TÓRAX
+T5	Abbreviation 223 226	HTP
+T6	Disease 0 4	I270
+T7	Disease 5 35	HIPERTENSION PULMÓNAR PRIMARIA
+T8	Laboratory_or_Test_Result 45 73	AUMENTO DE ARTERIA PULLMONAR
+T9	Diagnostic_Procedure 77 89	TAC DE TÓRAX
+R1	Has Arg1:T9 Arg2:T8	
+T10	Disease 106 124	NÓDULOS PULMONARES
+T11	Diagnostic_Procedure 187 201	ECOCARDIOGRAMA
+A1	Pending T11
+T12	Disease 223 226	HTP

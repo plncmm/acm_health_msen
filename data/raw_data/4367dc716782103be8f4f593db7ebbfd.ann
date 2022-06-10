@@ -1,0 +1,8 @@
+T1	Disease 2 18	DESDENTADO TOTAL
+T2	Abbreviation 43 46	APS
+T3	Sign_or_Symptom 67 101	protesis total superior fracturada
+T4	Abbreviation 113 116	app
+T5	Therapeutic_Procedure 173 194	tratamiento protesico
+A1	Pending T5
+T6	Disease 196 272	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T7	Body_Part 234 241	dientes

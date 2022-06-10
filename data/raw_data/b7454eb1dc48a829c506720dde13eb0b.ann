@@ -1,0 +1,10 @@
+T1	Disease 2 25	DISOSTOSIS MAXILOFACIAL
+T2	Abbreviation 49 52	APS
+T3	Body_Part 54 71	DIENTES 3.8 Y 4.8
+T4	Laboratory_or_Test_Result 75 87	ERUPCIONADOS
+A1	Negated T4
+T5	Laboratory_or_Test_Result 90 100	IMPACTADOS
+T6	Disease 90 100	IMPACTADOS
+T7	Therapeutic_Procedure 127 136	EXODONCIA
+A2	Pending T7
+T8	Disease 137 160	Disostosis maxilofacial

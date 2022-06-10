@@ -1,0 +1,8 @@
+T1	Abbreviation 124 126	RM
+T2	Body_Part 139 145	PELVIS
+T3	Disease 0 11	GASTROPATIA
+T4	Sign_or_Symptom 84 93	DISPEPSIA
+T5	Sign_or_Symptom 96 106	METEORISMO
+T6	Diagnostic_Procedure 124 136	RM ABDOMINAL
+T7	Laboratory_or_Test_Result 161 180	POLIPOS VESICULARES
+R1	Has Arg1:T6 Arg2:T7	

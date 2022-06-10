@@ -1,0 +1,12 @@
+T1	Body_Part 26 30	MMII
+T2	Abbreviation 26 30	MMII
+T3	Abbreviation 45 47	AP
+T4	Body_Part 65 69	MMII
+T5	Abbreviation 65 69	MMII
+T6	Disease 0 7	VARICES
+T7	Disease 9 13	I839
+T8	Sign_or_Symptom 15 30	VARICES DE MMII
+T9	Therapeutic_Procedure 30 37	OPERADA
+T10	Therapeutic_Procedure 49 64	CIRUGIA VARICES
+T11	Disease 85 92	VARICES
+T12	Disease 93 103	VARICOCELE

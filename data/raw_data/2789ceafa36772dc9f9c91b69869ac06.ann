@@ -1,0 +1,5 @@
+T1	Body_Part 175 182	molares
+T2	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T3	Therapeutic_Procedure 155 164	exodoncia
+T4	Sign_or_Symptom 57 104	apiñamiento severo anterior superior e inferior
+T5	Sign_or_Symptom 106 145	pérdida de espacio sectores posteriores

@@ -1,0 +1,6 @@
+T1	Sign_or_Symptom 0 12	Baja de peso
+T2	Sign_or_Symptom 53 69	Afonia creciente
+T3	Disease 112 122	Hipoacusia
+T4	Clinical_Finding 139 148	audifonos
+A1	Negated T4
+T5	Sign_or_Symptom 202 222	crecimiento mitotico

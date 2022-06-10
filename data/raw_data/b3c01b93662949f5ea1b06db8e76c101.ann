@@ -1,0 +1,18 @@
+T1	Abbreviation 98 101	APS
+T2	Abbreviation 106 107	a
+T3	Abbreviation 174 179	aprox
+T4	Body_Part 205 212	ortejos
+T5	Body_Part 222 226	pies
+T6	Abbreviation 484 485	<
+T7	Abbreviation 487 489	mm
+T8	Abbreviation 620 624	atte
+T9	Disease 2 26	PRURITO, NO ESPECIFICADO
+T10	Disease 30 74	MICOSIS SUPERFICIAL, SIN OTRA ESPECIFICACIÓN
+T11	Disease 126 151	intolerancia a la glucosa
+T12	Sign_or_Symptom 194 226	prurito en ortejos de ambos pies
+T13	Sign_or_Symptom 304 319	lesion micotica
+T14	Sign_or_Symptom 402 410	lesiones
+A1	Negated T14
+T15	Sign_or_Symptom 476 504	papulas <1 mm interdigitales
+T16	Laboratory_Procedure 518 536	micologico directo
+T17	Disease 626 670	Micosis superficial, sin otra especificacion

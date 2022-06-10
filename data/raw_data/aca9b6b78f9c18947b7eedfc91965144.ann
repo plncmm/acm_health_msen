@@ -1,0 +1,14 @@
+T1	Abbreviation 66 69	APS
+T2	Abbreviation 126 128	TB
+T3	Abbreviation 176 178	RX
+T4	Body_Part 182 186	TORX
+T5	Abbreviation 213 216	PPD
+T6	Abbreviation 233 235	MM
+T7	Disease 2 42	CONTACTO CON Y EXPOSICIÓN A TUBERCULOSIS
+T8	Clinical_Finding 71 144	PACIENTE CONTACTO NO INTRADOMICILIARIO DE PACIENTE CON TB PULMONAR ACTIVA
+T9	Disease 126 144	TB PULMONAR ACTIVA
+T10	Diagnostic_Procedure 176 186	RX DE TORX
+T11	Laboratory_or_Test_Result 202 208	NORMAL
+T12	Laboratory_Procedure 213 216	PPD
+T13	Disease 237 277	Contacto con y exposicion a tuberculosis
+R1	Has Arg1:T10 Arg2:T11	

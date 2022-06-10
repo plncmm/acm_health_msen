@@ -1,0 +1,13 @@
+T1	Abbreviation 18 21	dte
+T2	Body_Part 18 25	dte 2.6
+T3	Body_Part 101 107	corona
+T4	Abbreviation 133 134	+
+T5	Disease 2 17	RESTO RADICULAR
+T6	Disease 35 62	complicacion post-exodoncia
+T7	Therapeutic_Procedure 53 62	exodoncia
+T8	Therapeutic_Procedure 76 85	exodoncia
+T9	Disease 90 107	ractura la corona
+T10	Therapeutic_Procedure 119 132	odontoseccion
+T11	Therapeutic_Procedure 135 145	osteotomia
+T12	Therapeutic_Procedure 170 179	exodoncia
+A1	Negated T12

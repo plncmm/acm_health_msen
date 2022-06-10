@@ -1,0 +1,14 @@
+T1	Body_Part 45 59	CUELLO UTERINO
+T2	Abbreviation 83 86	APS
+T3	Abbreviation 88 89	G
+T4	Abbreviation 90 91	P
+T5	Abbreviation 92 93	A
+T6	Medication 107 115	Implanon
+T7	Abbreviation 258 261	PAP
+T8	Body_Part 306 320	cuello uterino
+T9	Disease 35 59	TUMOR DEL CUELLO UTERINO
+T10	Diagnostic_Procedure 2 59	EXAMEN DE PESQUISA ESPECIAL PARA TUMOR DEL CUELLO UTERINO
+T11	Disease 124 158	Incontinencia urinaria de esfuerzo
+T12	Diagnostic_Procedure 258 261	PAP
+T13	Diagnostic_Procedure 263 320	Examen de pesquisa especial para tumor del cuello uterino
+T14	Disease 296 320	tumor del cuello uterino

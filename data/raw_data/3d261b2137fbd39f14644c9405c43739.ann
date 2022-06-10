@@ -1,0 +1,25 @@
+T1	Body_Part 59 73	mano izquierda
+T2	Body_Part 79 83	codo
+T3	Body_Part 207 214	meñique
+T4	Body_Part 227 231	mano
+T5	Body_Part 238 242	codo
+T8	Body_Part 639 672	primera falange meñique izquierdo
+T9	Body_Part 550 560	corticales
+T10	Body_Part 11 18	MIEMBRO
+T11	Body_Part 298 322	tercio distal del cúbito
+T6	Body_Part 367 443	borde medial de la articulación interfalángica proximal de meñique izquierdo
+T7	Sign_or_Symptom 2 18	DOLOR EN MIEMBRO
+T12	Disease 50 83	golpe en mano izquierda y en codo
+T13	Sign_or_Symptom 93 113	impotencia funcional
+T14	Sign_or_Symptom 173 242	dolor ante el minimo contacto del meñique de la misma mano y del codo
+T15	Sign_or_Symptom 273 328	dolor a la palpación del tercio distal del cúbito. leve
+T16	Sign_or_Symptom 330 443	Más dolor aparece a la palpación del borde medial de la articulación interfalángica proximal de meñique izquierdo
+T17	Diagnostic_Procedure 446 457	Radiografía
+T18	Laboratory_or_Test_Result 524 541	rasgo de fractura
+R1	Has Arg1:T17 Arg2:T18	
+T19	Disease 533 541	fractura
+T20	Laboratory_or_Test_Result 550 566	corticales rotas
+A1	Negated T20
+R2	Has Arg1:T17 Arg2:T20	
+T21	Disease 593 601	fractura
+T22	Sign_or_Symptom 611 672	parcialmente consolidada de primera falange meñique izquierdo

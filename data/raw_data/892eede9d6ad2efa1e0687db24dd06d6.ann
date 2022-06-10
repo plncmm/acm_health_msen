@@ -1,0 +1,6 @@
+T1	Abbreviation 35 38	APS
+T2	Disease 2 11	PRESBICIA
+T3	Clinical_Finding 53 74	antecedentes mórbidos
+A1	Negated T3
+T4	Sign_or_Symptom 79 112	alteración para la visión cercana
+T5	Disease 156 165	Presbicia

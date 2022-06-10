@@ -1,0 +1,10 @@
+T1	Disease 0 35	anomalias de la posicion del diente
+T2	Body_Part 55 63	pieza 32
+T3	Body_Part 29 35	diente
+T4	Sign_or_Symptom 55 102	pieza 32 semirupcionada en posicion mesializada
+T5	Clinical_Finding 113 145	pericoronitis tratada localmente
+T6	Medication 157 160	atb
+T7	Abbreviation 157 160	atb
+T8	Therapeutic_Procedure 183 192	exodoncia
+A1	Pending T8
+T9	Body_Part 196 204	pieza 32

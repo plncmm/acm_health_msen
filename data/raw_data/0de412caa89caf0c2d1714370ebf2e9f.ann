@@ -1,0 +1,5 @@
+T1	Body_Part 0 8	pieza 19
+T2	Laboratory_or_Test_Result 0 119	pieza 19 cavidad oclusal extensa sobreproyectada en cámara pulpar, conductos finos, línea periodontal apical ensanchada
+T3	Body_Part 52 65	cámara pulpar
+T4	Disease 127 135	pulpitis
+T6	Sign_or_Symptom 120 161	dolor, pulpitis, percusión - frío - calor

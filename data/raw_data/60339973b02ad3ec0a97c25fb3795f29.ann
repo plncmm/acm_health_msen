@@ -1,0 +1,4 @@
+T1	Medication 90 100	analgesico
+T2	Sign_or_Symptom 13 27	dolor toraxico
+T3	Sign_or_Symptom 60 100	no responde a tratamiento con analgesico
+T4	Sign_or_Symptom 122 127	dolor

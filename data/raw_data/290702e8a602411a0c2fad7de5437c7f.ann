@@ -1,0 +1,88 @@
+T1	Abbreviation 102 105	APS
+T2	Abbreviation 116 119	HTA
+T3	Abbreviation 121 123	IC
+T4	Abbreviation 124 129	CF II
+T5	Abbreviation 154 157	ERC
+T6	Abbreviation 190 191	+
+T7	Abbreviation 218 221	IAM
+T8	Abbreviation 250 254	LVTX
+T9	Medication 250 254	LVTX
+T10	Abbreviation 259 262	mcg
+T11	Abbreviation 262 265	ATN
+T12	Medication 262 265	ATN
+T13	Medication 271 274	ATV
+T14	Abbreviation 271 274	ATV
+T15	Abbreviation 278 281	AAS
+T16	Medication 278 281	AAS
+T17	Medication 285 295	Amiodarona
+T18	Abbreviation 299 302	LST
+T19	Medication 299 302	LST
+T20	Abbreviation 306 310	HCTZ
+T21	Medication 306 310	HCTZ
+T22	Abbreviation 534 537	TSH
+T23	Abbreviation 565 570	CF II
+T24	Abbreviation 582 586	EEII
+T25	Abbreviation 586 588	Ex
+T26	Medication 710 718	LOSARTÁN
+T27	Abbreviation 362 367	Leuco
+T28	Abbreviation 345 350	normo
+T29	Abbreviation 352 357	normo
+T30	Abbreviation 331 334	exs
+T31	Abbreviation 335 337	Hb
+T32	Medication 316 326	Ranitidina
+T33	Abbreviation 377 381	Plaq
+T34	Abbreviation 390 392	CT
+T35	Abbreviation 400 403	HDL
+T36	Abbreviation 411 414	LDL
+T37	Abbreviation 422 424	TG
+T38	Abbreviation 429 432	RAC
+T39	Abbreviation 445 450	Creat
+T40	Abbreviation 459 462	VFG
+T41	Abbreviation 468 469	P
+T42	Abbreviation 487 490	ELP
+T43	Disease 2 34	ENFERMEDAD RENAL CRÓNICA ETAPA 4
+T44	Disease 38 78	PROTEINURIA PERSISTENTE, NO ESPECIFICADA
+T45	Disease 116 119	HTA
+T46	Disease 121 123	IC
+T47	Clinical_Finding 124 129	CF II
+T48	Clinical_Finding 142 152	marcapasos
+T49	Disease 154 165	ERC tapa IV
+T50	Disease 167 181	Hipotiroidismo
+T51	Disease 183 189	Chagas
+T52	Disease 192 205	Cardiomegalia
+T53	Disease 207 216	Alzheimer
+T54	Disease 218 229	IAM antiguo
+T55	Disease 231 249	Gastritis acrónica
+T56	Laboratory_Procedure 335 337	Hb
+T57	Laboratory_or_Test_Result 345 350	normo
+T58	Laboratory_or_Test_Result 352 357	normo
+R1	Has Arg1:T56 Arg2:T57	
+R2	Has Arg1:T56 Arg2:T58	
+T59	Laboratory_Procedure 362 367	Leuco
+T60	Laboratory_Procedure 377 381	Plaq
+T61	Laboratory_Procedure 390 392	CT
+T62	Laboratory_Procedure 400 403	HDL
+T63	Laboratory_Procedure 411 414	LDL
+T64	Laboratory_Procedure 422 424	TG
+T65	Laboratory_Procedure 429 432	RAC
+T66	Laboratory_Procedure 445 450	Creat
+T67	Laboratory_Procedure 459 462	VFG
+T68	Laboratory_Procedure 468 479	P. hepático
+T69	Laboratory_or_Test_Result 481 487	normal
+R3	Has Arg1:T68 Arg2:T69	
+T70	Laboratory_Procedure 487 490	ELP
+T71	Laboratory_or_Test_Result 492 498	normal
+R4	Has Arg1:T70 Arg2:T71	
+T72	Laboratory_Procedure 498 508	Sed. orina
+T73	Laboratory_or_Test_Result 510 534	bacteriuria asintomática
+R5	Has Arg1:T72 Arg2:T73	
+T74	Laboratory_Procedure 534 537	TSH
+T75	Sign_or_Symptom 543 563	Ortopnea 3 almohadas
+T76	Clinical_Finding 565 570	CF II
+T77	Sign_or_Symptom 576 586	edema EEII
+A1	Negated T77
+T78	Clinical_Finding 586 604	Ex. físico: normal
+T79	Disease 643 662	DAÑO RENAL ETAPA IV
+T80	Disease 665 699	PROTEINURIA EN RANGO PRE NEFRÓTICO
+T81	Laboratory_or_Test_Result 665 699	PROTEINURIA EN RANGO PRE NEFRÓTICO
+T82	Disease 720 752	Enfermedad renal cronica Etapa 4

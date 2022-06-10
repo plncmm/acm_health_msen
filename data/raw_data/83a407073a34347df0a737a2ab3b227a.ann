@@ -1,0 +1,8 @@
+T1	Body_Part 0 9	pieza 4.1
+T2	Body_Part 39 44	pieza
+T3	Body_Part 82 87	pieza
+T4	Body_Part 92 100	conducto
+T5	Disease 10 38	periodontitis apical cronica
+T6	Clinical_Finding 49 81	tratamiento previamente iniciado
+T7	Laboratory_or_Test_Result 82 126	pieza con conducto aparentemente calcificado
+T8	Laboratory_or_Test_Result 130 148	lesion osteolitica

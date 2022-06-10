@@ -1,0 +1,35 @@
+T1	Abbreviation 33 36	APS
+T2	Abbreviation 164 170	CESFAM
+T3	Abbreviation 253 256	HRC
+T4	Abbreviation 275 278	TAC
+T5	Abbreviation 288 290	SC
+T6	Abbreviation 351 353	DR
+T7	Medication 376 387	PREGABALINA
+T8	Abbreviation 391 393	MG
+T9	Abbreviation 472 475	TAC
+T12	Abbreviation 592 595	HRC
+T13	Abbreviation 610 613	BEG
+T14	Body_Part 690 697	PUPILAS
+T15	Abbreviation 720 722	DG
+T16	Abbreviation 726 729	OBS
+T17	Body_Part 279 287	ENCEFALO
+T10	Body_Part 479 500	UNION CRANEO CERVICAL
+T11	Abbreviation 616 622	RR2TSS
+T18	Abbreviation 625 627	MP
+T19	Abbreviation 629 632	SRA
+T20	Abbreviation 627 628	+
+T21	Disease 76 84	DIABETES
+T22	Sign_or_Symptom 225 240	CEFALEA INTENSA
+T23	Diagnostic_Procedure 275 290	TAC ENCEFALO SC
+T24	Laboratory_or_Test_Result 292 305	SIN HALLAZGOS
+R1	Has Arg1:T23 Arg2:T24	
+T25	Diagnostic_Procedure 472 500	TAC DE UNION CRANEO CERVICAL
+T26	Clinical_Finding 610 613	BEG
+T27	Clinical_Finding 616 622	RR2TSS
+T28	Clinical_Finding 625 632	MP+ SRA
+T29	Clinical_Finding 635 660	EXAMEN NEUROLOGICO NORMAL
+T30	Clinical_Finding 662 688	SIN FOCAKLIDAD NEUROLOGICA
+T31	Clinical_Finding 690 718	PUPILAS ISOCORICAS REACTIVAS
+T32	Disease 731 752	CEFALEA CERVICOGENICA
+T33	Disease 753 760	Cefalea
+T34	Disease 2 9	CEFALEA

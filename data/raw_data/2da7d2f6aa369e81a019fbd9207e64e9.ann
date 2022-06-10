@@ -1,0 +1,11 @@
+T1	Abbreviation 42 45	APS
+T2	Abbreviation 303 305	cm
+T3	Body_Part 83 106	region cervical derecha
+T4	Body_Part 245 269	region cervical inferior
+T5	Abbreviation 297 298	>
+T6	Disease 2 18	MELANOMA IN SITU
+T7	Sign_or_Symptom 75 106	nevo en region cervical derecha
+T8	Sign_or_Symptom 143 160	aumento de tamaño
+T9	Sign_or_Symptom 203 295	nevo con características de malignidad en region cervical inferior, con coloración diferente
+T10	Sign_or_Symptom 323 343	dolor a la palpación
+T11	Disease 346 362	Melanoma in situ

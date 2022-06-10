@@ -1,0 +1,7 @@
+T1	Disease 2 15	CARIES DENTAL
+T2	Abbreviation 39 42	APS
+T3	Body_Part 72 84	pieza. # 2.3
+T4	Disease 89 95	caries
+T5	Sign_or_Symptom 98 116	atricción dentaria
+T6	Therapeutic_Procedure 129 140	trepanación
+T7	Disease 185 198	Caries dental

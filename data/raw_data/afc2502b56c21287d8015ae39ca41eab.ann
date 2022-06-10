@@ -1,0 +1,44 @@
+T1	Body_Part 56 75	MENINGES CEREBRALES
+T2	Body_Part 245 269	miembro superior derecho
+T3	Body_Part 312 331	miembros inferiores
+T4	Body_Part 372 391	miembros superiores
+T5	Body_Part 526 533	pupilas
+T6	Body_Part 571 576	torax
+T7	Abbreviation 587 589	mp
+T8	Abbreviation 590 593	SRA
+T10	Body_Part 603 610	abdomen
+T9	Body_Part 639 663	miembro superior derecho
+T11	Abbreviation 722 724	TU
+T12	Abbreviation 728 731	SNC
+T13	Family_Member 764 768	hijo
+T14	Family_Member 800 805	Padre
+T15	Abbreviation 818 820	CA
+T16	Family_Member 833 837	Mama
+T17	Abbreviation 846 848	ca
+T18	Family_Member 864 868	tios
+T19	Abbreviation 595 601	RR2TSS
+T20	Abbreviation 611 613	rh
+T21	Abbreviation 613 614	+
+T22	Abbreviation 629 631	FM
+T23	Body_Part 616 628	extremidades
+T24	Body_Part 728 731	SNC
+T25	Disease 2 75	TUMOR DE COMPORTAMIENTO INCIERTO O DESCONOCIDO DE LAS MENINGES CEREBRALES
+T26	Disease 171 191	cefalea holocraneana
+T27	Sign_or_Symptom 204 269	perdida de la fuerza muscular a nivel de miembro superior derecho
+T28	Disease 289 391	parestesias a nivel de miembros inferiores desde hace 2 meses, y posteriormente en miembros superiores
+T29	Sign_or_Symptom 426 459	disminucion de la fuerza muscular
+T30	Clinical_Finding 526 569	pupilas isocoricas normorreactivas a la luz
+T31	Clinical_Finding 571 586	torax simetrico
+T32	Sign_or_Symptom 587 593	mp SRA
+T33	Clinical_Finding 595 601	RR2TSS
+T34	Clinical_Finding 603 614	abdomen rh+
+T35	Sign_or_Symptom 616 663	extremidades FM 4/5 en miembro superior derecho
+T36	Disease 722 731	TU de SNC
+T41	Disease 781 798	leucemia mieloide
+T42	Disease 818 831	CA prostatico
+T43	Disease 846 862	ca linfoblastico
+T44	Disease 882 888	cancer
+R1	Has Arg1:T13 Arg2:T41	
+R2	Has Arg1:T14 Arg2:T42	
+R3	Has Arg1:T16 Arg2:T43	
+R4	Has Arg1:T18 Arg2:T44	

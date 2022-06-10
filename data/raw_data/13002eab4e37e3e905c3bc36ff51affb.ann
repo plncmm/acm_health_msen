@@ -1,0 +1,5 @@
+T1	Disease 0 34	Periodontitis cronica generalizada
+T2	Sign_or_Symptom 37 54	movilidad grado 1
+T3	Body_Part 55 63	diente 3
+T4	Laboratory_or_Test_Result 66 131	reabsorcion osea horizontal moderada- vertical molares inferiores
+T5	Body_Part 113 131	molares inferiores

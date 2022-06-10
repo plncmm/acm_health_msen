@@ -1,0 +1,8 @@
+T1	Body_Part 104 117	extremidade4s
+T2	Sign_or_Symptom 63 77	se pone "azul"
+T3	Sign_or_Symptom 89 117	contractura de extremidade4s
+T4	Sign_or_Symptom 120 129	sialorrea
+T5	Sign_or_Symptom 134 155	pérdida de conciencia
+T6	Sign_or_Symptom 187 197	post ictal
+T7	Sign_or_Symptom 13 60	episodios de llanto o golpre queda sin respirar
+T8	Disease 251 267	APNEA DEL LLANTO

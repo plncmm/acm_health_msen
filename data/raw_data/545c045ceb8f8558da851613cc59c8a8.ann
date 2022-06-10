@@ -1,0 +1,7 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Abbreviation 44 47	APS
+T3	Disease 58 102	desdentado total superior y parcial inferior
+T4	Clinical_Finding 161 182	alimentación correcta
+A1	Negated T4
+T5	Disease 184 260	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T6	Body_Part 222 229	dientes

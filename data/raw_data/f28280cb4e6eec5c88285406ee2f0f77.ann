@@ -1,0 +1,9 @@
+T1	Abbreviation 61 64	APS
+T2	Sign_or_Symptom 66 86	Clase III esqueletal
+T3	Disease 88 115	desdentada parcial superior
+T4	Sign_or_Symptom 117 139	ausencia de piezas 3-5
+T5	Body_Part 129 139	piezas 3-5
+T6	Disease 141 168	desdentada parcial inferior
+T7	Sign_or_Symptom 171 204	ausencia de piezas 18-19-20-30-31
+T8	Body_Part 183 204	piezas 18-19-20-30-31
+T9	Clinical_Finding 42 57	alta operatoria

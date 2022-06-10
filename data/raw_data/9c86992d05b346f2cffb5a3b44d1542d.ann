@@ -1,0 +1,11 @@
+T1	Abbreviation 20 23	2 A
+T2	Abbreviation 36 39	TAC
+T3	Body_Part 40 47	CEREBRO
+T4	Abbreviation 48 50	C/
+T5	Abbreviation 85 88	IZQ
+T6	Abbreviation 98 101	IZQ
+T8	Disease 0 17	SINUSITIS CRONICA
+T9	Diagnostic_Procedure 36 47	TAC CEREBRO
+T10	Laboratory_or_Test_Result 51 101	ENGROSAMIENTO A NIVEL SENOMAXILAR IZQ ETMIDANA IZQ
+R1	Has Arg1:T9 Arg2:T10	
+T7	Body_Part 73 88	SENOMAXILAR IZQ

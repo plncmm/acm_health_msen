@@ -1,0 +1,5 @@
+T1	Body_Part 0 9	diente 12
+T2	Disease 14 31	caries penetrante
+T3	Laboratory_or_Test_Result 0 31	diente 12 con caries penetrante
+T4	Clinical_Finding 82 125	diente con tratamiento previamente iniciado
+T5	Body_Part 82 88	diente

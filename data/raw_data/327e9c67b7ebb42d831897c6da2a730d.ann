@@ -1,0 +1,14 @@
+T1	Disease 2 35	ARTRITIS JUVENIL, NO ESPECIFICADA
+T2	Abbreviation 59 62	APS
+T5	Body_Part 157 164	muñecas
+T6	Body_Part 166 171	codos
+T7	Body_Part 173 180	caderas
+T8	Body_Part 183 191	rodillas
+T12	Body_Part 318 325	muñecas
+T15	Body_Part 352 360	rodillas
+T17	Disease 439 466	artitis reumatoidea juvenil
+T18	Disease 498 531	Artritis juvenil, no especificada
+T16	Sign_or_Symptom 363 368;404 419	Dolor suele persistir
+T3	Sign_or_Symptom 133 191	artralgia migratoria de muñecas, codos, caderas y rodillas
+T4	Sign_or_Symptom 204 222	aumento de volumen
+T10	Sign_or_Symptom 225 236	calor local

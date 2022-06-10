@@ -1,0 +1,12 @@
+T1	Abbreviation 58 61	APS
+T2	Abbreviation 187 189	dg
+T3	Body_Part 379 390	region anal
+T4	Body_Part 270 273	ano
+T5	Disease 14 34	Sindrome disenterico
+T6	Sign_or_Symptom 97 110	cuadro febril
+T7	Sign_or_Symptom 122 143	deposiciones liquidas
+T8	Sign_or_Symptom 244 273	emision sangre fresca por ano
+T9	Sign_or_Symptom 309 367	deposiciones liquidas intermitente con abundante mucosidad
+T10	Sign_or_Symptom 370 390	dolor en region anal
+T11	Diagnostic_Procedure 418 430	colonoscopia
+A1	Pending T11

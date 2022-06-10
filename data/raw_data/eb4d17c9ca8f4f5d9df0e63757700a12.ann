@@ -1,0 +1,9 @@
+T1	Disease 2 22	NECROSIS DE LA PULPA
+T2	Body_Part 17 22	PULPA
+T3	Abbreviation 46 49	APS
+T4	Body_Part 51 61	diente 3.3
+T5	Therapeutic_Procedure 62 71	trepanado
+T6	Medication 87 92	PMCFA
+T7	Disease 111 131	Necrosis de la pulpa
+T8	Body_Part 126 131	pulpa
+T9	Clinical_Finding 94 110	cemento temporal

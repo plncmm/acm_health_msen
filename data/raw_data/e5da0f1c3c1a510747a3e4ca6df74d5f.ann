@@ -1,0 +1,7 @@
+T1	Disease 2 20	HIPERACTIVIDAD    
+T2	Abbreviation 51 54	app
+T3	Disease 58 72	asma bronquial
+T4	Sign_or_Symptom 175 199	comportamiento inestable
+T5	Sign_or_Symptom 231 238	ansioso
+T6	Sign_or_Symptom 264 292	dificultad para concentrarse
+T7	Family_Member 142 147	madre

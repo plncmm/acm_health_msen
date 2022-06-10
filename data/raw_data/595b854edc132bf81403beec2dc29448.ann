@@ -1,0 +1,14 @@
+T1	Body_Part 55 63	PRÓSTATA
+T2	Abbreviation 87 90	APS
+T3	Abbreviation 101 104	dm2
+T4	Abbreviation 105 108	hta
+T5	Body_Part 113 121	prostata
+T6	Abbreviation 201 204	ape
+T7	Body_Part 389 397	prostata
+T8	Abbreviation 110 112	tu
+T9	Disease 2 63	TUMOR DE COMPORTAMIENTO INCIERTO O DESCONOCIDO DE LA PRÓSTATA
+T10	Disease 101 104	dm2
+T11	Disease 105 108	hta
+T12	Disease 110 121	tu prostata
+T13	Laboratory_Procedure 201 204	ape
+T14	Disease 336 397	Tumor de comportamiento incierto o desconocido de la prostata

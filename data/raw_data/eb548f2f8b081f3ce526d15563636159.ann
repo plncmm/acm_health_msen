@@ -1,0 +1,6 @@
+T1	Body_Part 21 30	pieza 1.8
+T2	Disease 32 53	periodontitis cronica
+T3	Sign_or_Symptom 55 87	dolor en pieza 1.8  a la presion
+T4	Body_Part 64 73	pieza 1.8
+T5	Disease 92 98	caries
+A1	Negated T5

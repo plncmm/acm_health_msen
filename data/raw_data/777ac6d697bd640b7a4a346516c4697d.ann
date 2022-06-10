@@ -1,0 +1,6 @@
+T1	Sign_or_Symptom 29 182	cambio de coloracion leucoplasia en zonas desdentadas encia adherida y reborde alveolar distal a pieza 31 y en zona desdentada correspondiente a pieza 30
+T2	Disease 50 61	leucoplasia
+T3	Body_Part 83 97	encia adherida
+T4	Body_Part 140 182	zona desdentada correspondiente a pieza 30
+T5	Body_Part 100 116	reborde alveolar
+T6	Body_Part 126 134	pieza 31

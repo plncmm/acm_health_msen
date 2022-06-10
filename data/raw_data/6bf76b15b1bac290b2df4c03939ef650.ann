@@ -1,0 +1,12 @@
+T1	Abbreviation 38 41	APS
+T2	Abbreviation 43 46	Ant
+T3	Abbreviation 50 53	DM2
+T4	Abbreviation 55 58	HTA
+T5	Disease 2 14	COLELITIASIS
+T6	Disease 50 53	DM2
+T7	Disease 55 58	HTA
+T8	Diagnostic_Procedure 82 105	ecotomograifa abdominal
+T9	Laboratory_or_Test_Result 110 135	litiasis vesicular masiva
+T10	Sign_or_Symptom 147 159	asintomatica
+R1	Has Arg1:T8 Arg2:T9	
+T11	Disease 160 172	Colelitiasis

@@ -1,0 +1,11 @@
+T1	Disease 136 153	linfoma esplenico
+T2	Disease 13 30	sindrome de evans
+T3	Abbreviation 32 35	saf
+T4	Abbreviation 67 69	vs
+T5	Clinical_Finding 36 66	manifestaciones no tromboticas
+T6	Laboratory_or_Test_Result 70 84	falso positivo
+T7	Therapeutic_Procedure 96 109	esplenectomia
+T8	Sign_or_Symptom 177 184	cefalea
+T9	Sign_or_Symptom 209 228	alteracion de habla
+T10	Disease 32 35	saf
+A1	Pending T7

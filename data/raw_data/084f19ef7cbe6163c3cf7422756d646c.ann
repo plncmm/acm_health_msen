@@ -1,0 +1,20 @@
+T3	Disease 139 142	ITU
+T2	Abbreviation 139 142	ITU
+T1	Abbreviation 0 2	PG
+T4	Abbreviation 3 6	EMB
+T5	Abbreviation 10 13	SEM
+T6	Abbreviation 15 18	ANT
+T7	Abbreviation 19 22	EGD
+T8	Abbreviation 28 30	C/
+T9	Abbreviation 36 39	ECO
+T10	Abbreviation 57 60	ECO
+T11	Abbreviation 87 91	RCIV
+T12	Abbreviation 92 93	X
+T13	Abbreviation 82 85	OBS
+T14	Clinical_Finding 0 2	PG
+T15	Clinical_Finding 3 6	EMB
+T16	Diagnostic_Procedure 36 39	ECO
+T17	Diagnostic_Procedure 57 60	ECO
+T18	Sign_or_Symptom 94 104	TALLA BAJA
+T19	Disease 105 111	ANEMIA
+T20	Sign_or_Symptom 155 167	ASENTOMATIZA

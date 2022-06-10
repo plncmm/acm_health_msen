@@ -1,0 +1,7 @@
+T1	Abbreviation 0 1	M
+T2	Clinical_Finding 0 2	M4
+T5	Clinical_Finding 39 49	MENOPAUSIA
+T3	Clinical_Finding 4 19	POST MENOPAUSIA
+T4	Disease 20 36	PROLAPSO GENITAL
+T6	Therapeutic_Procedure 75 92	PARTOS CON FORCES
+T7	Disease 95 114	DESGARROS VAGINALES

@@ -1,0 +1,8 @@
+T1	Abbreviation 98 100	SF
+T2	Medication 98 100	SF
+T3	Medication 107 115	Glicerol
+T4	Abbreviation 119 121	cc
+T5	Abbreviation 151 154	hrs
+T6	Disease 0 21	Constipacion Organica
+T7	Disease 38 54	disrafia espinal
+T8	Therapeutic_Procedure 69 93	lavados rectales diarios

@@ -1,0 +1,10 @@
+T1	Abbreviation 27 29	OR
+T2	Abbreviation 139 142	SPN
+T3	Body_Part 139 142	SPN
+T4	Sign_or_Symptom 47 62	CEFALEA FRONTAL
+T5	Disease 80 89	SINUSITOS
+T6	Diagnostic_Procedure 101 108	ESCANER
+T7	Laboratory_or_Test_Result 125 142	PATOLOGIAS DE SPN
+R1	Has Arg1:T6 Arg2:T7	
+T8	Sign_or_Symptom 157 172	CEFALEA FRONTAL
+A1	Negated T7

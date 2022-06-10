@@ -1,0 +1,22 @@
+T1	Body_Part 76 92	region occipital
+T2	Abbreviation 127 131	aine
+T3	Medication 127 131	aine
+T4	Medication 134 144	anlagesico
+T5	Abbreviation 162 165	HTA
+T6	Abbreviation 166 170	comp
+T7	Medication 173 181	losartan
+T8	Abbreviation 184 186	mg
+T9	Abbreviation 192 195	ntd
+T10	Medication 192 195	ntd
+T11	Abbreviation 198 200	mg
+T12	Abbreviation 206 209	ASA
+T13	Medication 206 209	ASA
+T14	Abbreviation 212 214	MG
+T15	Abbreviation 217 220	HCT
+T16	Medication 217 220	HCT
+T17	Abbreviation 223 225	MG
+T18	Abbreviation 259 262	thc
+T19	Abbreviation 252 254	c/
+T20	Disease 2 9	CEFALEA
+T21	Sign_or_Symptom 28 112	CEFALEA MODERADA a severa pusatil focalizada en region occipital permanente sin aura
+T22	Disease 162 165	HTA

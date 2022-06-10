@@ -1,0 +1,27 @@
+T1	Abbreviation 71 74	APS
+T2	Abbreviation 76 80	PCTE
+T3	Family_Member 120 124	HIJA
+T4	Abbreviation 129 132	BEG
+T5	Abbreviation 151 154	MAC
+T6	Abbreviation 160 163	MAC
+T7	Abbreviation 172 175	FUR
+T8	Abbreviation 229 232	AMP
+T9	Abbreviation 246 247	G
+T10	Abbreviation 248 249	P
+T11	Abbreviation 250 251	A
+T12	Abbreviation 252 253	V
+T13	Abbreviation 255 258	ECO
+T14	Abbreviation 259 261	TV
+T15	Abbreviation 234 237	N/E
+T16	Disease 2 47	OTROS QUISTES OVÁRICOS Y LOS NO ESPECIFICADOS
+T17	Therapeutic_Procedure 151 154	MAC
+T18	Therapeutic_Procedure 160 163	MAC
+T19	Sign_or_Symptom 201 224	REGLA, REGULAR CANTIDAD
+T20	Clinical_Finding 246 248	G1
+T21	Clinical_Finding 248 250	P1
+T22	Clinical_Finding 250 252	A0
+T23	Diagnostic_Procedure 255 261	ECO TV
+T24	Disease 372 417	Otros quistes ovaricos y los no especificados
+T25	Laboratory_or_Test_Result 274 350	IMAGEN QUISTICA BILOBULADA ANEXIAL IZQUIERDA PROBABLEMENTE DE ORIGEN OVARICO
+R1	Has Arg1:T23 Arg2:T25	
+T26	Clinical_Finding 134 146	ASINTOMATICA

@@ -1,0 +1,19 @@
+T1	Abbreviation 67 70	APS
+T2	Abbreviation 72 76	PCTE
+T3	Abbreviation 124 127	MAC
+T4	Abbreviation 133 136	FUR
+T5	Abbreviation 148 151	AMP
+T6	Abbreviation 153 154	N
+T7	Abbreviation 155 157	EG
+T8	Abbreviation 158 159	P
+T9	Abbreviation 160 161	A
+T10	Abbreviation 162 163	V
+T11	Abbreviation 164 165	A
+T12	Body_Part 191 205	RAFE ANOVULVAR
+T13	Abbreviation 129 133	DPPS
+T14	Medication 129 133	DPPS
+T15	Sign_or_Symptom 105 123	IRRITACION GENITAL
+T16	Clinical_Finding 158 160	P1
+T17	Clinical_Finding 160 162	A0
+T18	Sign_or_Symptom 180 205	EROSION EN RAFE ANOVULVAR
+T19	Disease 215 228	HERPE GENITAL

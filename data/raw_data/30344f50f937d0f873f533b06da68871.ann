@@ -1,0 +1,9 @@
+T1	Disease 0 29	DESDENTADA PARACIAL SUP E INF
+T2	Abbreviation 20 23	SUP
+T3	Abbreviation 26 29	INF
+T4	Clinical_Finding 30 51	PORTADORA DE PROTESIS
+T5	Abbreviation 53 57	PZAS
+T6	Disease 74 96	PERIODONTITIS MODERADA
+T7	Sign_or_Symptom 97 109	MOVILIDAD G2
+T8	Abbreviation 107 109	G2
+T9	Body_Part 53 57	PZAS

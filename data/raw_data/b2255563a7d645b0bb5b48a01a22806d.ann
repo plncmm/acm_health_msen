@@ -1,0 +1,9 @@
+T1	Abbreviation 42 44	Rm
+T2	Disease 13 30	Disrrafia Espinal
+T3	Diagnostic_Procedure 42 44	Rm
+T4	Laboratory_or_Test_Result 45 51	Normal
+R1	Has Arg1:T3 Arg2:T4	
+T5	Diagnostic_Procedure 67 77	urodinamia
+T6	Laboratory_or_Test_Result 82 112	Disgineria Vesigo Esfinteriana
+R2	Has Arg1:T5 Arg2:T6	
+A1	Negated T2

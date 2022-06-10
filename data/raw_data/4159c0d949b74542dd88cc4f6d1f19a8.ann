@@ -1,0 +1,8 @@
+T1	Abbreviation 0 3	OBS
+T2	Abbreviation 24 27	HTA
+T3	Disease 5 22	ESTENOSIS AORTICA
+T4	Disease 24 27	HTA
+T5	Disease 43 51	OBESIDAD
+T6	Sign_or_Symptom 52 94	SOPLO SISTOLICO AORTICO , 2/6 NO IRRADIADO
+T7	Sign_or_Symptom 95 102	SINCOPE
+A1	Negated T7

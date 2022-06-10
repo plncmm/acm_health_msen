@@ -1,0 +1,7 @@
+T3	Body_Part 57 69	3ros molares
+T4	Laboratory_or_Test_Result 57 91	3ros molares en evolución intrósea
+T8	Sign_or_Symptom 139 166	distoversión los superiores
+T5	Body_Part 122 137	arcada dentaria
+T1	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T2	Sign_or_Symptom 97 137	espacio suficiente en la arcada dentaria
+A1	Negated T2

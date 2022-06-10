@@ -1,0 +1,12 @@
+T1	Abbreviation 45 48	APS
+T2	Abbreviation 50 51	M
+T3	Abbreviation 67 70	sem
+T4	Abbreviation 72 75	rpr
+T5	Abbreviation 90 97	anteced
+T6	Abbreviation 75 76	+
+T8	Clinical_Finding 50 52	M4
+T9	Clinical_Finding 53 61	embarazo
+T10	Laboratory_Procedure 72 75	rpr
+T7	Clinical_Finding 2 10	EMBARAZO
+T11	Laboratory_or_Test_Result 75 76	+
+R1	Has Arg1:T10 Arg2:T11	

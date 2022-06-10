@@ -1,0 +1,6 @@
+T1	Disease 13 30	absceso submucoso
+T2	Body_Part 45 63	pieza dentaria 4.5
+T3	Disease 94 110	colitis ulcerosa
+T4	Abbreviation 140 143	tto
+T5	Therapeutic_Procedure 154 171	anti inflamatorio
+A1	Negated T5

@@ -1,0 +1,8 @@
+T1	Abbreviation 68 71	Obs
+T2	Abbreviation 91 93	Vs
+T3	Abbreviation 94 96	Ca
+T4	Body_Part 97 105	tiroides
+T5	Disease 0 25	Hipotiroidismo subclinico
+T6	Disease 26 55	Nodulos tiroideos bilaterales
+T7	Disease 72 90	Tiroiditis cronica
+T8	Disease 94 105	Ca tiroides

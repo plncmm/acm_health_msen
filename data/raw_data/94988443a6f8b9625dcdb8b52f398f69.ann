@@ -1,0 +1,11 @@
+T1	Clinical_Finding 12 27	alta operatoria
+T2	Abbreviation 66 68	pd
+T4	Sign_or_Symptom 42 68	cambio de coloración de pd
+T3	Body_Part 66 73	pd. 3.1
+T5	Diagnostic_Procedure 78 97	examen radiográfico
+T6	Laboratory_or_Test_Result 109 122	lesión apical
+R1	Has Arg1:T5 Arg2:T6	
+T7	Therapeutic_Procedure 162 173	trepanación
+A1	Pending T7
+T8	Abbreviation 138 140	mm
+T9	Abbreviation 147 149	mm

@@ -1,0 +1,10 @@
+T1	Disease 2 73	TUMOR DE COMPORTAMIENTO INCIERTO O DESCONOCIDO DE LA GLÁNDULA HIPÓFISIS
+T2	Abbreviation 97 100	APS
+T3	Disease 129 147	Tumor hipofisiario
+T4	Body_Part 55 73	GLÁNDULA HIPÓFISIS
+T5	Abbreviation 153 156	TAC
+T6	Diagnostic_Procedure 153 156	TAC
+T7	Laboratory_or_Test_Result 129 147	Tumor hipofisiario
+R1	Has Arg1:T6 Arg2:T7	
+T8	Therapeutic_Procedure 217 238	resolusion quirurgica
+A1	Pending T8

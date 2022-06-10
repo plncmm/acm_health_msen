@@ -1,0 +1,17 @@
+T1	Disease 2 59	TUMOR DE COMPORTAMIENTO INCIERTO O DESCONOCIDO DE LA PIEL
+T2	Sign_or_Symptom 100 137	lesión temporal derecha de larga data
+T3	Sign_or_Symptom 157 175	aumento de volumen
+T4	Sign_or_Symptom 208 215	prurito
+T5	Sign_or_Symptom 217 222	dolor
+T6	Sign_or_Symptom 231 239	sangrado
+T7	Sign_or_Symptom 259 403	lesión so-levantada a nivel temporal derecha, de 2cms de diámetro mayor, con superficie irregular, coloración heterogénea, predominio negro-ocre
+T8	Sign_or_Symptom 409 427	lesiones satélites
+A1	Negated T8
+T9	Abbreviation 181 186	aprox
+#1	AnnotatorNotes T9	aproximadamente
+T10	Abbreviation 309 312	cms
+#2	AnnotatorNotes T10	centímetros
+T11	Body_Part 55 59	PIEL
+T12	Diagnostic_Procedure 451 470	estudio histologico
+A2	Pending T12
+T13	Body_Part 287 303	temporal derecha

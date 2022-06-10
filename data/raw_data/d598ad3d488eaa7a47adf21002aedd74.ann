@@ -1,0 +1,8 @@
+T1	Disease 2 50	OTITIS MEDIA SUPURATIVA, SIN OTRA ESPECIFICACIÓN
+T2	Sign_or_Symptom 101 118	otorrea ocasional
+T3	Sign_or_Symptom 139 234	otalgia derecha que se irradia a maxilar ipsilateral asociado a salida de pus y luego otorragia
+T5	Abbreviation 250 253	OTL
+T6	Abbreviation 291 294	ATB
+T7	Medication 291 294	ATB
+T4	Body_Part 172 179	maxilar
+#1	AnnotatorNotes T5	otorrinolaringologia

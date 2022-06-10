@@ -1,0 +1,5 @@
+T1	Body_Part 38 45	RODILLA
+T2	Disease 29 45	ARTROSIS RODILLA
+T3	Diagnostic_Procedure 56 63	ELECTRO
+T4	Laboratory_or_Test_Result 64 72	ALTERADO
+R1	Has Arg1:T3 Arg2:T4	

@@ -1,0 +1,12 @@
+T1	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T2	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T3	Abbreviation 70 73	APS
+T4	Body_Part 160 163	ATM
+T5	Abbreviation 160 164	ATMs
+T6	Body_Part 196 215	musculos elevadores
+T7	Clinical_Finding 216 230	hipertrofiados
+T8	Sign_or_Symptom 233 267	solor a la palpacion y en apertura
+T10	Disease 304 348	Trastornos de la articulacion temporomaxilar
+T9	Sign_or_Symptom 270 303	desviacion mandibular en apertura
+T11	Sign_or_Symptom 134 164	mucho dolor en relacion a ATMs
+T12	Body_Part 321 348	articulacion temporomaxilar

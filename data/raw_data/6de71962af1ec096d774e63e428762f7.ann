@@ -1,0 +1,9 @@
+T1	Body_Part 0 14	PIEZAS 18 Y 19
+T2	Clinical_Finding 15 41	TRATADAS  ENDODONTICAMENTE
+T3	Diagnostic_Procedure 48 59	RADIOGRAFIA
+T4	Laboratory_or_Test_Result 71 84	LESION APICAL
+T5	Sign_or_Symptom 102 121	SINTOMATOLOGIA LEVE
+T6	Therapeutic_Procedure 150 163	RETRATAMIENTO
+T7	Body_Part 173 179	PIEZAS
+A2	Pending T6
+R1	Has Arg1:T3 Arg2:T4	

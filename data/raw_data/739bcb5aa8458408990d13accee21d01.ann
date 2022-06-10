@@ -1,0 +1,8 @@
+T1	Disease 2 25	DIENTES SUPERNUMERARIOS
+T2	Abbreviation 49 52	APS
+T3	Disease 95 104	mesiodens
+T4	Disease 106 129	Dientes supernumerarios
+T5	Body_Part 106 113	Dientes
+T6	Body_Part 2 9	DIENTES
+T7	Therapeutic_Procedure 87 104	cirugía mesiodens
+A1	Pending T7

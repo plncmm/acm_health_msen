@@ -1,0 +1,6 @@
+T1	Disease 2 75	ANEMIA POR DEFICIENCIA DE HIERRO SECUNDARIA A PÉRDIDA DE SANGRE (CRÓNICA)
+T2	Abbreviation 99 102	APS
+T3	Disease 104 110	anemia
+T5	Abbreviation 136 139	app
+T6	Therapeutic_Procedure 141 148	legrado
+T4	Disease 124 135	metrorragia

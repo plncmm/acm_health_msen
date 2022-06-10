@@ -1,0 +1,11 @@
+T1	Abbreviation 23 27	pcte
+T2	Abbreviation 33 36	ant
+T3	Family_Member 58 64	padres
+T4	Body_Part 101 125	parapdo inferior derecho
+T5	Disease 2 9	CALACIO
+T6	Disease 10 19	CHALAZION
+T7	Clinical_Finding 33 45	ant morbidos
+A1	Negated T7
+T8	Sign_or_Symptom 82 125	aumetn ode volumen parapdo inferior derecho
+T9	Sign_or_Symptom 185 204	signos de infeccion
+A2	Negated T9

@@ -1,0 +1,7 @@
+T2	Body_Part 18 32	piezas 17 y 32
+T3	Body_Part 78 86	pieza 17
+T4	Body_Part 118 126	piaza 18
+T5	Body_Part 132 140	pieza 32
+T1	Laboratory_or_Test_Result 18 42	piezas 17 y 32 retenidas
+T6	Laboratory_or_Test_Result 78 126	pieza 17 impactada a nivel cervicalñ de piaza 18
+T7	Laboratory_or_Test_Result 132 163	pieza 32 en posicion horizontal

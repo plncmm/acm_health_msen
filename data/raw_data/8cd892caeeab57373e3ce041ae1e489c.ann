@@ -1,0 +1,4 @@
+T1	Disease 0 16	pieza fracturada
+T2	Therapeutic_Procedure 19 48	restaurada con vi y composite
+T3	Sign_or_Symptom 63 75	dolor   leve
+T4	Abbreviation 34 36	vi

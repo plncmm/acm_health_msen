@@ -1,0 +1,14 @@
+T1	Body_Part 16 30	CUELLO UTERINO
+T2	Abbreviation 54 57	APS
+T3	Abbreviation 91 94	OBS
+T4	Abbreviation 196 199	UPC
+T5	Body_Part 248 262	cuello uterino
+T6	Abbreviation 113 116	PAP
+T7	Disease 2 30	DISPLASIA DEL CUELLO UTERINO
+T8	Clinical_Finding 59 68	MULTIPARA
+T9	Medication 80 89	MULTILOAD
+T10	Disease 95 113	DISPLASIA CERVICAL
+T11	Diagnostic_Procedure 113 116	PAP
+T12	Laboratory_or_Test_Result 118 186	CELULAS ESCAMOSAS ATIPICAS NO PUEDE DESCARTARSE ELSION DE ALTO GRADO
+R1	Has Arg1:T11 Arg2:T12	
+T13	Disease 234 262	Displasia del cuello uterino

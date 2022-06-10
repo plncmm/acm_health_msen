@@ -1,0 +1,14 @@
+T3	Abbreviation 60 63	APS
+T4	Abbreviation 182 188	HB A1C
+T1	Disease 2 36	DIABETES MELLITUS, NO ESPECIFICADA
+T5	Laboratory_Procedure 100 125	EXAMANES PREOCUPACIONALES
+T6	Laboratory_or_Test_Result 137 150	GLICEMIA ALTA
+T7	Laboratory_Procedure 151 159	EXAMANES
+T8	Laboratory_Procedure 160 178	GLICEMIA DE AYUNAS
+T9	Sign_or_Symptom 203 213	POLIDIPSIA
+T10	Sign_or_Symptom 215 224	POLIFAGIA
+T11	Sign_or_Symptom 226 234	POLIURIA
+T12	Sign_or_Symptom 236 248	BAJA DE PESO
+T13	Diagnostic_Procedure 182 188	HB A1C
+R1	Has Arg1:T5 Arg2:T6	
+T2	Disease 290 324	Diabetes mellitus, no especificada

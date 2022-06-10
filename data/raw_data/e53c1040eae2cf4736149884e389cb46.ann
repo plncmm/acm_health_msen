@@ -1,0 +1,16 @@
+T1	Abbreviation 0 3	dte
+T2	Body_Part 0 6	dte 09
+T3	Abbreviation 7 10	PFU
+T4	Abbreviation 15 17	LP
+T5	Laboratory_or_Test_Result 15 27	LP engrosado
+T6	Abbreviation 30 33	dte
+T7	Therapeutic_Procedure 7 10	PFU
+T8	Body_Part 30 36	dte 14
+T9	Disease 41 72	caries recidivante prox a pulpa
+T11	Laboratory_or_Test_Result 30 72	dte 14 con caries recidivante prox a pulpa
+T12	Abbreviation 60 64	prox
+T10	Body_Part 67 72	pulpa
+T13	Abbreviation 89 93	pcte
+T14	Abbreviation 99 102	qmt
+T15	Therapeutic_Procedure 99 102	qmt
+A1	Pending T15

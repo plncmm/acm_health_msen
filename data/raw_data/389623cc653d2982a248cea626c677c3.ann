@@ -1,0 +1,13 @@
+T1	Abbreviation 57 60	APS
+T2	Abbreviation 62 63	g
+T3	Abbreviation 64 65	p
+T4	Abbreviation 66 67	a
+T5	Abbreviation 68 69	v
+T6	Clinical_Finding 107 117	menopausia
+T7	Therapeutic_Procedure 19 33	ANTICONCEPCIÓN
+T8	Therapeutic_Procedure 148 162	anticoncepcion
+T9	Clinical_Finding 62 64	g2
+T10	Clinical_Finding 64 66	p2
+T11	Clinical_Finding 66 68	a0
+T12	Clinical_Finding 68 70	v2
+T13	Medication 83 92	multiload

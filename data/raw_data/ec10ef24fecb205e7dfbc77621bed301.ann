@@ -1,0 +1,10 @@
+T1	Abbreviation 42 45	Pza
+#1	AnnotatorNotes T1	pieza
+T2	Body_Part 47 49	17
+T3	Body_Part 117 136	pieza 1.4,1.2 y 2.2
+T4	Body_Part 155 164	1.1 y 2.1
+T5	Disease 0 22	destruccion permanente
+T6	Sign_or_Symptom 23 69	mesioclusion molar Pza. 17 izquierda y derecha
+T7	Sign_or_Symptom 71 91	compresion bimaxilar
+T8	Sign_or_Symptom 96 136	mordida invertida en pieza 1.4,1.2 y 2.2
+T9	Sign_or_Symptom 137 164	mordida vis a vis 1.1 y 2.1

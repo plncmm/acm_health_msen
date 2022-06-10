@@ -1,0 +1,11 @@
+T1	Abbreviation 168 171	TAc
+T2	Body_Part 175 182	cerebro
+T3	Medication 91 103	acenocumarol
+T4	Body_Part 142 157	brazo izquierdo
+T5	Disease 0 21	Fibrilacion Auricular
+T6	Therapeutic_Procedure 23 47	recambio valvular mitral
+T7	Clinical_Finding 55 71	valvula mecanica
+T8	Sign_or_Symptom 104 127	inestabilidad de marcha
+T9	Sign_or_Symptom 129 157	debilidad en brazo izquierdo
+T10	Diagnostic_Procedure 168 182	TAc de cerebro
+A1	Pending T10

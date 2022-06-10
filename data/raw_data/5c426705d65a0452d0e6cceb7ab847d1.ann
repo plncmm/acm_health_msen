@@ -1,0 +1,9 @@
+T1	Body_Part 2 9	DIENTES
+T2	Abbreviation 43 46	APS
+T3	Body_Part 48 75	piezas dentales 3.8  -  4.8
+T4	Body_Part 124 151	piezas dentales 2.6  -  2.7
+T5	Body_Part 152 159	Dientes
+T6	Disease 2 19	DIENTES INCLUIDOS
+T7	Disease 152 169	Dientes incluidos
+T8	Laboratory_or_Test_Result 48 85	piezas dentales 3.8  -  4.8 incluidas
+T9	Disease 85 103	restos radiculares

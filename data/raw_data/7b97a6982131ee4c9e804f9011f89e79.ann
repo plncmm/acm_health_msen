@@ -1,0 +1,50 @@
+T1	Body_Part 77 86	MIOCARDIO
+T2	Body_Part 140 147	CORAZÓN
+T3	Abbreviation 525 528	IZQ
+T4	Abbreviation 201 204	APS
+T5	Abbreviation 243 246	hta
+T6	Abbreviation 261 266	aprox
+T7	Abbreviation 276 279	iam
+T8	Abbreviation 297 300	PCR
+T9	Medication 410 419	diltiazem
+T10	Medication 422 430	aspirina
+T11	Abbreviation 442 445	ekg
+T12	Abbreviation 499 502	IZQ
+T14	Abbreviation 614 617	eKG
+T15	Abbreviation 832 836	ATTE
+T16	Body_Part 888 895	corazon
+T17	Body_Part 48 53	PECHO
+T18	Abbreviation 280 281	+
+T13	Body_Part 672 685	PARED LATERAL
+T19	Disease 2 33	HIPERTENSIÓN ESENCIAL (PRIMARIA
+T20	Disease 38 53	ANGINA DE PECHO
+T21	Disease 57 86	INFARTO ANTIGUO DEL MIOCARDIO
+T22	Disease 90 177	HALLAZGOS ANORMALES EN DIAGNÓSTICO POR IMAGEN DEL CORAZÓN Y DE LA CIRCULACIÓN CORONARIA
+T23	Disease 243 246	hta
+T24	Disease 276 279	iam
+T25	Disease 297 300	PCR
+T26	Therapeutic_Procedure 309 324	colecistectomia
+T27	Diagnostic_Procedure 442 445	ekg
+T29	Disease 477 502	CRECIMIENTO AURICULAR IZQ
+T30	Disease 504 528	HEMIBLOQUEO ANTERIOR IZQ
+T31	Disease 530 562	BLOQUEO COMPLETO DE RAMA DERECHA
+T32	Disease 564 589	SUPRADESNIVEL DE ST V4-V5
+T33	Disease 652 685	NECROSIS ANTIGUA DE PARED LATERAL
+T34	Sign_or_Symptom 696 707	SINTOMATICA
+T35	Sign_or_Symptom 717 744	DOLOR PRECORDIAL ESPORADICO
+T36	Disease 838 925	Hallazgos anormales en diagnostico por imagen del corazon y de la circulacion coronaria
+T28	Laboratory_or_Test_Result 462 475	RITMO SINUSAL
+T37	Laboratory_or_Test_Result 477 502	CRECIMIENTO AURICULAR IZQ
+T38	Laboratory_or_Test_Result 504 528	HEMIBLOQUEO ANTERIOR IZQ
+T39	Laboratory_or_Test_Result 530 562	BLOQUEO COMPLETO DE RAMA DERECHA
+T40	Laboratory_or_Test_Result 564 589	SUPRADESNIVEL DE ST V4-V5
+T41	Laboratory_or_Test_Result 595 617	CAMBIOS RESPECTO A eKG
+A1	Negated T41
+T42	Laboratory_or_Test_Result 652 685	NECROSIS ANTIGUA DE PARED LATERAL
+R1	Has Arg1:T27 Arg2:T28	
+R2	Has Arg1:T27 Arg2:T41	
+R3	Has Arg1:T27 Arg2:T42	
+R4	Has Arg1:T27 Arg2:T40	
+R5	Has Arg1:T27 Arg2:T37	
+R6	Has Arg1:T27 Arg2:T38	
+R7	Has Arg1:T27 Arg2:T39	

@@ -1,0 +1,6 @@
+T1	Abbreviation 78 81	APS
+#1	AnnotatorNotes T1	atención primaria de salud
+T2	Disease 2 54	DISMINUCIÓN DE LA AGUDEZA VISUAL, SIN ESPECIFICACIÓN
+T3	Sign_or_Symptom 120 149	disminucion de agudeza visual
+T4	Sign_or_Symptom 175 180	ardor
+T5	Sign_or_Symptom 183 195	dolor ocular

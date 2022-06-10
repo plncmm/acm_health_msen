@@ -1,0 +1,8 @@
+T1	Disease 2 15	CARIES DENTAL
+T2	Abbreviation 39 42	APS
+T3	Abbreviation 44 49	PACTE
+T4	Disease 50 63	SINDROME DOWN
+T5	Disease 64 73	EPILEPSIA
+T6	Therapeutic_Procedure 96 107	DESFOCACION
+T7	Disease 121 134	Caries dental
+A1	Pending T6

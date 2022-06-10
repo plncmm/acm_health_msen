@@ -1,0 +1,18 @@
+T1	Body_Part 22 26	MAMA
+T2	Abbreviation 83 86	ACO
+T3	Body_Part 122 134	mama derecha
+T4	Abbreviation 143 146	ECO
+T5	Abbreviation 320 326	BIRADS
+T6	Abbreviation 327 329	US
+T7	Medication 83 86	ACO
+T8	Disease 2 26	TUMOR BENIGNO DE LA MAMA
+T9	Disease 55 73	neoplasia  mamaria
+T10	Sign_or_Symptom 98 134	mastalgia  acentuada em mama derecha
+T11	Diagnostic_Procedure 143 154	ECO mamaria
+T12	Laboratory_or_Test_Result 194 239	Nódulo mamario derecho  presuntamente benigno
+T13	Laboratory_or_Test_Result 251 307	Quistes y agrupacuiones de quistes mamarios bilaterrales
+R1	Has Arg1:T11 Arg2:T12	
+R2	Has Arg1:T11 Arg2:T13	
+T14	Laboratory_or_Test_Result 320 331	BIRADS US 3
+R3	Has Arg1:T11 Arg2:T14	
+A1	Implicit_Family_Background T9

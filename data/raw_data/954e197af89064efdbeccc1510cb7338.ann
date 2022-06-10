@@ -1,0 +1,70 @@
+T2	Medication 136 144	LOSARTAN
+T3	Body_Part 255 270	BRAZO IZQUIERDO
+T4	Medication 736 744	LOSARTAN
+T5	Medication 753 761	ASPIRINA
+T1	Abbreviation 112 115	HTA
+T6	Abbreviation 341 344	ECG
+T7	Abbreviation 400 402	FC
+T8	Abbreviation 407 410	ECG
+T9	Abbreviation 450 452	FC
+T10	Abbreviation 456 458	EX
+T11	Abbreviation 462 465	LAB
+T12	Abbreviation 482 489	T4LIBRE
+T13	Abbreviation 495 497	TP
+T14	Abbreviation 503 507	TTPK
+T15	Abbreviation 514 517	OCE
+T16	Abbreviation 527 531	HCTO
+T17	Abbreviation 547 550	WBC
+T18	Abbreviation 575 578	VHS
+T19	Abbreviation 651 654	COL
+T20	Abbreviation 643 651	PLPIDIOC
+T21	Abbreviation 668 671	HDL
+T22	Abbreviation 676 679	TGC
+T23	Abbreviation 685 688	LDL
+T24	Abbreviation 693 694	P
+T25	Abbreviation 747 748	C
+T26	Abbreviation 751 752	+
+T27	Abbreviation 766 768	MG
+T28	Disease 2 8	DISNEA
+T29	Disease 12 43	HIPERTENSIÓN ESENCIAL (PRIMARIA
+T30	Disease 48 57	SOBREPESO
+T31	Disease 61 86	RESISTENCIA A LA INSULINA
+T32	Disease 112 117	HTA  
+T33	Sign_or_Symptom 192 270	DOLORES  QUE DESCRIBE PRECORDIALS CON OCASIONAL IRRADIAICION A BRAZO IZQUIERDO
+T34	Sign_or_Symptom 273 279	DISNEA
+T35	Sign_or_Symptom 317 334	DOLORES ACTAUALES
+A1	Negated T35
+T36	Diagnostic_Procedure 341 344	ECG
+T37	Laboratory_or_Test_Result 359 372	RITMO SINUSAL
+T38	Laboratory_or_Test_Result 375 395	BRADICARDIA  SINUSAL
+R1	Has Arg1:T36 Arg2:T38	
+R2	Has Arg1:T36 Arg2:T37	
+T39	Sign_or_Symptom 400 405	FC 56
+T40	Diagnostic_Procedure 407 410	ECG
+T41	Laboratory_or_Test_Result 422 435	RITMO SINUSAL
+T42	Laboratory_or_Test_Result 438 449	BRADICARDIA
+R3	Has Arg1:T40 Arg2:T41	
+R4	Has Arg1:T40 Arg2:T42	
+T43	Sign_or_Symptom 450 455	FC 56
+T44	Laboratory_Procedure 456 465	EX DE LAB
+T45	Laboratory_Procedure 482 489	T4LIBRE
+T46	Laboratory_Procedure 495 497	TP
+T47	Laboratory_Procedure 503 507	TTPK
+T48	Sign_or_Symptom 514 524	OCE NORMAL
+T49	Laboratory_Procedure 527 531	HCTO
+T50	Laboratory_Procedure 547 550	WBC
+T51	Laboratory_Procedure 557 566	PLAQUETAS
+T52	Laboratory_Procedure 575 578	VHS
+T53	Laboratory_or_Test_Result 582 598	CELULAS NORMALES
+T54	Laboratory_Procedure 613 623	CREATININA
+T55	Laboratory_Procedure 630 638	GLICEMIA
+T56	Laboratory_Procedure 643 651	PLPIDIOC
+T57	Laboratory_Procedure 651 660	COL TOTAL
+T58	Laboratory_Procedure 668 671	HDL
+T59	Laboratory_Procedure 676 679	TGC
+T60	Laboratory_Procedure 685 688	LDL
+T61	Laboratory_Procedure 693 704	P HEPATICAS
+T62	Laboratory_or_Test_Result 705 715	NORMALES  
+R5	Has Arg1:T61 Arg2:T62	
+T63	Laboratory_Procedure 538 540	HB
+T64	Abbreviation 538 540	HB

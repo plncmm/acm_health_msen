@@ -1,0 +1,13 @@
+T1	Abbreviation 156 159	DM2
+T2	Medication 268 281	INSULINA  NPH
+T3	Abbreviation 289 291	ui
+T4	Abbreviation 316 321	hba1c
+T5	Abbreviation 349 351	SU
+T7	Abbreviation 278 281	NPH
+T6	Disease 2 69	DIABETES MELLITUS INSULINODEPENDIENTE, CON COMPLICACIONES MÚLTIPLES
+T8	Disease 73 90	DIABETES MELLITUS
+T9	Disease 156 159	DM2
+T10	Sign_or_Symptom 231 248	DOLOR NEUROPATICO
+T11	Laboratory_Procedure 316 321	hba1c
+T12	Disease 361 374	hipoglicemias
+T13	Laboratory_Procedure 391 410	glicemias capilares

@@ -1,0 +1,6 @@
+T1	Body_Part 17 27	periodonto
+T2	Body_Part 65 81	piezas 1.1 y 2.1
+T3	Abbreviation 86 89	ROM
+T4	Disease 0 38	Gingivitis sobre periodonto disminuido
+T5	Therapeutic_Procedure 43 64	terapia de mantención
+T6	Laboratory_or_Test_Result 86 95	ROM total

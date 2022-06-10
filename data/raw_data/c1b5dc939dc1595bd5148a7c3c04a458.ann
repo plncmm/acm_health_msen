@@ -1,0 +1,82 @@
+T1	Abbreviation 66 69	RCV
+T2	Abbreviation 128 133	GLUCO
+T3	Abbreviation 139 144	CREAT
+T4	Abbreviation 169 172	LIP
+T6	Abbreviation 190 193	LDL
+T7	Abbreviation 204 209	COMPL
+T8	Abbreviation 247 250	CFG
+T9	Abbreviation 255 259	MDRD
+T10	Abbreviation 290 293	ANT
+T11	Abbreviation 269 270	H
+T12	Abbreviation 323 326	E.F
+T13	Abbreviation 340 343	ACG
+T14	Abbreviation 352 354	PA
+T15	Abbreviation 364 366	FC
+T16	Abbreviation 371 372	X
+T17	Abbreviation 373 376	MIN
+T18	Abbreviation 377 379	FR
+T19	Abbreviation 384 385	X
+T20	Abbreviation 386 389	MIN
+T21	Abbreviation 390 391	T
+T22	Abbreviation 405 408	KGR
+T23	Abbreviation 410 413	CYC
+T24	Abbreviation 422 425	C/P
+T25	Abbreviation 467 470	ABD
+T26	Body_Part 467 470	ABD
+T27	Body_Part 410 413	CYC
+T28	Abbreviation 492 495	EXT
+T29	Body_Part 492 495	EXT
+T30	Abbreviation 507 510	NEU
+T31	Abbreviation 555 558	IDX
+T32	Abbreviation 563 566	DM2
+T33	Abbreviation 580 583	HTA
+T34	Abbreviation 597 600	DLP
+T35	Abbreviation 601 605	COMP
+T36	Abbreviation 620 623	AVE
+T37	Abbreviation 624 627	OBS
+T38	Abbreviation 631 634	ERC
+T39	Medication 655 664	ENALAPRIL
+T40	Medication 671 683	NITRENDIPINO
+T41	Medication 703 713	METFORMINA
+T42	Abbreviation 723 726	ASA
+T43	Medication 723 726	ASA
+T44	Medication 737 750	ATORVASTATINA
+T45	Abbreviation 807 810	ERC
+T46	Abbreviation 860 863	SOS
+T47	Body_Part 443 451	PULMONES
+T48	Disease 2 34	ENFERMEDAD RENAL CRÓNICA ETAPA 3
+T49	Sign_or_Symptom 84 96	ASINTOMATICO
+T50	Laboratory_Procedure 104 112	EXAMENES
+T51	Laboratory_Procedure 128 133	GLUCO
+T52	Laboratory_Procedure 139 144	CREAT
+T53	Laboratory_Procedure 151 155	UREA
+T54	Laboratory_Procedure 162 172	PERFIL LIP
+T55	Laboratory_Procedure 174 181	COL TOT
+T56	Laboratory_Procedure 190 193	LDL
+T57	Laboratory_Procedure 198 209	ORINA COMPL
+T58	Laboratory_or_Test_Result 211 219	NORMAL  
+R1	Has Arg1:T57 Arg2:T58	
+T59	Laboratory_Procedure 219 235	MICROALBUMINURIA
+T60	Laboratory_Procedure 269 283	H. GLICOSILADA
+T61	Sign_or_Symptom 427 441	RR2T NO SOPLOS
+T62	Sign_or_Symptom 456 467	AGREGADOS  
+A1	Negated T62
+T63	Sign_or_Symptom 475 480	MASAS
+A2	Negated T63
+T64	Sign_or_Symptom 485 492	DOLOR  
+A3	Negated T64
+T65	Sign_or_Symptom 500 507	EDEMA  
+T66	Sign_or_Symptom 512 535	HEIPARESIA DERECHA LEVE
+T67	Sign_or_Symptom 540 552	FOCALIZACION
+A4	Negated T67
+T68	Disease 563 566	DM2
+T69	Disease 580 583	HTA
+T70	Disease 597 600	DLP
+T71	Disease 620 623	AVE
+T72	Disease 631 642	ERC ETAPA 3
+T73	Disease 807 810	ERC
+T5	Abbreviation 174 177	COL
+T74	Abbreviation 178 181	TOT
+T75	Laboratory_Procedure 247 259	CFG POR MDRD
+T76	Sign_or_Symptom 345 351	ALERTA
+T77	Sign_or_Symptom 415 421	NORMAL

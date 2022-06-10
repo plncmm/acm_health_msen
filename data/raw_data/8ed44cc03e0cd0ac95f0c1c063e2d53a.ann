@@ -1,0 +1,10 @@
+T2	Clinical_Finding 60 94	ANTECEDENTES MÉDICOS DE RELEVANCIA
+A1	Negated T2
+T3	Clinical_Finding 105 137	CARIES PENETRANTE EN LA PIEZA 32
+T4	Body_Part 129 137	PIEZA 32
+T5	Abbreviation 164 166	RX
+T6	Diagnostic_Procedure 164 166	RX
+T7	Therapeutic_Procedure 147 154	EXTRAER
+T1	Clinical_Finding 20 30	EMBARAZADA
+T8	Clinical_Finding 31 41	PRIMIGESTA
+A2	Pending T7

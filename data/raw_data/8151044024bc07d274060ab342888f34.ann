@@ -1,0 +1,13 @@
+T1	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T2	Abbreviation 56 59	APS
+T3	Disease 94 104	mesodiente
+T4	Diagnostic_Procedure 125 148	rx panoramica y oclusal
+T5	Laboratory_or_Test_Result 172 227	mesodiente semincluido y sobreproyectado  en diente 6.1
+T6	Laboratory_or_Test_Result 94 104	mesodiente
+R1	Has Arg1:T4 Arg2:T5	
+T7	Sign_or_Symptom 260 286	mesodiente semierupcionado
+T8	Body_Part 217 227	diente 6.1
+T9	Disease 381 411	Dientes incluidos e impactados
+T10	Abbreviation 125 127	rx
+T11	Body_Part 381 388	Dientes
+T12	Body_Part 2 9	DIENTES

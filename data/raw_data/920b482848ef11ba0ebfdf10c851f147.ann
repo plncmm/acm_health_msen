@@ -1,0 +1,13 @@
+T1	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T2	Laboratory_or_Test_Result 2 30	CARIES DENTINARIA PENETRANTE
+T3	Body_Part 37 46	pieza 2.2
+T4	Laboratory_or_Test_Result 51 82	caries MP dentinaria penetrante
+T5	Abbreviation 58 60	MP
+T6	Disease 95 101	caries
+T7	Therapeutic_Procedure 115 138	trepanacion de urgencia
+T8	Clinical_Finding 143 175	irriga conducto con clorhexidina
+T9	Medication 163 175	clorhexidina
+T10	Clinical_Finding 178 222	se deja mota de paramonoclorofenol en camara
+T11	Medication 194 212	paramonoclorofenol
+T12	Clinical_Finding 224 246	se obtura con eugenato
+T13	Medication 238 246	eugenato

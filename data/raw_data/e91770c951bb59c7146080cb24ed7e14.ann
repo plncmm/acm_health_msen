@@ -1,0 +1,16 @@
+T1	Disease 0 43	PERIODONTITIS CRONICA MODERADA GENERALIZADA
+T2	Body_Part 54 65	1.1-2.1-4.1
+T3	Abbreviation 67 69	RX
+T4	Diagnostic_Procedure 67 69	RX
+T5	Abbreviation 71 74	ROM
+T6	Laboratory_or_Test_Result 71 100	ROM AVANZADA EN GRUPOS II Y V
+T7	Sign_or_Symptom 101 116	ABUNDANTE SARRO
+T8	Sign_or_Symptom 119 131	SANGRAMIENTO
+R1	Has Arg1:T4 Arg2:T6	
+T9	Body_Part 87 100	GRUPOS II Y V
+T10	Abbreviation 133 135	PD
+T11	Body_Part 133 139	PD 1.1
+T12	Sign_or_Symptom 133 158	PD 1.1 MOVILIDAD GRADO II
+T13	Abbreviation 159 161	PD
+T14	Body_Part 159 171	PD 2.1 Y 4.1
+T15	Sign_or_Symptom 159 189	PD 2.1 Y 4.1 MOVILIDAD GRADO I

@@ -1,0 +1,6 @@
+T1	Disease 9 36	desdentado parcial inferior
+T3	Sign_or_Symptom 38 74	perdida de dientes anterior inferior
+T2	Body_Part 49 74	dientes anterior inferior
+T4	Disease 79 92	periodontitis
+T5	Therapeutic_Procedure 111 138	protesis removible inferior
+A1	Pending T5

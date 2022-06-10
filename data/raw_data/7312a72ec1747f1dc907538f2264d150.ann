@@ -1,0 +1,12 @@
+T1	Abbreviation 0 1	P
+T2	Body_Part 0 6	P. 2.4
+T3	Disease 7 32	fractura corono radicular
+T4	Abbreviation 36 38	mm
+T5	Body_Part 42 46	raíz
+T6	Body_Part 48 64	cúspide Palatina
+T7	Body_Part 67 73	diente
+T8	Therapeutic_Procedure 67 98	diente tratado endodonticamente
+T9	Laboratory_or_Test_Result 104 117	lesión apical
+A1	Negated T9
+T10	Clinical_Finding 131 133	VI
+T11	Abbreviation 131 133	VI

@@ -1,0 +1,9 @@
+T1	Body_Part 0 8	DIENTE 5
+T2	Sign_or_Symptom 13 46	FRACTURA PARED PALATINA Y EXTENSA
+T3	Therapeutic_Procedure 48 62	OBTURACION MOD
+T4	Abbreviation 59 62	MOD
+T5	Therapeutic_Procedure 100 122	PROTESIS FIJA UNITARIA
+A1	Pending T5
+T6	Abbreviation 149 152	TTO
+T7	Therapeutic_Procedure 149 163	TTO ENDODONCIA
+A2	Pending T7

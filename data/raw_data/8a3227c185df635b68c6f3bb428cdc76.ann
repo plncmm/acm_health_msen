@@ -1,0 +1,7 @@
+T2	Body_Part 4 10	PZA 32
+T3	Abbreviation 69 72	PZA
+T4	Abbreviation 4 7	PZA
+T1	Laboratory_or_Test_Result 31 47	LESION RADIOPACA
+T5	Disease 112 120	ODONTOMA
+T6	Laboratory_or_Test_Result 74 111	LESION TUMORAL DE ORIGEN ODONTOLOGICO
+T7	Body_Part 69 72	PZA

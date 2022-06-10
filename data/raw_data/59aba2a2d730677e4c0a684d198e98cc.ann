@@ -1,0 +1,31 @@
+T1	Abbreviation 25 28	Ant
+T2	Abbreviation 29 33	morb
+T3	Abbreviation 66 68	qx
+T4	Family_Member 210 215	Madre
+T5	Abbreviation 285 289	eeii
+T6	Body_Part 285 289	eeii
+T7	Family_Member 343 348	madre
+T8	Medication 456 463	proaven
+T10	Medication 518 530	clorfenamina
+T11	Abbreviation 531 534	jbe
+T12	Medication 537 544	proaven
+T13	Abbreviation 603 605	Dg
+T14	Body_Part 276 281	dorso
+T9	Medication 466 486	hidrocortisona crema
+T15	Medication 531 534	jbe
+T16	Abbreviation 800 804	poli
+T17	Disease 2 17	PRURIGO NODULAR
+T18	Disease 34 52	dermatitis atopica
+T19	Clinical_Finding 54 62	alergias
+A1	Negated T19
+T20	Disease 93 104	dermatiitis
+T21	Disease 105 120	prurigo nodular
+T22	Sign_or_Symptom 229 299	lesiones papulares y nodulares eritematosas en dorso  y eeii bilateral
+T23	Sign_or_Symptom 305 324	signos de infeccion
+A2	Negated T23
+T24	Sign_or_Symptom 326 341	xerosis cutanea
+T25	Disease 607 617	Dermatitis
+T26	Disease 620 635	Prurigo nodular
+T27	Disease 756 766	dermatitis
+T28	Disease 769 776	prurigo
+T29	Abbreviation 192 203	teledermato

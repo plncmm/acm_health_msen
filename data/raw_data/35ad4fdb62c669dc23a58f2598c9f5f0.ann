@@ -1,0 +1,8 @@
+T1	Abbreviation 26 30	post
+T3	Abbreviation 106 110	SBOR
+T2	Body_Part 82 105	bronquio fuente derecho
+T4	Disease 42 59	Quiste broncogeno
+T5	Disease 15 25	laringitis
+T6	Therapeutic_Procedure 31 41	extubacion
+T7	Sign_or_Symptom 42 105	Quiste broncogeno con amplia conexion a bronquio fuente derecho
+T8	Disease 106 110	SBOR

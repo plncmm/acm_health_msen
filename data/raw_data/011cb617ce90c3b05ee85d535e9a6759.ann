@@ -1,0 +1,32 @@
+T1	Abbreviation 62 64	Ca
+T2	Abbreviation 105 108	tto
+T3	Medication 113 125	levotiroxina
+T4	Abbreviation 130 133	mcg
+T5	Abbreviation 151 154	tsh
+T6	Abbreviation 240 246	CESFAM
+T7	Abbreviation 288 290	Hc
+T8	Abbreviation 296 298	hb
+T9	Abbreviation 306 309	vcm
+T10	Abbreviation 471 473	rx
+T11	Abbreviation 499 505	CESFAM
+T12	Abbreviation 523 525	cd
+T13	Abbreviation 87 92	aprox
+T14	Abbreviation 317 321	chcm
+T15	Abbreviation 350 352	GR
+T16	Abbreviation 355 356	U
+T17	Disease 2 32	ANEMIA DE TIPO NO ESPECIFICADO
+T18	Disease 62 73	Ca tiroideo
+T19	Therapeutic_Procedure 62 81	Ca tiroideo operada
+T20	Laboratory_Procedure 151 154	tsh
+T21	Disease 255 261	anemia
+T22	Sign_or_Symptom 255 273	anemia sintomatica
+T23	Laboratory_Procedure 288 290	Hc
+T24	Laboratory_Procedure 296 298	hb
+T25	Laboratory_Procedure 306 309	vcm
+T26	Laboratory_Procedure 317 321	chcm
+T27	Therapeutic_Procedure 338 352	trasnfusion GR
+T28	Sign_or_Symptom 398 406	sangrado
+A1	Negated T28
+T29	Sign_or_Symptom 417 425	adinamia
+T30	Sign_or_Symptom 436 460	dolor lumbar genralziado
+T31	Diagnostic_Procedure 471 473	rx

@@ -1,0 +1,12 @@
+T8	Abbreviation 0 2	pd
+#1	AnnotatorNotes T8	pieza dental
+T9	Abbreviation 120 122	pd
+#2	AnnotatorNotes T9	pieza dental
+T10	Body_Part 0 6	pd 2.8
+T11	Body_Part 53 59	raíces
+T12	Body_Part 120 126	pd 3.8
+T13	Body_Part 156 162	raíces
+T14	Laboratory_or_Test_Result 7 82	semi incluida, aparente giroversion a mesial, raíces ligeramente divergente
+T15	Disease 90 105	pericoronaritis
+T1	Laboratory_or_Test_Result 120 174	pd 3.8 semi incluida, mesioversion, raíces divergentes
+T2	Sign_or_Symptom 90 118	pericoronaritis a repetición

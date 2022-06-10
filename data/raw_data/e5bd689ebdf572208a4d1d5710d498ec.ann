@@ -1,0 +1,11 @@
+T1	Medication 82 90	losartan
+T2	Body_Part 46 53	CORAZÓN
+T3	Abbreviation 72 75	HTA
+T4	Disease 72 75	HTA
+T5	Disease 2 28	ENFERMEDAD DE CHAGAS AGUDA
+T6	Abbreviation 76 80	comp
+T7	Abbreviation 93 95	mg
+T8	Abbreviation 138 139	+
+T9	Abbreviation 154 157	ISP
+T10	Sign_or_Symptom 101 113	asintomatico
+T11	Laboratory_or_Test_Result 114 137	confirmacion serologica

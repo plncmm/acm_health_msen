@@ -1,0 +1,17 @@
+T1	Abbreviation 166 169	APS
+T2	Abbreviation 242 245	HTA
+T3	Abbreviation 301 304	APS
+T4	Abbreviation 438 441	lab
+T5	Abbreviation 496 498	mg
+T6	Abbreviation 499 500	d
+T7	Disease 2 72	HIPERURICEMIA SIN SIGNOS DE ARTRITIS INFLAMATORIA Y ENFERMEDAD TOFÁCEA
+T8	Disease 72 142	Hiperuricemia sin signos de artritis inflamatoria y enfermedad tofácea
+T9	Disease 242 245	HTA
+T10	Disease 248 260	dislipidemia
+T11	Disease 344 363	patologia coronaria
+T12	Therapeutic_Procedure 368 374	bypass
+T13	Laboratory_Procedure 477 488	acido urico
+T14	Laboratory_Procedure 428 441	exámen de lab
+T15	Disease 551 571	artritis inflamatora
+T16	Disease 574 591	patologia Tofácea
+T17	Disease 706 776	Hiperuricemia sin signos de artritis inflamatoria y enfermedad tofacea

@@ -1,0 +1,27 @@
+T1	Body_Part 69 75	HÍGADO
+T2	Abbreviation 122 125	APS
+T3	Abbreviation 168 171	dm2
+T4	Abbreviation 173 176	hta
+T5	Abbreviation 259 263	post
+T6	Abbreviation 308 310	mm
+T7	Abbreviation 316 319	tac
+T8	Body_Part 323 330	abdomen
+T9	Abbreviation 451 453	cm
+T10	Abbreviation 535 537	cm
+T11	Abbreviation 652 654	oh
+T12	Body_Part 519 523	bazo
+T13	Disease 2 46	ESPLENOMEGALIA, NO CLASIFICADA EN OTRA PARTE
+T14	Disease 56 98	CIRROSIS DEL HÍGADO Y LAS NO ESPECIFICADAS
+T15	Disease 168 171	dm2
+T16	Disease 173 177	hta.
+T17	Disease 210 216	anemia
+T18	Laboratory_or_Test_Result 282 297	trombocitopenia
+T19	Diagnostic_Procedure 316 330	tac de abdomen
+T20	Laboratory_or_Test_Result 349 417	signos de daño hepatico cronico con elementos de hipertension portal
+T21	Laboratory_or_Test_Result 430 466	esplenomegalia de 15 cm en eje mayor
+R1	Has Arg1:T19 Arg2:T20	
+R2	Has Arg1:T19 Arg2:T21	
+T22	Sign_or_Symptom 496 517	circulacion colateral
+T23	Sign_or_Symptom 519 557	bazo palpable 3 cm bajo reborde costal
+T24	Sign_or_Symptom 559 582	doloroso a la palpacion
+T25	Disease 718 762	Esplenomegalia, no clasificada en otra parte

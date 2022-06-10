@@ -1,0 +1,11 @@
+T1	Body_Part 6 11	AXILA
+T2	Body_Part 110 116	tronco
+T3	Body_Part 145 152	miembro
+T4	Disease 0 19	NEVUS AXILA PLIEGUE
+T5	Sign_or_Symptom 26 67	CAMBIO DE COLORACION Y AUMENTO DE VOLUMEN
+T6	Sign_or_Symptom 69 85	DOLOR RECURRENTE
+T7	Disease 88 116	Nevo melanocitico del tronco
+T8	Sign_or_Symptom 118 134	GONALGIA - AGUDA
+T9	Sign_or_Symptom 137 153	Dolor en miembro
+T10	Disease 155 164	SOBREPESO
+T11	Disease 167 192	Obesidad, no especificada

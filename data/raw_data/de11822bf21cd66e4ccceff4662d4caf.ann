@@ -1,0 +1,6 @@
+T1	Body_Part 44 66	rama izquierda del haz
+T2	Disease 0 33	hipertension  esencial (primaria)
+T3	Laboratory_or_Test_Result 33 66	bloqueo de rama izquierda del haz
+T4	Disease 91 121	gonartrosis primaria bilateral
+T5	Clinical_Finding 122 147	estado nutricional normal
+T6	Disease 147 177	enfermedad renalcronica etapa4

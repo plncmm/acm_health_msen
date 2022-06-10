@@ -1,0 +1,9 @@
+T1	Abbreviation 108 109	+
+#1	AnnotatorNotes T1	positivo
+T2	Body_Part 18 32	VÍAS URINARIAS
+T3	Disease 0 4	N390
+T4	Disease 5 55	INFECCION DE VÍAS URINARIAS, SITIO NO ESPECIFICADO
+T5	Diagnostic_Procedure 59 69	UROCULTIVO
+T6	Laboratory_or_Test_Result 70 107	POSITIVO A KLEBSIELLA PNEUMONIAE BLEE
+R1	Has Arg1:T5 Arg2:T6	
+T7	Disease 56 59	ITU

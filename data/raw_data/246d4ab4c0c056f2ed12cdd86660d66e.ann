@@ -1,0 +1,9 @@
+T1	Abbreviation 67 70	APS
+T2	Body_Part 110 123	muslo derecho
+T3	Disease 2 43	OBSERVACIÓN POR SOSPECHA DE TUMOR MALIGNO
+T4	Sign_or_Symptom 96 123	induracion en muslo derecho
+T5	Diagnostic_Procedure 151 179	resonancia nuclear magnetica
+T6	Laboratory_or_Test_Result 196 221	sarcoma de partes blandas
+R1	Has Arg1:T5 Arg2:T6	
+T7	Disease 196 221	sarcoma de partes blandas
+T8	Disease 222 263	Observacion por sospecha de tumor maligno

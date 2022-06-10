@@ -1,0 +1,20 @@
+T1	Body_Part 16 21	ÚTERO
+T3	Abbreviation 130 134	ECTO
+T4	Abbreviation 135 137	TV
+T5	Abbreviation 209 212	OBS
+T6	Abbreviation 192 194	HD
+T2	Abbreviation 195 196	G
+T7	Abbreviation 197 198	P
+T8	Abbreviation 199 200	A
+T9	Abbreviation 203 207	2CCA
+T10	Disease 2 21	LEIOMIOMA DEL ÚTERO
+T11	Sign_or_Symptom 71 95	SANGRADO POST MENOPAUSIA
+T12	Diagnostic_Procedure 130 137	ECTO TV
+T13	Disease 176 189	MIOMA UTERINO
+T14	Laboratory_or_Test_Result 176 189	MIOMA UTERINO
+R1	Has Arg1:T12 Arg2:T14	
+T15	Clinical_Finding 195 197	G3
+T16	Clinical_Finding 197 199	P3
+T17	Clinical_Finding 199 201	A0
+T18	Therapeutic_Procedure 204 207	CCA
+T19	Disease 213 226	MIOMA UTERINO

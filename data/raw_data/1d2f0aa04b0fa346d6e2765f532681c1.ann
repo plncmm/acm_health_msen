@@ -1,0 +1,32 @@
+T1	Abbreviation 118 121	APS
+T2	Abbreviation 164 167	ESD
+T3	Body_Part 164 167	ESD
+T4	Abbreviation 304 306	rx
+T5	Body_Part 343 349	cadera
+T6	Abbreviation 409 412	RNM
+T7	Abbreviation 415 418	TAC
+T8	Body_Part 422 429	columna
+T11	Abbreviation 497 501	TEPE
+T12	Abbreviation 520 521	-
+T13	Disease 2 94	COMPRENSIÓN DE LAS RAÍCES Y DE LOS PLEXOS NERVIOS EN ENFERMEDADES CLASIFICADAS EN OTRA PARTE
+T14	Sign_or_Symptom 133 180	dolor lumbar con irradiacion a ESD intermitente
+T15	Sign_or_Symptom 201 209	paresias
+A1	Negated T15
+T16	Sign_or_Symptom 186 197	parestesias
+A2	Negated T16
+T17	Clinical_Finding 244 275	impotencia funcional importante
+T18	Disease 296 302	trauma
+A3	Negated T18
+T19	Diagnostic_Procedure 304 306	rx
+T20	Laboratory_or_Test_Result 315 349	leves signos de artrosis de cadera
+T21	Disease 331 349	artrosis de cadera
+R1	Has Arg1:T19 Arg2:T20	
+T22	Diagnostic_Procedure 409 412	RNM
+T23	Diagnostic_Procedure 415 429	TAC de columna
+T24	Sign_or_Symptom 497 508	TEPE dudoso
+T25	Sign_or_Symptom 511 522	lasegue (-)
+T26	Disease 553 565	lumbociatica
+T27	Diagnostic_Procedure 586 608	esyudio imageneoligico
+T28	Disease 625 717	Comprension de las raices y de los plexos nervios en enfermedades clasificadas en otra parte
+T9	Body_Part 660 674	plexos nervios
+T10	Body_Part 37 51	PLEXOS NERVIOS

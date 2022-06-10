@@ -1,0 +1,12 @@
+T1	Abbreviation 60 63	APS
+T2	Abbreviation 93 96	HTA
+T3	Abbreviation 109 112	ECG
+T4	Disease 2 36	ARRITMIA CARDÍACA, NO ESPECIFICADA
+T5	Disease 93 96	HTA
+T6	Diagnostic_Procedure 109 112	ECG
+T7	Laboratory_or_Test_Result 130 145	BLOQUEO DE RAMA
+R1	Has Arg1:T6 Arg2:T7	
+T8	Disease 130 145	BLOQUEO DE RAMA
+T9	Disease 160 177	ARRITMIA CARDIACA
+T10	Sign_or_Symptom 160 195	ARRITMIA CARDIACA A LA AUSCULTACION
+T11	Disease 245 279	Arritmia cardiaca, no especificada

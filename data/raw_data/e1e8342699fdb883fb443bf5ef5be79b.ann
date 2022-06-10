@@ -1,0 +1,17 @@
+T1	Body_Part 19 25	PULMÓN
+T2	Abbreviation 109 112	TBC
+T3	Body_Part 310 335	lobulo superior izquierdo
+T4	Body_Part 391 396	torax
+T5	Abbreviation 430 432	TC
+T6	Body_Part 433 438	tórax
+T7	Body_Part 226 231	tórax
+T8	Disease 2 65	TUBERCULOSIS DEL PULMÓN, CONFIRMADA POR MEDIOS NO ESPECIFICADOS
+T9	Disease 109 121	TBC pulmonar
+T10	Sign_or_Symptom 156 168	asintomatica
+T11	Diagnostic_Procedure 214 231	Radiografía tórax
+T12	Laboratory_or_Test_Result 259 335	Foco de neuomopatia con componente atelectasico en lobulo superior izquierdo
+R1	Has Arg1:T11 Arg2:T12	
+T13	Diagnostic_Procedure 377 396	tomografia de torax
+A1	Pending T13
+T14	Diagnostic_Procedure 430 438	TC tórax
+A2	Pending T14

@@ -1,0 +1,7 @@
+T1	Body_Part 8 14	Hombro
+T2	Abbreviation 24 28	izdo
+T3	Abbreviation 30 35	DM2IR
+T4	Disease 8 28	Hombro doloroso izdo
+T5	Disease 30 35	DM2IR
+T6	Sign_or_Symptom 38 61	Sin respuesta al manejo
+T7	Disease 87 104	Diabetes mellitus

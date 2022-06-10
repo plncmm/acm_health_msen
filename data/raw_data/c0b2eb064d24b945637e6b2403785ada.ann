@@ -1,0 +1,13 @@
+T1	Abbreviation 65 68	APS
+T2	Abbreviation 165 168	hrs
+T3	Abbreviation 252 256	Atte
+T4	Abbreviation 259 261	Ud
+T5	Disease 2 41	OTRAS ARRITMIAS CARDÍACAS ESPECIFICADAS
+T6	Disease 90 99	diabetica
+T7	Clinical_Finding 100 118	insulinorequirente
+T8	Sign_or_Symptom 127 140	palpitaciones
+T9	Diagnostic_Procedure 152 158	holter
+T10	Laboratory_or_Test_Result 183 210	extrasistoles ventriculares
+T11	Disease 183 210	extrasistoles ventriculares
+R1	Has Arg1:T9 Arg2:T10	
+T12	Disease 262 301	Otras arritmias cardiacas especificadas

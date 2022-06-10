@@ -1,0 +1,34 @@
+T1	Abbreviation 54 57	APS
+T2	Abbreviation 356 358	Rx
+T3	Body_Part 396 420	hilio pulmonar izquierdo
+T4	Body_Part 359 364	tórax
+T5	Abbreviation 450 453	RPR
+T6	Abbreviation 503 506	VSH
+T7	Abbreviation 581 584	TAC
+T8	Body_Part 585 590	tórax
+T9	Abbreviation 693 697	Atte
+T10	Disease 2 30	FIEBRE DE ORIGEN DESCONOCIDO
+T11	Clinical_Finding 73 94	antecedentes morbidos
+A1	Negated T11
+T14	Sign_or_Symptom 237 257	expectoración mucosa
+T15	Sign_or_Symptom 259 286	sudoracion profusa nocturna
+T16	Sign_or_Symptom 289 314	baja de peso concomitante
+T17	Diagnostic_Procedure 331 339	examenes
+T18	Diagnostic_Procedure 356 364	Rx tórax
+T19	Laboratory_or_Test_Result 370 420	lteracion inespecifica de hilio pulmonar izquierdo
+R1	Has Arg1:T18 Arg2:T19	
+T20	Laboratory_Procedure 424 437	Baciloscopias
+T21	Laboratory_or_Test_Result 438 447	negativas
+R2	Has Arg1:T20 Arg2:T21	
+T22	Laboratory_Procedure 450 453	RPR
+T23	Laboratory_or_Test_Result 454 462	negativo
+R3	Has Arg1:T22 Arg2:T23	
+T24	Laboratory_Procedure 465 474	Hemograma
+T25	Disease 476 499	anemia ferropenica leve
+T26	Laboratory_or_Test_Result 476 499	anemia ferropenica leve
+R4	Has Arg1:T24 Arg2:T26	
+T27	Laboratory_Procedure 503 506	VSH
+T28	Diagnostic_Procedure 581 590	TAC tórax
+T29	Laboratory_Procedure 634 662	test  de hemorragias ocultas
+T30	Disease 699 727	Fiebre de origen desconocido
+T12	Sign_or_Symptom 141 154	cuadro febril

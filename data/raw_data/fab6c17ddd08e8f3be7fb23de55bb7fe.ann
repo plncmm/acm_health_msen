@@ -1,0 +1,53 @@
+T1	Body_Part 56 75	MENINGES CEREBRALES
+T2	Abbreviation 99 102	APS
+T3	Abbreviation 172 174	TU
+T4	Abbreviation 227 230	TAC
+T5	Body_Part 234 241	CEREBRO
+T6	Body_Part 274 286	PARIETAL IZQ
+T7	Abbreviation 283 286	IZQ
+T8	Abbreviation 324 328	TICS
+T9	Abbreviation 788 791	ROT
+T10	Abbreviation 806 810	EIII
+T11	Body_Part 963 982	meninges cerebrales
+T12	Abbreviation 855 856	-
+T13	Abbreviation 867 868	-
+T14	Disease 2 75	TUMOR DE COMPORTAMIENTO INCIERTO O DESCONOCIDO DE LAS MENINGES CEREBRALES
+T16	Disease 172 183	TU CEREBRAL
+T17	Diagnostic_Procedure 227 241	TAC DE CEREBRO
+T18	Laboratory_or_Test_Result 259 286	MASA HIPODENSA PARIETAL IZQ
+R1	Has Arg1:T17 Arg2:T18	
+T19	Sign_or_Symptom 324 348	TICS FACIALES EN AUMENTO
+T21	Sign_or_Symptom 413 420	PARESIA
+T22	Sign_or_Symptom 422 446	COMPRIMISO DE CONCIENCIA
+T23	Sign_or_Symptom 448 455	VOMITOS
+T24	Sign_or_Symptom 457 464	VERTIGO
+T25	Sign_or_Symptom 499 529	CEFALEA HOLOCRANEA, ESPORADICA
+T26	Sign_or_Symptom 620 636	SIGNOS DE ALARMA
+A2	Negated T26
+T27	Disease 605 612	RETRASO
+T28	Sign_or_Symptom 648 657	ORIENTADO
+T29	Sign_or_Symptom 659 664	CLOTE
+T30	Abbreviation 659 664	CLOTE
+T31	Sign_or_Symptom 677 694	ATINGENTE A MEDIO
+T32	Sign_or_Symptom 696 717	DICE SOLO MONOSILABOS
+T33	Sign_or_Symptom 718 725	AFASICO
+T34	Sign_or_Symptom 730 773	MOVIMIENTO INVOLUNTARIO HEMIFACIAL  DERECHO
+T35	Sign_or_Symptom 779 786	PARESIA
+A3	Negated T35
+T36	Sign_or_Symptom 788 810	ROT AUMENTADOS EN EIII
+T37	Sign_or_Symptom 812 826	M5 BILATERALES
+T38	Sign_or_Symptom 831 846	DISDIADOCINESIA
+A4	Negated T38
+T39	Sign_or_Symptom 848 855	ROMBERG
+A5	Negated T39
+T40	Sign_or_Symptom 858 866	BABINSKY
+A6	Negated T40
+T41	Disease 909 982	Tumor de comportamiento incierto o desconocido de las meninges cerebrales
+T15	Disease 122 135	RETRASO MENTA
+T20	Sign_or_Symptom 383 392	DISARTRIA
+A1	Negated T21
+A7	Negated T22
+A8	Negated T23
+A9	Negated T24
+A10	Negated T20
+T42	Diagnostic_Procedure 666 673	GLASGOW

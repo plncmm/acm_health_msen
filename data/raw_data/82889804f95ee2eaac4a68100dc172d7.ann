@@ -1,0 +1,15 @@
+T1	Abbreviation 14 17	emb
+T2	Abbreviation 36 39	fur
+T3	Abbreviation 97 100	obs
+T4	Abbreviation 102 105	itu
+T5	Abbreviation 3 4	g
+T6	Abbreviation 5 6	p
+T7	Abbreviation 7 8	a
+T8	Abbreviation 34 35	x
+T9	Clinical_Finding 3 5	g1
+T10	Clinical_Finding 5 7	p0
+T11	Clinical_Finding 7 9	a0
+T12	Clinical_Finding 14 17	emb
+T13	Disease 55 70	marosomia fetal
+T14	Clinical_Finding 75 92	prodomos de parto
+T15	Disease 102 105	itu

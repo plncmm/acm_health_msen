@@ -1,0 +1,5 @@
+T1	Body_Part 0 7	pieza 7
+T2	Body_Part 49 57	pieza 20
+T3	Laboratory_or_Test_Result 0 45	pieza 7, lesion periapical, hipermecementosis
+T4	Therapeutic_Procedure 89 99	endodoncia
+T5	Laboratory_or_Test_Result 123 139	lesion peripical

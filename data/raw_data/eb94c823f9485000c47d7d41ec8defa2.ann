@@ -1,0 +1,8 @@
+T1	Abbreviation 6 11	TRAST
+T2	Body_Part 17 29	GLOBO OCULAR
+T3	Abbreviation 88 93	aprox
+T4	Abbreviation 96 98	mm
+T5	Disease 0 29	OTROS TRAST. DEL GLOBO OCULAR
+T6	Sign_or_Symptom 67 133	masas redondeadas de aprox 3 mm de diametro en relacion a epìcanto
+T7	Sign_or_Symptom 147 152	dolor
+T8	Body_Part 125 133	epìcanto

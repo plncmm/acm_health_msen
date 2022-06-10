@@ -1,0 +1,13 @@
+T1	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T2	Body_Part 31 37	DIENTE
+T3	Abbreviation 61 64	APS
+T4	Clinical_Finding 79 107	denticion mixta segunda fase
+T5	Body_Part 79 88	denticion
+T6	Sign_or_Symptom 108 163	Mordida invertida anterior Pd 1.2 con 4.2 y 2.2 con 3.2
+T7	Abbreviation 135 137	Pd
+T8	Body_Part 135 141	Pd 1.2
+T9	Body_Part 146 149	4.2
+T10	Body_Part 152 155	2.2
+T11	Body_Part 160 163	3.2
+T12	Disease 164 199	Anomalias de la posicion del diente
+T13	Body_Part 193 199	diente

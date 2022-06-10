@@ -1,0 +1,7 @@
+T1	Therapeutic_Procedure 24 54	terapia de soporte periodontal
+T2	Clinical_Finding 56 63	estable
+T3	Clinical_Finding 65 78	buena higiene
+T4	Disease 80 118	desdentada parcial superior e inferior
+T5	Clinical_Finding 120 150	portadora de protesis superior
+T6	Sign_or_Symptom 152 173	ausencia de 1.1 y 1.2
+T7	Body_Part 164 173	1.1 y 1.2

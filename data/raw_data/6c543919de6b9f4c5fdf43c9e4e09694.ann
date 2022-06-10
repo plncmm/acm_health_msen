@@ -1,0 +1,14 @@
+T1	Sign_or_Symptom 0 27	APIÑAMIENTO SEVERO GRUPO II
+T2	Abbreviation 28 30	PD
+T3	Body_Part 28 35	PD :1,4
+T4	Sign_or_Symptom 28 48	PD :1,4 PALTOVERSION
+T5	Body_Part 51 54	2,5
+T6	Sign_or_Symptom 51 69	2,5 VESTIBOVERSION
+T7	Abbreviation 70 72	PD
+T8	Body_Part 70 83	PD: 3,5 Y 4,5
+T9	Sign_or_Symptom 70 97	PD: 3,5 Y 4,5 LINGUOVERSION
+T10	Abbreviation 98 100	PD
+T11	Body_Part 98 110	PD 3,4 Y 4,4
+T12	Sign_or_Symptom 98 128	PD 3,4 Y 4,4 VESTIBULO VERSION
+T13	Sign_or_Symptom 129 152	DIFICULTAD PARA HIGIENE
+T14	Body_Part 19 27	GRUPO II

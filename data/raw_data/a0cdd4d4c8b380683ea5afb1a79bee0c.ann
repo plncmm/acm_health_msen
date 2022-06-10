@@ -1,0 +1,83 @@
+T1	Disease 2 89	HALLAZGOS ANORMALES EN DIAGNÓSTICO POR IMAGEN DEL CORAZÓN Y DE LA CIRCULACIÓN CORONARIA
+T2	Disease 93 118	INTOLERANCIA A LA GLUCOSA
+T3	Disease 122 154	HIPERTENSIÓN ESENCIAL (PRIMARIA)
+T4	Disease 179 182	HTA
+T5	Disease 184 196	DISLIPIDEMIA
+T6	Disease 199 214	INTOL A GLUCOSA
+T7	Sign_or_Symptom 255 287	ADORMECIMIENTOS PRECORDIALES 2-4
+T8	Disease 418 426	ISQUEMIA
+A1	Negated T8
+T9	Abbreviation 179 182	HTA
+#1	AnnotatorNotes T9	hipertensión arterial
+T10	Abbreviation 229 233	PSCV
+#2	AnnotatorNotes T10	programa de salud cardiovascular
+T11	Abbreviation 351 354	ECG
+#3	AnnotatorNotes T11	electrocardiograma
+T12	Abbreviation 448 451	TSH
+#4	AnnotatorNotes T12	tirotropina
+T13	Abbreviation 458 460	T4
+#5	AnnotatorNotes T13	tiroxina
+T14	Abbreviation 472 476	HCTO
+#6	AnnotatorNotes T14	hematocrito
+T15	Abbreviation 483 485	HB
+#7	AnnotatorNotes T15	hemoglobina
+T16	Abbreviation 510 513	VHS
+#8	AnnotatorNotes T16	velocidad horaria de sedimentación
+T17	Abbreviation 546 556	MICROALBUM
+#9	AnnotatorNotes T17	microalbumina
+T18	Abbreviation 580 585	CREAT
+#10	AnnotatorNotes T18	creatinina
+T19	Abbreviation 615 618	HDL
+#11	AnnotatorNotes T19	lipoproteínas de alta densidad
+T20	Abbreviation 600 603	COL
+#12	AnnotatorNotes T20	colesterol
+T21	Abbreviation 623 626	TGC
+#13	AnnotatorNotes T21	triglicéridos
+T22	Abbreviation 650 652	BI
+#14	AnnotatorNotes T22	bilirrubina
+T23	Abbreviation 665 667	BI
+#15	AnnotatorNotes T23	bilirrubina
+T24	Abbreviation 682 685	GOT
+#16	AnnotatorNotes T24	transaminasa glutámico oxalacética
+T25	Abbreviation 690 693	GPT
+#17	AnnotatorNotes T25	transaminasa glutámico pirúvica
+T26	Abbreviation 698 701	GGT
+#18	AnnotatorNotes T26	gammaglutamiltranspeptidasa
+T27	Abbreviation 706 708	AC
+#19	AnnotatorNotes T27	ácido
+T28	Abbreviation 721 724	OCE
+#20	AnnotatorNotes T28	orificio cervical externo
+T29	Body_Part 52 59	CORAZÓN
+T30	Diagnostic_Procedure 351 364	ECG DE REPOSO
+T31	Laboratory_or_Test_Result 383 397	RITOMO SINUSAL
+T32	Laboratory_or_Test_Result 404 433	EVIDENCIAS DE ISQUEMIA ACTUAL
+A2	Negated T32
+R1	Has Arg1:T30 Arg2:T31	
+R2	Has Arg1:T30 Arg2:T32	
+T33	Laboratory_Procedure 448 451	TSH
+T34	Laboratory_Procedure 458 460	T4
+T35	Laboratory_Procedure 472 476	HCTO
+T36	Laboratory_Procedure 483 485	HB
+T37	Laboratory_Procedure 492 501	PLAQUETAS
+T38	Laboratory_Procedure 510 513	VHS
+T39	Laboratory_or_Test_Result 517 533	CELULAS NORMALES
+T40	Laboratory_Procedure 537 543	FROTIS
+R3	Has Arg1:T40 Arg2:T39	
+T41	Laboratory_Procedure 546 556	MICROALBUM
+T42	Laboratory_or_Test_Result 557 565	NEGATIVA
+R4	Has Arg1:T41 Arg2:T42	
+T43	Laboratory_Procedure 567 575	GLICEMIA
+T44	Laboratory_Procedure 580 585	CREAT
+T45	Laboratory_Procedure 601 609	OL TOTAL
+T46	Laboratory_Procedure 615 618	HDL
+T47	Laboratory_Procedure 623 626	TGC
+T48	Laboratory_Procedure 631 648	PRUEBAS HEPATICAS
+T49	Laboratory_Procedure 650 658	BI TOTAL
+T50	Laboratory_Procedure 665 675	BI DIRECTA
+T51	Laboratory_Procedure 682 685	GOT
+T52	Laboratory_Procedure 690 693	GPT
+T53	Laboratory_Procedure 698 701	GGT
+T54	Laboratory_Procedure 706 714	AC URICO
+T55	Abbreviation 199 204	INTOL
+T56	Laboratory_Procedure 592 599	PLIDIOC
+T57	Abbreviation 592 599	PLIDIOC

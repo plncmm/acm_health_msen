@@ -1,0 +1,11 @@
+T1	Body_Part 0 7	pieza A
+T2	Body_Part 21 28	pieza b
+T3	Body_Part 45 52	pieza I
+T4	Body_Part 104 111	pieza 3
+T5	Therapeutic_Procedure 8 19	pulpectomia
+T6	Sign_or_Symptom 29 43	caries oclusal
+T7	Therapeutic_Procedure 65 74	exodoncia
+T8	Sign_or_Symptom 45 60	pieza I ausente
+T9	Sign_or_Symptom 112 126	caries oclusal
+T10	Disease 29 35	caries
+T11	Disease 112 118	caries

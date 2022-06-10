@@ -1,0 +1,8 @@
+T1	Body_Part 0 14	dientes 1 y 16
+T2	Sign_or_Symptom 0 69	dientes 1 y 16 semierupcionada y falta de espacio pora alojar dientes
+T3	Body_Part 62 69	dientes
+T4	Body_Part 71 86	dientes 17 y 32
+T5	Sign_or_Symptom 71 119	dientes 17 y 32 semierupcionados pericoronaritis
+T6	Disease 104 119	pericoronaritis
+T7	Body_Part 121 130	diente 32
+T8	Body_Part 132 138	diente

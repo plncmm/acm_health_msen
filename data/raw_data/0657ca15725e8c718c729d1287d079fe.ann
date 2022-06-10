@@ -1,0 +1,16 @@
+T1	Abbreviation 77 80	IRC
+T2	Abbreviation 84 86	HD
+T3	Abbreviation 235 239	DM 2
+T4	Abbreviation 217 219	HD
+T5	Medication 245 253	INSULINA
+T6	Disease 0 4	E122
+T7	Disease 5 22	DIABETES MELLITUS
+T8	Disease 36 48	DESNUTRICIÓN
+T9	Disease 77 80	IRC
+T10	Therapeutic_Procedure 84 86	HD
+T12	Therapeutic_Procedure 217 219	HD
+T13	Disease 235 239	DM 2
+T14	Therapeutic_Procedure 165 173	DIALISIS
+T15	Laboratory_Procedure 178 187	CLEARENCE
+T11	Laboratory_or_Test_Result 188 198	CONSERVADO
+R1	Has Arg1:T15 Arg2:T11	

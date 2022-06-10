@@ -1,0 +1,11 @@
+T1	Body_Part 75 100	VÁLVULAS AÓRTICA Y MITRAL
+T2	Abbreviation 124 127	APS
+T3	Family_Member 129 134	madre
+T4	Abbreviation 296 297	r
+T5	Disease 2 32	HIPERTENSIÓN PULMONAR PRIMARIA
+T6	Disease 36 100	OTRAS MALFORMACIONES CONGÉNITAS DE LAS VÁLVULAS AÓRTICA Y MITRAL
+T7	Disease 155 185	malformacion pulmonar  derecho
+T8	Clinical_Finding 264 294	capacidad funcional disminuida
+T9	Sign_or_Symptom 296 309	r2 desdoblado
+T10	Diagnostic_Procedure 319 333	ecocardiograma
+T11	Disease 390 420	Hipertension pulmonar primaria

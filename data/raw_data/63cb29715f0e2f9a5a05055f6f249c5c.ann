@@ -1,0 +1,68 @@
+T1	Abbreviation 34 39	ANTEC
+T2	Abbreviation 43 46	HTA
+T3	Abbreviation 49 51	IC
+T4	Abbreviation 82 87	ANTEC
+T5	Abbreviation 91 94	ACV
+T6	Medication 144 152	LOSARTAN
+T7	Medication 161 172	FUROSEMIDA1
+T8	Medication 176 189	ATORVASTTAINA
+T9	Medication 208 216	ATENOLOL
+T10	Abbreviation 320 322	CM
+T11	Abbreviation 426 428	CM
+T12	Abbreviation 451 453	EX
+T13	Abbreviation 457 460	LAB
+T14	Abbreviation 472 474	TP
+T15	Abbreviation 480 484	TTPK
+T16	Abbreviation 490 494	HCTO
+T17	Abbreviation 501 503	HB
+T18	Abbreviation 510 513	WBC
+T19	Abbreviation 554 557	VHS
+T20	Abbreviation 598 601	RHA
+T21	Abbreviation 613 618	CREAT
+T22	Abbreviation 638 646	PLPIDIOC
+T23	Abbreviation 647 651	COOL
+T24	Abbreviation 665 668	HDL
+T25	Abbreviation 673 676	LDL
+T26	Abbreviation 681 684	TGC
+T27	Abbreviation 707 710	ECG
+T28	Abbreviation 736 738	FC
+T29	Abbreviation 742 745	LPM
+T30	Abbreviation 779 782	AVF
+T31	Disease 2 17	HERNIA INGUINAL
+T32	Disease 43 46	HTA
+T33	Disease 49 51	IC
+T34	Therapeutic_Procedure 54 65	VARICETOMIA
+T35	Disease 68 80	DISLIPIDEMIA
+T36	Disease 91 116	ACV  ANTIGUO NO SECUELADO
+T37	Sign_or_Symptom 229 255	DOLOR ABDOMINAL RECURRENTE
+T38	Disease 277 303	HERNIA  INGUINAL A DERECHA
+T39	Sign_or_Symptom 338 346	ATASCADA
+A1	Negated T39
+T40	Sign_or_Symptom 350 360	GANGRENADA
+A2	Negated T40
+T41	Sign_or_Symptom 363 373	REDUCTIBLE
+T42	Disease 395 410	HERNIA INGUINAL
+T43	Sign_or_Symptom 439 451	REDUCTIBLE  
+T44	Laboratory_Procedure 472 474	TP
+T45	Laboratory_Procedure 480 484	TTPK
+T46	Laboratory_Procedure 490 494	HCTO
+T47	Laboratory_Procedure 501 503	HB
+T48	Laboratory_Procedure 510 513	WBC
+T49	Laboratory_Procedure 520 529	PLAQUETAS
+T50	Laboratory_Procedure 536 545	PLAQUETAS
+T51	Laboratory_Procedure 554 557	VHS
+T52	Laboratory_or_Test_Result 561 587	CELULAS NORMALES AL FROTIS
+T53	Laboratory_or_Test_Result 590 610	GRUPO O RHA POSITIVO
+T54	Laboratory_Procedure 613 618	CREAT
+T55	Laboratory_Procedure 625 633	GLICEMIA
+T56	Laboratory_Procedure 638 657	PLPIDIOC COOL TOTAL
+T57	Laboratory_Procedure 665 668	HDL
+T58	Laboratory_Procedure 673 676	LDL
+T59	Laboratory_Procedure 681 684	TGC
+T60	Laboratory_Procedure 690 701	ACIDO URICO
+T61	Diagnostic_Procedure 707 710	ECG
+T62	Laboratory_or_Test_Result 727 736	SINUSAL  
+R1	Has Arg1:T61 Arg2:T62	
+T63	Laboratory_or_Test_Result 756 782	MELLADO EN DII, DIII Y AVF
+T64	Sign_or_Symptom 806 828	INFLAMACION RECURRENTE
+R2	Has Arg1:T61 Arg2:T63	

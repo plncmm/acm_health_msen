@@ -1,0 +1,6 @@
+T1	Disease 2 38	ALTERACIONES EN LA ERUPCIÓN DENTARIA
+T2	Abbreviation 62 65	APS
+T3	Body_Part 67 76	2.8 y 3.8
+T4	Clinical_Finding 67 93	2.8 y 3.8 semierupcionadas
+T5	Sign_or_Symptom 98 115	historia de dolor
+T6	Disease 116 152	Alteraciones en la erupcion dentaria

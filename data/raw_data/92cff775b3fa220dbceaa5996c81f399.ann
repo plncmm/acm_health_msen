@@ -1,0 +1,11 @@
+T1	Therapeutic_Procedure 13 23	ENDODONCIA
+T2	Sign_or_Symptom 71 98	DOLOR CONSTANTE Y PULSACION
+T3	Diagnostic_Procedure 112 114	RZ
+T4	Laboratory_or_Test_Result 127 166	GRANULOMA PARARADICULAR MESIAL EN PZA 9
+T5	Abbreviation 161 164	PZA
+T6	Body_Part 161 166	PZA 9
+T7	Laboratory_or_Test_Result 169 203	REBALSE MAS CICATRIZ APICAL PZA 10
+T8	Abbreviation 197 200	PZA
+T9	Body_Part 197 203	PZA 10
+R1	Has Arg1:T3 Arg2:T7	
+R2	Has Arg1:T3 Arg2:T4	

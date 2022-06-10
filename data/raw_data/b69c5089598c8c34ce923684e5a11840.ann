@@ -1,0 +1,9 @@
+T1	Abbreviation 41 44	APS
+T2	Abbreviation 236 239	qca
+T3	Disease 2 17	HERNIA INGUINAL
+T4	Disease 72 97	Hernia inguinal izquierda
+T5	Sign_or_Symptom 154 208	aumento de volumen en la zona que aumenta con valsalva
+T6	Therapeutic_Procedure 225 270	resolucion qca de hernia inguinal recidivante
+T7	Disease 272 287	Hernia inguinal
+T8	Disease 243 258	hernia inguinal
+A1	Pending T6

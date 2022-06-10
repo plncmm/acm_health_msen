@@ -1,0 +1,12 @@
+T1	Sign_or_Symptom 0 27	Compresion Maxilar superior
+T2	Body_Part 11 27	Maxilar superior
+T3	Laboratory_or_Test_Result 32 70	caninos retenidos por falta de espacio
+T4	Body_Part 32 39	caninos
+T5	Sign_or_Symptom 72 89	Giroversion pza.8
+T6	Abbreviation 84 87	pza
+T7	Body_Part 84 89	pza.8
+T8	Disease 90 101	Apiñamiento
+T9	Body_Part 102 109	grupo V
+T10	Abbreviation 130 133	pza
+T11	Body_Part 130 141	pza 19 - 30
+T12	Sign_or_Symptom 110 129	Exraccion prematura

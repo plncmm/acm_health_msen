@@ -1,0 +1,9 @@
+T1	Abbreviation 102 105	TVP
+#1	AnnotatorNotes T1	trombosis venosa profunda
+T2	Abbreviation 106 109	IZQ
+#2	AnnotatorNotes T2	izquierda
+T3	Abbreviation 115 118	IMC
+#3	AnnotatorNotes T3	índice de masa corporal
+T4	Disease 0 38	INSUFICIENCIA VENOSA CRONICA BILATERAL
+T5	Disease 39 100	VARICES TRONCULARES SECTOR ESFERA INTERIOR Y EXTERNA BILATERA
+T6	Disease 102 109	TVP IZQ

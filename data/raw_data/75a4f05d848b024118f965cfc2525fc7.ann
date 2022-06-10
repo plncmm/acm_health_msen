@@ -1,0 +1,18 @@
+T1	Body_Part 34 38	PIEL
+T2	Abbreviation 71 74	Dm2
+T3	Abbreviation 76 79	HTA
+T4	Body_Part 118 143	lóbulo de oreja izquierda
+T5	Disease 3 38	TRAS NEOPLASIAS MALIGNAS DE LA PIEL
+T6	Disease 71 74	Dm2
+T7	Disease 76 79	HTA
+T8	Disease 81 89	Demencia
+T9	Sign_or_Symptom 100 143	lesión a nivel de lóbulo de oreja izquierda
+T10	Sign_or_Symptom 173 207	lesión ha ido en aumento de tamaño
+T11	Sign_or_Symptom 219 237	bordes irregulares
+T12	Sign_or_Symptom 239 259	hiperqueratinización
+T13	Sign_or_Symptom 262 297	zona de aspecto necrótico al centro
+T14	Sign_or_Symptom 305 313	dolorosa
+A1	Negated T14
+T15	Sign_or_Symptom 332 340	sangrado
+A2	Negated T15
+T16	Disease 378 401	Carcinoma Espinocelular

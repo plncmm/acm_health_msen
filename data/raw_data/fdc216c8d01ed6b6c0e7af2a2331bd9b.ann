@@ -1,0 +1,7 @@
+T1	Body_Part 0 10	diente 3.3
+T2	Disease 11 29	caries penetrantes
+T3	Laboratory_or_Test_Result 0 29	diente 3.3 caries penetrantes
+T4	Body_Part 59 65	diente
+T5	Clinical_Finding 69 102	tratamiento  previamente iniciado
+T6	Therapeutic_Procedure 123 132	endodncia
+A1	Pending T6

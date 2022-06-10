@@ -1,0 +1,5 @@
+T1	Disease 2 31	INFARTO ANTIGUO DEL MIOCARDIO
+T2	Disease 88 106	INFARTO MIOCARDICO
+T3	Abbreviation 55 58	APS
+#1	AnnotatorNotes T3	atención primaria de salud
+T4	Body_Part 22 31	MIOCARDIO

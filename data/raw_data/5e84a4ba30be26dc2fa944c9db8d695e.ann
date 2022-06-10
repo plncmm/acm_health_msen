@@ -1,0 +1,5 @@
+T1	Abbreviation 18 19	P
+T2	Body_Part 18 22	P# 3
+T3	Disease 27 33	CARIES
+T4	Sign_or_Symptom 34 57	CON COMUNICACION PULPAR
+T5	Body_Part 51 57	PULPAR

@@ -1,0 +1,16 @@
+T1	Abbreviation 94 97	APS
+T2	Medication 177 180	SBT
+T3	Family_Member 199 204	Madre
+T4	Abbreviation 305 307	TV
+T5	Abbreviation 157 159	to
+T6	Medication 164 174	Loratadina
+T7	Abbreviation 175 176	+
+T8	Abbreviation 185 186	+
+T9	Abbreviation 181 184	sos
+T10	Medication 187 197	Budeosnida
+T11	Abbreviation 177 180	SBT
+T12	Disease 2 31	RINITIS ALÉRGICA Y VASOMOTORA
+T13	Disease 35 39	ASMA
+T14	Disease 43 70	HIPOACUSIA, NO ESPECIFICADA
+T15	Therapeutic_Procedure 121 140	Adenoamigdalectomia
+T16	Sign_or_Symptom 213 244	disminucion de agudeza auditiva

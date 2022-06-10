@@ -1,0 +1,11 @@
+T1	Abbreviation 107 110	Atm
+T2	Body_Part 191 221	laterales y caninos superiores
+T3	Body_Part 255 271	piezas 1.5 y 1.4
+T4	Body_Part 107 110	Atm
+T5	Disease 2 38	ALTERACIONES EN LA ERUPCIÓN DENTARIA
+T6	Clinical_Finding 60 83	clase molar 1 bilateral
+T7	Sign_or_Symptom 84 104	Linea media desviada
+T8	Clinical_Finding 107 117	Atm normal
+T9	Sign_or_Symptom 118 154	Apiñamiento dentario inferior severo
+T10	Sign_or_Symptom 157 221	falta de espacio para erupcion de laterales y caninos superiores
+T11	Disease 236 271	supernumerio entre piezas 1.5 y 1.4

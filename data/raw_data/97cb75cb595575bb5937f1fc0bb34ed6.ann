@@ -1,0 +1,7 @@
+T1	Body_Part 0 8	Diente 7
+T2	Therapeutic_Procedure 9 18	trepanado
+T3	Abbreviation 23 25	dg
+T4	Disease 29 51	necrosis septica total
+T5	Therapeutic_Procedure 71 87	necropulpectomia
+T6	Disease 88 103	NECROSIS PULPAR
+A1	Pending T5

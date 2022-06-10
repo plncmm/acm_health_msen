@@ -1,0 +1,11 @@
+T1	Clinical_Finding 0 18	dentición completa
+T2	Disease 19 30	apiñamiento
+T3	Sign_or_Symptom 19 48	apiñamiento dentario anterior
+T4	Sign_or_Symptom 49 74	erupción palatina de P1.5
+T5	Body_Part 70 74	P1.5
+T6	Abbreviation 70 71	P
+T7	Abbreviation 76 77	p
+T8	Body_Part 76 80	p1.6
+T9	Sign_or_Symptom 81 113	ataque posterior a zona korkhaus
+T10	Body_Part 100 113	zona korkhaus
+T11	Body_Part 0 9	dentición

@@ -1,0 +1,8 @@
+T1	Abbreviation 53 56	APS
+T2	Abbreviation 92 94	OI
+T3	Body_Part 92 94	OI
+T4	Disease 2 29	ESTRABISMO, NO ESPECIFICADO
+T5	Disease 81 94	ESTRABISMO OI
+T6	Sign_or_Symptom 110 122	DOLOR OCULAR
+T7	Sign_or_Symptom 162 188	DISMINUCION AGUDEZA VISUAL
+T8	Disease 189 216	Estrabismo, no especificado

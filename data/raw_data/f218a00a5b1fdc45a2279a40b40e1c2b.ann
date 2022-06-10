@@ -1,0 +1,8 @@
+T1	Clinical_Finding 0 28	TERAPIA PREVIAMENTE INICIADA
+T2	Abbreviation 29 30	P
+T3	Body_Part 29 32	P.3
+T4	Therapeutic_Procedure 34 48	RE-TREPANACION
+T5	Abbreviation 49 50	P
+T6	Body_Part 49 52	P.3
+T7	Sign_or_Symptom 68 82	SINTOMATOLOGIA
+T8	Therapeutic_Procedure 95 140	MEDICAMENTOS INTRACONDUCTOS MAS DOBLE SELLADO

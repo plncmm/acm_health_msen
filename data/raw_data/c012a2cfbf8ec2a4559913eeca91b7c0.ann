@@ -1,0 +1,11 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 218 221	ICS
+T3	Abbreviation 237 239	Mm
+T4	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T5	Clinical_Finding 79 97	Clase I Esqueletal
+T6	Clinical_Finding 199 216	Resalte aumentado
+T7	Sign_or_Symptom 149 179	Relacion canina: mesio derecha
+T8	Clinical_Finding 99 129	Relacion molar: neutro derecha
+T9	Body_Part 218 221	ICS
+T10	Sign_or_Symptom 218 236	ICS en giroversion
+T11	Disease 342 390	Anomalias dentofaciales (incluso la maloclusion)

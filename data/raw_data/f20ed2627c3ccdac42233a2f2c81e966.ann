@@ -1,0 +1,11 @@
+T1	Abbreviation 47 50	ECO
+#1	AnnotatorNotes T1	ecografía
+T2	Abbreviation 93 95	QX
+#2	AnnotatorNotes T2	cirugía
+T3	Abbreviation 154 157	QCO
+#3	AnnotatorNotes T3	quirúrgico
+T4	Body_Part 34 41	RODILLA
+T5	Therapeutic_Procedure 22 41	PROTESIS DE RODILLA
+T6	Diagnostic_Procedure 47 59	ECO VASCULAR
+T7	Therapeutic_Procedure 114 126	ARTROPLASTIA
+A1	Pending T7

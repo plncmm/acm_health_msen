@@ -1,0 +1,10 @@
+T1	Body_Part 165 174	pieza 2.8
+T2	Disease 177 185	pulpitis
+T3	Clinical_Finding 99 107	alergias
+T6	Clinical_Finding 249 255	Caries
+T7	Abbreviation 52 55	APS
+A1	Negated T3
+T5	Clinical_Finding 2 28	CARIES DENTINARIA PROFUNDA
+T4	Clinical_Finding 128 185	caries dentinaria profunda mesial en pieza 2.8 y pulpitis
+T8	Diagnostic_Procedure 198 220	radiografia panoramica
+A2	Pending T8

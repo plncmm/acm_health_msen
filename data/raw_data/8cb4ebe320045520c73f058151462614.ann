@@ -1,0 +1,8 @@
+T1	Body_Part 84 98	area abdominal
+T2	Therapeutic_Procedure 48 59	extirpacion
+T3	Sign_or_Symptom 63 98	lesion localizada en area abdominal
+T4	Diagnostic_Procedure 89 105	abdominalBiopsia
+T5	Disease 121 134	porocarcinoma
+T6	Laboratory_or_Test_Result 121 134	porocarcinoma
+R1	Has Arg1:T4 Arg2:T6	
+T7	Disease 0 13	Porocarcinoma

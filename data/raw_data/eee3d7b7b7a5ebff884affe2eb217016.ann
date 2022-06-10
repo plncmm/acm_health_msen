@@ -1,0 +1,6 @@
+T1	Abbreviation 93 95	DI
+T2	Disease 13 32	Distrofia miotonica
+T3	Diagnostic_Procedure 64 75	psicometria
+T4	Disease 93 100	DI leve
+T5	Laboratory_or_Test_Result 93 100	DI leve
+R1	Has Arg1:T3 Arg2:T5	

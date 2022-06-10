@@ -1,0 +1,14 @@
+T1	Body_Part 0 6	PZA.19
+T2	Body_Part 45 52	PZA. 30
+T3	Abbreviation 0 3	PZA
+T4	Abbreviation 45 48	PZA
+T5	Body_Part 90 96	PZA. 3
+T6	Abbreviation 90 93	PZA
+T7	Abbreviation 113 117	EPAE
+T8	Abbreviation 69 73	EPAE
+T9	Disease 7 23	CARIE PENETRANTE
+T10	Disease 25 43	OSTEITIS RADICULAR
+T11	Disease 53 67	CARIE PROFUNDA
+T12	Disease 97 111	CARIE PROFUNDA
+T13	Laboratory_or_Test_Result 7 23	CARIE PENETRANTE
+T14	Laboratory_or_Test_Result 25 43	OSTEITIS RADICULAR

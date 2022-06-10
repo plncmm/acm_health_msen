@@ -1,0 +1,9 @@
+T1	Abbreviation 36 39	APS
+T2	Body_Part 177 191	mama izquierda
+T3	Body_Part 195 207	Mama derecha
+T4	Disease 2 12	MASTODINIA
+T5	Sign_or_Symptom 70 83	dolor mamario
+T6	Sign_or_Symptom 127 191	nodulo doloroso en cuadrante superior internom de mama izquierda
+T7	Sign_or_Symptom 195 246	Mama derecha tambien dolorosa, pero en forma difusa
+T8	Disease 294 304	Mastodinia
+T9	Sign_or_Symptom 249 292	Dolor no se relaciona con periodo menstrual

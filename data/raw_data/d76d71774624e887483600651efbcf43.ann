@@ -1,0 +1,7 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Abbreviation 44 47	APS
+T3	Clinical_Finding 62 85	antecedentes sistémicos
+A1	Negated T3
+T4	Disease 88 126	desdentada parcial superior e inferior
+T5	Therapeutic_Procedure 127 154	requiere prótesis removible
+A2	Pending T5

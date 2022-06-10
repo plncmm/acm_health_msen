@@ -1,0 +1,13 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Disease 33 71	desdentada parcial superior e inferior
+T3	Clinical_Finding 143 170	Protesis removible inferior
+T4	Disease 210 238	periodontitis cronica severa
+T5	Therapeutic_Procedure 251 275	exodoncia de pieza pilar
+T6	Sign_or_Symptom 73 103	Clase kennedy superior I mod 1
+T7	Sign_or_Symptom 105 126	clase Kenndy inferior
+T8	Sign_or_Symptom 128 141	Clase I mod 2
+T9	Abbreviation 98 101	mod
+T10	Abbreviation 136 139	mod
+T11	Sign_or_Symptom 183 192	retencion
+A1	Negated T11
+T12	Body_Part 264 269	pieza

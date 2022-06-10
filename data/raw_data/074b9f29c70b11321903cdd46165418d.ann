@@ -1,0 +1,9 @@
+T1	Disease 2 33	OTRAS PULPITIS, SIN ESPECIFICAR
+T2	Disease 37 70	pulpitis irreversible sintomatica
+T3	Body_Part 71 79	diente 5
+T4	Clinical_Finding 92 110	acceso endodontico
+T5	Therapeutic_Procedure 113 124	pulpectomia
+T6	Abbreviation 111 112	+
+T7	Abbreviation 160 161	+
+T8	Therapeutic_Procedure 135 159	medicacion intraconducto
+T9	Clinical_Finding 162 181	obturacion temporal

@@ -1,0 +1,6 @@
+T1	Abbreviation 53 56	APS
+T2	Abbreviation 58 62	PCTE
+T3	Disease 0 29	- HIPOACUSIA, NO ESPECIFICADA
+T4	Clinical_Finding 67 75	AUDIFONO
+T5	Sign_or_Symptom 118 138	ESCUCHA CON CLARIDAD
+A1	Negated T5

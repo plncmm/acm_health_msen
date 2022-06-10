@@ -1,0 +1,8 @@
+T1	Body_Part 0 8	pieza 14
+T2	Disease 9 31	peridontitis sub aguda
+T3	Sign_or_Symptom 9 56	peridontitis sub aguda, posiblemente por trauma
+T4	Disease 61 67	caries
+A1	Negated T4
+T5	Disease 72 99	lesion apical en periapical
+T6	Therapeutic_Procedure 108 126	desgaste selectivo
+T7	Therapeutic_Procedure 141 155	antibioterapia

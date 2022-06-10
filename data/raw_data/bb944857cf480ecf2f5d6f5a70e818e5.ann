@@ -1,0 +1,12 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 123 133	diente 2.7
+T3	Body_Part 106 119	camara pulpar
+T4	Body_Part 200 212	seno maxilar
+T5	Body_Part 244 250	diente
+T6	Body_Part 31 37	DIENTE
+T7	Body_Part 167 171	raiz
+T8	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T9	Laboratory_or_Test_Result 66 133	Obturacion profunda, sobreproyectada en camara pulpar en diente 2.7
+T10	Disease 144 165	pulpitis irreversible
+T11	Laboratory_or_Test_Result 167 212	raiz palatina sobreproyectada en seno maxilar
+T12	Disease 215 250	Anomalias de la posicion del diente

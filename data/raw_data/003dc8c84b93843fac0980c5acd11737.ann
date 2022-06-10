@@ -1,0 +1,12 @@
+T1	Abbreviation 55 58	APS
+T2	Abbreviation 82 85	DIU
+T3	Abbreviation 115 118	OBS
+T4	Abbreviation 60 61	M
+T5	Body_Part 123 129	OVARIO
+T6	Disease 2 31	OTRAS CONSULTAS ESPECIFICADAS
+T7	Disease 144 173	Otras consultas especificadas
+T8	Clinical_Finding 60 62	M1
+T9	Therapeutic_Procedure 63 70	CESAREA
+T10	Clinical_Finding 71 85	USUARIA DE DIU
+T11	Disease 123 142	OVARIO POLIQUISTICO
+T12	Laboratory_or_Test_Result 123 142	OVARIO POLIQUISTICO

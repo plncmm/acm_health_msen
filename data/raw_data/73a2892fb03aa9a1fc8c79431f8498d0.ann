@@ -1,0 +1,18 @@
+T1	Body_Part 31 37	DIENTE
+T2	Abbreviation 61 64	APS
+T3	Body_Part 66 75	3.8 - 4.8
+T4	Body_Part 113 116	1.8
+T5	Body_Part 154 163	3.8 - 4.8
+T6	Body_Part 245 251	diente
+T8	Abbreviation 204 207	3os
+T9	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T10	Sign_or_Symptom 66 92	3.8 - 4.8 semierupcionadas
+T11	Diagnostic_Procedure 92 109	Radiograficamente
+T12	Laboratory_or_Test_Result 113 151	1.8 Sin espacio para correcta erupción
+T13	Laboratory_or_Test_Result 154 179	3.8 - 4.8 mesioinclinadas
+T14	Therapeutic_Procedure 188 215	extracción de 4 3os molares
+A1	Pending T14
+T15	Disease 216 251	Anomalias de la posicion del diente
+R1	Has Arg1:T11 Arg2:T12	
+R2	Has Arg1:T11 Arg2:T13	
+T7	Body_Part 204 215	3os molares

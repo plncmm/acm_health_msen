@@ -1,0 +1,25 @@
+T1	Body_Part 2 10	PREPUCIO
+T2	Abbreviation 68 71	APS
+T3	Abbreviation 132 135	ITU
+T4	Abbreviation 253 255	MP
+T5	Abbreviation 255 256	+
+T6	Abbreviation 256 259	SRA
+T9	Body_Part 267 275	PREPUCIO
+T10	Body_Part 289 295	GLANDE
+T11	Body_Part 317 325	Prepucio
+T12	Body_Part 141 147	VEJIGA
+T7	Abbreviation 260 266	RR2TSS
+T8	Disease 2 44	PREPUCIO REDUNDANTE, FIMOSIS Y PARAFIMOSIS
+T13	Disease 104 111	FIMOSIS
+T14	Disease 132 135	ITU
+T15	Disease 161 175	BALANOPOSTITIS
+T16	Clinical_Finding 201 225	ANTECEDENTES PERINATALES
+A1	Negated T16
+T17	Clinical_Finding 253 259	MP+SRA
+T18	Clinical_Finding 260 266	RR2TSS
+T19	Sign_or_Symptom 267 295	PREPUCIO NO DECAPULLA GLANDE
+T20	Sign_or_Symptom 297 316	ORIFICIO PUNTIFORME
+T21	Disease 317 359	Prepucio redundante, fimosis y parafimosis
+T22	Sign_or_Symptom 141 157	VEJIGA PREPUCIAL
+A2	Negated T22
+A3	Negated T15

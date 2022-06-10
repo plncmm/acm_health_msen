@@ -1,0 +1,15 @@
+T1	Abbreviation 54 57	APS
+T2	Abbreviation 77 78	+
+T3	Abbreviation 78 79	-
+T4	Abbreviation 123 124	+
+T5	Abbreviation 124 125	-
+T6	Abbreviation 160 163	TEC
+T7	Abbreviation 331 334	EEG
+T8	Disease 2 30	EPILEPSIAcrisis de ausencias
+T10	Disease 180 184	Coma
+T9	Disease 160 169	TEC grave
+T11	Disease 204 221	crisis de usencia
+T12	Disease 224 244	trastornos del sueño
+T13	Diagnostic_Procedure 331 334	EEG
+T14	Laboratory_or_Test_Result 335 344	Epilepsia
+R1	Has Arg1:T13 Arg2:T14	

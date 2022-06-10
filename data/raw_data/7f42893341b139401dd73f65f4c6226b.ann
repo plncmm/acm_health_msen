@@ -1,0 +1,22 @@
+T1	Body_Part 64 71	CORAZÓN
+T2	Body_Part 581 588	corazon
+T3	Abbreviation 112 115	APS
+T4	Abbreviation 157 161	rnpt
+T5	Abbreviation 243 245	gr
+T6	Abbreviation 272 275	hrc
+T7	Abbreviation 293 295	dr
+T8	Abbreviation 308 310	dr
+T9	Abbreviation 456 459	ICC
+T10	Disease 2 33	SOPLO CARDÍACO, NO ESPECIFICADO
+T11	Disease 37 88	MALFORMACIÓN CONGÉNITA DEL CORAZÓN, NO ESPECIFICADA
+T12	Disease 157 161	rnpt
+T13	Sign_or_Symptom 213 236	bajo peso de nacimiento
+T14	Sign_or_Symptom 320 341	soplo sistolico II/VI
+T15	Sign_or_Symptom 421 429	cianosis
+A1	Negated T15
+T16	Sign_or_Symptom 435 440	edema
+A2	Negated T16
+T17	Sign_or_Symptom 446 459	signos de ICC
+A3	Negated T17
+T18	Sign_or_Symptom 473 514	soplo II/VI foco pulmonar sin irradiacion
+T19	Disease 554 605	Malformacion congenita del corazon, no especificada

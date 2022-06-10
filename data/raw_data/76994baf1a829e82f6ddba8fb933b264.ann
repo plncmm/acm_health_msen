@@ -1,0 +1,6 @@
+T1	Abbreviation 48 50	SD
+T2	Disease 0 22	Daño organico cerebral
+T3	Disease 23 45	Epilepsia catastrofica
+T4	Disease 48 66	SD. LENNOX GASTAUX
+T5	Clinical_Finding 68 91	Usuario de gafirostomia
+T6	Disease 92 112	Estado de postracion

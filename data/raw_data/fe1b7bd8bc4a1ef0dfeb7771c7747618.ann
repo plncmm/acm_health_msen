@@ -1,0 +1,16 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Abbreviation 74 77	APS
+T3	Sign_or_Symptom 79 103	Clase II molar izquierda
+T4	Sign_or_Symptom 104 143	Relación canina: mesioclusión izquierda
+T5	Sign_or_Symptom 145 170	Falta de espacio superior
+T6	Abbreviation 180 182	mm
+T7	Abbreviation 172 177	aprox
+T8	Sign_or_Symptom 183 216	Mesioinlinación dientes 1.1 y 2.1
+T9	Body_Part 199 216	dientes 1.1 y 2.1
+T10	Sign_or_Symptom 219 244	Falta de espacio inferior
+T11	Abbreviation 246 251	aprox
+T12	Abbreviation 254 256	mm
+T13	Sign_or_Symptom 257 272	Overjet de 4 mm
+T14	Abbreviation 274 279	aprox
+T15	Abbreviation 270 272	mm
+T16	Disease 282 330	Anomalias dentofaciales (incluso la maloclusion)

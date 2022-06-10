@@ -1,0 +1,7 @@
+T1	Sign_or_Symptom 13 29	múltiples caries
+T2	Therapeutic_Procedure 80 102	inactivación de caries
+T3	Disease 117 138	trastorno de lenguaje
+T4	Diagnostic_Procedure 181 202	estudio de hipoacusia
+T5	Laboratory_or_Test_Result 214 220	normal
+R1	Has Arg1:T4 Arg2:T5	
+A1	Negated T2

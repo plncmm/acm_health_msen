@@ -1,0 +1,12 @@
+T1	Abbreviation 51 53	sd
+T2	Abbreviation 49 50	x
+T3	Abbreviation 107 108	+
+T4	Abbreviation 122 123	+
+T5	Laboratory_or_Test_Result 30 48	colelitiasis aguda
+T6	Disease 30 48	colelitiasis aguda
+T7	Laboratory_or_Test_Result 51 64	sd de mirizzi
+T8	Disease 51 64	sd de mirizzi
+T9	Therapeutic_Procedure 91 106	colecistectomia
+T10	Therapeutic_Procedure 108 121	coledocostomi
+T11	Therapeutic_Procedure 124 131	sonda t
+T12	Diagnostic_Procedure 143 170	colangio grafia por sonda t

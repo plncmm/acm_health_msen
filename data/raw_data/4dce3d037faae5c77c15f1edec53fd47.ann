@@ -1,0 +1,9 @@
+T1	Abbreviation 63 66	TAC
+T2	Body_Part 70 76	CERBRO
+T3	Disease 0 4	H811
+T4	Disease 5 32	VERTIGO PAROXISTICO BENIGNO
+T5	Diagnostic_Procedure 63 76	TAC DE CERBRO
+T6	Laboratory_or_Test_Result 77 83	NORMAL
+R1	Has Arg1:T5 Arg2:T6	
+T7	Sign_or_Symptom 98 124	CARACTERISTICAS PERFERICAS
+T8	Disease 86 93	VERTIGO

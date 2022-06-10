@@ -1,0 +1,9 @@
+T1	Body_Part 35 41	cabeza
+T2	Body_Part 43 47	cara
+T3	Body_Part 50 56	cuello
+T4	Body_Part 85 91	cabeza
+T5	Body_Part 93 97	cara
+T6	Body_Part 100 106	cuello
+T7	Disease 0 6	T950.1
+T9	Disease 9 56	Secuela ( s )  quemadura, cabeza, cara y cuello
+T8	Disease 59 106	Secuela ( s )  quemadura, cabeza, cara y cuello

@@ -1,0 +1,12 @@
+T1	Laboratory_or_Test_Result 2 30	CARIES DENTINARIA PENETRANTE
+T2	Abbreviation 54 57	APS
+T3	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T4	Body_Part 59 68	1.2 y 1.1
+T5	Disease 69 84	caries proximal
+T6	Diagnostic_Procedure 89 108	examen radiografico
+T7	Laboratory_or_Test_Result 109 145	caries muy cercana a la pulpa dental
+T8	Body_Part 133 145	pulpa dental
+T9	Disease 159 188	patologia pulpar irreversible
+T10	Disease 190 208	Caries del cemento
+T11	Body_Part 201 208	cemento
+R1	Has Arg1:T6 Arg2:T7	

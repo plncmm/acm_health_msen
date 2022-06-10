@@ -1,0 +1,11 @@
+T1	Disease 0 8	Luxación
+T2	Body_Part 9 18	pieza 1.1
+T3	Disease 19 22	TDA
+T4	Disease 24 39	Nicrosis pulpar
+T5	Body_Part 40 49	pieza 1.1
+T6	Therapeutic_Procedure 50 61	Trepanación
+T7	Medication 106 123	paramonoclorofind
+T8	Clinical_Finding 73 104	instrumentación hasta lima N°40
+T9	Body_Part 62 71	pieza 1.1
+T10	Abbreviation 19 22	TDA
+T11	Clinical_Finding 124 134	provisorio

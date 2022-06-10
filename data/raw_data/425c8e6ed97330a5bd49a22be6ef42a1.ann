@@ -1,0 +1,10 @@
+T1	Abbreviation 38 41	APS
+T2	Abbreviation 137 139	SU
+T3	Abbreviation 140 143	HRC
+T4	Disease 2 14	COLELITIASIS
+T5	Diagnostic_Procedure 76 95	Ecografía abdominal
+T6	Sign_or_Symptom 111 133	dolor abdominal colico
+T7	Laboratory_or_Test_Result 163 175	colelitiasis
+T8	Diagnostic_Procedure 145 154	Ecografía
+R1	Has Arg1:T8 Arg2:T7	
+T9	Disease 178 190	Colelitiasis

@@ -1,0 +1,12 @@
+T1	Abbreviation 0 1	M
+T2	Abbreviation 3 6	CCA
+T3	Abbreviation 23 27	RCIU
+T4	Abbreviation 29 31	SP
+T5	Abbreviation 32 35	FUR
+T6	Abbreviation 126 129	FUR
+T7	Clinical_Finding 0 2	M1
+T8	Clinical_Finding 8 16	EMBARAZO
+T9	Disease 23 27	RCIU
+T10	Diagnostic_Procedure 56 65	ECOGRAFIA
+T11	Laboratory_or_Test_Result 107 146	GESTACION 36+5 POR FUR , PERCENTENTIL 9
+R1	Has Arg1:T10 Arg2:T11	

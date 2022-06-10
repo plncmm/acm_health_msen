@@ -1,0 +1,20 @@
+T1	Abbreviation 38 41	Pte
+T2	Abbreviation 46 47	T
+T3	Abbreviation 129 131	Dr
+T4	Abbreviation 242 245	GES
+T5	Abbreviation 321 327	FONASA
+T6	Abbreviation 348 351	tto
+T7	Medication 356 362	Litiio
+T8	Abbreviation 367 369	mg
+T9	Abbreviation 374 376	vo
+T10	Medication 379 385	spiron
+T11	Abbreviation 388 390	mg
+T12	Abbreviation 523 525	IC
+T13	Abbreviation 588 591	GES
+T14	Abbreviation 610 614	2rio
+T15	Disease 2 28	TRASTORNO AFECTIVO BIPOLAR
+T16	Disease 46 72	T Afectivo Bipolar  tipo I
+T17	Clinical_Finding 412 420	eutimico
+T18	Laboratory_Procedure 458 472	niveles litiio
+T19	Laboratory_or_Test_Result 481 503	aparentemente normales
+R1	Has Arg1:T18 Arg2:T19	

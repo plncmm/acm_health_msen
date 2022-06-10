@@ -1,0 +1,8 @@
+T1	Disease 9 64	desdentada total superior y desdentada parcial inferior
+T2	Therapeutic_Procedure 121 129	implante
+A1	Pending T2
+T3	Body_Part 133 151	zona de diente 4.6
+T4	Therapeutic_Procedure 184 200	protesis parcial
+A2	Negated T4
+T5	Body_Part 208 214	diente
+T6	Clinical_Finding 241 254	buena higiene

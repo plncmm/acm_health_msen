@@ -1,0 +1,8 @@
+T1	Abbreviation 50 53	APS
+T2	Abbreviation 79 82	HTA
+T3	Abbreviation 187 190	GOT
+T4	Disease 2 26	HIPERCOLESTEROLEMIA PURA
+T5	Disease 79 82	HTA
+T6	Laboratory_or_Test_Result 131 150	HIPERCOLESTEROLEMIA
+T7	Laboratory_Procedure 159 177	FOSFATASA ALCALINA
+T8	Laboratory_Procedure 187 190	GOT

@@ -1,0 +1,7 @@
+T1	Abbreviation 52 55	APS
+T2	Clinical_Finding 66 84	clase I esqueletal
+T3	Sign_or_Symptom 89 154	apiñamiento dentario superior por erupcion ectopica de canino 2.3
+T4	Body_Part 144 154	canino 2.3
+T5	Disease 89 100	apiñamiento
+T6	Clinical_Finding 2 28	PACIENTE SANO ODONTOLÓGICO
+T7	Clinical_Finding 156 182	Paciente Sano Odontologico

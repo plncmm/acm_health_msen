@@ -1,0 +1,8 @@
+T1	Abbreviation 38 41	APS
+T2	Disease 2 14	CONSTIPACIÓN
+T3	Disease 56 68	constipacion
+T4	Medication 118 127	lactulosa
+T5	Sign_or_Symptom 162 183	signos de obstruccion
+A1	Negated T5
+T6	Sign_or_Symptom 187 201	otros sintomas
+A2	Negated T6

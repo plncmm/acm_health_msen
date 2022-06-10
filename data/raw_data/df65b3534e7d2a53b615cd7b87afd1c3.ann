@@ -1,0 +1,11 @@
+T1	Body_Part 40 55	 Diente 17 y 32
+T2	Body_Part 117 126	Diente 18
+T3	Body_Part 184 193	diente 17
+T4	Body_Part 31 37	DIENTE
+T5	Body_Part 92 115	zona mandibular derecha
+T6	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T7	Sign_or_Symptom 41 72	Diente 17 y 32 semierupcionados
+T8	Sign_or_Symptom 83 115	dolor en zona mandibular derecha
+T10	Abbreviation 165 166	o
+T9	Sign_or_Symptom 117 167	Diente 18 presenta caries  dentinaria profunda (o)
+T11	Sign_or_Symptom 171 193	impactando a diente 17

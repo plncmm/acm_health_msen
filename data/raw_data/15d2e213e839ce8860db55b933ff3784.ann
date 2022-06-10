@@ -1,0 +1,8 @@
+T1	Disease 0 4	K025
+T2	Disease 5 33	CARIES CON EXPOSICIÓN PULPAR
+T3	Abbreviation 34 37	PZA
+T4	Body_Part 34 40	PZA 13
+T5	Therapeutic_Procedure 41 50	TREPANADA
+T6	Laboratory_or_Test_Result 55 72	CARIES PENETRANTE
+T7	Sign_or_Symptom 93 98	DOLOR
+T8	Therapeutic_Procedure 112 123	TREPANACION

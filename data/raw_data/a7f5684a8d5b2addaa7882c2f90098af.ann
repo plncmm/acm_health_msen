@@ -1,0 +1,13 @@
+T1	Clinical_Finding 2 10	G5 P4 A0
+T2	Abbreviation 2 3	G
+T3	Abbreviation 5 6	P
+T4	Abbreviation 8 9	A
+T5	Clinical_Finding 13 16	EMB
+T6	Therapeutic_Procedure 28 44	CESAREA ANTERIOR
+T7	Disease 62 75	PIELONEFRITIS
+T8	Clinical_Finding 76 84	EMBARAZO
+T9	Therapeutic_Procedure 109 122	CONO CERVICAL
+T10	Therapeutic_Procedure 135 151	CESAREA ANTERIOR
+T11	Abbreviation 13 16	EMB
+T12	Abbreviation 130 133	4TA
+T13	Abbreviation 24 27	4TA

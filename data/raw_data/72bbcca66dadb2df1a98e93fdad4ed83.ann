@@ -1,0 +1,13 @@
+T1	Disease 2 64	OTROS TRASTORNOS DE LOS DIENTES Y DE SUS ESTRUCTURAS DE SOSTÉN
+T2	Body_Part 26 33	DIENTES
+T3	Disease 68 125	TRASTORNOS DEL DESARROLLO Y DE LA ERUPCIÓN DE LOS DIENTES
+T4	Body_Part 118 125	DIENTES
+T5	Disease 129 164	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T6	Abbreviation 188 191	APS
+T7	Clinical_Finding 222 237	dentición mixta
+T8	Body_Part 222 231	dentición
+T9	Sign_or_Symptom 248 280	agenesia de centrales inferiores
+T10	Body_Part 260 280	centrales inferiores
+T11	Disease 248 256	agenesia
+T12	Disease 282 344	Otros trastornos de los dientes y de sus estructuras de sosten
+T13	Body_Part 306 313	dientes

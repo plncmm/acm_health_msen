@@ -1,0 +1,10 @@
+T1	Abbreviation 2 9	AC X FA
+T2	Abbreviation 13 17	TACO
+T3	Body_Part 74 88	VALVULA MITRAL
+T4	Abbreviation 103 106	HTA
+T5	Medication 2 4	AC
+T6	Disease 7 9	FA
+T7	Medication 13 17	TACO
+T8	Disease 20 43	BRADICARDIA SINTOMATICA
+T9	Therapeutic_Procedure 62 88	RECAMBIO DE VALVULA MITRAL
+T10	Disease 103 106	HTA

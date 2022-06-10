@@ -1,0 +1,6 @@
+T1	Disease 0 43	Periodontitis Crónica Generalizada avanzada
+T2	Body_Part 49 60	grupo 2 y 5
+T3	Sign_or_Symptom 62 84	Agrandamiento Gingival
+T4	Body_Part 88 99	grupo 2 y 5
+T5	Medication 119 129	Amlodipino
+T6	Abbreviation 133 135	mg

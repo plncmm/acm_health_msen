@@ -1,0 +1,14 @@
+T1	Abbreviation 28 31	IRC
+T2	Abbreviation 36 39	Enf
+T3	Abbreviation 48 50	Tx
+T4	Abbreviation 57 59	DC
+T5	Abbreviation 65 68	HTA
+T6	Abbreviation 69 71	Cr
+T7	Disease 28 31	IRC
+T8	Disease 36 47	Enf berrger
+T9	Therapeutic_Procedure 48 56	Tx renal
+T10	Disease 65 68	HTA
+T11	Disease 72 76	Gota
+T12	Sign_or_Symptom 85 113	dismincuin de agudeza visual
+T13	Clinical_Finding 143 149	lentes
+T14	Disease 57 59	DC

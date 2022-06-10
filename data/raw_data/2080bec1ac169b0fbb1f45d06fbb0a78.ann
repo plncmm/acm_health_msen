@@ -1,0 +1,7 @@
+T1	Disease 2 38	ALTERACIONES EN LA ERUPCIÓN DENTARIA
+T2	Abbreviation 62 65	APS
+T3	Body_Part 80 90	diente 4.8
+T4	Sign_or_Symptom 80 143	diente 4.8 semierupcionado con discrepancia negativa de espacio
+T5	Sign_or_Symptom 154 185	muerde mucosa al ocluir con 1.8
+T6	Body_Part 182 185	1.8
+T7	Disease 187 223	Alteraciones en la erupcion dentaria

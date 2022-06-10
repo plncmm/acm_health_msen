@@ -1,0 +1,7 @@
+T1	Disease 2 41	GINGIVITIS Y ENFERMEDADES PERIODONTALES
+T3	Abbreviation 79 82	APS
+T4	Sign_or_Symptom 97 125	bilsa periodontal mas de 4mm
+T5	Abbreviation 123 125	mm
+T6	Body_Part 140 149	pieza 3.1
+T7	Disease 150 189	Gingivitis y enfermedades periodontales
+T2	Disease 41 54	periodontitis

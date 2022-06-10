@@ -1,0 +1,19 @@
+T1	Disease 0 4	D801
+T2	Disease 5 38	HIPOGAMMAGLOBULINEMIA NO FAMILIAR
+T3	Abbreviation 39 43	PCTE
+T4	Abbreviation 48 53	ANTEC
+T5	Abbreviation 54 58	EPOC
+T6	Abbreviation 59 61	IC
+T7	Abbreviation 63 66	HTA
+T8	Abbreviation 68 73	DM2  
+T9	Disease 87 93	ANEMIA
+T10	Abbreviation 106 109	EFP
+T11	Disease 130 151	HIPOGAMMAGLOBULINEMIA
+T15	Disease 54 58	EPOC
+T16	Disease 59 61	IC
+T17	Disease 63 66	HTA
+T18	Disease 68 73	DM2  
+T12	Laboratory_Procedure 106 109	EFP
+T19	Laboratory_or_Test_Result 130 151	HIPOGAMMAGLOBULINEMIA
+R1	Has Arg1:T12 Arg2:T19	
+T13	Clinical_Finding 228 253	EXACERBACIONES FRECUENTES

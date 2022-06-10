@@ -1,0 +1,5 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Abbreviation 74 77	APS
+T3	Sign_or_Symptom 79 120	Apiñamiento anterior maxilar y mandibular
+T4	Clinical_Finding 122 152	Dentada completa, piezas sanas
+T5	Disease 154 202	Anomalias dentofaciales (incluso la maloclusion)

@@ -1,0 +1,31 @@
+T1	Body_Part 20 24	MAMA
+T2	Abbreviation 48 51	APS
+T3	Abbreviation 72 75	Ant
+T4	Abbreviation 261 264	Eco
+T5	Abbreviation 395 398	Eco
+T6	Abbreviation 390 393	eco
+T7	Body_Part 523 527	Mama
+T8	Body_Part 535 548	boton mamario
+T9	Abbreviation 558 559	+
+T10	Body_Part 657 662	pezón
+T11	Body_Part 683 687	mama
+T12	Disease 2 24	HIPERTROFIA DE LA MAMA
+T13	Clinical_Finding 111 132	antecedentes morbidos
+A1	Negated T13
+T14	Sign_or_Symptom 166 220	aumento de volumen mamario bilateral mayor a izquierda
+T15	Diagnostic_Procedure 261 272	Eco mamaria
+T16	Diagnostic_Procedure 390 393	eco
+T17	Diagnostic_Procedure 395 406	Eco mamaria
+T18	Laboratory_or_Test_Result 418 458	Ginecomastia bilateral mayor a izquierda
+T19	Diagnostic_Procedure 499 509	mamografia
+R1	Has Arg1:T17 Arg2:T18	
+T20	Sign_or_Symptom 535 557	boton mamario sensible
+T21	Sign_or_Symptom 560 614	aumento geenralizado del tejido que impresiona mamario
+T22	Sign_or_Symptom 620 637	nodulos palpables
+A2	Negated T22
+T23	Sign_or_Symptom 643 662	secrecion por pezón
+A3	Negated T23
+T24	Disease 665 687	Hipertrofia de la mama
+T25	Clinical_Finding 83 91	Alergias
+A4	Negated T25
+T26	Disease 418 430	Ginecomastia

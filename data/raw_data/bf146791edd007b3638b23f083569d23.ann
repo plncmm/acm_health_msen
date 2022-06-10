@@ -1,0 +1,24 @@
+T1	Abbreviation 117 120	APS
+T2	Abbreviation 135 140	ANTEC
+T3	Family_Member 304 309	MADRE
+T4	Family_Member 325 330	PADRE
+T5	Abbreviation 418 420	EX
+T6	Disease 2 63	HALLAZGO DE NIVELES ANORMALES DE METALES PESADOS EN LA SANGRE
+T7	Disease 67 93	EFECTOS TÓXICOS DE METALES
+T8	Clinical_Finding 135 149	ANTEC MORBIDOS
+A1	Negated T8
+T9	Clinical_Finding 170 178	ALERGIAS
+A2	Negated T9
+T10	Clinical_Finding 180 192	MEDICAMENTOS
+A3	Negated T10
+T11	Laboratory_Procedure 202 224	ESTUDIO DE POLIMETALES
+T12	Laboratory_or_Test_Result 226 240	NIVEL ALTERADO
+T13	Laboratory_Procedure 244 250	NIQUEL
+T14	Laboratory_Procedure 252 257	PLOMO
+T15	Laboratory_Procedure 264 272	ARSENICO
+T16	Laboratory_Procedure 277 283	NIQUEL
+T17	Laboratory_Procedure 290 298	MERCURIO
+T18	Clinical_Finding 418 434	EX FISICO NORMAL
+R1	Has Arg1:T11 Arg2:T12	
+T19	Abbreviation 259 260	<
+T20	Abbreviation 300 301	<

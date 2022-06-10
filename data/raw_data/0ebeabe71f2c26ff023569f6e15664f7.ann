@@ -1,0 +1,9 @@
+T1	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T2	Abbreviation 61 64	APS
+T3	Disease 95 103	bruxismo
+T4	Sign_or_Symptom 153 163	sobrordida
+T5	Sign_or_Symptom 165 184	1.2 vestibularizado
+T6	Sign_or_Symptom 187 206	apiñamiento grupo V
+T7	Clinical_Finding 114 150	clase II molar de angle (1/2 cuspide
+T8	Body_Part 165 168	1.2
+T9	Body_Part 31 37	DIENTE

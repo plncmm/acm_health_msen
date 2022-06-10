@@ -1,0 +1,26 @@
+T1	Disease 2 35	RIÑÓN POLIQUÍSTICO, TIPO INFANTIL
+T2	Laboratory_or_Test_Result 136 154	riñon poliquistico
+T3	Disease 286 319	Riñon poliquistico, tipo infantil
+T4	Abbreviation 59 62	APS
+#1	AnnotatorNotes T4	atención primaria de salud
+T5	Abbreviation 195 196	P
+#2	AnnotatorNotes T5	peso
+T6	Abbreviation 197 198	E
+#3	AnnotatorNotes T6	edad
+T7	Abbreviation 200 201	N
+#4	AnnotatorNotes T7	normal
+T8	Abbreviation 208 209	N
+#5	AnnotatorNotes T8	normal
+T9	Abbreviation 215 216	N
+#6	AnnotatorNotes T9	normal
+T10	Abbreviation 212 214	CC
+#7	AnnotatorNotes T10	circunferencia cefálica
+T11	Abbreviation 203 204	T
+#8	AnnotatorNotes T11	estatura
+T12	Abbreviation 205 206	e
+#9	AnnotatorNotes T12	edad
+T13	Body_Part 2 7	RIÑÓN
+T14	Body_Part 136 141	riñon
+T15	Body_Part 286 291	Riñon
+T16	Clinical_Finding 79 88	eutrofica
+T17	Abbreviation 261 267	dgtica

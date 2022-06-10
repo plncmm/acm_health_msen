@@ -1,0 +1,10 @@
+T1	Body_Part 37 43	HOMBRO
+T2	Abbreviation 67 70	APS
+T3	Abbreviation 97 100	TMT
+T4	Body_Part 132 146	HOMBRO DERECHO
+T5	Abbreviation 161 164	KTM
+T6	Body_Part 307 313	hombro
+T7	Disease 2 43	SÍNDROME DE ABDUCCIÓN DOLOROSA DEL HOMBRO
+T8	Sign_or_Symptom 114 146	PELLIZCAMIENTO EN HOMBRO DERECHO
+T9	Therapeutic_Procedure 161 164	KTM
+T10	Disease 272 313	Sindrome de abduccion dolorosa del hombro

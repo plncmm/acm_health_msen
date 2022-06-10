@@ -1,0 +1,14 @@
+T1	Body_Part 0 6	PZA  5
+T2	Abbreviation 0 3	PZA
+T3	Abbreviation 16 19	PZA
+T4	Body_Part 16 27	PZA 10 - 11
+T5	Body_Part 47 53	PZA 17
+T6	Body_Part 67 78	PZA 22 - 23
+T7	Abbreviation 47 50	PZA
+T8	Abbreviation 67 70	PZA
+T9	Abbreviation 96 98	RX
+T10	Laboratory_or_Test_Result 0 15	PZA  5 INCLUIDA
+T11	Sign_or_Symptom 47 65	PZA 17 MALPOSICION
+T12	Clinical_Finding 67 85	PZA 22 - 23 CARIES
+T13	Sign_or_Symptom 16 46	PZA 10 - 11 DETERIORO AVANZADO
+T14	Diagnostic_Procedure 96 98	RX

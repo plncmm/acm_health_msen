@@ -1,0 +1,32 @@
+T1	Abbreviation 67 70	APS
+T2	Abbreviation 284 287	FUR
+T3	Abbreviation 294 295	G
+T4	Abbreviation 296 297	P
+T5	Abbreviation 298 299	A
+T6	Abbreviation 300 301	V
+T7	Abbreviation 306 310	PTVE
+T8	Abbreviation 322 323	x
+T9	Abbreviation 324 327	SFA
+T10	Abbreviation 328 331	PAP
+T11	Abbreviation 345 348	AMP
+T12	Abbreviation 392 395	tto
+T13	Abbreviation 415 418	tto
+T14	Abbreviation 420 421	A
+T15	Disease 2 43	EXAMEN GINECOLÓGICO (GENERAL) (DE RUTINA)
+T16	Sign_or_Symptom 115 171	no resiste los sintomas que ha tenido tras la menopausia
+T17	Disease 161 171	menopausia
+T18	Sign_or_Symptom 189 208	Sudoracion excesiva
+T19	Sign_or_Symptom 210 240	disminucion del apetito sexual
+T20	Sign_or_Symptom 242 258	sequedad vaginal
+T21	Sign_or_Symptom 260 282	no puede bajar de peso
+T22	Clinical_Finding 294 296	G2
+T23	Clinical_Finding 296 298	P2
+T24	Clinical_Finding 298 300	A0
+T25	Therapeutic_Procedure 306 310	PTVE
+T26	Therapeutic_Procedure 314 321	Cesarea
+T27	Disease 324 327	SFA
+T28	Diagnostic_Procedure 328 331	PAP
+T29	Disease 350 367	Diabetes mellitus
+T30	Disease 398 410	dislipidemia
+T31	Therapeutic_Procedure 437 452	colecistectomia
+T32	Disease 458 499	Examen ginecologico (general) (de rutina)

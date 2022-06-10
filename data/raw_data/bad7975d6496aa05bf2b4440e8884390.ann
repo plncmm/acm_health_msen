@@ -1,0 +1,10 @@
+T1	Abbreviation 15 17	CA
+T2	Disease 15 26	CA TIROIDES
+T3	Laboratory_or_Test_Result 28 64	NODULO SOLIDO QUISTICO VASCULARIZADO
+T4	Disease 78 88	TIROIDITIS
+T5	Abbreviation 92 95	TTO
+T6	Abbreviation 97 102	PACTE
+T7	Therapeutic_Procedure 103 122	OPERADA POR NODULOS
+T8	Abbreviation 126 129	TTO
+T9	Medication 131 142	TIROTIVOSOL
+T11	Abbreviation 65 68	SIC

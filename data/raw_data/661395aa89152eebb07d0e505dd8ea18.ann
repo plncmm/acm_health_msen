@@ -1,0 +1,8 @@
+T1	Abbreviation 105 108	ASA
+T2	Abbreviation 112 115	HTA
+T3	Disease 9 37	desdentada parcial bimaxilar
+T4	Therapeutic_Procedure 55 72	prótesis superior
+A1	Pending T4
+T5	Sign_or_Symptom 74 103	Clase III superior e inferior
+T6	Disease 112 115	HTA
+T7	Sign_or_Symptom 105 111	ASA II

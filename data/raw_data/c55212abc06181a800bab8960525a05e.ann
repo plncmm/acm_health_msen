@@ -1,0 +1,7 @@
+T1	Abbreviation 36 40	SAPU
+T2	Sign_or_Symptom 53 65	PRECORDALGIA
+T3	Diagnostic_Procedure 84 102	EKG Y TELEMEDICINA
+T4	Laboratory_or_Test_Result 116 149	TRAZADO SUBJETIVO DE PERICORDITIS
+T5	Disease 137 149	PERICORDITIS
+R1	Has Arg1:T3 Arg2:T4	
+T6	Abbreviation 84 87	EKG

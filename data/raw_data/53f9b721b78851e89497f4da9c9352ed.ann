@@ -1,0 +1,14 @@
+T1	Body_Part 21 30	ADENOIDES
+T2	Body_Part 150 155	cavum
+T3	Body_Part 183 192	adenoides
+T4	Body_Part 276 285	adenoides
+T5	Abbreviation 54 57	APS
+T6	Abbreviation 144 146	Rx
+T7	Disease 2 30	HIPERTROFIA DE LAS ADENOIDES
+T8	Disease 68 84	respirador bucal
+T9	Disease 106 130	amigdalitis a repetición
+T10	Diagnostic_Procedure 144 155	Rx de cavum
+T11	Laboratory_or_Test_Result 168 192	hipertrofia de adenoides
+R1	Has Arg1:T10 Arg2:T11	
+T12	Disease 168 192	hipertrofia de adenoides
+T13	Disease 257 285	Hipertrofia de las adenoides

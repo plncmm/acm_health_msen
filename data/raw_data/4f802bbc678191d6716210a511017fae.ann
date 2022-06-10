@@ -1,0 +1,14 @@
+T1	Abbreviation 22 25	pta
+T2	Body_Part 35 50	cuero cabelludo
+T3	Family_Member 153 159	abuela
+T4	Family_Member 140 146	pareja
+T5	Family_Member 176 182	padres
+T6	Abbreviation 204 207	Dic
+T7	Abbreviation 270 272	Ex
+T8	Abbreviation 332 337	Cepij
+T9	Family_Member 339 344	madre
+T10	Disease 13 20	cefalea
+T11	Sign_or_Symptom 26 75	dolor de cuero cabelludo con aparición de nódulos
+T12	Sign_or_Symptom 289 311	signos de focalización
+A1	Negated T12
+T13	Disease 372 400	Otros trastornos de ansiedad

@@ -1,0 +1,7 @@
+T1	Abbreviation 0 4	PCTE
+T2	Abbreviation 24 27	EVC
+T3	Abbreviation 45 48	TTO
+T4	Abbreviation 72 74	EV
+T5	Therapeutic_Procedure 93 108	COLECISTECTOMIA
+A1	Pending T5
+T6	Disease 24 27	EVC

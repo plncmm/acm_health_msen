@@ -1,0 +1,7 @@
+T1	Abbreviation 44 47	APS
+T2	Disease 2 20	DESDENTADO PARCIAL
+T3	Disease 49 75	Desdentado parcial maxilar
+T4	Body_Part 68 75	maxilar
+T5	Sign_or_Symptom 94 104	Kennedy IV
+T6	Therapeutic_Procedure 116 140	rehabilitacion protesica
+A1	Pending T6

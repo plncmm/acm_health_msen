@@ -1,0 +1,12 @@
+T1	Body_Part 71 77	DIENTE
+T2	Abbreviation 103 106	inf
+T3	Body_Part 108 118	p 3.5, 4.5
+T4	Abbreviation 108 109	p
+T5	Body_Part 157 167	p 3.8, 4.8
+T6	Abbreviation 157 158	p
+T7	Disease 2 36	MALOCLUSIÓN DE TIPO NO ESPECIFICAD
+T8	Disease 42 77	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T9	Sign_or_Symptom 84 107	apiñamiento arcada inf.
+T10	Sign_or_Symptom 108 136	p 3.5, 4.5 posicion ectopica
+T11	Therapeutic_Procedure 146 156	extraccion
+A1	Pending T11

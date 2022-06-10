@@ -1,0 +1,6 @@
+T1	Disease 0 4	H521
+T2	Disease 5 11	MIOPIA
+T3	Sign_or_Symptom 51 58	VE BIEN
+A1	Negated T3
+T4	Therapeutic_Procedure 21 37	CAMBIO DE LENTES
+A2	Pending T4

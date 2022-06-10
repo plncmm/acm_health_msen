@@ -1,0 +1,8 @@
+T1	Abbreviation 41 44	APS
+T2	Body_Part 112 121	pieza 2.6
+T3	Body_Part 134 141	dientes
+T4	Disease 2 17	RESTO RADICULAR
+T5	Clinical_Finding 59 82	antecedentes sistémicos
+A1	Negated T5
+T6	Sign_or_Symptom 93 121	resto radicular de pieza 2.6
+T7	Disease 123 203	Perdida de dientes debida a accidente, extraccion o enfermedad periodontal local

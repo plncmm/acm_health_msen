@@ -1,0 +1,11 @@
+T1	Body_Part 30 32	C3
+T2	Body_Part 33 35	C4
+T3	Body_Part 54 56	C5
+T4	Body_Part 57 59	C6
+T5	Body_Part 106 115	FORAMENES
+T6	Body_Part 156 188	ARTUCULACIONES ACROMIOCLAVICULAR
+T7	Disease 0 13	HERNIA DISCAL
+T9	Laboratory_or_Test_Result 36 127	PROTRUSION DISCAL C5.C6 POSTERIOR DE BASE ANCHA QUE SE EXTIENDE A LOS FORAMENES RESPECTIVOS
+T10	Laboratory_or_Test_Result 131 188	CAMBIOS DEGENERATIVOS DE ARTUCULACIONES ACROMIOCLAVICULAR
+#1	AnnotatorNotes T10	ojoesto me impresiona dado la etiologia acorde con infrome de rayo y centellas, pero no el centella de savory
+T8	Laboratory_or_Test_Result 0 35	HERNIA DISCAL PROTERO CENTRAL C3 C4

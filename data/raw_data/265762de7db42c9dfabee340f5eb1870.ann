@@ -1,0 +1,8 @@
+T1	Disease 2 28	TUMOR BENIGNO DE LA LENGUA
+T2	Sign_or_Symptom 57 90	aumento volumen pediculado lengua
+T3	Abbreviation 52 55	APS
+#1	AnnotatorNotes T3	atención primaria de salud
+T4	Abbreviation 99 103	evol
+#2	AnnotatorNotes T4	evolución
+T5	Body_Part 22 28	LENGUA
+T6	Body_Part 84 90	lengua

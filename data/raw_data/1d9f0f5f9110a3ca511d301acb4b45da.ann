@@ -1,0 +1,17 @@
+T1	Abbreviation 0 1	G
+T2	Abbreviation 2 3	P
+T3	Abbreviation 4 5	A
+T4	Clinical_Finding 8 11	EMB
+T5	Clinical_Finding 0 6	G3P1A1
+T6	Abbreviation 8 11	EMB
+T7	Therapeutic_Procedure 18 34	CESAREA ANTERIOR
+T8	Abbreviation 36 39	OBS
+T9	Abbreviation 40 41	H
+T10	Disease 40 58	H ARTERIAL CRONICO
+T11	Abbreviation 61 64	FUR
+T12	Abbreviation 74 80	FUR OP
+T13	Abbreviation 87 90	ECO
+T14	Diagnostic_Procedure 87 90	ECO
+T15	Abbreviation 99 102	LCN
+T16	Abbreviation 110 112	PA
+T17	Abbreviation 122 124	PA

@@ -1,0 +1,10 @@
+T1	Disease 0 23	Period cronica avanzada
+T2	Abbreviation 0 6	Period
+T3	Abbreviation 24 28	dtes
+T4	Body_Part 24 41	dtes 9,10,11 y 17
+T5	Therapeutic_Procedure 56 66	exodoncias
+A1	Pending T5
+T6	Abbreviation 67 71	dtes
+T7	Body_Part 67 84	dtes 9,10,11 y 17
+T8	Abbreviation 94 97	tto
+T9	Therapeutic_Procedure 94 107	tto protesico

@@ -1,0 +1,52 @@
+T1	Abbreviation 48 51	APS
+T2	Abbreviation 62 65	dm2
+T3	Abbreviation 65 67	ir
+T4	Abbreviation 69 72	hta
+T5	Abbreviation 90 93	IAM
+T6	Abbreviation 94 98	sdst
+T7	Abbreviation 151 155	TACO
+T8	Abbreviation 160 163	TVP
+T9	Abbreviation 173 176	tto
+T10	Medication 181 189	digoxina
+T11	Medication 226 232	slow k
+T12	Medication 238 247	omeprazol
+T13	Abbreviation 251 253	mg
+T14	Medication 259 270	fusrosemida
+T15	Abbreviation 274 276	mg
+T16	Medication 282 291	aspririna
+T17	Abbreviation 296 298	mg
+T18	Abbreviation 304 307	atv
+T19	Medication 304 307	atv
+T20	Abbreviation 311 313	mg
+T21	Medication 319 335	espironolacttona
+T22	Abbreviation 339 341	mg
+T23	Medication 356 365	valsartan
+T24	Medication 377 389	insulina nph
+T25	Abbreviation 393 394	u
+T26	Abbreviation 523 526	DPN
+T27	Abbreviation 562 566	eeii
+T28	Body_Part 562 566	eeii
+T29	Abbreviation 649 651	mp
+T30	Abbreviation 696 700	eeii
+T31	Body_Part 696 700	eeii
+T32	Medication 151 155	TACO
+T33	Medication 346 354	entresto
+T34	Abbreviation 651 652	+
+T35	Abbreviation 672 678	rr2tss
+T36	Abbreviation 707 708	+
+T37	Disease 2 24	INSUFICIENCIA CARDÍACA
+T38	Disease 62 65	dm2
+T39	Disease 69 72	hta
+T40	Disease 90 98	IAM sdst
+T41	Laboratory_or_Test_Result 94 130	sdst anterior-apical y pared lateral
+T42	Disease 160 163	TVP
+T43	Therapeutic_Procedure 396 423	oxigenoterapia domiciliaria
+T44	Sign_or_Symptom 513 521	ortopnea
+T45	Sign_or_Symptom 523 526	DPN
+T46	Sign_or_Symptom 528 554	disnea de minimo esfuerzos
+T47	Sign_or_Symptom 556 566	edema eeii
+T48	Sign_or_Symptom 649 671	mp+sibilancias difusas
+T49	Sign_or_Symptom 680 695	rtonos apagados
+T50	Clinical_Finding 672 678	rr2tss
+T51	Sign_or_Symptom 696 706	eeii edema
+T52	Disease 710 732	Insuficiencia cardiaca

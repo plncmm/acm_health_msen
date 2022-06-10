@@ -1,0 +1,9 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Clinical_Finding 54 67	Clase I ANgle
+T3	Sign_or_Symptom 69 82	Apiñamiento G
+T4	Abbreviation 81 82	G
+T5	Disease 69 80	Apiñamiento
+T6	Body_Part 81 90	G. II y V
+T7	Body_Part 91 100	Diente 11
+T8	Sign_or_Symptom 91 126	Diente 11 Erupción ectópica hacia V
+T9	Abbreviation 125 126	V

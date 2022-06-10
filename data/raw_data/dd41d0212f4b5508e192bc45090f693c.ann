@@ -1,0 +1,10 @@
+T1	Abbreviation 86 89	APS
+T3	Abbreviation 95 98	HTA
+T2	Abbreviation 91 92	M
+T4	Disease 2 44	PROBLEMAS RELACIONADOS CON LA MULTIPARIDAD
+T5	Therapeutic_Procedure 48 62	ESTERILIZACIÓN
+T6	Clinical_Finding 91 93	M1
+T7	Disease 95 98	HTA
+T8	Therapeutic_Procedure 100 116	TRASPLANTE RENAL
+T9	Disease 118 126	OBESIDAD
+T10	Disease 127 169	Problemas relacionados con la multiparidad

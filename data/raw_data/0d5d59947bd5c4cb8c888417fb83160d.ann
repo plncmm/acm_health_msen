@@ -1,0 +1,12 @@
+T2	Disease 83 91	PROLAPSO
+T1	Abbreviation 0 1	G
+T3	Abbreviation 3 4	P
+T4	Abbreviation 6 7	A
+T5	Abbreviation 78 81	OBS
+T6	Abbreviation 95 99	1 ER
+T7	Therapeutic_Procedure 9 25	CESAREA ANTERIOR
+T9	Disease 43 77	INCONTENENCIA URINARIA DE ESFUERZO
+T10	Clinical_Finding 3 4	P
+T11	Clinical_Finding 6 7	A
+T12	Clinical_Finding 0 1	G
+T8	Therapeutic_Procedure 26 33	FORCEPS

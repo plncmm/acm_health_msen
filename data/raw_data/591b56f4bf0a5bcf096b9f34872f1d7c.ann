@@ -1,0 +1,18 @@
+T1	Abbreviation 0 1	M
+T2	Abbreviation 5 8	CCA
+T3	Abbreviation 17 20	AEO
+T4	Abbreviation 29 32	OBS
+T5	Abbreviation 21 23	+-
+T6	Abbreviation 57 58	+
+T7	Abbreviation 94 97	ANT
+T8	Body_Part 106 110	MAMA
+T9	Family_Member 121 124	TIA
+T10	Abbreviation 142 145	ANT
+T11	Body_Part 157 165	TIROIDES
+A1	Maternal T9
+T12	Clinical_Finding 0 2	M2
+T13	Disease 34 46	FIBROADENOMA
+T14	Disease 59 93	QUISTES SIMPLES BILATERAL MAMARIOS
+T15	Disease 99 110	CANCER MAMA
+T16	Disease 147 165	NODULO EN TIROIDES
+R1	Has Arg1:T9 Arg2:T15	

@@ -1,0 +1,7 @@
+T1	Abbreviation 0 4	Pzas
+T2	Body_Part 0 14	Pzas 3.4 y 4.3
+T3	Laboratory_or_Test_Result 19 66	caries profunda con compromiso de camara pulpar
+T4	Disease 19 25	caries
+T5	Disease 97 110	esquizofrenia
+T6	Abbreviation 149 152	tto
+T7	Body_Part 53 66	camara pulpar

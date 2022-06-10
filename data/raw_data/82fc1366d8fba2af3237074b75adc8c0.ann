@@ -1,0 +1,8 @@
+T1	Body_Part 69 75	PD 4.6
+T2	Abbreviation 69 71	PD
+T3	Abbreviation 112 114	PD
+T4	Body_Part 112 114	PD
+T5	Therapeutic_Procedure 32 54	ALARGAMIENTO CORONARIO
+A1	Pending T5
+T6	Therapeutic_Procedure 91 105	REHABILITACION
+A2	Pending T6

@@ -1,0 +1,9 @@
+T1	Abbreviation 17 20	pza
+T2	Body_Part 17 22	pza 9
+T3	Therapeutic_Procedure 44 57	retratamiento
+A1	Pending T3
+T4	Abbreviation 79 82	PFU
+T5	Therapeutic_Procedure 79 82	PFU
+T6	Clinical_Finding 83 113	cementada con dycal x desalojo
+T7	Abbreviation 103 104	x
+T8	Medication 97 102	dycal

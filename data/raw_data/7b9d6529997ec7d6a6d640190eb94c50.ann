@@ -1,0 +1,10 @@
+T1	Body_Part 34 38	BOCA
+T2	Abbreviation 59 60	+
+T3	Abbreviation 88 91	HTA
+T4	Abbreviation 92 93	+
+T6	Therapeutic_Procedure 9 18	PROFLAXIS
+T5	Therapeutic_Procedure 23 47	DESTARTAJE BOCA COMPLETA
+T7	Disease 48 58	GINGIVITIS
+T8	Disease 61 74	PERIODONTITIS
+T9	Disease 94 102	DIABETES
+T10	Disease 88 91	HTA

@@ -1,0 +1,10 @@
+T1	Abbreviation 0 4	PACT
+T2	Clinical_Finding 6 19	CLASE I MOLAR
+T3	Sign_or_Symptom 25 41	MRDIDA INVERTIDA
+T4	Abbreviation 50 52	PD
+T5	Body_Part 50 62	PD 2.2 Y 1.2
+T6	Sign_or_Symptom 64 104	APIÑAMIENTO ANTERIOR SUPERIOR E INFERIOR
+T7	Disease 64 75	APIÑAMIENTO
+T8	Abbreviation 138 141	TTO
+T9	Therapeutic_Procedure 138 156	TTO. DE ORTODONCIA
+A1	Pending T9

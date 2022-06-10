@@ -1,0 +1,6 @@
+T1	Body_Part 18 25	DIENTES
+T2	Disease 2 25	ABRASIÓN DE LOS DIENTES
+T3	Abbreviation 49 52	APS
+T4	Disease 54 62	bruxismo
+T5	Sign_or_Symptom 63 128	desgaste de cuspides vestibulares, en ciertas zonas hasta dentina
+T6	Body_Part 121 128	dentina

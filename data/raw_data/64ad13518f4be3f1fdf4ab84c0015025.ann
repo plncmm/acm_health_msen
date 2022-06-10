@@ -1,0 +1,17 @@
+T1	Body_Part 16 30	VÍAS URINARIAS
+T2	Body_Part 128 142	VÍAS URINARIAS
+T3	Abbreviation 189 192	APS
+T4	Abbreviation 283 288	ANTEC
+T5	Abbreviation 455 458	ITU
+T6	Abbreviation 509 512	TTO
+T7	Abbreviation 556 559	TTO
+T8	Body_Part 585 599	vias urinarias
+T9	Disease 2 73	CALCULO DE LA VÍAS URINARIAS EN ENFERMEDADES CLASIFICADAS EN OTRA PARTE
+T10	Disease 77 111	HEMATURIA RECURRENTE Y PERSISTENTE
+T11	Disease 115 165	INFECCIÓN DE VÍAS URINARIAS, SITIO NO ESPECIFICADO
+T12	Sign_or_Symptom 293 317	DOLOR LUMBAR TIPO COLICO
+T13	Sign_or_Symptom 321 329	CEFALEAS
+T14	Disease 368 386	infeccion urinaria
+T15	Disease 455 458	ITU
+T16	Laboratory_Procedure 485 495	UROCULTIVO
+T17	Disease 571 642	Calculo de la vias urinarias en enfermedades clasificadas en otra parte

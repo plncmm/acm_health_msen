@@ -1,0 +1,9 @@
+T1	Body_Part 31 37	DIENTE
+T2	Body_Part 141 147	diente
+T3	Body_Part 87 94	GRUPO V
+#1	AnnotatorNotes T3	a
+T4	Abbreviation 61 64	APS
+T5	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T7	Disease 112 147	Anomalias de la posicion del diente
+T6	Sign_or_Symptom 66 94	APIÑAMIENTO DENTARIO GRUPO V
+T8	Sign_or_Symptom 95 111	FALTA DE ESPACIO

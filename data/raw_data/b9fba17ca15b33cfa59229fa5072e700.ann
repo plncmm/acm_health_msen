@@ -1,0 +1,9 @@
+T1	Body_Part 2 7	PIEZA
+T2	Therapeutic_Procedure 8 32	TRATADA ENDODÓNTICAMENTE
+T3	Body_Part 39 48	Pieza 2.5
+T4	Therapeutic_Procedure 53 76	tratamiento endodontico
+T5	Sign_or_Symptom 111 136	dolor durante masticación
+T6	Therapeutic_Procedure 176 189	retratamiento
+A1	Pending T6
+T7	Therapeutic_Procedure 242 256	cirugía apical
+A2	Pending T7

@@ -1,0 +1,17 @@
+T1	Laboratory_or_Test_Result 0 105	PD 17 SEMIINCLUIDA , SE ENCUENTRA IMPACTADA A PD 18 (PRECENTA CARIES CERVOCAL EN DISTAL)RAICES FISIONADAS
+T2	Laboratory_or_Test_Result 106 171	PD 32 SEMIINCLUIDA , IMPÀCTADA EN DISTAL APD31, RAICES FISUONADAS
+T3	Abbreviation 46 48	PD
+#1	AnnotatorNotes T3	pieza dental
+T4	Abbreviation 0 2	PD
+#2	AnnotatorNotes T4	pieza dental
+T5	Abbreviation 106 108	PD
+#3	AnnotatorNotes T5	pieza dental
+T6	Body_Part 0 5	PD 17
+T7	Body_Part 46 51	PD 18
+T8	Body_Part 106 111	PD 32
+T9	Body_Part 148 152	PD31
+T10	Disease 62 68	CARIES
+T11	Body_Part 154 160	RAICES
+T12	Body_Part 88 94	RAICES
+T13	Disease 127 136	IMPÀCTADA
+T14	Disease 34 43	IMPACTADA

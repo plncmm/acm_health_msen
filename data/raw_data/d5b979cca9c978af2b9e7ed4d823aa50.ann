@@ -1,0 +1,18 @@
+T1	Medication 70 74	TACO
+T2	Abbreviation 70 74	TACO
+T3	Medication 16 20	TACO
+T4	Abbreviation 16 20	TACO
+T5	Disease 0 3	TVP
+T6	Abbreviation 0 3	TVP
+T7	Disease 4 7	TEP
+T8	Abbreviation 4 7	TEP
+T9	Abbreviation 3 4	+
+T10	Abbreviation 21 23	TU
+T11	Abbreviation 67 69	VS
+T12	Abbreviation 88 96	ANGIOTAC
+T13	Abbreviation 63 66	VCI
+T14	Body_Part 63 66	VCI
+T15	Disease 21 34	TU TESTICULAR
+T16	Therapeutic_Procedure 56 66	FILTRO VCI
+T17	Therapeutic_Procedure 80 87	CIRUGIA
+T18	Diagnostic_Procedure 88 96	ANGIOTAC

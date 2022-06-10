@@ -1,0 +1,5 @@
+T1	Sign_or_Symptom 0 44	Hiperplasia Friccional en punta de la lengua
+T2	Sign_or_Symptom 45 61	Lesión exofitica
+T3	Sign_or_Symptom 63 104	lesión dura a la palpación y circunscrita
+T4	Sign_or_Symptom 121 140	molestias al hablar
+T5	Body_Part 38 44	lengua

@@ -1,0 +1,7 @@
+T1	Body_Part 91 99	PIEZA 30
+T2	Disease 16 30	HIPOTIROIDISMO
+T3	Disease 33 44	BIPOLARIDAD
+T4	Clinical_Finding 67 75	ALERGIAS
+A1	Negated T4
+T5	Laboratory_or_Test_Result 91 119	PIEZA 30 EN ESTADO RADICULAR
+T6	Therapeutic_Procedure 158 167	EXODONCIA

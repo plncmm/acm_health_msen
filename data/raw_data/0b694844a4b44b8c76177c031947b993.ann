@@ -1,0 +1,10 @@
+T1	Abbreviation 13 16	ICC
+T2	Abbreviation 18 20	AC
+T3	Abbreviation 25 27	FA
+T4	Abbreviation 129 132	CMS
+T5	Abbreviation 97 99	TU
+T6	Disease 13 16	ICC
+T7	Medication 18 20	AC
+T8	Disease 25 27	FA
+T9	Disease 97 115	TU RENAL IZQUIERDO
+T10	Sign_or_Symptom 116 123	PEQUENO

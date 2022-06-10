@@ -1,0 +1,11 @@
+T1	Body_Part 16 21	ÚTERO
+T2	Abbreviation 70 73	APS
+T3	Abbreviation 92 95	ACO
+T4	Body_Part 143 148	utero
+T5	Medication 96 108	PROGESTAGENO
+T6	Abbreviation 77 78	M
+T7	Medication 92 95	ACO
+T8	Disease 2 46	LEIOMIOMA DEL ÚTERO, SIN OTRA ESPECIFICACIÓN
+T9	Clinical_Finding 77 79	M4
+T10	Disease 110 128	MIOMATOSIS UTERINA
+T11	Disease 129 173	Leiomioma del utero, sin otra especificacion

@@ -1,0 +1,29 @@
+T1	Abbreviation 66 69	APS
+T2	Abbreviation 71 75	RNPT
+T3	Abbreviation 89 92	Ant
+T4	Abbreviation 94 96	GI
+T5	Family_Member 153 158	Madre
+T6	Abbreviation 277 280	OMC
+T7	Abbreviation 432 435	CAE
+T8	Body_Part 432 435	CAE
+T9	Abbreviation 441 443	mb
+T10	Body_Part 441 453	mb timpanica
+T11	Disease 2 42	OTRAS OTITIS MEDIAS CRÓNICAS SUPURATIVAS
+T12	Disease 71 75	RNPT
+T13	Clinical_Finding 104 112	Alergias
+A1	Negated T13
+T14	Sign_or_Symptom 196 213	otorrea purulenta
+T15	Sign_or_Symptom 218 226	mal olor
+A2	Negated T15
+T16	Sign_or_Symptom 232 238	fiebre
+A3	Negated T16
+T17	Sign_or_Symptom 244 251	otalgia
+A4	Negated T17
+T18	Disease 277 280	OMC
+T19	Therapeutic_Procedure 307 324	cirugia timpanica
+T20	Sign_or_Symptom 337 373	Otosocopia derecha: sin alteraciones
+T21	Sign_or_Symptom 375 435	Otoscopia izquierda: se observa secrecion amarillenta en CAE
+T22	Sign_or_Symptom 441 465	mb timpanica eritematosa
+T23	Disease 467 507	Otras otitis medias cronicas supurativas
+T24	Family_Member 257 273	hisotria materna
+R1	Has Arg1:T24 Arg2:T18	

@@ -1,0 +1,13 @@
+T1	Abbreviation 43 46	APS
+T2	Body_Part 424 431	dientes
+T3	Body_Part 328 351	hueso alveolar inferior
+T4	Disease 2 18	DESDENTADO TOTAL
+T5	Disease 57 67	hipertenso
+T6	Disease 116 152	desdentado total superior e inferior
+T7	Sign_or_Symptom 323 351	poco hueso alveolar inferior
+T8	Therapeutic_Procedure 366 384	prótesis removible
+A1	Pending T8
+T9	Disease 386 462	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T10	Clinical_Finding 154 183	portador de prótesis superior
+T11	Therapeutic_Procedure 292 309	prótesis inferior
+A2	Pending T11

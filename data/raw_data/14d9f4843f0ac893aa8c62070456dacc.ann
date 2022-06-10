@@ -1,0 +1,12 @@
+T1	Abbreviation 13 16	CCA
+T2	Medication 136 143	eutirox
+T3	Abbreviation 3 6	EMB
+T4	Abbreviation 79 81	c/
+T5	Abbreviation 0 1	M
+T6	Clinical_Finding 0 2	M2
+T7	Clinical_Finding 3 6	EMB
+T8	Therapeutic_Procedure 13 16	CCA
+T9	Therapeutic_Procedure 39 46	cesarea
+T10	Disease 72 78	Aborto
+T11	Sign_or_Symptom 82 104	signos desprendimiento
+T12	Disease 105 119	HIPOTIROIDISMO

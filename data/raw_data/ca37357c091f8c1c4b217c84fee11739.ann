@@ -1,0 +1,6 @@
+T1	Disease 2 9	CEFALEA
+T2	Disease 155 162	Cefalea
+T3	Abbreviation 33 36	APS
+T4	Sign_or_Symptom 55 70	cefalea frontal
+T5	Sign_or_Symptom 87 112	irradia a nivel occipital
+T6	Sign_or_Symptom 122 130	punzante

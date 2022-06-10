@@ -1,0 +1,7 @@
+T1	Abbreviation 0 3	PZA
+T2	Body_Part 0 7	PZA 3.3
+T3	Disease 12 18	CARIES
+T4	Sign_or_Symptom 12 48	CARIES CERVICO.VESTIBULAR PENETRANTE
+T5	Sign_or_Symptom 79 96	ALTERACION APICAL
+T6	Abbreviation 97 100	PZA
+T7	Body_Part 97 104	PZA 3.3

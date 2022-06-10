@@ -1,0 +1,7 @@
+T1	Body_Part 0 7	pza 4.6
+T2	Abbreviation 0 3	pza
+T3	Abbreviation 54 58	PMCF
+T4	Medication 54 58	PMCF
+T6	Therapeutic_Procedure 8 17	trepanada
+T7	Laboratory_or_Test_Result 22 39	caries penetrante
+T5	Clinical_Finding 61 80	obturada con Fermín

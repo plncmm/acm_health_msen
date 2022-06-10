@@ -1,0 +1,16 @@
+T1	Abbreviation 24 29	ANTEC
+T2	Abbreviation 34 37	HTA
+T3	Abbreviation 40 43	DLP
+T4	Abbreviation 44 48	EPOC
+T5	Abbreviation 86 89	ECG
+T6	Abbreviation 107 109	FR
+T7	Abbreviation 110 112	V1
+T8	Abbreviation 113 115	V2
+T9	Abbreviation 103 106	+ -
+T10	Disease 34 37	HTA
+T11	Disease 40 43	DLP
+T12	Disease 44 48	EPOC
+T13	Sign_or_Symptom 71 77	DISNEA
+T14	Diagnostic_Procedure 86 89	ECG
+T15	Laboratory_or_Test_Result 107 115	FR V1-V2
+R1	Has Arg1:T14 Arg2:T15	

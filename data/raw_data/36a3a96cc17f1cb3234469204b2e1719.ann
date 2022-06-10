@@ -1,0 +1,6 @@
+T1	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T2	Body_Part 31 37	DIENTE
+T3	Body_Part 66 69	1.1
+T4	Sign_or_Symptom 66 107	1.1 rotado falta espacio erupcion 2.2-1.2
+T5	Body_Part 100 107	2.2-1.2
+T6	Abbreviation 61 64	APS

@@ -1,0 +1,9 @@
+T1	Abbreviation 34 36	AR
+T2	Abbreviation 54 58	TBCP
+T3	Abbreviation 102 105	TAC
+T4	Body_Part 106 111	TÓRAX
+T5	Disease 34 36	AR
+T6	Disease 54 67	TBCP PULMONAR
+T7	Diagnostic_Procedure 102 111	TAC TÓRAX
+T8	Laboratory_or_Test_Result 125 156	ENFERMEDAD PULMONAR INTERTICIAL
+R1	Has Arg1:T7 Arg2:T8	

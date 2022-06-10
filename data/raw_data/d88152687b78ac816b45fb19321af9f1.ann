@@ -1,0 +1,42 @@
+T1	Abbreviation 109 112	APS
+T2	Abbreviation 142 144	ca
+T3	Abbreviation 156 159	tto
+T4	Abbreviation 200 203	HRC
+T5	Abbreviation 277 283	CESFAM
+T6	Abbreviation 317 320	izq
+T7	Body_Part 309 320	rodilla izq
+T8	Abbreviation 483 485	Rx
+T9	Body_Part 486 494	rodillas
+T10	Abbreviation 695 697	SU
+T11	Abbreviation 715 717	dg
+T12	Abbreviation 718 721	ACV
+T13	Abbreviation 747 749	SU
+T14	Abbreviation 814 817	DAU
+T15	Abbreviation 821 823	TC
+T16	Abbreviation 870 873	Dra
+T17	Abbreviation 955 958	bzd
+T18	Medication 955 958	bzd
+T19	Abbreviation 1021 1024	AAS
+T20	Abbreviation 1058 1060	TC
+T21	Abbreviation 1064 1066	RM
+T22	Medication 1009 1018	estatinas
+T23	Medication 1021 1024	AAS
+T24	Disease 2 85	SECUELAS DE ENFERMEDAD CEREBROVASCULAR, NO ESPECIFICADA COMO HEMORRÁGICA U OCLUSIVA
+T25	Disease 142 152	ca mamario
+T26	Disease 255 265	metastasis
+T27	Disease 300 470	dolor en rodilla izq de semanas de evolución, no precedido por trauma, que se presentaprinicpalmente en la noche al descansar, npo se modifica con movimientos articulares
+T28	Diagnostic_Procedure 483 502	Rx rodillas frontal
+T29	Laboratory_or_Test_Result 507 557	no evidencia lesiones degenerativas ni neoplásicas
+R1	Has Arg1:T28 Arg2:T29	
+T30	Sign_or_Symptom 612 621	disartria
+T31	Sign_or_Symptom 623 634	hemiparesia
+T32	Sign_or_Symptom 636 652	asimetria facial
+T33	Sign_or_Symptom 667 690	cefalea ictal occipital
+T34	Disease 718 721	ACV
+T35	Disease 922 939	sinusitis frontal
+T36	Medication 961 978	inductor de sueño
+T37	Sign_or_Symptom 1138 1154	asimetría facial
+T38	Sign_or_Symptom 1156 1167	hemiparesia
+T39	Sign_or_Symptom 1169 1178	disartria
+T40	Clinical_Finding 1180 1190	normotensa
+T41	Disease 1357 1440	Secuelas de enfermedad cerebrovascular, no especificada como hemorragica u oclusiva

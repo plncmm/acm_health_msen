@@ -1,0 +1,16 @@
+T1	Abbreviation 58 61	APS
+T2	Abbreviation 113 116	mdr
+T3	Abbreviation 120 122	ml
+T4	Abbreviation 123 125	mm
+T5	Abbreviation 158 161	hta
+T6	Abbreviation 227 230	tbn
+T7	Abbreviation 250 253	bun
+T8	Disease 2 34	ENFERMEDAD RENAL CRÓNICA ETAPA 3
+T9	Laboratory_Procedure 113 116	mdr
+T10	Disease 158 161	hta
+T11	Laboratory_Procedure 207 217	creatinina
+T12	Disease 258 290	Enfermedad renal cronica Etapa 3
+T13	Laboratory_Procedure 250 253	bun
+T14	Laboratory_Procedure 240 244	crea
+T15	Laboratory_or_Test_Result 231 239	alterado
+R1	Has Arg1:T11 Arg2:T15	

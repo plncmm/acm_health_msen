@@ -1,0 +1,13 @@
+T1	Disease 29 32	HTA
+T2	Abbreviation 29 32	HTA
+T3	Medication 38 40	Ac
+T4	Abbreviation 38 40	Ac
+T5	Disease 41 43	FA
+T6	Abbreviation 41 43	FA
+T7	Disease 34 36	IC
+T8	Abbreviation 34 36	IC
+T9	Abbreviation 40 41	x
+T10	Laboratory_or_Test_Result 59 72	EPIGASTRALGIA
+T11	Diagnostic_Procedure 89 108	ECOGRAFIA ABDOMINAL
+#1	AnnotatorNotes T10	?
+R1	Has Arg1:T11 Arg2:T10	

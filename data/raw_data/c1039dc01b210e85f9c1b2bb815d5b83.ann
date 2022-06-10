@@ -1,0 +1,13 @@
+T1	Body_Part 45 48	8.4
+T2	Abbreviation 60 62	OD
+T3	Clinical_Finding 15 21	CARIES
+T4	Clinical_Finding 53 73	CARIES OD PENETRANTE
+T5	Disease 79 102	OSTEITIS INTERRADICULAR
+T6	Laboratory_or_Test_Result 79 102	OSTEITIS INTERRADICULAR
+T7	Diagnostic_Procedure 109 120	RADIOGRAFIA
+R1	Has Arg1:T7 Arg2:T6	
+T8	Disease 124 145	ABCESO PERIRRADICULAR
+T10	Laboratory_or_Test_Result 124 145	ABCESO PERIRRADICULAR
+T9	Laboratory_or_Test_Result 151 160	MOVILIDAD
+A1	Negated T9
+R2	Has Arg1:T7 Arg2:T10	

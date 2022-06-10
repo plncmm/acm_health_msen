@@ -1,0 +1,7 @@
+T1	Body_Part 0 8	DTE. 1.5
+T2	Abbreviation 0 3	DTE
+T3	Abbreviation 55 59	PMCF
+T4	Medication 55 59	PMCF
+T5	Medication 85 91	Fermín
+T6	Therapeutic_Procedure 9 18	TREPANADO
+T7	Clinical_Finding 23 40	caries penetrante

@@ -1,0 +1,16 @@
+T1	Body_Part 24 48	ARTERIAS DE LOS MIEMBROS
+T2	Abbreviation 119 122	APS
+T3	Abbreviation 147 152	antec
+T4	Abbreviation 154 156	CV
+T5	Abbreviation 260 262	ex
+T6	Abbreviation 181 184	EEI
+T7	Body_Part 181 184	EEI
+T8	Abbreviation 305 306	+
+T9	Disease 2 48	ATEROSCLEROSIS DE LAS ARTERIAS DE LOS MIEMBROS
+T10	Disease 52 94	INSUFICIENCIA VENOSA (CRÓNICA) (PERIFÉRICA
+T11	Sign_or_Symptom 165 184	claudicación en EEI
+T12	Sign_or_Symptom 186 193	pesadez
+T13	Sign_or_Symptom 195 225	edema de predominio vespertino
+T14	Sign_or_Symptom 227 255	impotencia funcional parcial
+T15	Sign_or_Symptom 271 304	pulsos disminuidon bilateralmente
+T16	Disease 307 357	várices Insuficiencia venosa (cronica) (periferica

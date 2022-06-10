@@ -1,0 +1,13 @@
+T1	Body_Part 0 7	pza 4.6
+T2	Abbreviation 0 3	pza
+T3	Disease 8 23	necrosis pulpar
+T4	Abbreviation 74 78	pmcf
+T5	Clinical_Finding 81 87	fermin
+T6	Medication 74 78	pmcf
+T7	Therapeutic_Procedure 36 47	trepanación
+T8	Clinical_Finding 62 69	algodón
+T9	Therapeutic_Procedure 53 87	deja con algodón con pmcf y fermin
+T10	Laboratory_or_Test_Result 89 102	Quiste apical
+T11	Disease 89 102	Quiste apical
+T12	Therapeutic_Procedure 116 130	terapia pulpar
+A1	Pending T12

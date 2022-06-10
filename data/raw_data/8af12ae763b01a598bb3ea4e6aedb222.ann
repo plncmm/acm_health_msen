@@ -1,0 +1,19 @@
+T1	Body_Part 55 59	MAMA
+T2	Body_Part 82 96	mama izquierda
+T3	Abbreviation 146 149	APS
+T4	Abbreviation 151 154	Eco
+T5	Body_Part 319 324	mamas
+T6	Body_Part 387 391	mama
+T7	Laboratory_or_Test_Result 2 21	HALLAZGOS ANORMALES
+T8	Diagnostic_Procedure 42 59	IMAGEN DE LA MAMA
+R1	Has Arg1:T8 Arg2:T7	
+T9	Sign_or_Symptom 59 96	Lesion inflamatoria en mama izquierda
+T10	Diagnostic_Procedure 151 162	Eco mamaria
+T13	Sign_or_Symptom 302 332	Examen fisico de mamas: normal
+T14	Laboratory_or_Test_Result 334 353	Hallazgos anormales
+T15	Diagnostic_Procedure 374 391	imagen de la mama
+R2	Has Arg1:T15 Arg2:T14	
+T11	Laboratory_or_Test_Result 164 190	Nodulacion mamaria derecha
+R3	Has Arg1:T10 Arg2:T11	
+T12	Diagnostic_Procedure 263 301	mamografia localizada y con compresión
+A1	Pending T12

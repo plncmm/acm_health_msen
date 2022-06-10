@@ -1,0 +1,8 @@
+T1	Abbreviation 46 49	APS
+T2	Disease 2 22	ENFERMEDAD DE CHAGAS
+T3	Disease 101 113	HIPERTENSION
+T4	Laboratory_Procedure 188 204	TYPONOSOMA CRUSI
+T5	Laboratory_or_Test_Result 230 238	POSITIVO
+R1	Has Arg1:T4 Arg2:T5	
+T6	Disease 207 227	ENFERMEDAD DE CHAGAS
+T7	Disease 298 318	Enfermedad de chagas

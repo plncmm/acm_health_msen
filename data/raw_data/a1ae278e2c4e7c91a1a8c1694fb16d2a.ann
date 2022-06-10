@@ -1,0 +1,5 @@
+T1	Body_Part 26 42	miembro inferior
+T2	Body_Part 95 118	extremidades inferiores
+T3	Sign_or_Symptom 71 118	desigualdad de longitud extremidades inferiores
+T4	Sign_or_Symptom 43 68	claudicacion en la marcha
+T5	Disease 12 42	reduccion del miembro inferior

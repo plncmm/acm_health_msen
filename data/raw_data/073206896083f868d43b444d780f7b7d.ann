@@ -1,0 +1,14 @@
+T1	Abbreviation 80 82	Ca
+T2	Body_Part 83 88	colon
+T3	Abbreviation 124 126	kg
+T4	Disease 3 27	OLOR ABDOMINAL Y PÉLVICO
+T5	Disease 80 95	Ca colon-rectal
+T6	Disease 107 119	baja de peso
+T7	Sign_or_Symptom 195 217	dolor abdominal difuso
+T8	Sign_or_Symptom 219 239	distensión ocasional
+T9	Sign_or_Symptom 247 273	alteración de deposiciones
+A1	Negated T9
+T10	Laboratory_Procedure 319 336	perfil bioquimico
+T11	Laboratory_or_Test_Result 337 343	normal
+R1	Has Arg1:T10 Arg2:T11	
+A2	Implicit_Family_Background T5

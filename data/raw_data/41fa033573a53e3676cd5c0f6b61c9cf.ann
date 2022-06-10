@@ -1,0 +1,9 @@
+T1	Disease 0 4	R060
+T2	Disease 5 11	DISNEA
+T4	Sign_or_Symptom 24 30	DISNEA
+T5	Sign_or_Symptom 32 49	CREPITOS GRUESSOS
+T7	Abbreviation 61 65	RXTX
+T9	Disease 104 110	DISNEA
+T3	Diagnostic_Procedure 61 65	RXTX
+T6	Laboratory_or_Test_Result 66 92	INFILTRADOS INTERSTICIALES
+R1	Has Arg1:T3 Arg2:T6	

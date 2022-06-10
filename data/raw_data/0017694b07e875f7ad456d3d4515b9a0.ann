@@ -1,0 +1,6 @@
+T1	Body_Part 60 63	ENF
+T2	Body_Part 19 26	DIENTES
+T3	Therapeutic_Procedure 97 133	Protesis Parcial superior e inferior
+A1	Pending T3
+T4	Disease 0 5	K08.1
+T5	Disease 8 82	PERDIDA DE DIENTES DEBIDA A ACCIDENTE, EXTRACCION O ENF. PERIODONTAL LOCAL

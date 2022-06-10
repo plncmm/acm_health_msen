@@ -1,0 +1,6 @@
+T1	Body_Part 31 37	DIENTE
+T2	Body_Part 76 83	dientes
+T3	Body_Part 102 144	piezas dentales 1.1  -  1.2 -  2.1  -  2.2
+T4	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T5	Disease 44 83	anomalias en la posision de los dientes
+T6	Sign_or_Symptom 146 208	alteracion en el crecimiento dentafacial sector anterosuperior

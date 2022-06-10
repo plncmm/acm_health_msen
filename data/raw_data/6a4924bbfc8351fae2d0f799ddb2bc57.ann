@@ -1,0 +1,6 @@
+T1	Body_Part 20 29	pieza 2.1
+T2	Therapeutic_Procedure 30 54	tratada endodonticamente
+T3	Disease 94 101	absceso
+T4	Therapeutic_Procedure 151 177	re tratamiento de conducto
+A1	Pending T4
+T5	Therapeutic_Procedure 126 136	endodoncia

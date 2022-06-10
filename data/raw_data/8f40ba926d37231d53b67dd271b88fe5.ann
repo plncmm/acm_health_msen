@@ -1,0 +1,35 @@
+T1	Abbreviation 49 52	APS
+T2	Medication 98 108	clonazepam
+T3	Abbreviation 111 113	mg
+T4	Medication 121 134	carbamazepina
+T5	Medication 138 151	clorpormazina
+T6	Medication 159 169	fluoxetina
+T7	Abbreviation 185 188	hta
+T8	Medication 260 268	losartan
+T9	Abbreviation 287 290	hct
+T10	Medication 287 289	hc
+T11	Abbreviation 294 296	mg
+T12	Medication 302 312	nifedipino
+T13	Abbreviation 316 318	mg
+T14	Medication 326 339	atorvastatina
+T15	Medication 350 359	omeprazol
+T16	Medication 370 381	paracetamol
+T17	Abbreviation 398 401	sos
+T18	Medication 403 410	celebra
+T19	Abbreviation 411 414	sos
+T20	Medication 417 424	eutirox
+T21	Abbreviation 428 431	mcg
+T22	Body_Part 485 490	manos
+T23	Body_Part 493 502	mandibula
+T24	Body_Part 541 545	cara
+T25	Disease 2 25	ENFERMEDAD DE PARKINSON
+T26	Disease 190 204	hipotiroidismo
+T27	Disease 206 224	artrosis de cadera
+T28	Disease 227 239	dislipidemia
+T29	Disease 185 188	hta
+T30	Sign_or_Symptom 464 511	temblor de reposo en manos y mandibula inferior
+T31	Sign_or_Symptom 513 525	desquilibrio
+T32	Sign_or_Symptom 527 539	pasos cortos
+T33	Sign_or_Symptom 541 557	cara inexpresiva
+T34	Sign_or_Symptom 560 584	rigidez en tubo de plomo
+T35	Disease 640 663	Enfermedad de Parkinson

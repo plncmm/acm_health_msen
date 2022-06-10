@@ -1,0 +1,18 @@
+T1	Body_Part 21 30	AMÍGDALAS
+T2	Abbreviation 170 172	Ex
+T3	Body_Part 200 207	faringe
+T4	Body_Part 232 241	amigdalas
+T5	Abbreviation 322 325	ORL
+T6	Disease 2 30	HIPERTROFIA DE LAS AMÍGDALAS
+T7	Disease 87 98	amigdalitis
+T8	Sign_or_Symptom 100 116	respirador bucal
+T9	Sign_or_Symptom 118 123	ronca
+T10	Sign_or_Symptom 125 168	dificultad para tragar alimentos semisolido
+T11	Clinical_Finding 181 187	rosado
+T12	Clinical_Finding 189 198	hidratado
+T13	Sign_or_Symptom 200 218	faringe congestiva
+T14	Sign_or_Symptom 224 230	placas
+A1	Negated T14
+T15	Sign_or_Symptom 232 255	amigdalas hipertroficas
+T16	Clinical_Finding 260 276	otoscopia normal
+T17	Sign_or_Symptom 278 298	cardipulmonar normal

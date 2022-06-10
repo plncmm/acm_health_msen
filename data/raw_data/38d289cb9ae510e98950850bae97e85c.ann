@@ -1,0 +1,15 @@
+T1	Disease 0 9	HIDROCELE
+T2	Disease 11 15	N433
+T3	Disease 17 26	HIDROCELE
+T4	Abbreviation 27 31	PCTE
+T6	Abbreviation 35 40	ANTEC
+T5	Abbreviation 32 34	C-
+T7	Disease 44 54	HICDROCELE
+T8	Abbreviation 90 92	C-
+T10	Body_Part 114 127	TESTICULO IZQ
+T13	Abbreviation 73 77	EVOL
+T11	Abbreviation 124 127	IZQ
+T9	Sign_or_Symptom 93 127	AUMENTO DE TAMAÑO DE TESTICULO IZQ
+T12	Sign_or_Symptom 128 136	DOLOROSO
+T14	Sign_or_Symptom 138 158	TRANSILUMINACION (+)
+T15	Abbreviation 156 157	+

@@ -1,0 +1,13 @@
+T1	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T2	Abbreviation 54 57	APS
+T3	Abbreviation 59 62	Pza
+T4	Body_Part 59 66	Pza 2.4
+T5	Disease 71 88	caries penetrante
+T6	Clinical_Finding 115 126	trepanación
+T7	Abbreviation 133 136	pza
+T8	Therapeutic_Procedure 142 165	irriga con hipoclorhito
+T9	Clinical_Finding 196 233	mota estéril con obt de eugenato y vi
+T10	Abbreviation 231 233	vi
+T11	Body_Part 246 253	cemento
+T12	Disease 235 253	Caries del cemento
+T13	Abbreviation 213 216	obt

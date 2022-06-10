@@ -1,0 +1,9 @@
+T1	Body_Part 0 8	pieza 17
+T2	Laboratory_or_Test_Result 9 44	semi incluida en leve disto versión
+T3	Laboratory_or_Test_Result 46 85	espacio pericoronario distal ensanchado
+T4	Clinical_Finding 87 107	integridad coronaria
+T5	Sign_or_Symptom 109 124	cámara estrecha
+T6	Abbreviation 126 130	cond
+T7	Sign_or_Symptom 126 137	cond. finos
+T8	Sign_or_Symptom 139 165	raíces curvas hacia distal
+T9	Clinical_Finding 186 202	periapice normal

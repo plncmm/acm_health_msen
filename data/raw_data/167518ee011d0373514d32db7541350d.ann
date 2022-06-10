@@ -1,0 +1,51 @@
+T1	Abbreviation 37 40	Ant
+T2	Abbreviation 43 46	HTA
+T3	Abbreviation 48 51	DLP
+T4	Abbreviation 53 55	IC
+T5	Abbreviation 57 59	IM
+T6	Abbreviation 93 97	EPOC
+T7	Abbreviation 276 279	BEG
+T8	Abbreviation 317 323	RR2TSS
+T9	Abbreviation 325 327	MP
+T10	Abbreviation 359 362	ABD
+T11	Body_Part 359 362	ABD
+T12	Abbreviation 364 367	BDI
+T14	Abbreviation 327 328	+
+T15	Abbreviation 446 447	+
+T16	Abbreviation 448 449	+
+T17	Abbreviation 506 511	CLOTE
+T18	Abbreviation 372 373	+
+T19	Abbreviation 369 372	RHA
+T13	Body_Part 487 502	rodilla derecha
+T20	Disease 2 18	ANGINA INESTABLE
+T21	Disease 43 46	HTA
+T22	Disease 48 51	DLP
+T23	Disease 53 55	IC
+T24	Disease 57 67	IM antiguo
+T25	Disease 69 90	cardiopatia coronaria
+T26	Disease 93 97	EPOC
+T27	Sign_or_Symptom 133 164	Regulares condiciones generales
+T28	Sign_or_Symptom 198 204	disnea
+T29	Sign_or_Symptom 212 231	clase funcional III
+T30	Sign_or_Symptom 237 243	angina
+A1	Negated T30
+T31	Clinical_Finding 276 279	BEG
+T32	Clinical_Finding 281 291	normotensa
+T33	Clinical_Finding 293 305	normocárdica
+T34	Clinical_Finding 307 315	eupneica
+T35	Sign_or_Symptom 317 323	RR2TSS
+T36	Sign_or_Symptom 325 328	MP+
+T37	Sign_or_Symptom 329 357	crepitos basales bilaterales
+T38	Sign_or_Symptom 364 367	BDI
+T39	Sign_or_Symptom 369 372	RHA
+T40	Sign_or_Symptom 379 394	masas palpables
+A2	Negated T40
+T41	Sign_or_Symptom 398 429	signos de irritación peritoneal
+A3	Negated T41
+T42	Sign_or_Symptom 431 449	Pulsos pedios  +/+
+T43	Sign_or_Symptom 455 460	edema
+A4	Negated T43
+T44	Sign_or_Symptom 462 502	Claudicacion a la marcha rodilla derecha
+T45	Clinical_Finding 506 511	CLOTE
+T46	Sign_or_Symptom 516 525	focalidad
+A5	Negated T46

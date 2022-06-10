@@ -1,0 +1,4 @@
+T1	Disease 9 27	desdentado parcial
+T2	Sign_or_Symptom 44 72	protesis estan en mal estado
+T3	Therapeutic_Procedure 95 150	protesis removible superior parcial superior e inferior
+A1	Pending T3

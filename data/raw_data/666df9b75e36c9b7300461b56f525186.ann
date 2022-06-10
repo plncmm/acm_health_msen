@@ -1,0 +1,15 @@
+T1	Abbreviation 49 52	APS
+T2	Abbreviation 270 272	rx
+T3	Body_Part 276 290	columna lumbar
+T7	Abbreviation 391 395	exam
+T8	Body_Part 365 372	arco L5
+T9	Body_Part 118 135	region lumbosacra
+T4	Disease 2 25	LUMBAGO NO ESPECIFICADO
+T5	Sign_or_Symptom 90 152	intenso dolor crónico en la region lumbosacra  sin irradiación
+T6	Sign_or_Symptom 177 226	imposibilidad a la bipedestacion por mucho tiempo
+T10	Diagnostic_Procedure 270 298	rx de columna lumbar ap-l-ls
+T11	Laboratory_or_Test_Result 299 335	sin signos de lesion ósea localizada
+T12	Laboratory_or_Test_Result 338 372	osificacion incompleta del arco L5
+T13	Disease 482 505	Lumbago no especificado
+R1	Has Arg1:T10 Arg2:T11	
+R2	Has Arg1:T10 Arg2:T12	

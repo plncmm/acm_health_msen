@@ -1,0 +1,52 @@
+T1	Family_Member 95 99	TIOS
+T2	Medication 204 216	FENOBARBITAL
+T3	Abbreviation 237 238	+
+T4	Abbreviation 239 241	AC
+T5	Medication 239 251	AC VALPROICO
+T6	Abbreviation 258 261	HRS
+T7	Abbreviation 254 255	C
+T8	Abbreviation 333 337	SERV
+T9	Abbreviation 389 391	EX
+T10	Abbreviation 395 398	LAB
+T11	Abbreviation 412 414	TP
+T12	Abbreviation 420 424	TTPK
+T13	Abbreviation 431 435	HCTO
+T14	Abbreviation 442 445	WBC
+T15	Abbreviation 468 471	VHS
+T16	Laboratory_Procedure 515 520	CREAT
+T17	Abbreviation 536 539	COL
+T18	Abbreviation 553 556	HDL
+T19	Abbreviation 561 564	TGC
+T20	Abbreviation 569 571	LD
+T23	Abbreviation 610 613	GOT
+T24	Abbreviation 619 622	GPT
+T25	Abbreviation 627 630	GGT
+T21	Abbreviation 578 580	BI
+T22	Abbreviation 595 597	BI
+T26	Abbreviation 527 535	PLPIDIOC
+T27	Disease 2 11	EPILEPSIA
+T28	Sign_or_Symptom 31 49	CRISIS CONVULSIVAS
+T29	Sign_or_Symptom 122 143	CRISIS TONICO CLONICA
+T30	Sign_or_Symptom 157 181	COMPROMISO DE CONCIENCIA
+T31	Sign_or_Symptom 355 373	CRISIS CONVULSIVAS
+T32	Laboratory_Procedure 412 414	TP
+T33	Laboratory_Procedure 420 424	TTPK
+T34	Laboratory_Procedure 431 435	HCTO
+T35	Laboratory_Procedure 442 445	WBC
+T36	Laboratory_Procedure 450 459	PLAQUETAS
+T37	Laboratory_Procedure 468 471	VHS
+T39	Abbreviation 515 520	CREAT
+T40	Laboratory_Procedure 536 545	COL TOTAL
+T41	Laboratory_Procedure 553 556	HDL
+T42	Laboratory_Procedure 561 564	TGC
+T43	Laboratory_Procedure 569 571	LD
+T44	Laboratory_Procedure 578 588	BI DIRECTA
+T45	Laboratory_Procedure 595 603	BI TOTAL
+T46	Laboratory_Procedure 610 613	GOT
+T47	Laboratory_Procedure 619 622	GPT
+T48	Laboratory_Procedure 627 630	GGT
+T49	Disease 100 111	EPILEPTICOS
+R1	Has Arg1:T1 Arg2:T49	
+T50	Laboratory_Procedure 493 499	FROTIS
+T38	Laboratory_or_Test_Result 472 489	CELULAS  NORMALES
+R2	Has Arg1:T50 Arg2:T38	

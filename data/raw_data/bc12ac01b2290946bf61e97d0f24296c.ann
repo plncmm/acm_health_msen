@@ -1,0 +1,12 @@
+T1	Disease 2 28	OTROS VÉRTIGOS PERIFÉRICOS
+T2	Disease 32 40	TINNITUS
+T3	Abbreviation 64 67	APS
+T4	Disease 121 128	vertigo
+T5	Disease 130 138	tinnitus
+T8	Sign_or_Symptom 235 253	occipital opresivo
+T9	Body_Part 235 244	occipital
+T11	Medication 268 279	paracetamol
+T12	Sign_or_Symptom 281 286	mareo
+T14	Disease 324 350	Otros vertigos perifericos
+T6	Sign_or_Symptom 140 180	perdida del equililibrio e inastibilidad
+T7	Sign_or_Symptom 203 233	cefalea de moderada intensidad

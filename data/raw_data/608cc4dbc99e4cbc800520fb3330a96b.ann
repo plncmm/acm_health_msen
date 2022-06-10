@@ -1,0 +1,6 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Disease 27 45	Desdentado parcial
+T3	Sign_or_Symptom 47 104	clasificacion de kenedy clase III modificacion 1 superior
+T4	Sign_or_Symptom 106 152	especios edentulos posteriores sin borde libre
+T5	Therapeutic_Procedure 163 189	protesis parcial removible
+A1	Pending T5

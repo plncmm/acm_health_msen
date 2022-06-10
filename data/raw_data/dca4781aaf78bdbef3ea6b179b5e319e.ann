@@ -1,0 +1,8 @@
+T1	Disease 2 32	ABSCESO PERIAPICAL CON FÍSTULA
+T2	Abbreviation 56 59	APS
+T3	Diagnostic_Procedure 61 83	RADIOGRAFIA PERIAPICAL
+T4	Laboratory_or_Test_Result 95 108	LESION APICAL
+R1	Has Arg1:T3 Arg2:T4	
+T5	Sign_or_Symptom 108 115	FISTULA
+T6	Sign_or_Symptom 116 141	DOLOR LEVE A LA PERSUSION
+T7	Disease 143 173	Absceso periapical con fistula

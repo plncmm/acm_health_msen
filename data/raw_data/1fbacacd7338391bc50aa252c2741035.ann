@@ -1,0 +1,6 @@
+T1	Body_Part 102 111	pieza 2.6
+T2	Body_Part 115 119	boca
+T3	Disease 2 20	DESDENTADO PARCIAL
+T4	Disease 33 62	Desdentado parcial Mandibular
+T5	Sign_or_Symptom 64 95	Clase III de kennedy Mandibular
+T6	Clinical_Finding 97 119	Solo pieza 2.6 en boca

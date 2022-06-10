@@ -1,0 +1,6 @@
+T1	Disease 2 30	PERIODONTITIS CRÓNICA SEVERA
+T2	Abbreviation 54 57	APS
+T3	Sign_or_Symptom 72 115	recesiones clasificación tipo III de miller
+T4	Sign_or_Symptom 117 134	movilidad grado 3
+T5	Sign_or_Symptom 136 163	calculo supra y subgingival
+T6	Disease 165 186	Periodontitis cronica

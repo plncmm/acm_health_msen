@@ -1,0 +1,10 @@
+T1	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T2	Abbreviation 70 73	APS
+T3	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T4	Disease 84 96	hipotiroidea
+T5	Disease 107 115	bruxismo
+T6	Sign_or_Symptom 117 132	ruido articular
+T7	Sign_or_Symptom 135 162	recesiones gingivales leves
+T8	Sign_or_Symptom 178 195	hipersensibilidad
+T9	Therapeutic_Procedure 206 229	plano de alivio olcusal
+A1	Pending T9

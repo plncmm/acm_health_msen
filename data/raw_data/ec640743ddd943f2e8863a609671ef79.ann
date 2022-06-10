@@ -1,0 +1,6 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Sign_or_Symptom 79 114	apiñamiento dentario anterosuperior
+T3	Disease 116 164	Anomalias dentofaciales (incluso la maloclusion)
+T4	Abbreviation 74 77	APS
+#1	AnnotatorNotes T4	atención primaria de salud
+T5	Disease 79 90	apiñamiento

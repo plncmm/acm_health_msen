@@ -1,0 +1,11 @@
+T1	Disease 2 37	ABSCESO DENTO ALVEOLAR AGUDO (ADAA)
+T2	Abbreviation 61 64	APS
+T3	Body_Part 79 89	diente 1.3
+T4	Clinical_Finding 94 115	restauración profunda
+T5	Disease 122 136	absceso dental
+T6	Therapeutic_Procedure 150 161	trepanación
+T7	Therapeutic_Procedure 194 204	endodoncia
+A1	Pending T7
+T8	Disease 205 232	Celulitis y absceso de boca
+T9	Abbreviation 32 36	ADAA
+T10	Body_Part 228 232	boca

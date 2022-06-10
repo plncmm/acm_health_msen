@@ -1,0 +1,5 @@
+T1	Body_Part 0 15	pieza 4.8 y 3.8
+T2	Body_Part 87 105	cavidad mandibular
+T3	Laboratory_or_Test_Result 0 105	pieza 4.8 y 3.8 semi incluidas, raíces convergentes en fromación con ápices proximos a cavidad mandibular
+T4	Body_Part 69 75	ápices
+T5	Body_Part 32 38	raíces

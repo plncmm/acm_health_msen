@@ -1,0 +1,6 @@
+T1	Disease 2 41	GINGIVITIS Y ENFERMEDADES PERIODONTALES
+T2	Abbreviation 65 68	APS
+T3	Disease 70 107	periodontitis severa aguda localizada
+T4	Body_Part 111 123	zona 1.6-1.7
+T5	Sign_or_Symptom 123 140	movilidad grado I
+T6	Therapeutic_Procedure 151 182	destartraje sub y supragingival

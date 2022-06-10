@@ -1,0 +1,9 @@
+T1	Abbreviation 0 1	p
+T2	Body_Part 0 6	p. 1.2
+T4	Body_Part 8 12	p. 7
+T5	Clinical_Finding 18 46	terapia previamente iniciada
+T6	Clinical_Finding 48 57	trepanada
+T7	Clinical_Finding 73 79	Fermín
+T8	Therapeutic_Procedure 102 127	tratamiento de endodoncia
+A1	Pending T8
+T3	Abbreviation 8 9	p

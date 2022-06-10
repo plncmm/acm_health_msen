@@ -1,0 +1,6 @@
+T1	Disease 0 4	N23X
+T2	Disease 5 34	COLICO RENAL, NO ESPECIFICADO
+T3	Sign_or_Symptom 48 60	COLICO RENAL
+T4	Diagnostic_Procedure 75 83	PIELOTAC
+T5	Laboratory_or_Test_Result 93 110	LITIASIS URETERAL
+R1	Has Arg1:T4 Arg2:T5	

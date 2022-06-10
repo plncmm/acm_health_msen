@@ -1,0 +1,8 @@
+T1	Abbreviation 63 66	APS
+T2	Body_Part 113 116	2.2
+T3	Body_Part 117 126	Dentición
+T4	Disease 2 39	ANOMALÍA DENTOFACIAL, NO ESPECIFICADA
+T7	Disease 160 197	Anomalia dentofacial, no especificada
+T5	Sign_or_Symptom 68 95	Ligero apiñamiento inferior
+T8	Sign_or_Symptom 97 116	mal posicion de 2.2
+T6	Sign_or_Symptom 117 145	Dentición mixta segunda fase

@@ -1,0 +1,17 @@
+T1	Disease 2 20	MOLUSCO CONTAGIOSO
+T2	Disease 24 40	VERRUGAS VIRICAS
+T3	Sign_or_Symptom 93 116	erupcion cutanea difusa
+T4	Sign_or_Symptom 122 139	prurito ocasional
+T5	Sign_or_Symptom 164 304	lesiones micropapulares blanquecinas, confluentes en placas, abundantes, de distribucion difusa, predominio en tronco (anterior y posterior)
+T6	Disease 424 442	Molusco contagioso
+T7	Abbreviation 64 67	APS
+#1	AnnotatorNotes T7	atención primaria de salud
+T8	Abbreviation 74 77	+/-
+#2	AnnotatorNotes T8	más o menos
+T9	Abbreviation 144 146	ex
+#3	AnnotatorNotes T9	examen
+T10	Abbreviation 410 413	HRC
+#4	AnnotatorNotes T10	hospital regional coyhaique
+T11	Abbreviation 415 417	Dr
+#5	AnnotatorNotes T11	doctor
+T12	Body_Part 275 281	tronco

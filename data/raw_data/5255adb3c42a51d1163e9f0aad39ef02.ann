@@ -1,0 +1,8 @@
+T1	Clinical_Finding 21 36	dentición mixta
+T2	Body_Part 47 60	piezas 9 y 10
+T3	Sign_or_Symptom 47 78	piezas 9 y 10 en palatoposición
+T4	Sign_or_Symptom 81 98	mordida invertida
+T5	Sign_or_Symptom 125 139	trauma oclusal
+T6	Sign_or_Symptom 143 184	pérdida de inserción de encía de pieza 25
+T7	Body_Part 176 184	pieza 25
+T8	Body_Part 167 172	encía

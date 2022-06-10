@@ -1,0 +1,25 @@
+T1	Clinical_Finding 2 21	EMBARAZO CONFIRMADO
+T2	Disease 25 63	CANDIDIASIS DE LA VULVA Y DE LA VAGINA
+T3	Disease 65 70	N77.1
+T4	Disease 77 134	SÍFILIS QUE COMPLICA EL EMBARAZO, EL PARTO Y EL PUERPERIO
+T5	Abbreviation 158 161	APS
+T6	Abbreviation 172 173	M
+T7	Clinical_Finding 172 174	M3
+T8	Clinical_Finding 176 184	EMBARAZO
+T9	Abbreviation 190 193	SEM
+T10	Disease 213 220	SIFILIS
+T12	Abbreviation 249 252	PRP
+T13	Abbreviation 256 260	VDRL
+T14	Abbreviation 253 256	+  
+T17	Abbreviation 316 319	PNC
+T19	Abbreviation 334 336	IM
+T20	Clinical_Finding 375 394	Embarazo confirmado
+T22	Body_Part 43 48	VULVA
+T23	Body_Part 57 63	VAGINA
+T11	Laboratory_Procedure 249 252	PRP
+T15	Laboratory_Procedure 256 260	VDRL
+T16	Laboratory_or_Test_Result 253 254	+
+T21	Laboratory_or_Test_Result 261 272	REACTVO 1:2
+T18	Medication 316 329	PNC BENZATINA
+R1	Has Arg1:T11 Arg2:T16	
+R2	Has Arg1:T15 Arg2:T21	

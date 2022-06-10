@@ -1,0 +1,7 @@
+T1	Disease 2 10	PULPITIS
+T2	Body_Part 17 26	diente 12
+T3	Disease 27 45	caries OD profunda
+T4	Abbreviation 34 36	OD
+T5	Sign_or_Symptom 47 73	sintomatilogía irrevesible
+T6	Disease 101 107	caries
+T7	Therapeutic_Procedure 109 120	trepanación

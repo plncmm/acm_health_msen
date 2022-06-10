@@ -1,0 +1,7 @@
+T1	Sign_or_Symptom 31 78	perdida prematura de multiples piezas dentarias
+T2	Disease 285 320	Maloclusion de tipo no especificado
+T3	Body_Part 62 78	piezas dentarias
+T4	Therapeutic_Procedure 258 283	tratamiento de ortodoncia
+A1	Pending T4
+T5	Therapeutic_Procedure 205 226	mantenedor de espacio
+A2	Pending T5

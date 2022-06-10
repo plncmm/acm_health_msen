@@ -1,0 +1,13 @@
+T1	Body_Part 32 46	MÉDULA ESPINAL
+T2	Body_Part 109 114	L1-L3
+T3	Body_Part 157 163	vejiga
+T4	Disease 2 46	SECUELAS DE TRAUMATISMO DE LA MÉDULA ESPINAL
+T5	Disease 75 84	atropello
+T6	Disease 97 114	fractura de L1-L3
+T7	Therapeutic_Procedure 115 147	operada con barras paravertebral
+T8	Disease 149 175	secuela vejiga neurogenica
+T9	Therapeutic_Procedure 149 183	secuela vejiga neurogenica operada
+T10	Sign_or_Symptom 207 264	aumento de volumen en relacion de inicio de osteosintesis
+T11	Sign_or_Symptom 266 310	sensible a la plapcion que ha ido en aumento
+T12	Therapeutic_Procedure 346 365	retiiro de material
+A1	Pending T12

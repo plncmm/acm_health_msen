@@ -1,0 +1,10 @@
+T1	Abbreviation 0 3	PZA
+T2	Body_Part 0 7	PZA 2.3
+T3	Body_Part 19 23	BOCA
+T4	Sign_or_Symptom 0 23	PZA 2.3 AUSENTE EN BOCA
+T5	Abbreviation 44 47	PZA
+T6	Body_Part 44 51	PZA 2.3
+T7	Laboratory_or_Test_Result 44 107	PZA 2.3 CON APICE CORONARIO SOBREPROYECTADO EN APICE DE PZA 2.2
+T8	Body_Part 91 107	APICE DE PZA 2.2
+T9	Abbreviation 100 103	PZA
+T10	Body_Part 56 61	APICE

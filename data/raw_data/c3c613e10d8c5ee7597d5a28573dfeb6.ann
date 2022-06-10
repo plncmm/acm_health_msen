@@ -1,0 +1,10 @@
+T1	Disease 2 38	ALTERACIONES EN LA ERUPCIÓN DENTARIA
+T2	Disease 42 90	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T3	Abbreviation 114 117	APS
+T4	Sign_or_Symptom 137 155	compresion maxilar
+T5	Sign_or_Symptom 157 182	mordida cruzada bilateral
+T6	Sign_or_Symptom 185 206	interposicion lingual
+T7	Sign_or_Symptom 209 236	Clase molar tres unilateral
+T8	Sign_or_Symptom 238 258	rotaciones dentarias
+T9	Sign_or_Symptom 260 291	over bite y overjet disminuidos
+T10	Disease 294 330	Alteraciones en la erupcion dentaria

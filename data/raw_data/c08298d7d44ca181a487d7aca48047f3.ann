@@ -1,0 +1,13 @@
+T1	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T2	Clinical_Finding 48 71	antecedentes sistemicos
+A1	Negated T2
+T3	Sign_or_Symptom 73 96	ALERGICA AL PARACETAMOL
+T4	Therapeutic_Procedure 109 123	biopulpectomia
+T5	Body_Part 127 136	pieza 2.1
+T6	Disease 152 178	caries dentinaria profunda
+T7	Abbreviation 179 181	DP
+T8	Therapeutic_Procedure 193 216	restauracion provisoria
+A2	Pending T8
+T9	Diagnostic_Procedure 230 241	radiografia
+A3	Pending T9
+T10	Medication 85 96	PARACETAMOL

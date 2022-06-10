@@ -1,0 +1,7 @@
+T1	Body_Part 0 9	PIEZA 8-9
+T2	Therapeutic_Procedure 14 26	PULPECTONIAS
+T3	Sign_or_Symptom 36 53	CAMBIO COLORACION
+T4	Body_Part 60 69	PIEZA 8-9
+T5	Body_Part 70 77	PIEZA 3
+T6	Laboratory_or_Test_Result 70 93	PIEZA 3 OSTRITIS APICAL
+T7	Disease 96 114	CARIE SPENETRANTES

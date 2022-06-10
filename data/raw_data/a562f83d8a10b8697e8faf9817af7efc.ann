@@ -1,0 +1,11 @@
+T1	Abbreviation 5 7	TU
+T2	Abbreviation 39 41	TU
+T3	Body_Part 52 57	VULVA
+T4	Abbreviation 71 73	CM
+T5	Body_Part 93 109	SINFISIS PELVICA
+T6	Abbreviation 0 1	M
+T7	Abbreviation 61 64	+ -
+T8	Clinical_Finding 0 3	M 2
+T9	Disease 5 14	TU VULVAR
+T10	Clinical_Finding 17 27	CLIMATERIO
+T11	Sign_or_Symptom 39 57	TU BLANDO EN VULVA

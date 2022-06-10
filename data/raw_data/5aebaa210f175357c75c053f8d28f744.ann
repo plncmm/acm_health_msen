@@ -1,0 +1,9 @@
+T1	Abbreviation 60 63	APS
+T2	Family_Member 104 112	hermanos
+T3	Disease 2 36	HEPATITIS CRÓNICA, NO ESPECIFICADA
+T4	Laboratory_Procedure 77 92	Perfil hepatico
+T5	Laboratory_or_Test_Result 93 101	alterado
+R1	Has Arg1:T4 Arg2:T5	
+T6	Disease 128 145	Cirrosis Hepatica
+R2	Has Arg1:T2 Arg2:T6	
+T7	Disease 147 181	Hepatitis cronica, no especificada

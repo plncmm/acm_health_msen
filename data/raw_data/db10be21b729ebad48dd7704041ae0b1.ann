@@ -1,0 +1,32 @@
+T1	Abbreviation 99 102	APS
+T2	Family_Member 231 236	madre
+T3	Family_Member 239 243	hija
+T4	Abbreviation 332 335	+/-
+T5	Abbreviation 356 359	tto
+T6	Abbreviation 383 386	+/-
+T7	Abbreviation 417 418	+
+T8	Body_Part 456 466	antebrazos
+T9	Abbreviation 537 540	+/-
+T10	Abbreviation 573 577	mant
+T11	Family_Member 666 671	madre
+T12	Family_Member 674 678	hija
+T13	Abbreviation 748 752	Rdto
+T14	Abbreviation 771 774	+/-
+T16	Abbreviation 825 828	cig
+T17	Abbreviation 830 832	OH
+T15	Abbreviation 817 819	v/
+T18	Disease 2 26	TRASTORNOS DE ADAPTACIÓN
+T19	Disease 30 75	TRASTORNO DE LA PERSONALIDAD, NO ESPECIFICADO
+T20	Sign_or_Symptom 173 184	agresividad
+T21	Sign_or_Symptom 186 192	llanto
+T22	Sign_or_Symptom 271 293	alteracion del apetito
+T23	Disease 409 417	Builimia
+T24	Sign_or_Symptom 419 444	escaso control de impulso
+T25	Clinical_Finding 786 794	embarazo
+A1	Negated T25
+T26	Clinical_Finding 830 832	OH
+T27	Sign_or_Symptom 194 210	intento suicidio
+T28	Sign_or_Symptom 246 269	inestabilidad emocional
+T29	Medication 364 378	Flores de Bach
+T30	Clinical_Finding 797 803	Tabaco
+T31	Sign_or_Symptom 122 138	crisis nerviosas

@@ -1,0 +1,14 @@
+T1	Body_Part 117 124	ojo izq
+T2	Body_Part 180 201	esclera ojo izquierdo
+T3	Body_Part 217 221	iris
+T4	Abbreviation 35 38	APS
+T5	Abbreviation 65 70	antec
+T6	Abbreviation 121 124	izq
+T7	Disease 2 11	PTERIGION
+T8	Clinical_Finding 65 79	antec morbidos
+A1	Negated T8
+T9	Sign_or_Symptom 90 124	sensacion de curpo extraño ojo izq
+T10	Sign_or_Symptom 137 201	lesion tipo blanquecina  a nivel medial de esclera ojo izquierdo
+T11	Clinical_Finding 223 248	agudeza visual conservada
+T12	Sign_or_Symptom 207 221	traspasar iris
+A2	Negated T12

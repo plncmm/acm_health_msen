@@ -1,0 +1,15 @@
+T1	Clinical_Finding 2 32	PIEZA TRATADA ENDODÓNTICAMENTE
+T2	Abbreviation 36 39	dte
+T3	Body_Part 36 42	dte 11
+T4	Disease 43 60	caries dentinaria
+T5	Abbreviation 61 63	OD
+T6	Sign_or_Symptom 64 91	comunicada en camara pulpar
+T7	Body_Part 78 91	camara pulpar
+T8	Therapeutic_Procedure 104 125	eliminacion de caries
+T9	Therapeutic_Procedure 127 138	trepanacion
+T10	Abbreviation 139 140	+
+T11	Therapeutic_Procedure 141 165	medicacion intraconducto
+T12	Therapeutic_Procedure 167 187	se obtura con motita
+T13	Abbreviation 188 189	+
+T14	Clinical_Finding 190 196	fermin
+T15	Disease 119 125	caries

@@ -1,0 +1,13 @@
+T1	Abbreviation 41 44	APS
+T2	Abbreviation 46 50	PCTE
+T3	Abbreviation 64 67	ANT
+T4	Body_Part 107 122	REGION INGUINAL
+T5	Disease 2 17	HERNIA INGUINAL
+T6	Clinical_Finding 64 76	ANT MORBIDOS
+A1	Negated T6
+T7	Sign_or_Symptom 99 122	MASA EN REGION INGUINAL
+T8	Disease 136 142	HERNIA
+T9	Sign_or_Symptom 144 154	REDUCTIBLE
+T10	Sign_or_Symptom 160 186	SIGNOS DE ESTRANGULAMIENTO
+A2	Negated T10
+T11	Disease 207 222	Hernia inguinal

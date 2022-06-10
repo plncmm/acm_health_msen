@@ -1,0 +1,6 @@
+T1	Abbreviation 38 41	APS
+T2	Abbreviation 65 70	antec
+T3	Disease 2 14	ASTIGMATISMO
+T4	Clinical_Finding 65 79	antec morbidos
+A1	Negated T4
+T5	Sign_or_Symptom 115 167	disminucion agudeza visual progresiva mayor de lejos

@@ -1,0 +1,6 @@
+T1	Disease 2 59	TRASTORNOS DEL DESARROLLO Y DE LA ERUPCIÓN DE LOS DIENTES
+T2	Body_Part 52 59	DIENTES
+T4	Body_Part 89 97	pieza 32
+T3	Sign_or_Symptom 63 97	Dolor en zona de erupción pieza 32
+T5	Sign_or_Symptom 99 114	semierupcionada
+T6	Sign_or_Symptom 116 163	capuchón distal pericoronario leve  inflamación

@@ -1,0 +1,10 @@
+T1	Body_Part 0 8	pza. 1.1
+T2	Abbreviation 0 3	pza
+T3	Abbreviation 29 31	c/
+T4	Abbreviation 79 82	obt
+T5	Abbreviation 97 98	+
+T6	Medication 88 96	eugenato
+T7	Abbreviation 99 101	vi
+T8	Sign_or_Symptom 0 18	pza. 1.1 trepanada
+T9	Therapeutic_Procedure 22 43	irriga c/ hipoclorito
+T10	Therapeutic_Procedure 79 101	obt. con eugenato + vi

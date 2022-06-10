@@ -1,0 +1,6 @@
+T1	Disease 9 36	desdentado parcial superior
+T3	Abbreviation 80 83	PFU
+T4	Therapeutic_Procedure 80 83	PFU
+A1	Pending T4
+T2	Body_Part 68 75	pieza 8
+T5	Therapeutic_Procedure 90 112	implante oseointegrado

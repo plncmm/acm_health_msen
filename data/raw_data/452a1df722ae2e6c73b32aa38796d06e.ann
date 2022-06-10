@@ -1,0 +1,22 @@
+T1	Abbreviation 13 16	DIU
+T2	Abbreviation 104 107	DIU
+T4	Abbreviation 143 146	DM2
+T5	Abbreviation 171 174	HTA
+T6	Abbreviation 175 177	CV
+T7	Abbreviation 181 185	EPOC
+T8	Abbreviation 41 43	C/
+T9	Abbreviation 90 91	G
+T10	Abbreviation 94 95	P
+T11	Abbreviation 98 99	A
+T3	Clinical_Finding 13 25	DIU ERRATICO
+T12	Therapeutic_Procedure 13 16	DIU
+T13	Clinical_Finding 90 92	G4
+T14	Clinical_Finding 94 96	P3
+T15	Clinical_Finding 98 100	A1
+T16	Therapeutic_Procedure 104 107	DIU
+T17	Sign_or_Symptom 104 120	DIU EXTRAUTERINO
+T18	Clinical_Finding 124 139	POST MENOPAUSIA
+T19	Disease 143 146	DM2
+T20	Disease 171 174	HTA
+T21	Disease 181 185	EPOC
+T22	Disease 189 197	OBESIDAD

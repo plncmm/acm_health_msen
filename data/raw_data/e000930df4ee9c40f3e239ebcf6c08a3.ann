@@ -1,0 +1,12 @@
+T1	Body_Part 26 32	CANINO
+T2	Family_Member 88 92	PAPA
+T3	Family_Member 94 97	TIO
+T4	Family_Member 100 106	ABUELO
+T5	Body_Part 132 139	CANINOS
+T6	Sign_or_Symptom 33 61	MORDIDA CRUZADA LADO DERECHO
+T7	Therapeutic_Procedure 120 139	DESGASTE DE CANINOS
+T8	Disease 0 11	PRAGMATISMO
+T9	Sign_or_Symptom 12 32	INTERFERENCIA CANINO
+R1	Has Arg1:T2 Arg2:T8	
+R2	Has Arg1:T3 Arg2:T8	
+R3	Has Arg1:T4 Arg2:T8	

@@ -1,0 +1,11 @@
+T1	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T2	Disease 61 64	APS
+T3	Therapeutic_Procedure 84 93	exodoncia
+T4	Body_Part 108 124	terceros molares
+T5	Disease 143 149	caries
+T6	Body_Part 151 160	3.8 y 4.8
+T8	Body_Part 194 210	segundos molares
+A1	Pending T3
+T9	Body_Part 31 37	DIENTE
+T7	Laboratory_or_Test_Result 151 210	3.8 y 4.8 semierupcionados e impactados en segundos molares
+T10	Disease 161 190	semierupcionados e impactados

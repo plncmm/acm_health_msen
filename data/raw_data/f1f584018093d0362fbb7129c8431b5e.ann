@@ -1,0 +1,5 @@
+T1	Therapeutic_Procedure 24 33	implantes
+A1	Pending T1
+T2	Disease 34 59	desdentada total inferior
+T3	Sign_or_Symptom 64 80	muy poco reborde
+T4	Body_Part 73 80	reborde

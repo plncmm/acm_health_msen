@@ -1,0 +1,5 @@
+T1	Disease 2 32	ABSCESO PERIAPICAL CON FÍSTULA
+T2	Body_Part 39 48	pieza 1.5
+T3	Sign_or_Symptom 49 63	fistula activa
+T4	Therapeutic_Procedure 76 87	trepanación
+T5	Medication 94 113	hidroxido de calcio

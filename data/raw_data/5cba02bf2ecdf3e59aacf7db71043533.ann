@@ -1,0 +1,106 @@
+T1	Disease 2 20	DISTROFIA MUSCULAR
+T2	Abbreviation 44 47	APS
+T3	Abbreviation 89 92	HTA
+T4	Abbreviation 93 95	DM
+T5	Abbreviation 106 108	IR
+T6	Disease 89 92	HTA
+T7	Disease 93 102	DM tipo 2
+T8	Clinical_Finding 121 128	alergia
+A1	Negated T8
+T9	Abbreviation 177 180	ASS
+T10	Medication 177 180	ASS
+T11	Abbreviation 191 194	ATV
+T12	Medication 191 194	ATV
+T13	Medication 205 213	Enlapril
+T14	Abbreviation 217 219	mg
+T15	Medication 230 233	GBC
+T16	Abbreviation 230 233	GBC
+T17	Medication 252 255	MTF
+T18	Abbreviation 252 255	MTF
+T19	Abbreviation 265 268	hrs
+T20	Sign_or_Symptom 287 296	debilidad
+T21	Sign_or_Symptom 299 308	cansancio
+T22	Abbreviation 325 330	aprox
+T23	Sign_or_Symptom 353 358	dolor
+T24	Abbreviation 368 370	MI
+T25	Body_Part 368 370	MI
+T26	Sign_or_Symptom 386 406	fuerza ha disminuido
+T27	Sign_or_Symptom 417 432	piernas pesadas
+T28	Body_Part 417 424	piernas
+T30	Body_Part 471 473	MI
+T31	Abbreviation 471 473	MI
+T32	Abbreviation 479 481	MS
+T33	Body_Part 479 481	MS
+T29	Sign_or_Symptom 448 481	perdido las fuerzas en MI y en MS
+T34	Body_Part 491 497	brazos
+T35	Sign_or_Symptom 510 561	Dolor en articulaciones de las rodillas y en hombro
+T37	Sign_or_Symptom 583 616	levantar de forma normal los pies
+A2	Negated T37
+T38	Body_Part 612 616	pies
+T39	Sign_or_Symptom 634 653	dificulta la marcha
+T40	Disease 681 687	caidas
+#1	AnnotatorNotes T40	whatt????????????
+T41	Sign_or_Symptom 693 709	lesiones mayores
+A3	Negated T41
+T42	Sign_or_Symptom 722 733	somnolencia
+A4	Negated T42
+T43	Sign_or_Symptom 752 758	fiebre
+A5	Negated T43
+T45	Clinical_Finding 848 880	sensibilidad: Normal, conservada
+T46	Sign_or_Symptom 893 912	DISMINUCIÓN DE PESO
+A6	Negated T46
+T44	Sign_or_Symptom 780 846	Dolores nocturnos que alteren el sueño  en hombros y en los brazos
+T47	Body_Part 823 830	hombros
+T48	Body_Part 840 846	brazos
+T49	Disease 921 954	incontinencias, urinaria ni fecal
+A7	Negated T49
+T50	Sign_or_Symptom 973 989	ptosis palpebral
+A8	Negated T50
+T51	Sign_or_Symptom 1015 1026	parestesias
+T52	Sign_or_Symptom 1048 1089	perdida de masa muscular en ambas piernas
+T53	Body_Part 1076 1089	ambas piernas
+T54	Clinical_Finding 1197 1233	dificultades para subir a la camilla
+T55	Clinical_Finding 1299 1322	Mucosas rosadas humedas
+T56	Clinical_Finding 1324 1337	cuello normal
+T57	Sign_or_Symptom 1342 1347	soplo
+A9	Negated T57
+T58	Body_Part 1250 1255	manos
+T59	Body_Part 1256 1269	ambas piernas
+T60	Abbreviation 1349 1356	RR2T SS
+T61	Sign_or_Symptom 1349 1356	RR2T SS
+T62	Abbreviation 1357 1359	MP
+T63	Abbreviation 1361 1364	SRA
+T64	Abbreviation 1359 1360	+
+T65	Sign_or_Symptom 1357 1360	MP+
+T66	Sign_or_Symptom 1361 1364	SRA
+T67	Body_Part 1366 1373	abdomen
+T68	Body_Part 1299 1306	Mucosas
+T72	Sign_or_Symptom 1423 1437	viceromegalias
+A10	Negated T72
+T73	Body_Part 1439 1443	EEII
+T74	Abbreviation 1439 1443	EEII
+T75	Sign_or_Symptom 1444 1449	edema
+A11	Negated T75
+T76	Sign_or_Symptom 1459 1496	dolor en la flexion de ambas rodillas
+T77	Body_Part 1482 1496	ambas rodillas
+T78	Sign_or_Symptom 1502 1519	crujido articular
+T79	Clinical_Finding 1539 1584	sostener el peso de sus rodillas en extension
+A12	Negated T79
+T80	Body_Part 1563 1571	rodillas
+T81	Sign_or_Symptom 1586 1613	Dolor muscular generalizado
+T82	Sign_or_Symptom 1615 1638	Sensibilidad conservada
+T83	Sign_or_Symptom 1639 1656	fuerza disminuida
+T84	Sign_or_Symptom 1658 1715	Sensibilidad aumentada en zona de hombros y zona cervical
+T85	Sign_or_Symptom 1717 1752	Abducción dolorosa en ambos hombros
+T86	Body_Part 1739 1752	ambos hombros
+T87	Sign_or_Symptom 1754 1792	Fuerza en MS disminuida bilateralmente
+T88	Body_Part 1764 1766	MS
+T89	Abbreviation 1764 1766	MS
+T90	Disease 1880 1898	Distrofia muscular
+T36	Body_Part 541 549	rodillas
+T91	Body_Part 555 561	hombro
+T92	Body_Part 1324 1330	cuello
+T69	Clinical_Finding 1366 1417	abdomen Blando depresible e indoloro a la palpacion
+A13	Negated T78
+T70	Body_Part 1692 1699	hombros
+T71	Body_Part 1702 1715	zona cervical

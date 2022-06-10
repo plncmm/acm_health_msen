@@ -1,0 +1,11 @@
+T2	Abbreviation 91 94	APS
+T3	Abbreviation 111 114	EMB
+T4	Abbreviation 131 134	ANT
+T1	Abbreviation 136 141	NIE I
+T5	Disease 2 40	SUPERVISIÓN DE EMBARAZO DE ALTO RIESGO
+T6	Disease 44 67	DISPLASIA CERVICAL LEVE
+T7	Clinical_Finding 98 108	PRIMIGESTA
+T8	Clinical_Finding 111 114	EMB
+T9	Laboratory_or_Test_Result 136 141	NIE I
+T10	Disease 136 141	NIE I
+T11	Disease 143 181	Supervision de embarazo de alto riesgo

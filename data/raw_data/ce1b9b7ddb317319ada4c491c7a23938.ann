@@ -1,0 +1,8 @@
+T1	Abbreviation 0 3	ERC
+T2	Abbreviation 4 7	HMO
+T3	Abbreviation 43 46	RAV
+T4	Abbreviation 47 49	RC
+T5	Disease 0 3	ERC
+T6	Therapeutic_Procedure 4 41	HMO TRISEMANAL POR CATETER TUNELISADO
+T7	Therapeutic_Procedure 43 49	RAV RC
+T8	Sign_or_Symptom 77 101	POCO DESARROLLO PROXIMAL

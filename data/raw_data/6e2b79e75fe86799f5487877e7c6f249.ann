@@ -1,0 +1,15 @@
+T1	Body_Part 16 31	VESÍCULA BILIAR
+T2	Abbreviation 78 81	APS
+T3	Body_Part 162 181	hipocondrio derecho
+T4	Body_Part 441 456	vesicula biliar
+T5	Body_Part 471 479	bacinete
+T6	Abbreviation 529 531	cm
+T7	Body_Part 599 614	vesicula biliar
+T8	Medication 340 356	antiespasmodicos
+T9	Abbreviation 223 224	+
+T10	Disease 2 54	CÁLCULO DE LA VESÍCULA BILIAR CON COLECISTITIS AGUDA
+T11	Sign_or_Symptom 131 356	dolor abdominal  localizado en hipocondrio derecho de caracter  agudo con punto de Murphy  (+) de dos meses de evolucion el cual se ha ido incrementando  y presentandose refractario a a tratamiento medico con antiespasmodicos
+T12	Diagnostic_Procedure 387 409	estudio ecotomografico
+T13	Laboratory_or_Test_Result 424 531	calculo unico en vesicula biliar localizado en bacinete  el cual genera sombra acustca posterior de 1,70 cm
+R1	Has Arg1:T12 Arg2:T13	
+T14	Disease 585 637	Calculo de la vesicula biliar con colecistitis aguda

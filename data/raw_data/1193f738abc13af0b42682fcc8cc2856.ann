@@ -1,0 +1,6 @@
+T1	Body_Part 23 35	GLOBO OCULAR
+T2	Body_Part 56 67	OJO DERECHO
+T3	Disease 2 35	OTROS TRASTORNOS DEL GLOBO OCULAR
+T4	Laboratory_or_Test_Result 39 67	EDEMA MACULAR EN OJO DERECHO
+T5	Diagnostic_Procedure 71 121	tomografia de coherencia optica de alta definición
+R1	Has Arg1:T5 Arg2:T4	

@@ -1,0 +1,12 @@
+T1	Abbreviation 0 4	PCTE
+T2	Abbreviation 67 71	FCOS
+T3	Abbreviation 100 103	TTO
+T4	Abbreviation 133 137	GRAL
+T5	Abbreviation 73 74	-
+T6	Abbreviation 87 88	-
+T7	Disease 10 27	HIPOACUSIA SEVERA
+T9	Therapeutic_Procedure 100 137	TTO. ODONTOLOGICO BAJO ANESTESIA GRAL
+A1	Pending T9
+T8	Disease 29 35	CARIES
+T10	Clinical_Finding 77 85	ALERGIAS
+A2	Negated T10

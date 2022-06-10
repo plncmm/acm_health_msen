@@ -1,0 +1,9 @@
+T1	Disease 169 173	SBOR
+T4	Abbreviation 169 173	SBOR
+T5	Abbreviation 148 151	APS
+T2	Disease 2 90	OTROS TRASTORNOS QUE AFECTAN EL MECANISMO DE LA INMUNIDAD, NO CLASIFICADOS EN OTRA PARTE
+T6	Disease 94 124	ANEMIA DE TIPO NO ESPECIFICADO
+T7	Sign_or_Symptom 230 258	curva de creciemiento normal
+T8	Sign_or_Symptom 259 271	asintomatico
+T9	Laboratory_or_Test_Result 283 344	alteracion  de formula diferencial y morfologia de leucocitos
+T3	Disease 345 433	Otros trastornos que afectan el mecanismo de la inmunidad, no clasificados en otra parte

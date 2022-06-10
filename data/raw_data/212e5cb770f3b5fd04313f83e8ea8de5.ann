@@ -1,0 +1,11 @@
+T1	Abbreviation 4 6	SD
+T2	Abbreviation 34 38	PCTE
+T3	Abbreviation 91 92	C
+T4	Abbreviation 94 97	ECG
+T5	Abbreviation 99 100	N
+T6	Disease 4 16	SD. ANGINOSO
+T7	Sign_or_Symptom 63 90	LETRA ILEGIBLE A REPETICION
+T8	Diagnostic_Procedure 94 97	ECG
+T9	Laboratory_or_Test_Result 98 101	(N)
+R1	Has Arg1:T8 Arg2:T9	
+T10	Sign_or_Symptom 113 135	SENSACION DE CANSANCIO

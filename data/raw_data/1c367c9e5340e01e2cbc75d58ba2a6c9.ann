@@ -1,0 +1,7 @@
+T1	Therapeutic_Procedure 18 41	tratamiento endodontico
+A1	Pending T1
+T2	Body_Part 45 55	diente 3.2
+T3	Laboratory_or_Test_Result 45 74	diente 3.2, con lesion apical
+T4	Clinical_Finding 89 101	asintomatica
+T5	Body_Part 138 154	diente 3.3 y 4.3
+T6	Disease 159 175	caries profundas

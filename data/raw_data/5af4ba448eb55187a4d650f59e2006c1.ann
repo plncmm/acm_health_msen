@@ -1,0 +1,43 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 174 179	Pacte
+T3	Abbreviation 310 315	Pacte
+T4	Family_Member 491 496	madre
+T5	Family_Member 499 504	padre
+T6	Family_Member 515 518	tio
+T7	Family_Member 619 626	hermano
+T8	Abbreviation 1066 1071	pacte
+T9	Abbreviation 1080 1083	tto
+T11	Abbreviation 1185 1190	pacte
+T12	Family_Member 1241 1246	hijos
+T13	Abbreviation 1335 1338	VIF
+T14	Body_Part 1873 1879	Cabeza
+T15	Body_Part 1900 1904	Cara
+T16	Body_Part 1908 1912	Ojos
+T17	Body_Part 1923 1934	mucosa conj
+T18	Abbreviation 1930 1934	conj
+T19	Body_Part 1944 1948	Boca
+T20	Body_Part 1977 1983	Cuello
+T21	Abbreviation 79 84	Pacte
+T10	Disease 2 50	EPISODIO DEPRESIVO GRAVE SIN SÍNTOMAS PSICÓTICOS
+T22	Disease 137 153	DEPRESIVO SEVERA
+T23	Sign_or_Symptom 287 303	ideacion suidida
+T24	Disease 941 957	depresion severa
+T25	Sign_or_Symptom 1634 1664	aumentando la ideacion suicida
+T26	Sign_or_Symptom 1679 1702	tarstornos con el sueño
+T27	Sign_or_Symptom 1707 1721	autoetima baja
+T28	Sign_or_Symptom 1723 1737	irritabilkidad
+T29	Sign_or_Symptom 1742 1749	astenia
+T30	Sign_or_Symptom 1754 1766	hieprsominia
+T31	Sign_or_Symptom 1768 1787	labilidad emocional
+T32	Sign_or_Symptom 1793 1827	ideacion suicida con planificacion
+T33	Clinical_Finding 1873 1899	Cabeza: - Sin alteraciones
+T34	Clinical_Finding 1908 1921	Ojos isocoria
+T35	Clinical_Finding 1923 1942	mucosa conj. Rosada
+T36	Clinical_Finding 1944 1975	Boca: - Mucosa húmedas, dentada
+T37	Clinical_Finding 1977 2003	Cuello: - Sin alteraciones
+T38	Clinical_Finding 2006 2032	Pulsos carotídeos normales
+T39	Clinical_Finding 2035 2057	Yugulares sin alteraci
+T40	Disease 2058 2106	Episodio depresivo grave sin sintomas psicoticos
+T41	Disease 346 355	deprecion
+T42	Disease 1022 1037	intento suicida
+T43	Disease 1559 1575	cuadro depresivo

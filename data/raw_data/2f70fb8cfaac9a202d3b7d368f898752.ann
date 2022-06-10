@@ -1,0 +1,6 @@
+T1	Disease 2 23	PERIODONTITIS CRÓNICA
+T2	Sign_or_Symptom 30 49	Sacos periodontales
+T3	Clinical_Finding 51 78	placa bacteriana controlada
+T4	Laboratory_or_Test_Result 80 96	reabsorción ósea
+T5	Diagnostic_Procedure 97 109	radiográfica
+R1	Has Arg1:T5 Arg2:T4	

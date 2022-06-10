@@ -1,0 +1,11 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T3	Sign_or_Symptom 84 101	Fascies adenoidea
+T4	Sign_or_Symptom 103 149	Clase molar de Angle derecha II e izquierda II
+T5	Sign_or_Symptom 152 196	Linea media inferior desviada a la izquierda
+T6	Body_Part 217 232	dientes 1.2-1.5
+T7	Sign_or_Symptom 199 232	Mordida invertida dientes 1.2-1.5
+T8	Clinical_Finding 234 269	clase canina neutrooclusion derecha
+T9	Sign_or_Symptom 275 299	disto oclusion izquierda
+T10	Sign_or_Symptom 301 341	Apiñamiento dentario grupo II y V severo
+T11	Body_Part 322 334	grupo II y V
+T2	Sign_or_Symptom 66 82	respirador bucal

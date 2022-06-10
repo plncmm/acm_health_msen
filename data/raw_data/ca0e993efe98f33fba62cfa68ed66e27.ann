@@ -1,0 +1,63 @@
+T1	Abbreviation 98 101	APS
+T2	Abbreviation 230 232	HB
+T3	Abbreviation 238 241	HTO
+T4	Abbreviation 492 494	AM
+T5	Family_Member 507 512	PADRE
+T6	Family_Member 515 522	HERMANA
+T7	Abbreviation 523 526	DM2
+T8	Abbreviation 534 537	HTA
+T9	Medication 588 598	METFORMINA
+T10	Abbreviation 602 604	MG
+T11	Abbreviation 621 625	tbco
+T12	Abbreviation 449 451	AM
+T13	Family_Member 528 533	MADRE
+T14	Abbreviation 474 475	A
+T15	Abbreviation 693 694	-
+T16	Abbreviation 706 707	-
+T17	Abbreviation 718 719	-
+T18	Abbreviation 793 794	-
+T19	Disease 2 74	HEMORRAGIA GASTROINTESTINAL, NO ESPECIFICADAHEMORRAGIAS OCULTAS POSITIVO
+T20	Disease 143 168	INTOLERANCIA A LA GLUCOSA
+T21	Laboratory_Procedure 193 204	ERITROCITOS
+T22	Laboratory_Procedure 238 241	HTO
+T23	Laboratory_Procedure 230 232	HB
+T24	Laboratory_Procedure 213 223	LEUCOCITOS
+T25	Laboratory_Procedure 247 256	PLAQUETAS
+T26	Laboratory_Procedure 274 284	UROCULTIVO
+T27	Laboratory_or_Test_Result 285 293	NEGATIVO
+R1	Has Arg1:T26 Arg2:T27	
+T28	Laboratory_Procedure 295 305	LEUCOCITOS
+T29	Laboratory_Procedure 321 329	HEMATIES
+T30	Laboratory_Procedure 345 364	HEMORRAGIAS OCULTAS
+T31	Laboratory_or_Test_Result 365 373	POSITIVO
+R2	Has Arg1:T30 Arg2:T31	
+T32	Laboratory_Procedure 383 402	HEMORRAGIAS OCULTAS
+T33	Laboratory_or_Test_Result 403 411	POSITIVO
+R3	Has Arg1:T32 Arg2:T33	
+T34	Laboratory_Procedure 421 440	HEMORRAGIAS OCULTAS
+T35	Laboratory_or_Test_Result 441 449	POSITIVO
+R4	Has Arg1:T34 Arg2:T35	
+T36	Disease 453 473	INTOLERANCIA GLUCOSA
+T37	Disease 523 526	DM2
+R5	Has Arg1:T6 Arg2:T37	
+R6	Has Arg1:T5 Arg2:T37	
+T38	Disease 534 539	HTA  
+R7	Has Arg1:T13 Arg2:T38	
+T39	Clinical_Finding 539 547	Alergias
+A1	Negated T39
+T40	Sign_or_Symptom 671 684	BAJAS DE PESO
+A2	Negated T40
+T41	Sign_or_Symptom 684 691	DIARREA
+A3	Negated T41
+T42	Sign_or_Symptom 697 704	VOMITOS
+A4	Negated T42
+T43	Sign_or_Symptom 710 716	FIEBRE
+A5	Negated T43
+T44	Sign_or_Symptom 726 754	CAMBIO EN HABITO INTERSTINAL
+A6	Negated T44
+T45	Clinical_Finding 755 776	DEPOSICIONES NORMALES
+T46	Laboratory_or_Test_Result 776 791	DOLOR ABDOMINAL
+A7	Negated T46
+T47	Disease 947 991	Hemorragia gastrointestinal, no especificada
+T48	Clinical_Finding 474 487	A.Quirúrgicos
+A8	Negated T48

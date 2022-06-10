@@ -1,0 +1,11 @@
+T1	Disease 2 39	ABSCESO DENTO ALVEOLAR CRÓNICO (ADAC)
+T2	Abbreviation 46 49	Dte
+T3	Abbreviation 34 38	ADAC
+T4	Body_Part 46 53	Dte 4.2
+T5	Therapeutic_Procedure 46 139	Dte 4.2, se trepana e irriga con chx, se deja medicacion de H.C. y se obt con motita y fermin
+T6	Medication 79 82	chx
+T7	Abbreviation 79 82	chx
+T8	Medication 106 109	H.C
+T9	Abbreviation 106 109	H.C
+T10	Abbreviation 116 119	obt
+T11	Clinical_Finding 133 139	fermin

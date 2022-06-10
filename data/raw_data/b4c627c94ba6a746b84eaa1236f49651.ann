@@ -1,0 +1,32 @@
+T1	Disease 2 36	TUMOR BENIGNO DEL CUELLO DEL ÚTERO
+T2	Sign_or_Symptom 112 125	DOLOR PELVICO
+T3	Sign_or_Symptom 160 172	SINUSORRAGIA
+T4	Sign_or_Symptom 175 198	FLUJO VAGINAL MALOLENTE
+T5	Sign_or_Symptom 320 360	DOLOR A LA PALPACION ANEXIAL NI CERVICAL
+A1	Negated T5
+T6	Disease 424 458	Tumor benigno del cuello del utero
+T7	Sign_or_Symptom 267 314	CUELLO ERITEMATOSO EN TODA SU EXTENSIÓN FRIABLE
+T8	Abbreviation 60 63	APS
+#1	AnnotatorNotes T8	atención primaria de la salud
+T9	Abbreviation 226 229	BDI
+#2	AnnotatorNotes T9	blando, depresible e indoloro
+T10	Abbreviation 92 96	PVTE
+#3	AnnotatorNotes T10	parto de término vaginal espontáneo
+T11	Abbreviation 231 234	RHA
+#4	AnnotatorNotes T11	rechazo hiperagudo
+T12	Abbreviation 379 382	PAP
+#5	AnnotatorNotes T12	papanicolau
+T13	Abbreviation 402 404	EV
+#6	AnnotatorNotes T13	evaluación
+T14	Body_Part 20 36	CUELLO DEL ÚTERO
+T15	Body_Part 218 225	ABDOMEN
+T16	Body_Part 267 273	CUELLO
+T17	Body_Part 442 458	cuello del utero
+T18	Clinical_Finding 74 83	MULTIPARA
+T19	Therapeutic_Procedure 92 96	PVTE
+T20	Clinical_Finding 218 229	ABDOMEN BDI
+T21	Clinical_Finding 231 238	RHA (+)
+T22	Diagnostic_Procedure 379 382	PAP
+T23	Diagnostic_Procedure 239 253	ESPECULOSCOPIA
+T24	Laboratory_or_Test_Result 383 391	NORMALES
+R1	Has Arg1:T22 Arg2:T24	

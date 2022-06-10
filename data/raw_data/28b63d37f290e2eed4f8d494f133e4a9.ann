@@ -1,0 +1,17 @@
+T1	Abbreviation 75 77	IR
+T2	Abbreviation 148 151	APS
+T3	Abbreviation 154 157	INS
+T4	Abbreviation 159 162	NPH
+T5	Abbreviation 164 167	NFD
+T6	Abbreviation 169 172	ATV
+T7	Medication 164 167	NFD
+T8	Medication 169 172	ATV
+T9	Abbreviation 174 177	AAS
+T10	Medication 174 177	AAS
+T11	Abbreviation 179 182	FRS
+T12	Medication 179 182	FRS
+T13	Medication 154 162	INS, NPH
+T14	Disease 29 50	HIPERTENSION ARTERIAL
+T15	Disease 55 74	DIABETES MELLITUS 2
+T16	Disease 96 112	OBESIDAD MORBIDA
+T17	Disease 117 129	DISLIPIDEMIA

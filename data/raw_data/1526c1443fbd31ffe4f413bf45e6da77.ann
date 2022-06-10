@@ -1,0 +1,10 @@
+T1	Abbreviation 53 57	SOPQ
+T2	Abbreviation 65 68	MAC
+T3	Abbreviation 69 72	FUR
+T4	Abbreviation 91 93	DS
+T5	Body_Part 38 43	UTERO
+T6	Clinical_Finding 2 11	NULIGESTA
+T7	Sign_or_Symptom 13 36	AMENORREAS A REPETICION
+T8	Laboratory_or_Test_Result 38 51	UTERO BICORNE
+T9	Disease 53 57	SOPQ
+T10	Clinical_Finding 65 68	MAC

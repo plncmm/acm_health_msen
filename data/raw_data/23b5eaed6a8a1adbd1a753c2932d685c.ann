@@ -1,0 +1,11 @@
+T1	Abbreviation 2 6	NASH
+T2	Abbreviation 9 12	DM2
+T3	Abbreviation 17 19	IR
+T4	Abbreviation 23 26	HTA
+T5	Disease 2 6	NASH
+T6	Disease 9 12	DM2
+T7	Disease 23 26	HTA
+T8	Disease 30 44	HIPOTIROIDISMO
+T9	Therapeutic_Procedure 58 71	TIROIDECTOMIA
+T10	Laboratory_or_Test_Result 76 92	NODULOS BENIGNOS
+T11	Disease 96 105	SOBREPESO

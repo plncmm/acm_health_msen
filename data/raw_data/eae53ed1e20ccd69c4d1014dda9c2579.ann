@@ -1,0 +1,13 @@
+T1	Abbreviation 9 16	ANTECED
+T2	Family_Member 90 97	CONYUGE
+T3	Abbreviation 27 28	-
+T4	Family_Member 64 70	PAREJA
+T5	Abbreviation 120 122	+-
+T6	Clinical_Finding 0 8	NULIPARA
+T7	Clinical_Finding 9 25	ANTECED MORBIDOS
+A1	Negated T7
+T8	Clinical_Finding 35 42	EMBARZO
+T9	Laboratory_Procedure 106 119	ESPERMIOGRAMA
+T10	Laboratory_or_Test_Result 151 159	ALTERADO
+R1	Has Arg1:T9 Arg2:T10	
+T11	Family_Member 81 86	HIJOS

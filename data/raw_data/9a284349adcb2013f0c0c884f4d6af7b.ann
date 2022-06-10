@@ -1,0 +1,10 @@
+T1	Body_Part 0 7	PZA 4.4
+T2	Abbreviation 0 3	PZA
+T3	Clinical_Finding 0 70	PZA 4.4 CON RESTAURACION CORONARIA DE COMPOSITE SIN ANCLAJE A CONDUCTO
+T4	Diagnostic_Procedure 87 106	EXAMEN RADIOGRAFICO
+T5	Laboratory_or_Test_Result 121 127	LESION
+A1	Negated T5
+T6	Laboratory_or_Test_Result 131 148	ALTERACION APICAL
+A2	Negated T6
+R1	Has Arg1:T4 Arg2:T5	
+R2	Has Arg1:T4 Arg2:T6	

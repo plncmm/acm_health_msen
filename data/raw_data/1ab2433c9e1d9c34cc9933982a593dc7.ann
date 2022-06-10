@@ -1,0 +1,12 @@
+T1	Abbreviation 46 49	APS
+T2	Abbreviation 203 206	ISP
+T3	Abbreviation 316 319	TTO
+T4	Abbreviation 291 295	POLI
+T5	Disease 2 22	ENFERMEDAD DE CHAGAS
+T6	Disease 79 99	ENFERMEDAD DE CHAGAS
+T8	Laboratory_or_Test_Result 169 187	SEROLOGIA POSITIVA
+T9	Laboratory_or_Test_Result 212 225	CARDIOMEGALIA
+A1	Negated T9
+T10	Sign_or_Symptom 229 263	SINTOMAS DE INSUFICIENCIA CARDIACA
+A2	Negated T10
+T11	Disease 321 341	Enfermedad de chagas

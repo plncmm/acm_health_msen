@@ -1,0 +1,7 @@
+T1	Clinical_Finding 0 29	neutroclusión molar bilateral
+T2	Sign_or_Symptom 30 55	caries superior ectopicos
+T3	Sign_or_Symptom 56 82	apiñamiento severo grupo 5
+T4	Disease 56 67	apiñamiento
+T5	Body_Part 75 82	grupo 5
+T6	Clinical_Finding 83 112	denticion permanente completa
+T7	Body_Part 83 92	denticion

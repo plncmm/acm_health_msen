@@ -1,0 +1,4 @@
+T1	Disease 28 42	HIPOTIROIDISMO
+T2	Diagnostic_Procedure 52 61	ECOGRAFIA
+T3	Laboratory_or_Test_Result 82 105	MODULO CERVICAL DERECHO
+R1	Has Arg1:T2 Arg2:T3	

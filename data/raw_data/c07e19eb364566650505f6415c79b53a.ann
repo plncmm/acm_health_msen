@@ -1,0 +1,13 @@
+T1	Body_Part 21 30	ADENOIDES
+T2	Abbreviation 54 57	APS
+T3	Body_Part 163 168	cavum
+T4	Body_Part 261 270	adenoides
+T5	Body_Part 197 206	via aerea
+T6	Disease 2 30	HIPERTROFIA DE LAS ADENOIDES
+T7	Sign_or_Symptom 67 73	apneas
+T8	Sign_or_Symptom 119 127	roncador
+T9	Sign_or_Symptom 130 146	respirador bucal
+T10	Diagnostic_Procedure 148 168	radiografía de cavum
+T11	Laboratory_or_Test_Result 182 206	obstruccion de via aerea
+R1	Has Arg1:T10 Arg2:T11	
+T12	Disease 242 270	Hipertrofia de las adenoides

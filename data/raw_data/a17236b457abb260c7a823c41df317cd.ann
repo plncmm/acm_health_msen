@@ -1,0 +1,7 @@
+T1	Disease 0 23	- PERIODONTITIS CRÓNICA
+T2	Abbreviation 47 50	APS
+T3	Disease 61 79	desdentada parcial
+T5	Sign_or_Symptom 85 126	pérdida de inserción en todos los dientes
+T6	Sign_or_Symptom 128 173	Depósitos duros y blandos de placa bacteriana
+T7	Disease 176 197	Periodontitis cronica
+T4	Body_Part 119 126	dientes

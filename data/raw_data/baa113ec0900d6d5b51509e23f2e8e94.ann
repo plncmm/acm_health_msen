@@ -1,0 +1,7 @@
+T1	Laboratory_or_Test_Result 0 121	Pza.:17 en mesio version,cavidad bajo obtturacion raices convergentes hacia apical con conductos finos y periapice normal
+T4	Abbreviation 0 3	Pza
+#1	AnnotatorNotes T4	pieza
+T5	Body_Part 0 7	Pza.:17
+T6	Body_Part 50 56	raices
+T7	Body_Part 105 114	periapice
+T8	Body_Part 87 96	conductos

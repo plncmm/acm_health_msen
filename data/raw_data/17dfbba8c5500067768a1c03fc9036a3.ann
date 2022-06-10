@@ -1,0 +1,45 @@
+T1	Disease 2 48	HELICOBACTER PYLORI COMO CAUSA DE ENFERMEDADES
+T2	Abbreviation 72 75	APS
+T3	Disease 119 122	DBT
+T4	Abbreviation 119 122	DBT
+T6	Abbreviation 146 149	HTA
+T7	Disease 146 149	HTA
+T8	Disease 151 171	Alergia a penicilina
+T9	Medication 161 171	penicilina
+T10	Abbreviation 218 221	EDA
+T12	Body_Part 232 239	Esofago
+T14	Abbreviation 284 287	A.D
+T15	Body_Part 288 296;357 362;365 373	Estomago fondo cuerpo  
+T19	Body_Part 387 392	Antro
+T21	Abbreviation 544 546	BP
+T22	Body_Part 549 555	Piloro
+T24	Body_Part 567 574	Duodeno
+T26	Abbreviation 589 591	D2
+T27	Body_Part 589 591	D2
+T28	Disease 605 622	Gastritis crónica
+T31	Abbreviation 715 717	Dr
+T32	Abbreviation 792 800	claritro
+T36	Disease 947 993	Helicobacter Pylori como causa de enfermedades
+T5	Diagnostic_Procedure 218 221	EDA
+T16	Diagnostic_Procedure 534 546	biopsia (4BP
+T11	Laboratory_Procedure 681 695	test de ureasa
+T17	Laboratory_or_Test_Result 696 704	positivo
+R2	Has Arg1:T11 Arg2:T17	
+T18	Medication 792 800	claritro
+T20	Medication 827 841	metronidazol  
+T23	Medication 864 873	omeprazol
+T13	Laboratory_or_Test_Result 222 230	alterada
+R1	Has Arg1:T5 Arg2:T13	
+T25	Laboratory_or_Test_Result 232 287	Esofago: Lumen y mucosa normal, Linea Z a 38 cms de A.D
+T29	Laboratory_or_Test_Result 288 385	Estomago: Forma y contenido Normal, Pliegues conservados, mucosa del fondo y cuerpo  sin lesiones
+T30	Laboratory_or_Test_Result 387 528	Antro con mucosa adelgazada, vision de vasos submucosos,  algunas lesiones rojas pequeñas y una sobrelevantada pequeña de consistencia gomosa
+R3	Has Arg1:T5 Arg2:T25	
+R4	Has Arg1:T5 Arg2:T29	
+R5	Has Arg1:T5 Arg2:T30	
+T33	Laboratory_or_Test_Result 549 565	Piloro permeable
+T34	Laboratory_or_Test_Result 567 591	Duodeno: Normal hasta D2
+T35	Laboratory_or_Test_Result 593 649	Conclusion: Gastritis crónica antral con erociones rojas
+R6	Has Arg1:T5 Arg2:T33	
+R7	Has Arg1:T5 Arg2:T34	
+R8	Has Arg1:T5 Arg2:T35	
+T37	Abbreviation 845 847	mg

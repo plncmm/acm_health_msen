@@ -1,0 +1,7 @@
+T1	Abbreviation 54 57	APS
+T2	Body_Part 59 68	Pieza 1.6
+T3	Body_Part 137 144	cemento
+T4	Laboratory_or_Test_Result 2 30	CARIES DENTINARIA PENETRANTE
+T5	Laboratory_or_Test_Result 59 86	Pieza 1.6 caries penetrante
+T6	Clinical_Finding 109 125	dentada completa
+T7	Clinical_Finding 126 144	Caries del cemento

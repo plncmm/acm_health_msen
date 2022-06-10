@@ -1,0 +1,11 @@
+T1	Disease 0 4	K050
+T2	Disease 5 21	GINGIVITIS AGUDA
+T3	Abbreviation 22 27	PACTE
+T4	Abbreviation 32 37	ANTEC
+T5	Abbreviation 41 44	LNH
+T6	Abbreviation 47 50	ERC
+T7	Sign_or_Symptom 69 76	FISTULA
+T8	Sign_or_Symptom 121 151	SIGNOS DE INFECCION  EN ENCIAS
+T9	Body_Part 145 151	ENCIAS
+T10	Disease 47 50	ERC
+T11	Disease 41 44	LNH

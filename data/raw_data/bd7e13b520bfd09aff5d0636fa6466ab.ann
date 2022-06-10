@@ -1,0 +1,24 @@
+T1	Body_Part 25 44	MIEMBROS INFERIORES
+T2	Body_Part 2 7	VENAS
+T3	Abbreviation 79 82	APS
+T5	Body_Part 308 312	eeii
+T6	Abbreviation 308 312	eeii
+T7	Abbreviation 523 527	atte
+T8	Body_Part 529 534	Venas
+T9	Body_Part 552 571	miembros inferiores
+T4	Body_Part 267 300	zona de maleolo externo izquierdo
+T10	Disease 2 55	VENAS VARICOSAS DE LOS MIEMBROS INFERIORES CON ÚLCERA
+T11	Disease 113 141	insuficiencia venosa cronica
+T12	Therapeutic_Procedure 159 177	operado de varices
+T13	Disease 170 177	varices
+T14	Disease 209 224	ulcera varicosa
+T15	Sign_or_Symptom 209 300	ulcera varicosa en cicatrizacion de desde hace 8 meses en zona de maleolo externo izquierdo
+T16	Sign_or_Symptom 317 347	signos de insuficiencia venosa
+T17	Disease 327 347	insuficiencia venosa
+T18	Sign_or_Symptom 349 384	cordones venosos grandes, tortuosos
+T19	Sign_or_Symptom 386 396	leve edema
+T20	Sign_or_Symptom 402 407	dolor
+A1	Negated T20
+T21	Sign_or_Symptom 416 455	pulsos tibiales posteriores disminuidos
+T22	Sign_or_Symptom 457 473	pedios presentes
+T23	Disease 529 582	Venas varicosas de los miembros inferiores con ulcera

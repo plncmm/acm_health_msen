@@ -1,0 +1,10 @@
+T1	Abbreviation 99 101	TC
+T2	Abbreviation 104 106	RM
+T3	Body_Part 110 117	COLUMNA
+T4	Abbreviation 221 225	ATTE
+T5	Disease 13 41	SECUELAS GRAVES DE ACCIDENTE
+T6	Sign_or_Symptom 59 76	DOLOR INVALIDANTE
+T7	Diagnostic_Procedure 99 101	TC
+T8	Diagnostic_Procedure 104 117	RM DE COLUMNA
+T9	Therapeutic_Procedure 165 177	INFILTRACION
+A1	Pending T9

@@ -1,0 +1,11 @@
+T1	Abbreviation 54 57	APS
+T2	Abbreviation 59 60	P
+T3	Body_Part 59 65	P. 2.4
+T4	Clinical_Finding 2 30	CARIES DENTINARIA PENETRANTE
+T5	Clinical_Finding 66 75	trepanada
+T6	Disease 80 102	absceso apical cronico
+T7	Therapeutic_Procedure 121 131	endodoncia
+T8	Clinical_Finding 166 184	Caries del cemento
+T9	Therapeutic_Procedure 150 164	rehabilitación
+A1	Pending T7
+A2	Pending T9

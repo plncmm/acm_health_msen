@@ -1,0 +1,7 @@
+T1	Body_Part 0 10	diente 1.2
+T2	Clinical_Finding 11 20	trepanado
+T3	Abbreviation 35 39	PMCF
+T4	Medication 35 39	PMCF
+T5	Clinical_Finding 55 61	fermin
+T6	Therapeutic_Procedure 83 108	tratamiento de endodoncia
+A1	Pending T6

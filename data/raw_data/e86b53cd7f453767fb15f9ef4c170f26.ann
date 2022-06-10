@@ -1,0 +1,12 @@
+T1	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T2	Abbreviation 61 64	APS
+T3	Body_Part 84 87	3.8
+T4	Laboratory_or_Test_Result 84 126	3.8 semierupcionado, en posición horizonta
+T5	Clinical_Finding 129 141	asintomático
+T6	Diagnostic_Procedure 152 164	radiográfico
+R1	Has Arg1:T6 Arg2:T4	
+T7	Therapeutic_Procedure 174 184	extracción
+A1	Pending T7
+T8	Disease 186 221	Anomalias de la posicion del diente
+T9	Body_Part 31 37	DIENTE
+T10	Body_Part 215 221	diente

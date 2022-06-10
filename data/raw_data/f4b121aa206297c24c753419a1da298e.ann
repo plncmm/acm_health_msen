@@ -1,0 +1,21 @@
+T1	Abbreviation 49 52	APS
+T2	Abbreviation 90 93	APS
+T3	Abbreviation 98 101	HTA
+T4	Abbreviation 103 105	DM
+T5	Abbreviation 107 110	DLP
+T6	Abbreviation 142 146	EESS
+T7	Body_Part 142 146	EESS
+T8	Body_Part 149 153	EEII
+T9	Abbreviation 149 153	EEII
+T10	Abbreviation 261 264	HRC
+T11	Disease 2 25	ENFERMEDAD DE PARKINSON
+T12	Clinical_Finding 63 74	autovalente
+T13	Disease 98 101	HTA
+T14	Disease 103 105	DM
+T15	Disease 107 110	DLP
+T16	Disease 113 121	artrosis
+T17	Sign_or_Symptom 131 153	temblor de EESS y EEII
+T18	Disease 301 318	Caidas frecuentes
+T19	Clinical_Finding 332 343	autovalente
+T20	Disease 345 357	Constipacion
+T21	Disease 554 577	Enfermedad de Parkinson

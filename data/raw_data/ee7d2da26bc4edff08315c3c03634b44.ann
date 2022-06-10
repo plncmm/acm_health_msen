@@ -1,0 +1,38 @@
+T1	Disease 35 47	Insuf. renal
+T2	Disease 60 66	HTA cr
+T3	Sign_or_Symptom 107 116	PA 157/97
+T4	Disease 146 157	insf. renal
+T5	Disease 194 200	HTA cr
+T6	Abbreviation 0 1	G
+#1	AnnotatorNotes T6	gestaciones
+T7	Abbreviation 3 4	P
+#2	AnnotatorNotes T7	partos
+T8	Abbreviation 7 8	A
+#3	AnnotatorNotes T8	abortos
+T9	Abbreviation 35 40	Insuf
+#4	AnnotatorNotes T9	insuficiencia 
+T10	Abbreviation 60 63	HTA
+#5	AnnotatorNotes T10	hipertensión arterial
+T11	Abbreviation 64 66	cr
+#6	AnnotatorNotes T11	crónica
+T12	Abbreviation 70 73	tto
+#7	AnnotatorNotes T12	tratamiento
+T13	Abbreviation 99 102	emb
+#8	AnnotatorNotes T13	embarazo
+T15	Abbreviation 107 109	PA
+#10	AnnotatorNotes T15	presión arterial
+T16	Abbreviation 146 150	insf
+#11	AnnotatorNotes T16	insuficiencia 
+T17	Abbreviation 194 197	HTA
+#12	AnnotatorNotes T17	hipertensión arterial
+T18	Abbreviation 198 200	cr
+#13	AnnotatorNotes T18	crónica
+T14	Abbreviation 104 106	c/
+#9	AnnotatorNotes T14	con
+T19	Clinical_Finding 0 2	G2
+T20	Clinical_Finding 3 6	P 0
+T21	Clinical_Finding 11 19	Embarazo
+T22	Clinical_Finding 7 10	A 1
+T23	Therapeutic_Procedure 51 59	diálisis
+T24	Clinical_Finding 99 102	emb
+T25	Therapeutic_Procedure 133 141	diálisis

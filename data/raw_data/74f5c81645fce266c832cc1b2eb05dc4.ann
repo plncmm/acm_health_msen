@@ -1,0 +1,6 @@
+T1	Body_Part 37 47	periodonto
+T2	Body_Part 60 77	piezas 23,25 y 26
+T3	Therapeutic_Procedure 96 106	extracción
+A1	Pending T3
+T4	Disease 0 18	desdentada parcial
+T5	Disease 20 58	gingivitis sobre periodonto disminuido

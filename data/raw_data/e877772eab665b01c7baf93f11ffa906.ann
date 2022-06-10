@@ -1,0 +1,14 @@
+T1	Abbreviation 67 70	APS
+T2	Abbreviation 84 87	CCA
+T3	Abbreviation 107 110	HTA
+T4	Clinical_Finding 2 42	EXAMEN GINECOLÓGICO (GENERAL) (DE RUTINA
+T5	Clinical_Finding 74 76	G4
+T6	Clinical_Finding 76 78	P4
+T7	Clinical_Finding 78 80	A0
+T8	Abbreviation 74 80	G4P4A0
+T9	Therapeutic_Procedure 84 87	CCA
+T10	Disease 89 105	OBESIDAD MORBIDA
+T11	Disease 107 118	HTA CRONICA
+T12	Disease 120 128	ARTROSIS
+T13	Disease 130 158	METRORRAGIA POST MENOPAUSICA
+T14	Clinical_Finding 159 199	Examen ginecologico (general) (de rutina

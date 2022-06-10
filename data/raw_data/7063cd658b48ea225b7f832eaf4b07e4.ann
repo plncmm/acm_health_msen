@@ -1,0 +1,12 @@
+T1	Abbreviation 70 73	ICC
+T2	Abbreviation 75 78	DM2
+T3	Abbreviation 81 84	HTA
+T4	Disease 0 4	E660
+T5	Disease 5 41	OBESIDAD DEBIDA A EXCESO DE CALORÍAS
+T6	Disease 70 73	ICC
+T7	Disease 75 78	DM2
+T8	Disease 81 84	HTA
+T9	Sign_or_Symptom 99 106	LUMBAGO
+T10	Disease 127 135	OBESIDAD
+T11	Therapeutic_Procedure 171 189	CIRUGIA BARIATRICA
+A1	Pending T11

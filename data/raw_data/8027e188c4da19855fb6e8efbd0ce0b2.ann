@@ -1,0 +1,9 @@
+T1	Body_Part 0 7	Pza 2.1
+T2	Abbreviation 0 3	Pza
+T3	Body_Part 28 49	espacio del ligamento
+T4	Abbreviation 98 101	tto
+T5	Disease 9 26	caries penetrante
+T6	Laboratory_or_Test_Result 9 26	caries penetrante
+T7	Laboratory_or_Test_Result 28 60	espacio del ligamento ensanchado
+T8	Therapeutic_Procedure 73 84	trepanación
+T9	Sign_or_Symptom 120 141	Destrucción coronaria

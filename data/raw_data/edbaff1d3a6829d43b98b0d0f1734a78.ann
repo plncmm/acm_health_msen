@@ -1,0 +1,6 @@
+T1	Disease 0 31	TU CABEZA PANCREAS "EN ESTUDIO"
+T2	Body_Part 3 18	CABEZA PANCREAS
+T3	Diagnostic_Procedure 43 57	ENDOSONOGRAFIA
+T4	Diagnostic_Procedure 109 123	ENDOSONOGRAFIA
+A1	Pending T4
+A2	Pending T3

@@ -1,0 +1,7 @@
+T4	Abbreviation 52 55	HTA
+T7	Disease 67 92	ENFERMEDAD RENAL ETAPA IV
+T9	Abbreviation 105 108	RCV
+T1	Disease 0 19	DIABETES MELLITUS 2
+T2	Disease 52 55	HTA
+T3	Laboratory_or_Test_Result 93 104	ALBUMINURIA
+T5	Clinical_Finding 105 113	RCV ALTO

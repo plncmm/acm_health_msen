@@ -1,0 +1,8 @@
+T1	Body_Part 0 8	diente 1
+T2	Sign_or_Symptom 9 20	semincluido
+T3	Body_Part 22 28	apices
+T4	Body_Part 44 56	seno maxilar
+T5	Laboratory_or_Test_Result 22 56	apices proyectados en seno maxilar
+T6	Sign_or_Symptom 58 90	dolor 3 en escala visual analoga
+T7	Therapeutic_Procedure 125 135	extraccion
+A1	Pending T7

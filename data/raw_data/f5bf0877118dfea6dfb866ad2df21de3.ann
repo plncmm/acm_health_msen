@@ -1,0 +1,7 @@
+T1	Disease 4 52	episodio depresivo grave con sintomas psicoticos
+T2	Sign_or_Symptom 67 76	anhedonia
+T3	Sign_or_Symptom 78 97	labilidad emocional
+T4	Sign_or_Symptom 99 133	alucinaciones auditivas y visuales
+T5	Sign_or_Symptom 135 144	insomnios
+T7	Sign_or_Symptom 181 191	minusvalia
+T6	Sign_or_Symptom 146 179	problemas de creatividad, memoria

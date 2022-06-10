@@ -1,0 +1,8 @@
+T1	Abbreviation 41 44	HAS
+T2	Abbreviation 45 47	DM
+T3	Abbreviation 48 51	EAC
+T4	Disease 41 44	HAS
+T5	Disease 45 47	DM
+T6	Disease 48 51	EAC
+T7	Diagnostic_Procedure 124 136	ESPIROMETRIA
+T8	Sign_or_Symptom 162 180	DISNEA DE ESFUERZO

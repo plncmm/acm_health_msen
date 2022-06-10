@@ -1,0 +1,20 @@
+T1	Body_Part 26 31	VENAS
+T2	Abbreviation 31 34	Obs
+T3	Body_Part 57 80	extremidades superiores
+T4	Abbreviation 104 107	APS
+T5	Body_Part 159 169	antebrazos
+T6	Body_Part 290 294	piel
+T7	Body_Part 363 372	antebrazo
+T8	Body_Part 429 434	venas
+T9	Disease 2 31	OTROS TRASTORNOS DE LAS VENAS
+T10	Disease 36 80	Insuficiencia venosa extremidades superiores
+T11	Sign_or_Symptom 131 170	inflamación venosa en ambos antebrazos,
+T12	Sign_or_Symptom 175 193	episodios de dolor
+T13	Sign_or_Symptom 196 213	inflamación local
+T14	Sign_or_Symptom 227 246	signos de trombosis
+A1	Negated T14
+T15	Sign_or_Symptom 256 294	leves alteraciones tróficas en la piel
+T16	Disease 319 339	insuficiencia venosa
+T17	Diagnostic_Procedure 350 372	ecografía de antebrazo
+T18	Disease 405 434	Otros trastornos de las venas
+A2	Pending T17

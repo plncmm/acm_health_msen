@@ -1,0 +1,12 @@
+T1	Disease 2 30	HIPERTROFIA DE LAS ADENOIDES
+T2	Disease 35 80	RINITIS, RINOFARINGITIS Y FARINGITIS CRÓNICAS
+T3	Sign_or_Symptom 138 154	congestión nasal
+T4	Sign_or_Symptom 166 194	respiración bucal permanente
+T5	Sign_or_Symptom 196 205	sialorrea
+T6	Sign_or_Symptom 208 217	epistaxis
+T7	Sign_or_Symptom 249 258	ronquidos
+A1	Negated T7
+T8	Sign_or_Symptom 277 315	amigdalas de tamaño normal con criptas
+T9	Body_Part 21 30	ADENOIDES
+T10	Family_Member 229 234	Madre
+T11	Body_Part 277 286	amigdalas

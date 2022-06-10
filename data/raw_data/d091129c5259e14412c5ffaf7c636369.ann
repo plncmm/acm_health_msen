@@ -1,0 +1,12 @@
+T1	Abbreviation 52 55	APS
+T2	Body_Part 182 191	pieza 2.4
+T3	Body_Part 257 264	dentina
+T4	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T5	Clinical_Finding 70 93	antecedentes sistemicos
+A1	Negated T5
+T6	Clinical_Finding 99 107	alergias
+A2	Negated T6
+T7	Disease 128 154	caries dentinaria profunda
+T8	Disease 157 178	pulpitis irreversible
+T9	Therapeutic_Procedure 204 217	biopulectomia
+T10	Disease 244 264	Caries de la dentina

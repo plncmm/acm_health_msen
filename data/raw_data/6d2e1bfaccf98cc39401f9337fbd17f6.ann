@@ -1,0 +1,14 @@
+T1	Body_Part 28 56	TEJIDOS DUROS DE LOS DIENTES
+T2	Abbreviation 80 83	APS
+T3	Body_Part 131 140	pieza 1.6
+T4	Body_Part 166 175	pieza 1.5
+T5	Body_Part 255 270	pieza 1.5 y 1.6
+T6	Body_Part 300 328	tejidos duros de los dientes
+T7	Disease 2 56	OTRAS ENFERMEDADES DE LOS TEJIDOS DUROS DE LOS DIENTES
+T8	Clinical_Finding 98 121	antecedentes sistemicos
+A1	Negated T8
+T9	Laboratory_or_Test_Result 131 163	pieza 1.6  con lesion periapical
+T10	Laboratory_or_Test_Result 166 219	pieza 1.5 con material radioopaco en zona de conducto
+T11	Therapeutic_Procedure 244 254	endodoncia
+A2	Pending T11
+T12	Disease 274 328	Otras enfermedades de los tejidos duros de los dientes

@@ -1,0 +1,11 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Abbreviation 74 77	APS
+T3	Sign_or_Symptom 92 119	relación molar:distoclusión
+T4	Sign_or_Symptom 120 148	relación canina:distoclusión
+T5	Sign_or_Symptom 149 190	relación incisiva: sobremordida aumentada
+T6	Sign_or_Symptom 192 259	milímetros faltantes para ordenar dientes superiores: menos de 3 mm
+T7	Abbreviation 257 259	mm
+T8	Abbreviation 277 280	ATM
+T9	Clinical_Finding 264 280	alteraciones ATM
+A1	Negated T9
+T10	Disease 281 329	Anomalias dentofaciales (incluso la maloclusion)

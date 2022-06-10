@@ -1,0 +1,8 @@
+T1	Abbreviation 113 116	TAC
+T2	Abbreviation 117 119	FA
+T3	Abbreviation 123 127	TACo
+T4	Medication 123 127	TACo
+T5	Therapeutic_Procedure 36 65	ablacion de flutter auricular
+T6	Disease 86 108	insuficiencia cardiaca
+T7	Disease 117 119	FA
+T8	Diagnostic_Procedure 113 116	TAC

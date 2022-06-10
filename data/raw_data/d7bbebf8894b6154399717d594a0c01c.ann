@@ -1,0 +1,7 @@
+T1	Disease 13 32	granuloma piogenico
+T2	Sign_or_Symptom 48 75	diastema entre pizas 9 y 10
+T3	Body_Part 63 75	pizas 9 y 10
+T4	Abbreviation 92 96	pzas
+T5	Body_Part 92 110	pzas  23, 24 25 26
+T6	Therapeutic_Procedure 77 91	debe extraerse
+A1	Pending T6

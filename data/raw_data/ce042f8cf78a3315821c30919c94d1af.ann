@@ -1,0 +1,9 @@
+T1	Disease 2 34	ATRICIÓN EXCESIVA DE LOS DIENTES
+T2	Body_Part 27 34	DIENTES
+T3	Abbreviation 58 61	APS
+T4	Sign_or_Symptom 63 95	Desgaste excesivo de los dientes
+T5	Body_Part 88 95	dientes
+T6	Sign_or_Symptom 96 125	Perdida de Dimension Vertical
+T7	Sign_or_Symptom 126 150	Sensiblidad generalizada
+T8	Disease 151 183	Atricion excesiva de los dientes
+T9	Body_Part 176 183	dientes

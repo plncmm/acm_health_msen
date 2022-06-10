@@ -1,0 +1,15 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Disease 29 39	desdentada
+T3	Abbreviation 64 67	APS
+T4	Disease 119 163	desdentada total superior y parcial inferior
+T5	Laboratory_or_Test_Result 193 237	lesiones radiolucida en apice pzas 3.1 y 3.2
+T6	Abbreviation 223 227	pzas
+T7	Body_Part 217 237	apice pzas 3.1 y 3.2
+T8	Therapeutic_Procedure 284 294	extraccion
+A1	Pending T8
+T9	Abbreviation 403 409	cesfam
+T10	Therapeutic_Procedure 373 385	extracciones
+A2	Pending T10
+T11	Disease 433 509	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T12	Body_Part 471 478	dientes
+T13	Disease 103 117	hipotiroidismo

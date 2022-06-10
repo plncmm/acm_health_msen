@@ -1,0 +1,22 @@
+T1	Abbreviation 9 12	obs
+T2	Abbreviation 71 74	APS
+T5	Abbreviation 309 312	ROT
+T6	Abbreviation 388 391	RNM
+T7	Body_Part 395 409	columna lumbar
+T8	Abbreviation 410 414	Atte
+T3	Body_Part 191 223	cara lateral del muslo izquierdo
+T4	Abbreviation 274 276	Ex
+T9	Abbreviation 276 279	fco
+T10	Disease 2 9	CIÁTICA
+T11	Disease 14 46	sindrome de compresion radicular
+T12	Clinical_Finding 89 110	antecedenets mórbidos
+A1	Negated T12
+T13	Sign_or_Symptom 159 170	parestesias
+T14	Sign_or_Symptom 173 223	hipostesias de la cara lateral del muslo izquierdo
+T15	Sign_or_Symptom 240 273	dolor lumbar bilateral esporádico
+T16	Sign_or_Symptom 285 298	déficit motor
+A2	Negated T16
+T17	Sign_or_Symptom 309 324	ROT conservados
+T18	Therapeutic_Procedure 388 409	RNM de columna lumbar
+A3	Pending T18
+T19	Disease 416 423	Ciatica

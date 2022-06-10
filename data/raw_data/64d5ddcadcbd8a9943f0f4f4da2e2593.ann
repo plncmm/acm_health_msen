@@ -1,0 +1,35 @@
+T1	Abbreviation 81 84	APS
+T2	Abbreviation 96 99	Ant
+T3	Abbreviation 101 104	HTA
+T5	Abbreviation 241 244	IRa
+T6	Body_Part 348 368	linea media cervical
+T7	Abbreviation 406 409	cms
+T8	Body_Part 503 510	Faringe
+T9	Body_Part 656 676	glandulas endocrinas
+T10	Body_Part 37 57	GLÁNDULAS ENDOCRINAS
+T4	Disease 2 57	MALFORMACIONES CONGÉNITAS DE OTRAS GLÁNDULAS ENDOCRINAS
+T11	Disease 101 104	HTA
+T12	Clinical_Finding 107 115	Alergias
+A1	Negated T12
+T13	Sign_or_Symptom 132 177	aumento de volumen cervical anterior en linea
+T14	Sign_or_Symptom 182 188	fiebre
+A2	Negated T14
+T15	Sign_or_Symptom 201 211	odinofagia
+T16	Sign_or_Symptom 213 230	dolor al masticar
+T17	Disease 241 249	IRa alta
+T18	Sign_or_Symptom 267 275	rinorrea
+T19	Sign_or_Symptom 278 287	odinfagia
+T20	Sign_or_Symptom 293 296	tos
+A3	Negated T20
+T21	Sign_or_Symptom 302 308	fiebre
+A4	Negated T21
+T22	Sign_or_Symptom 324 498	A nivel 1/3 superior en linea media cervical palpo aumento de volumen nodular 1,5 cms movil, superficie regular, no adherido, sensibl, blando.Asciende a la protrusion lingual
+T23	Sign_or_Symptom 503 522	Faringe eritematosa
+T24	Sign_or_Symptom 535 552	palpo adneopatias
+A5	Negated T24
+T25	Sign_or_Symptom 527 530	pus
+A6	Negated T25
+T26	Disease 565 581	quiste tirogloso
+T27	Diagnostic_Procedure 609 618	ecografia
+A7	Pending T27
+T28	Disease 621 676	Malformaciones congenitas de otras glandulas endocrinas

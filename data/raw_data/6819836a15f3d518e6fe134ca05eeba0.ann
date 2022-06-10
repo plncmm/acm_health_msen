@@ -1,0 +1,10 @@
+T1	Disease 2 20	DIENTES IMPACTADOS
+T2	Abbreviation 44 47	APS
+T3	Body_Part 49 52	2.8
+T4	Disease 53 68	resto radicualr
+T5	Body_Part 69 72	3.8
+T6	Sign_or_Symptom 73 88	semierupcionada
+T7	Clinical_Finding 89 106	historia de dolor
+T8	Disease 107 125	Dientes impactados
+T9	Body_Part 107 114	Dientes
+T10	Body_Part 2 9	DIENTES

@@ -1,0 +1,11 @@
+T1	Abbreviation 42 45	APS
+T2	Abbreviation 84 87	HTA
+T3	Abbreviation 89 91	DM
+T4	Disease 93 105	dislipidemia
+T5	Disease 89 91	DM
+T6	Disease 84 87	HTA
+T7	Sign_or_Symptom 127 178	palpa latido de aorta abdominal de forma importante
+T8	Abbreviation 225 229	atte
+T9	Body_Part 143 158	aorta abdominal
+T10	Diagnostic_Procedure 204 223	ecografia abdominal
+A1	Pending T10

@@ -1,0 +1,9 @@
+T1	Disease 1 9	AGENESIA
+T2	Body_Part 10 18	PIEZA 22
+T3	Sign_or_Symptom 19 29	PARESTESIA
+T4	Body_Part 30 33	6.3
+T5	Body_Part 35 44	PIEZA 2.3
+T6	Sign_or_Symptom 45 59	POLITINIGIZADA
+T7	Clinical_Finding 62 75	CLASE I MOLAR
+T8	Sign_or_Symptom 79 104	DIASTESIA ENTRE 5.2 Y 1.3
+T9	Body_Part 95 104	5.2 Y 1.3

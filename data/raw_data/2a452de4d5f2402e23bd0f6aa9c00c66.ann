@@ -1,0 +1,12 @@
+T1	Abbreviation 0 4	pcte
+T2	Body_Part 116 122	pza 28
+T3	Abbreviation 116 119	pza
+T4	Body_Part 189 195	piezas
+T5	Abbreviation 209 212	tto
+T6	Disease 5 48	desdentada total maxilar parcial mandibular
+T7	Sign_or_Symptom 63 93	protesis maxilar en mal estado
+T8	Therapeutic_Procedure 106 115	exodoncia
+T9	Disease 127 147	periodontitis severa
+T10	Disease 149 169	Periodontitis severa
+T11	Therapeutic_Procedure 209 224	tto periodontal
+A1	Pending T11

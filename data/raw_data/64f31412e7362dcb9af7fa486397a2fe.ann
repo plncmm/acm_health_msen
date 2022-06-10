@@ -1,0 +1,7 @@
+T1	Abbreviation 49 52	APS
+T3	Body_Part 242 249	dientes
+T2	Body_Part 200 204	boca
+T4	Clinical_Finding 67 90	antecedentes sistémicos
+A1	Negated T4
+T5	Clinical_Finding 96 104	alergias
+A2	Negated T5

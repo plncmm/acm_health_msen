@@ -1,0 +1,8 @@
+T1	Disease 2 13	CERVICALGIA
+T2	Abbreviation 37 40	APS
+T4	Abbreviation 85 88	der
+T5	Abbreviation 95 99	evol
+T6	Disease 101 112	Cervicalgia
+T7	Body_Part 70 75	brazo
+T8	Body_Part 78 84	hombro
+T3	Sign_or_Symptom 42 88	dolor cervicval irradiado a brazo y hombro der

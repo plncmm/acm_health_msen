@@ -1,0 +1,13 @@
+T1	Body_Part 0 9	diente 12
+T2	Disease 10 32	absceso alveolar agudo
+T3	Body_Part 33 39	diente
+T4	Clinical_Finding 54 65	treoanacion
+T6	Abbreviation 128 131	chx
+T7	Medication 128 131	chx
+T8	Abbreviation 197 200	atb
+T9	Medication 164 183	hidroxido de calcio
+T10	Medication 229 239	penicilina
+T5	Sign_or_Symptom 77 112	drena por conducto y se deja drenar
+T11	Medication 197 200	atb
+T12	Medication 134 139	suero
+T13	Abbreviation 240 243	sol

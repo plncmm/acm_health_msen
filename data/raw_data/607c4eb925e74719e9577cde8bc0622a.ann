@@ -1,0 +1,5 @@
+T1	Medication 103 114	azatioprina
+T2	Medication 117 127	prednisona
+T3	Disease 0 20	HEPATITIS AUTOINMUNE
+T4	Disease 63 83	hepatitis autoinmune
+T5	Diagnostic_Procedure 36 83	diagnóstico histológico de hepatitis autoinmune

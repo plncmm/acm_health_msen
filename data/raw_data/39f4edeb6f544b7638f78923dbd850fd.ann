@@ -1,0 +1,14 @@
+T1	Abbreviation 13 18	antec
+T2	Abbreviation 49 55	extrem
+T3	Abbreviation 0 1	g
+T4	Abbreviation 3 4	p
+T5	Abbreviation 6 7	a
+T6	Abbreviation 9 10	v
+T7	Body_Part 49 66	extrem. izquierda
+T8	Clinical_Finding 0 2	g2
+T9	Clinical_Finding 3 5	p2
+T10	Clinical_Finding 6 8	a0
+T11	Clinical_Finding 9 11	v2
+T12	Disease 20 65	trombosis venosa profunda en extrem. izquierd
+T13	Therapeutic_Procedure 78 103	esterilizacion quirurgica
+A1	Pending T13

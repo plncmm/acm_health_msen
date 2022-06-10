@@ -1,0 +1,9 @@
+T1	Abbreviation 138 141	APS
+T2	Abbreviation 156 159	ant
+T3	Body_Part 180 196	pierna izquierda
+T4	Disease 2 44	INSUFICIENCIA VENOSA (CRÓNICA) (PERIFÉRICA
+T5	Disease 49 114	EMBOLIA Y TROMBOSIS DE ARTERIAS DE LOS MIEMBROS, NO ESPECIFICADAS
+T6	Disease 163 196	trombosis venosa pierna izquierda
+T7	Disease 225 256	insuficiencia venosa periferica
+T8	Therapeutic_Procedure 295 316	resolucion quirurgica
+A1	Pending T8

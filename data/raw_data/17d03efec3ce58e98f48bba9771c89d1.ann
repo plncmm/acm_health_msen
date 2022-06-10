@@ -1,0 +1,14 @@
+T1	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T2	Abbreviation 70 73	APS
+T3	Body_Part 84 95	m. masetero
+T4	Abbreviation 84 85	m
+T5	Abbreviation 96 99	EVA
+T6	Body_Part 129 139	m temporal
+T7	Abbreviation 129 130	m
+T8	Abbreviation 140 143	EVA
+T9	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T10	Sign_or_Symptom 75 127	Dolor en m. masetero EVA 7 que aumenta en las mañana
+T11	Sign_or_Symptom 156 177	recesiones gingivales
+T12	Sign_or_Symptom 180 188	atricion
+T13	Disease 191 235	Trastornos de la articulacion temporomaxilar
+T14	Body_Part 208 235	articulacion temporomaxilar

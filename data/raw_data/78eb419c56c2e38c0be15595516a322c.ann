@@ -1,0 +1,5 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Sign_or_Symptom 36 75	protesis parcial removilbe e mal estado
+T3	Sign_or_Symptom 80 109	perdida de pilares protesicos
+T4	Therapeutic_Procedure 182 217	tratamiento de rehabilitracion oral
+A1	Pending T4

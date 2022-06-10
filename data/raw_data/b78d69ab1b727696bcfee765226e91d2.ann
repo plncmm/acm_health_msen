@@ -1,0 +1,20 @@
+T1	Body_Part 17 20	ANO
+T2	Body_Part 27 32	RECTO
+T3	Abbreviation 56 59	APS
+T4	Abbreviation 102 105	hta
+T5	Abbreviation 109 112	tto
+T6	Abbreviation 132 133	+
+T7	Disease 2 32	HEMORRAGIA DEL ANO Y DEL RECTO
+T8	Disease 102 105	hta
+T9	Diagnostic_Procedure 118 131	test de weber
+T10	Laboratory_or_Test_Result 132 133	+
+R1	Has Arg1:T9 Arg2:T10	
+T11	Diagnostic_Procedure 144 156	colonoscopía
+A1	Pending T11
+T12	Disease 181 193	Constipación
+A2	Negated T12
+T13	Abbreviation 193 194	-
+T14	Sign_or_Symptom 215 226	rectorragia
+A3	Negated T14
+T15	Sign_or_Symptom 230 236	melena
+A4	Negated T15

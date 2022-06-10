@@ -1,0 +1,15 @@
+T1	Body_Part 31 37	DIENTE
+T2	Abbreviation 61 64	APS
+T3	Body_Part 66 72	Pd 2.1
+T4	Body_Part 100 112	arco maxilar
+T5	Body_Part 156 158	Pd
+T6	Abbreviation 156 158	Pd
+T7	Abbreviation 66 68	Pd
+T8	Body_Part 209 214	molar
+T9	Body_Part 244 250	diente
+T10	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T11	Sign_or_Symptom 66 112	Pd 2.1 vestibularizada y fuera de arco maxilar
+T12	Sign_or_Symptom 172 177	vital
+T14	Disease 215 250	Anomalias de la posicion del diente
+T13	Sign_or_Symptom 178 200	apiñamiento en grupo V
+T15	Clinical_Finding 201 214	Clase I molar

@@ -1,0 +1,5 @@
+T1	Disease 0 50	- ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Clinical_Finding 93 108	Dentición mixta
+T3	Sign_or_Symptom 123 139	overbite negativ
+T4	Sign_or_Symptom 142 173	Mordida abierta anterior severa
+T5	Body_Part 93 102	Dentición

@@ -1,0 +1,29 @@
+T1	Abbreviation 72 75	APS
+T2	Abbreviation 95 98	DM2
+T3	Abbreviation 99 102	NIR
+T4	Abbreviation 139 143	OIZQ
+T5	Abbreviation 252 255	CAE
+T6	Abbreviation 284 287	CAE
+T7	Abbreviation 280 282	OD
+T8	Body_Part 284 296	CAE IZUERIDO
+T9	Body_Part 252 255	CAE
+T10	Body_Part 139 143	OIZQ
+T11	Body_Part 311 318	TIMAPNO
+T12	Body_Part 329 342	CONO LUMNINSO
+T13	Body_Part 280 282	OD
+T14	Disease 2 48	HIPOACUSIA CONDUCTIVA, SIN OTRA ESPECIFICACIÓN
+T15	Disease 95 98	DM2
+T16	Sign_or_Symptom 112 143	SENSACION DE HIPOACUSIA DE OIZQ
+T17	Sign_or_Symptom 170 177	TINITUS
+T18	Disease 184 190	TRAUMA
+A1	Negated T18
+T19	Sign_or_Symptom 207 222	OTORREA CRONICA
+T20	Sign_or_Symptom 260 282	TAPON DE CERUMEN EN OD
+T21	Sign_or_Symptom 284 309	CAE IZUERIDO SIN LESIONES
+T22	Sign_or_Symptom 311 327	TIMAPNO RETRAIDO
+T23	Sign_or_Symptom 329 350	CONO LUMNINSO ANORMAL
+T24	Sign_or_Symptom 366 377	PERFORACION
+A2	Negated T24
+T25	Sign_or_Symptom 381 390	OTORREA  
+A3	Negated T25
+T26	Disease 428 474	Hipoacusia conductiva, sin otra especificacion

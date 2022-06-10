@@ -1,0 +1,10 @@
+T1	Disease 2 34	OTRAS ENFERMEDADES PERIODONTALES
+T2	Sign_or_Symptom 91 128	frenillo labial superior hipertrofico
+T3	Sign_or_Symptom 130 169	diastema superior entre dientes 5.1-6.1
+T4	Disease 170 202	Otras enfermedades periodontales
+T5	Abbreviation 58 61	APS
+#1	AnnotatorNotes T5	atención primaria de salud
+T6	Abbreviation 63 68	pacte
+#2	AnnotatorNotes T6	paciente
+T7	Body_Part 91 115	frenillo labial superior
+T8	Body_Part 154 169	dientes 5.1-6.1

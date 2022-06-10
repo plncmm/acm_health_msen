@@ -1,0 +1,9 @@
+T1	Abbreviation 6 9	EMB
+T2	Abbreviation 15 18	SEM
+T3	Abbreviation 0 1	G
+T4	Abbreviation 2 3	P
+T5	Clinical_Finding 0 2	G1
+T6	Clinical_Finding 2 4	P0
+T7	Clinical_Finding 6 9	EMB
+T8	Disease 20 35	TALASEMIA MENOR
+T9	Disease 37 46	SOBREPESO

@@ -1,0 +1,9 @@
+T1	Disease 0 13	CARIES DENTAL
+T2	Body_Part 16 23	PIEZA 4
+T3	Laboratory_or_Test_Result 16 49	PIEZA 4 ENDODONCIA EN BUEN ESTADO
+T4	Clinical_Finding 64 79	VIDRIO IONOMERO
+T5	Sign_or_Symptom 84 108	DESALOJO DE RESTAURACIÓN
+T6	Abbreviation 110 112	OD
+T7	Abbreviation 126 129	PFU
+T8	Therapeutic_Procedure 126 129	PFU
+A1	Pending T8

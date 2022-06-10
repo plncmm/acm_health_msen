@@ -1,0 +1,9 @@
+T1	Abbreviation 80 83	TAC
+T2	Body_Part 135 143	COLÉDOCO
+T3	Disease 0 15	DOLOR ABDOMINAL
+T4	Disease 29 77	Otros dolores abdominales y los no especificados
+T5	Diagnostic_Procedure 80 93	TAC ABDOMINAL
+T6	Laboratory_or_Test_Result 95 174	PEQUEÑO QUISTE PANCREÁTICO ADYACENTE AL COLÉDOCO, DE ASPECTO TOMOGRÁFICO SIMPLE
+T7	Laboratory_or_Test_Result 176 208	EXTENSA ATEROMATOSIS AORTOILÍACA
+R1	Has Arg1:T5 Arg2:T6	
+R2	Has Arg1:T5 Arg2:T7	

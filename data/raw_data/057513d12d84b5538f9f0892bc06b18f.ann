@@ -1,0 +1,18 @@
+T1	Abbreviation 69 72	APS
+T2	Abbreviation 92 97	ANTEC
+T3	Body_Part 162 166	PIEL
+T4	Abbreviation 170 174	EEII
+T5	Body_Part 170 174	EEII
+T6	Body_Part 177 184	PIERNAS
+T7	Body_Part 213 217	EEII
+T8	Abbreviation 213 217	EEII
+T9	Disease 2 44	INSUFICIENCIA VENOSA (CRÓNICA) (PERIFÉRICA
+T10	Disease 101 122	HIPERTENSION ARTERIAL
+T11	Sign_or_Symptom 137 174	LESIONES ERITEMATOSAS EN PIEL DE EEII
+T12	Sign_or_Symptom 204 217	EDEMA DE EEII
+T13	Disease 241 268	INSUFICIENCIA VENOS CRONICA
+T14	Abbreviation 228 229	+
+T15	Sign_or_Symptom 270 281	PULSOS (+++
+T16	Sign_or_Symptom 283 292	PEDIO (++
+T17	Disease 294 336	Insuficiencia venosa (cronica) (periferica
+T18	Sign_or_Symptom 219 226	VARICES

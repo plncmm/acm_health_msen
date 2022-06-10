@@ -1,0 +1,12 @@
+T1	Abbreviation 64 67	APS
+T2	Abbreviation 69 70	M
+T3	Abbreviation 71 74	CCA
+T4	Abbreviation 107 108	X
+T5	Abbreviation 96 101	ANTEC
+T6	Abbreviation 109 112	NIE
+T7	Disease 2 40	SUPERVISIÓN DE EMBARAZO DE ALTO RIESGO
+T8	Clinical_Finding 69 71	M3
+T9	Clinical_Finding 74 83	GESTACION
+T10	Therapeutic_Procedure 102 106	CONO
+T11	Laboratory_or_Test_Result 109 116	NIE III
+T12	Disease 122 160	Supervision de embarazo de alto riesgo

@@ -1,0 +1,8 @@
+T1	Body_Part 0 9	diente 19
+T2	Therapeutic_Procedure 10 34	tratado endodonticamente
+T3	Laboratory_or_Test_Result 35 54	parcial en longitud
+T4	Laboratory_or_Test_Result 56 82	raiz mesial LPA ensanchada
+T5	Laboratory_or_Test_Result 84 118	raiz distal osteitis pararadicular
+T6	Body_Part 84 95	raiz distal
+T7	Body_Part 56 67	raiz mesial
+T8	Abbreviation 68 71	LPA

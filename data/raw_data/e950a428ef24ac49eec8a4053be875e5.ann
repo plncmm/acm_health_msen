@@ -1,0 +1,19 @@
+T1	Disease 2 17	PERICORONARITIS
+T2	Disease 21 38	DIENTES INCLUIDOS
+T3	Abbreviation 62 65	APS
+T4	Body_Part 21 28	DIENTES
+T5	Abbreviation 67 70	Pza
+T6	Body_Part 67 74	Pza 4.8
+T7	Disease 79 94	pericoronaritis
+T8	Medication 109 112	CHX
+T9	Medication 123 125	AB
+T10	Abbreviation 123 125	AB
+T11	Abbreviation 109 112	CHX
+T12	Diagnostic_Procedure 137 139	rx
+T13	Abbreviation 137 139	rx
+T14	Therapeutic_Procedure 154 163	exodoncia
+A1	Pending T14
+T15	Abbreviation 170 173	pza
+T16	Body_Part 170 173	pza
+T17	Sign_or_Symptom 170 189	pza semierupcionada
+A2	Pending T12

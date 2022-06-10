@@ -1,0 +1,39 @@
+T1	Disease 2 54	INFECCIÓN DE LAS VÍAS GENITOURINARIAS EN EL EMBARAZO
+T2	Disease 124 134	PRETERMINO
+T3	Disease 169 187	INFECCION URINARIA
+T4	Sign_or_Symptom 229 236	DISURIA
+T5	Disease 417 469	Infeccion de las vias genitourinarias en el embarazo
+A1	Implicit_Family_Background T2
+T6	Abbreviation 78 81	APS
+#1	AnnotatorNotes T6	atención primaria de salud
+T7	Abbreviation 103 104	G
+#2	AnnotatorNotes T7	gestaciones
+T8	Abbreviation 105 106	P
+#3	AnnotatorNotes T8	partos
+T9	Abbreviation 107 108	A
+#4	AnnotatorNotes T9	abortos
+T10	Abbreviation 109 110	M
+#5	AnnotatorNotes T10	mellizos
+T11	Abbreviation 163 165	AP
+#6	AnnotatorNotes T11	antecedente patológico
+T12	Abbreviation 280 281	E
+#7	AnnotatorNotes T12	escherichia
+T13	Abbreviation 299 302	MIL
+#8	AnnotatorNotes T13	miligramos
+T14	Abbreviation 303 306	UFG
+#9	AnnotatorNotes T14	abreviación no indentificada
+T15	Abbreviation 356 359	HRC
+#10	AnnotatorNotes T15	hospital regional coyhaique
+T16	Abbreviation 363 366	ARO
+#11	AnnotatorNotes T16	alto riesgo obstétrico
+T17	Body_Part 19 39	VÍAS GENITOURINARIAS
+T18	Medication 330 341	CEFADROXILO
+T19	Body_Part 434 454	vias genitourinarias
+T20	Clinical_Finding 103 105	G6
+T21	Clinical_Finding 105 107	P3
+T22	Clinical_Finding 107 109	A3
+T23	Clinical_Finding 109 111	MO
+T24	Therapeutic_Procedure 148 156	CESAREAS
+T25	Laboratory_Procedure 246 256	UROCULTIVO
+T26	Laboratory_or_Test_Result 280 306	E. COLI MAS DE 100 MIL UFG
+R1	Has Arg1:T25 Arg2:T26	

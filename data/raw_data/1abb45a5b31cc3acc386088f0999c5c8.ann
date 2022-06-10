@@ -1,0 +1,18 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Sign_or_Symptom 36 114	prótesis parcial removible acrílica superior, inferior la tiene pero no la usa
+T3	Family_Member 116 120	Hija
+T4	Body_Part 165 180	arcada superior
+T5	Body_Part 182 189	dientes
+T7	Body_Part 213 228	arcada inferior
+T8	Sign_or_Symptom 230 254	clase I , modificación I
+T9	Body_Part 257 266	Diente 26
+T10	Abbreviation 267 270	tto
+T11	Therapeutic_Procedure 267 282	tto endodóntico
+A1	Pending T11
+T12	Disease 297 312	resto radicular
+T13	Clinical_Finding 314 326	asintomático
+T14	Clinical_Finding 329 369	Se obtura acceso a conducto con vitremer
+T15	Body_Part 348 356	conducto
+T6	Body_Part 201 202	2
+T16	Body_Part 205 206	3
+T17	Body_Part 209 211	12

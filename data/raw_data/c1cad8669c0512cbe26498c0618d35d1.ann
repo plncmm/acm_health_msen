@@ -1,0 +1,10 @@
+T1	Laboratory_or_Test_Result 0 26	artrosis severa de rodilla
+T2	Laboratory_or_Test_Result 27 47	anterolistesis l4-l5
+T3	Laboratory_or_Test_Result 48 64	discopatia l4-l5
+T4	Disease 65 75	escoliosis
+T5	Disease 81 101	hiperlordosis lumbar
+T6	Body_Part 19 26	rodilla
+T7	Body_Part 42 47	l4-l5
+T8	Body_Part 59 64	l4-l5
+T9	Laboratory_or_Test_Result 65 80	escoliosis leve
+T10	Laboratory_or_Test_Result 81 101	hiperlordosis lumbar

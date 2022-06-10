@@ -1,0 +1,14 @@
+T1	Clinical_Finding 0 2	PG
+T2	Abbreviation 0 2	PG
+T3	Clinical_Finding 4 7	EMB
+T4	Abbreviation 4 7	EMB
+T6	Abbreviation 21 22	D
+T7	Disease 21 34	D.GESTACIONAL
+T8	Disease 36 44	OBESIDAD
+T9	Abbreviation 46 50	PTGA
+T10	Abbreviation 56 58	MG
+T11	Abbreviation 59 61	DL
+T12	Abbreviation 62 65	FUR
+T13	Abbreviation 117 119	OK
+#1	AnnotatorNotes T9	PRUEBA DE TOLERANCIA A LA GLUCOSA
+T15	Laboratory_Procedure 46 50	PTGA

@@ -1,0 +1,5 @@
+T1	Disease 9 47	desdentado parcial superior e inferior
+T2	Disease 49 70	Periodontitis cronica
+T3	Sign_or_Symptom 49 92;94 113	Periodontitis cronica generalizada moderada severa en diente 12
+T6	Sign_or_Symptom 119 141	reabsorción asimetrica
+T5	Body_Part 104 113	diente 12

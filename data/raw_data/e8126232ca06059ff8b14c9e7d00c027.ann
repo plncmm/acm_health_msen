@@ -1,0 +1,10 @@
+T1	Disease 75 89	HIPOTIROIDISMO
+T2	Sign_or_Symptom 121 141	RETRACCION PALPEBRAL
+A1	Negated T2
+T3	Sign_or_Symptom 146 154	DIPLOPIA
+A2	Negated T3
+T4	Abbreviation 90 95	AVLsc
+#1	AnnotatorNotes T4	agudeza visual de lejos sin corrección
+T5	Abbreviation 96 99	ODI
+#2	AnnotatorNotes T5	ojo derecho e izquierdo
+T6	Body_Part 96 99	ODI

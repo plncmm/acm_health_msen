@@ -1,0 +1,25 @@
+T1	Abbreviation 117 120	TAC
+T2	Body_Part 121 128	cerebro
+T3	Abbreviation 414 417	tto
+T4	Medication 422 432	sertralina
+T5	Abbreviation 436 438	mg
+T6	Medication 444 454	Clonazepam
+T7	Abbreviation 456 458	mg
+T8	Medication 466 476	quetiapina
+T9	Abbreviation 480 482	mg
+T10	Medication 489 499	Propanolol
+T11	Medication 509 516	Tonaril
+T12	Disease 63 98	parkinsonismo secundario a fármacos
+T13	Diagnostic_Procedure 117 128	TAC cerebro
+T14	Laboratory_or_Test_Result 143 149	normal
+R1	Has Arg1:T13 Arg2:T14	
+T15	Sign_or_Symptom 172 273	temblor que en reposo es casi imperciptible y que aumenta al solicitarle que realice alguna actividad
+T16	Sign_or_Symptom 299 305	braseo
+A1	Negated T16
+T17	Sign_or_Symptom 331 338	temblor
+A2	Negated T17
+T18	Sign_or_Symptom 364 371	temblor
+T19	Sign_or_Symptom 386 397	micrografía
+A3	Negated T19
+T20	Disease 584 597	parkinsonismo
+T21	Medication 100 107	tonaril

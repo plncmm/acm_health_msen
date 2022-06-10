@@ -1,0 +1,9 @@
+T1	Disease 2 23	PERIODONTITIS CRÓNICA
+T2	Abbreviation 47 50	APS
+T3	Sign_or_Symptom 52 72	bolsas periodontales
+T4	Sign_or_Symptom 74 91	encias edematosas
+T5	Sign_or_Symptom 93 139	exceso de calculo dentario supra y subgingival
+T6	Sign_or_Symptom 155 176	muy mala higiene oral
+T7	Body_Part 74 80	encias
+T8	Disease 179 186	fumador
+T9	Disease 212 233	Periodontitis cronica

@@ -1,0 +1,8 @@
+T1	Disease 2 34	ATRICIÓN EXCESIVA DE LOS DIENTES
+T2	Abbreviation 58 61	APS
+T3	Body_Part 27 34	DIENTES
+T4	Sign_or_Symptom 76 96	rechinamiento dental
+T5	Sign_or_Symptom 107 133	dolor de cabeza y muscular
+T6	Body_Part 116 122	cabeza
+T7	Disease 135 167	Atricion excesiva de los dientes
+T8	Body_Part 160 167	dientes

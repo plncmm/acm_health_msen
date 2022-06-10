@@ -1,0 +1,15 @@
+T1	Disease 0 18	Restos radiculares
+T2	Abbreviation 19 23	dtes
+T3	Body_Part 19 36	dtes 5,12,17 y 30
+T4	Abbreviation 39 42	dte
+T5	Body_Part 39 45	dte 20
+T6	Disease 50 73	period cronica avanzada
+T7	Abbreviation 50 56	period
+T8	Abbreviation 90 94	exod
+T10	Abbreviation 96 100	pcte
+T11	Disease 105 128	miocardiopatia dilatada
+T12	Abbreviation 151 155	hosp
+T13	Body_Part 160 165	torax
+T14	Abbreviation 169 173	stgo
+T9	Therapeutic_Procedure 90 94	exod
+A1	Pending T9

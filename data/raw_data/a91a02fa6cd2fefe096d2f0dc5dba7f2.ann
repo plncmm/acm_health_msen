@@ -1,0 +1,20 @@
+T1	Abbreviation 45 48	APS
+T2	Body_Part 85 98	region lumbar
+T4	Abbreviation 359 361	Ex
+T5	Abbreviation 481 485	TEPE
+T7	Body_Part 112 141	extremidad inferior izquierda
+T3	Body_Part 163 196	borde interno de pierna izquierda
+T8	Medication 249 258	analgesia
+T6	Body_Part 445 480	grupos musculares lumbares derechos
+T9	Disease 2 21	LUMBAGO CON CIÁTICA
+T10	Sign_or_Symptom 76 241	dolor en region lumbar  irradiado a extremidad inferior izquierda, por posterior hasta borde interno de pierna izquierda, que aumenta con la deambulacion y la marcha
+T11	Sign_or_Symptom 282 358	persistencia de molestias a actividad fisica, con misma irradiacion descrita
+T13	Sign_or_Symptom 405 415	leve dolor
+T14	Sign_or_Symptom 418 480	contractura a palpacion de grupos musculares lumbares derechos
+T15	Sign_or_Symptom 481 485	TEPE
+A2	Negated T15
+T16	Disease 505 524	Lumbago con ciatica
+T12	Sign_or_Symptom 373 392	deficit neurologico
+A1	Negated T12
+T17	Sign_or_Symptom 396 401	motor
+A3	Negated T17

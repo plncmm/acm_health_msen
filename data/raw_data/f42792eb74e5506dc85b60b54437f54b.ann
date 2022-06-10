@@ -1,0 +1,15 @@
+T1	Body_Part 15 29	TÚNEL CARPIANO
+T2	Abbreviation 53 56	APS
+T3	Abbreviation 58 62	pcte
+T4	Abbreviation 105 108	ant
+T5	Body_Part 176 181	manos
+T6	Body_Part 215 219	codo
+T7	Body_Part 324 338	tunel carpiano
+T8	Disease 2 29	SÍNDROME DEL TÚNEL CARPIANO
+T9	Sign_or_Symptom 129 143	entumecimiento
+T10	Sign_or_Symptom 145 154	hormigueo
+T11	Sign_or_Symptom 157 181	debilidad en ambas manos
+T12	Sign_or_Symptom 186 219	dolor se le irradia hacia el codo
+T13	Sign_or_Symptom 231 270	intensa dificultat para agarrar objetos
+T14	Diagnostic_Procedure 293 309	electromiografia
+T15	Disease 311 338	Sindrome del tunel carpiano

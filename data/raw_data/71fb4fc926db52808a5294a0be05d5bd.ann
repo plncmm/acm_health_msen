@@ -1,0 +1,9 @@
+T1	Body_Part 144 159	vesícula biliar
+T2	Disease 0 36	Enfermedad Renal Crónica - ESTADIO 4
+T3	Clinical_Finding 38 47	MONORRENA
+T4	Disease 50 76	Sindrome nefritico cronico
+T5	Disease 81 114	glomerulonefritis no especificada
+T6	Sign_or_Symptom 114 127	COLICO BILIAR
+T7	Laboratory_or_Test_Result 130 159	Cálculo de la vesícula biliar
+T8	Laboratory_or_Test_Result 164 176	colecistitis
+A1	Negated T8

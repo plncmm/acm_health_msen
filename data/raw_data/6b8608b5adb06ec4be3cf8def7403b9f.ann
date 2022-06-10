@@ -1,0 +1,6 @@
+T1	Body_Part 0 9	DIENTE 13
+T2	Disease 11 19	PULPITIS
+T3	Therapeutic_Procedure 31 42	TREPANACION
+T4	Clinical_Finding 65 71	CARIES
+T5	Medication 129 133	PMFA
+T6	Abbreviation 129 133	PMFA

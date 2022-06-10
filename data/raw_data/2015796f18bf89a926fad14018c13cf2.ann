@@ -1,0 +1,7 @@
+T1	Body_Part 32 49	rodilla izquierda
+T2	Sign_or_Symptom 0 5	Dolor
+T3	Sign_or_Symptom 8 49	limitación funcional de rodilla izquierda
+T4	Sign_or_Symptom 51 64	hidroartrosis
+T5	Sign_or_Symptom 66 86	maniobras meniscales
+A1	Negated T5
+T6	Sign_or_Symptom 98 127	frote patelofemoral aumentado

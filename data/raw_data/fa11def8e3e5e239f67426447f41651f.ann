@@ -1,0 +1,7 @@
+T1	Abbreviation 57 60	APS
+#1	AnnotatorNotes T1	atención primaria de salud
+T2	Disease 2 33	ATENCIÓN PARA LA ANTICONCEPCIÓN
+T3	Disease 62 78	PARIDAD CUMPLIDA
+T4	Therapeutic_Procedure 89 103	ESTERILIZACION
+T5	Disease 104 135	Atencion para la anticoncepcion
+A1	Pending T4

@@ -1,0 +1,7 @@
+T1	Disease 2 29	ESTRABISMO, NO ESPECIFICADO
+T2	Sign_or_Symptom 152 177	pierde el ojito izquierdo
+T3	Abbreviation 53 56	APS
+#1	AnnotatorNotes T3	atención primaria de salud
+T4	Family_Member 93 97	mama
+T5	Body_Part 162 177	ojito izquierdo
+T6	Clinical_Finding 184 220	examen fisico no detecto anormalidad

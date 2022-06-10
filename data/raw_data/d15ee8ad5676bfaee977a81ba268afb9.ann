@@ -1,0 +1,7 @@
+T1	Body_Part 0 16	Piezas 1.8 y 2.8
+T2	Body_Part 57 66	Pieza 3.8
+T3	Body_Part 123 132	Pieza 4.8
+T4	Laboratory_or_Test_Result 0 55	Piezas 1.8 y 2.8 en evolución extraósea no erupcionadas
+T5	Laboratory_or_Test_Result 57 121	Pieza 3.8 en evolución extraósea, mesioangulado y no erupcionado
+T6	Disease 200 209	impactado
+T7	Laboratory_or_Test_Result 123 209	Pieza 4.8 en evolución extraósea, mesioangulado, retenido , no erupcionado e impactado

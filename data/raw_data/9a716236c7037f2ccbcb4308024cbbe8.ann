@@ -1,0 +1,12 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Abbreviation 44 47	APS
+T3	Abbreviation 49 53	pcte
+T4	Sign_or_Symptom 67 108	protesis tot sup y parc inf de larga data
+T5	Abbreviation 76 79	tot
+T6	Abbreviation 80 83	sup
+T7	Abbreviation 86 90	parc
+T8	Abbreviation 91 94	inf
+T9	Abbreviation 132 133	x
+T10	Disease 144 220	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T11	Body_Part 182 189	dientes
+T12	Abbreviation 109 113	pcte

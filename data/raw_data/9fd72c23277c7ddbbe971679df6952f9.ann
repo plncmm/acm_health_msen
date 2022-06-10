@@ -1,0 +1,16 @@
+T1	Abbreviation 61 63	oh
+T2	Abbreviation 66 69	dhc
+T3	Abbreviation 124 126	oh
+T4	Abbreviation 202 205	med
+T5	Medication 176 187	neurobionta
+T6	Disease 0 4	K701
+T7	Disease 5 25	HEPATITIS ALCOHOLICA
+T8	Disease 51 63	hepatitis oh
+T9	Disease 66 69	dhc
+T10	Laboratory_Procedure 77 93	pruebas hepatica
+T11	Laboratory_or_Test_Result 94 102	normales
+T12	Sign_or_Symptom 136 147	parestesias
+T13	Sign_or_Symptom 150 164	dolor corporal
+T14	Clinical_Finding 113 126	consumo de oh
+A1	Negated T14
+R1	Has Arg1:T10 Arg2:T11	

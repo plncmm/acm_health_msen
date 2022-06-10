@@ -1,0 +1,6 @@
+T1	Body_Part 0 7	pieza 2
+T2	Clinical_Finding 12 40	terapia previamente iniciado
+T3	Disease 56 89	pulpitis irreversible sintomatico
+T4	Therapeutic_Procedure 114 136	rehabilitacion directa
+T5	Body_Part 91 95	peza
+A1	Pending T4

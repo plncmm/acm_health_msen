@@ -1,0 +1,11 @@
+T1	Clinical_Finding 9 19	embarazada
+T2	Therapeutic_Procedure 33 58	tratamiento de endodoncia
+A1	Pending T2
+T3	Body_Part 62 70	pza :3.5
+T4	Abbreviation 62 65	pza
+T5	Sign_or_Symptom 75 96	odontalgia permanente
+T6	Disease 108 134	caries dentinaria profunda
+T7	Laboratory_or_Test_Result 108 157	caries dentinaria profunda proxima a camara pulpa
+T8	Abbreviation 161 165	atte
+T9	Abbreviation 168 170	ud
+T10	Body_Part 145 158	camara pulpar

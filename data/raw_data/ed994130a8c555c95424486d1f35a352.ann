@@ -1,0 +1,14 @@
+T1	Disease 2 36	GASTRITIS CRÓNICA, NO ESPECIFICADA
+T2	Abbreviation 60 63	APS
+T3	Disease 94 118	diabetes mellitus tipo 2
+T4	Disease 121 138	gastritis cronica
+T7	Abbreviation 253 256	EDA
+T8	Abbreviation 196 197	H
+T9	Disease 290 324	Gastritis cronica, no especificada
+T5	Diagnostic_Procedure 169 180	endoscopías
+T6	Laboratory_or_Test_Result 196 214	H. pilory positiva
+T10	Diagnostic_Procedure 253 256	EDA
+A1	Pending T10
+T11	Diagnostic_Procedure 282 288	examen
+A2	Pending T11
+R1	Has Arg1:T5 Arg2:T6	

@@ -1,0 +1,11 @@
+T1	Body_Part 12 17	PECHO
+T2	Abbreviation 41 44	APS
+T3	Abbreviation 83 86	hta
+T5	Abbreviation 363 367	atte
+T6	Body_Part 379 384	pecho
+T4	Disease 2 17	ANGINA DE PECHO
+T7	Disease 83 86	hta
+T8	Disease 89 114	resistencia a la insulina
+T9	Sign_or_Symptom 179 195	dolor precordial
+T10	Sign_or_Symptom 239 245	disnea
+T11	Sign_or_Symptom 369 384	Angina de pecho

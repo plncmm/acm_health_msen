@@ -1,0 +1,5 @@
+T1	Sign_or_Symptom 28 48	DOLOR ANAL Y VAGINAL
+T2	Sign_or_Symptom 53 67	OTROS SINTOMAS
+A1	Negated T2
+T3	Sign_or_Symptom 119 135	SINTOMA URINARIO
+A2	Negated T3

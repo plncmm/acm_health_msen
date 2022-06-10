@@ -1,0 +1,14 @@
+T1	Medication 118 128	TAMOXIFENO
+T2	Body_Part 25 29	MAMA
+T4	Abbreviation 105 108	HSR
+T5	Abbreviation 190 193	ALT
+T6	Abbreviation 195 196	P
+T7	Abbreviation 217 221	EVAL
+T8	Clinical_Finding 0 4	C509
+T3	Disease 5 52	TUMOR MALIGNO DE LA MAMA, PARTE NO ESPECIFICADA
+T9	Laboratory_Procedure 133 163	EXAMEN RECIENTE DE LABORATORIO
+T10	Laboratory_or_Test_Result 172 187	TROMBOCITOPENIA
+T11	Laboratory_Procedure 195 206	P HEPÁTICAS
+T12	Laboratory_or_Test_Result 190 195	ALT  
+R1	Has Arg1:T11 Arg2:T12	
+R2	Has Arg1:T9 Arg2:T10	

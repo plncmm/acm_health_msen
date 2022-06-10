@@ -1,0 +1,11 @@
+T1	Abbreviation 83 88	ANTEC
+T2	Abbreviation 2 3	G
+T3	Abbreviation 6 7	P
+T4	Abbreviation 9 10	A
+T5	Clinical_Finding 2 4	G4
+T6	Clinical_Finding 6 8	P1
+T7	Clinical_Finding 9 11	A2
+T8	Clinical_Finding 12 20	EMBARAZO
+T9	Therapeutic_Procedure 50 57	CESAREA
+T10	Disease 68 82	HIPOTIROIDISMO
+T11	Disease 92 99	ABORTOS

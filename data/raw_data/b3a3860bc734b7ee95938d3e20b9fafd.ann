@@ -1,0 +1,9 @@
+T1	Abbreviation 93 96	ERC
+T2	Abbreviation 100 102	IC
+T3	Abbreviation 105 108	FER
+T4	Disease 0 10	ESOFAGITIS
+T5	Laboratory_or_Test_Result 18 38	CON ASPECTO MICOTICO
+T6	Disease 41 57	ULCERA ESOFAGICA
+T7	Disease 61 89	GASTRITIS ULCEROSA Y EROSIVA
+T8	Disease 93 98	ERC  
+T9	Disease 100 102	IC

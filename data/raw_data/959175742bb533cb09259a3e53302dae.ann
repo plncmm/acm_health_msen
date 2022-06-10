@@ -1,0 +1,24 @@
+T1	Medication 60 64	TACO
+T3	Disease 42 45	HTA
+T4	Disease 55 57	FA
+T7	Abbreviation 42 45	HTA
+T8	Abbreviation 55 57	FA
+T9	Abbreviation 60 64	TACO
+T2	Disease 110 127	LITIAIS RENAL IZQ
+T5	Abbreviation 124 127	IZQ
+T6	Abbreviation 58 60	C/
+T10	Abbreviation 104 107	ECO
+T11	Abbreviation 108 110	C/
+T12	Abbreviation 66 68	MP
+T13	Abbreviation 73 82	NORMOFUNC
+T14	Abbreviation 83 85	CF
+T15	Disease 0 4	N23X
+T16	Disease 5 34	COLICO RENAL, NO ESPECIFICADO
+T17	Disease 89 101	COLICO RENAL
+T18	Diagnostic_Procedure 104 107	ECO
+T19	Laboratory_or_Test_Result 108 127	C/LITIAIS RENAL IZQ
+R1	Has Arg1:T18 Arg2:T19	
+T20	Clinical_Finding 66 72	MP VVI
+T21	Clinical_Finding 73 87	NORMOFUNC-CF 1
+T22	Abbreviation 35 38	ANT
+T23	Abbreviation 69 72	VVI

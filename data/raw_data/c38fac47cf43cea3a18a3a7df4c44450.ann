@@ -1,0 +1,7 @@
+T1	Abbreviation 0 2	pd
+T2	Body_Part 0 6	pd 4.6
+T3	Therapeutic_Procedure 11 41	restauración coronaria extensa
+T4	Sign_or_Symptom 53 77	carie recidivante mesial
+T5	Abbreviation 89 91	TT
+T6	Therapeutic_Procedure 89 100	TT Conducto
+T7	Body_Part 79 84	Pieza

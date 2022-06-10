@@ -1,0 +1,5 @@
+T1	Disease 9 37	desdentados parcial superior
+T3	Body_Part 75 91	piezas dentarias
+T4	Therapeutic_Procedure 119 127	protesis
+A1	Pending T4
+T2	Sign_or_Symptom 53 91	protesis con falta de piezas dentarias

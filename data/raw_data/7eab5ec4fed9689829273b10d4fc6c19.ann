@@ -1,0 +1,9 @@
+T1	Sign_or_Symptom 9 43	clase II esqueletal sub división I
+T2	Disease 48 59	apiñamiento
+T3	Sign_or_Symptom 48 86	apiñamiento severo superior e inferior
+T4	Abbreviation 88 91	Pza
+T5	Body_Part 88 102	Pza. 1.3 y 2.3
+T6	Abbreviation 125 128	pza
+T7	Sign_or_Symptom 88 122	Pza. 1.3 y 2.3 ectópica vestibular
+T8	Body_Part 125 133	pza. 4.5
+T9	Sign_or_Symptom 125 148	pza. 4.5 ectópicalingua

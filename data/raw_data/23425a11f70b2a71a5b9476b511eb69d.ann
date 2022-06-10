@@ -1,0 +1,5 @@
+T1	Sign_or_Symptom 0 47	aumento de volumen facial zona parotida derecha
+T2	Body_Part 26 47	zona parotida derecha
+T3	Disease 92 103	parotiditis
+T4	Body_Part 71 90	region preauricular
+T5	Sign_or_Symptom 49 90	palpacion dolorosa en region preauricular

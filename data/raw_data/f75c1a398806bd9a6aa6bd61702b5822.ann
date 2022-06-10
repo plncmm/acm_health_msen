@@ -1,0 +1,9 @@
+T1	Body_Part 20 29	pieza 4.7
+T2	Sign_or_Symptom 34 48	movilidad leve
+T3	Abbreviation 53 55	RX
+T4	Diagnostic_Procedure 53 55	RX
+T5	Laboratory_or_Test_Result 83 98	lesión de furca
+R1	Has Arg1:T4 Arg2:T5	
+T6	Disease 101 119	periodontitis leve
+T7	Laboratory_or_Test_Result 70 79	furca luz
+R2	Has Arg1:T4 Arg2:T7	

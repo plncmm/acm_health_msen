@@ -1,0 +1,20 @@
+T1	Body_Part 2 9	DIENTES
+T2	Body_Part 39 49	Diente 4.8
+T3	Body_Part 184 187	3.8
+T4	Body_Part 146 162	terceros molares
+T5	Body_Part 245 262	dientes 2.2 y 2.3
+T6	Body_Part 301 308	dientes
+T7	Body_Part 355 371	terceros molares
+T8	Body_Part 435 444	2.2 y 2.3
+T9	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T10	Clinical_Finding 39 73	Diente 4.8 se observa semiincluido
+T11	Diagnostic_Procedure 96 115	examen radiográfico
+T12	Laboratory_or_Test_Result 127 187	inclusión de los 4 terceros molares, y la impactación de 3.8
+R1	Has Arg1:T11 Arg2:T12	
+T13	Laboratory_or_Test_Result 209 308	zona radiolúcida circunscrita entre dientes 2.2 y 2.3, con aparente desplazamiento de estos dientes
+R2	Has Arg1:T11 Arg2:T13	
+T14	Therapeutic_Procedure 342 351	exodoncia
+A1	Pending T14
+T15	Laboratory_or_Test_Result 412 444	zona radiolúcida entre 2.2 y 2.3
+R3	Has Arg1:T11 Arg2:T15	
+T16	Disease 169 180	impactación

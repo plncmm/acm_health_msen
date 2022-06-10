@@ -1,0 +1,10 @@
+T1	Abbreviation 0 3	OBS
+T2	Abbreviation 4 8	PCTE
+T3	Disease 9 37	DESDENTADA PARCIAL SUP E INF
+T4	Abbreviation 28 31	SUP
+T5	Abbreviation 34 37	INF
+T6	Sign_or_Symptom 42 94	PPR SUP E INF DESAJUSTADAS CON 10 ANOS DE ANTIGUEDAD
+T7	Abbreviation 42 45	PPR
+T8	Abbreviation 46 49	SUP
+T9	Abbreviation 52 55	INF
+T10	Abbreviation 103 107	PCTE

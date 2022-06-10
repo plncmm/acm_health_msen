@@ -1,0 +1,22 @@
+T1	Abbreviation 0 3	VIH
+T2	Abbreviation 8 11	TAR
+T3	Abbreviation 12 15	OBS
+T4	Abbreviation 46 49	CD4
+T5	Abbreviation 93 96	TBC
+T6	Abbreviation 194 197	TAC
+T7	Body_Part 198 205	CEREBRO
+T8	Abbreviation 5 6	+
+T9	Abbreviation 220 222	S/
+T10	Disease 0 6	VIH (+
+T11	Medication 8 11	TAR
+T12	Laboratory_or_Test_Result 46 64	CD4 EN DISMINUCION
+T13	Laboratory_or_Test_Result 73 92	AUMENTO CARGA VIRAL
+T14	Disease 93 104	TBC MILLIAR
+T15	Sign_or_Symptom 125 132	CEFALEA
+T16	Clinical_Finding 171 178	AFEBRIL
+T17	Sign_or_Symptom 184 193	BAJA PESO
+A1	Negated T17
+T18	Diagnostic_Procedure 194 219	TAC CEREBRO CON CONTRASTE
+T19	Laboratory_or_Test_Result 222 230	LESIONES
+A2	Negated T19
+R1	Has Arg1:T18 Arg2:T19	

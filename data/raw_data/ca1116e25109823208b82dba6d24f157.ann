@@ -1,0 +1,8 @@
+T1	Body_Part 0 6	PZA 19
+T2	Abbreviation 117 120	TTO
+T3	Abbreviation 122 124	RX
+T4	Abbreviation 0 3	PZA
+T6	Disease 19 40	PULPITIS IRREVERSIBLE
+T7	Clinical_Finding 41 53	ASINTOMNTICA
+T8	Diagnostic_Procedure 122 135	RX PERIAPICAL
+T5	Therapeutic_Procedure 7 16	TREPANADA

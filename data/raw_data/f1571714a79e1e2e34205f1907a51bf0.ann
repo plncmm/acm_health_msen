@@ -1,0 +1,11 @@
+T1	Body_Part 37 62	zona mandibular izquierda
+T2	Body_Part 81 95	zona auricular
+T3	Abbreviation 123 125	RX
+T4	Sign_or_Symptom 2 7	DOLOR
+T5	Sign_or_Symptom 28 95	Dolor en zona mandibular izquierda, irradiado  hacia zona auricular
+T6	Sign_or_Symptom 112 120	lesiones
+A1	Negated T6
+T7	Diagnostic_Procedure 123 125	RX
+T8	Laboratory_or_Test_Result 142 154	alteraciones
+A2	Negated T8
+R1	Has Arg1:T7 Arg2:T8	

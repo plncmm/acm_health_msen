@@ -1,0 +1,10 @@
+T1	Abbreviation 0 3	Dte
+T2	Body_Part 0 11	Dte 14 y 15
+T3	Disease 16 43	caries cervicales profundas
+T4	Therapeutic_Procedure 60 69	exodoncia
+A1	Pending T4
+T5	Therapeutic_Procedure 88 101	quimioterapia
+A2	Pending T5
+T7	Abbreviation 103 107	Pcte
+T8	Abbreviation 122 124	Rx
+T9	Diagnostic_Procedure 122 135	Rx panoramica

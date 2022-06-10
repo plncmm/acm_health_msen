@@ -1,0 +1,7 @@
+T1	Abbreviation 41 44	APS
+T2	Body_Part 195 210	arcos dentarios
+T3	Disease 2 17	MORDIDA ABIERTA
+T4	Sign_or_Symptom 88 116	problema de  mordida abierta
+T5	Sign_or_Symptom 118 139	interposición lingual
+T6	Sign_or_Symptom 142 158	respirador bucal
+T7	Disease 160 210	Anomalias de la relacion entre los arcos dentarios

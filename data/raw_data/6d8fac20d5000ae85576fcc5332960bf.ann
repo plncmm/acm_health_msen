@@ -1,0 +1,24 @@
+T1	Abbreviation 48 53	Pacte
+T2	Body_Part 2 10	PREPUCIO
+T3	Abbreviation 83 87	qcos
+T4	Family_Member 98 104	abuela
+T5	Family_Member 133 139	abuela
+T6	Body_Part 321 327	vejiga
+T7	Body_Part 423 431	prepucio
+T8	Abbreviation 468 472	Atte
+T9	Disease 2 44	PREPUCIO REDUNDANTE, FIMOSIS Y PARAFIMOSIS
+T10	Clinical_Finding 58 79	antecedentes morbidos
+A1	Negated T10
+T11	Therapeutic_Procedure 89 97	alergias
+A2	Negated T11
+T12	Disease 167 190	hipertrofia amigdaliana
+T13	Disease 193 200	fimosis
+T14	Sign_or_Symptom 210 215	ronca
+T15	Disease 236 260	amigdalitis a repeticion
+A3	Negated T15
+T16	Disease 296 317	infecciones urinarias
+A4	Negated T16
+T17	Disease 353 376	Hipertrofia amigdaliana
+T18	Sign_or_Symptom 390 444	Imposibilidad parcial de retraer prepucio por completo
+T19	Sign_or_Symptom 450 465	fisuras locales
+A5	Negated T19

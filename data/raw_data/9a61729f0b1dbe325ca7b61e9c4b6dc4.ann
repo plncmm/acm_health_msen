@@ -1,0 +1,8 @@
+T1	Body_Part 120 141	zona inguinal derecha
+T2	Disease 2 26	DOLOR PÉLVICO Y PERINEAL
+T3	Disease 30 41	DISPAREUNIA
+T4	Sign_or_Symptom 61 185	dolor pelvico hace mas menos tres meses irradiado hacia la zona inguinal derecha, que se agudiza durante la actividad sexual
+T5	Clinical_Finding 187 220	Examen ginecologico sin hallazgos
+T6	Diagnostic_Procedure 222 233	papanicolau
+T7	Laboratory_or_Test_Result 249 252	IG7
+R1	Has Arg1:T6 Arg2:T7	

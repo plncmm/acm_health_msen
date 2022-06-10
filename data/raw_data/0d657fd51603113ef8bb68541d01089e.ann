@@ -1,0 +1,10 @@
+T1	Abbreviation 31 34	EGD
+T2	Abbreviation 83 86	FUR
+T3	Abbreviation 111 114	ECO
+T4	Abbreviation 25 30	SEMAS
+T5	Clinical_Finding 1 3	M3
+T6	Clinical_Finding 4 11	EMBARZO
+T7	Clinical_Finding 36 50	INGRESO TARDIO
+T8	Diagnostic_Procedure 111 122	ECO CONTROL
+A1	Pending T8
+T9	Abbreviation 1 2	M

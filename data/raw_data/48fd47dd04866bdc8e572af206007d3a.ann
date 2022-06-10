@@ -1,0 +1,25 @@
+T1	Abbreviation 60 63	HTA
+T2	Abbreviation 65 68	IRC
+T3	Abbreviation 98 100	DR
+T4	Abbreviation 157 159	MG
+T5	Abbreviation 161 163	DL
+T6	Abbreviation 164 167	VFG
+T7	Abbreviation 174 176	ML
+T8	Abbreviation 178 181	MIN
+T9	Abbreviation 198 200	MG
+T10	Abbreviation 202 204	DL
+T11	Abbreviation 221 223	DL
+T12	Abbreviation 224 226	OC
+T13	Abbreviation 241 243	MG
+T14	Abbreviation 245 247	DL
+T15	Abbreviation 219 220	G
+T16	Abbreviation 182 183	N
+T17	Disease 2 30	INSUFICIENCIA RENAL TERMINAL
+T18	Disease 47 58	HIPOACUSICO
+T19	Disease 60 63	HTA
+T20	Disease 65 68	IRC
+T21	Laboratory_Procedure 139 150	CREATINEMIA
+T22	Laboratory_Procedure 164 167	VFG
+T23	Laboratory_Procedure 182 191	N. UREICO
+T24	Laboratory_Procedure 205 213	ALBUMINA
+T25	Laboratory_Procedure 228 237	PROTEINAS

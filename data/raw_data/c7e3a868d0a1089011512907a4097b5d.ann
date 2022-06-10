@@ -1,0 +1,9 @@
+T1	Disease 9 25	DESDENTADA TOTAL
+T2	Therapeutic_Procedure 35 62	PROTESIS TOTAL MAX. Y MAND.
+A1	Pending T2
+T3	Body_Part 50 53	MAX
+T4	Abbreviation 50 53	MAX
+T5	Body_Part 57 61	MAND
+T6	Abbreviation 57 61	MAND
+T7	Therapeutic_Procedure 89 113	PROTESIS SOBRE IMPLANTES
+A2	Pending T7

@@ -1,0 +1,8 @@
+T1	Body_Part 23 33	Diente 2.1
+T2	Abbreviation 38 41	tto
+T3	Abbreviation 173 175	rx
+T4	Disease 2 19	ABSCESO SUBMUCOSO
+T5	Therapeutic_Procedure 38 52	tto endodoncia
+T6	Disease 65 95	Conducto expuesto, reinfectado
+T7	Diagnostic_Procedure 173 189	rx retroalveolar
+A1	Pending T7

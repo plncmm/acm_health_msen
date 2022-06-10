@@ -1,0 +1,8 @@
+T1	Disease 2 37	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T2	Abbreviation 61 64	APS
+T3	Clinical_Finding 79 102	antecedentes sistémicos
+A1	Negated T3
+T4	Clinical_Finding 107 133	primer periodo de recambio
+T5	Sign_or_Symptom 144 178	clase II molar derecha e izquierda
+T6	Sign_or_Symptom 181 216	apiñamiento dentario anteroinferior
+T7	Disease 218 253	Maloclusion de tipo no especificado

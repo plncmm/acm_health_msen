@@ -1,0 +1,6 @@
+T1	Body_Part 20 35	mejilla derecha
+T2	Abbreviation 47 49	mm
+T3	Abbreviation 132 134	mm
+T8	Disease 188 196	papiloma
+T4	Sign_or_Symptom 0 89	lesion cara interna mejilla derecha diametro 5 mm bordes definidos compatible con fibroma
+T5	Sign_or_Symptom 91 186	lesion paladar zona media posterior de 4 mm de diametro bordes definidos compatible con fibroma

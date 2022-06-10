@@ -1,0 +1,21 @@
+T1	Body_Part 17 44	EPÍFISIS INFERIOR DEL RADIO
+T2	Abbreviation 68 71	APS
+T3	Body_Part 127 161	epifisis distal de radio izquierdo
+T4	Abbreviation 219 220	H
+T5	Abbreviation 252 255	TMT
+T6	Abbreviation 256 258	Dr
+T7	Abbreviation 284 287	TAC
+T8	Abbreviation 291 294	ESI
+T9	Body_Part 291 294	ESI
+T10	Abbreviation 587 590	ESI
+T11	Body_Part 587 590	ESI
+T12	Body_Part 677 704	epifisis inferior del radio
+T13	Disease 2 44	FRACTURA DE LA EPÍFISIS INFERIOR DEL RADIO
+T14	Clinical_Finding 86 107	antecedentes morbidos
+A1	Negated T14
+T15	Disease 115 161	fractura de epifisis distal de radio izquierdo
+T16	Diagnostic_Procedure 284 294	TAC de ESI
+T17	Therapeutic_Procedure 519 551	resolucion quirugica de fractura
+T18	Therapeutic_Procedure 578 590	valva en ESI
+T19	Sign_or_Symptom 604 609	dolor
+T20	Disease 662 704	Fractura de la epifisis inferior del radio

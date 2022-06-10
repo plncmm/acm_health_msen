@@ -1,0 +1,7 @@
+T1	Sign_or_Symptom 40 68	MORDIDA CURVADA LADO DERECHO
+T2	Sign_or_Symptom 70 107	APIÑAMIENTO SEVERO EN SECTOR ANTERIOR
+T3	Sign_or_Symptom 109 125	MORDIDA CUBIERTA
+T4	Sign_or_Symptom 127 149	CLASE II DENTOALVEOLAR
+T5	Abbreviation 9 12	ASA
+#1	AnnotatorNotes T5	puntuación de riesgo prequirúrgico de la sociedad americana de anestesiología
+T6	Disease 70 81	APIÑAMIENTO

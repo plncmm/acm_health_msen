@@ -1,0 +1,6 @@
+T1	Abbreviation 24 28	cacu
+T2	Abbreviation 29 31	op
+T3	Abbreviation 37 39	rt
+T4	Disease 24 28	cacu
+T5	Therapeutic_Procedure 29 31	op
+T6	Therapeutic_Procedure 37 39	rt

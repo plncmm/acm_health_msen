@@ -1,0 +1,13 @@
+T1	Body_Part 105 116	pzas  8 y 9
+T2	Body_Part 17 33	REBORDE ALVEOLAR
+T3	Body_Part 95 102	grupo 2
+T4	Abbreviation 105 109	pzas
+T5	Disease 0 4	K082
+T6	Disease 5 44	ATROFIA DEL REBORDE ALVEOLAR DESDENTADO
+T7	Disease 45 75	desdentado  parcial  bimaxilar
+T8	Sign_or_Symptom 77 102	atricion  severa  grupo 2
+T9	Therapeutic_Procedure 127 137	endodoncia
+A1	Pending T9
+T10	Laboratory_or_Test_Result 105 120	pzas  8 y 9  rr
+T11	Abbreviation 118 120	rr
+T12	Sign_or_Symptom 118 120	rr

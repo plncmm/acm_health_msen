@@ -1,0 +1,9 @@
+T1	Abbreviation 52 55	APS
+T2	Abbreviation 57 60	Pac
+T3	Sign_or_Symptom 65 110	caninos superiores levemente vestibularizados
+T4	Body_Part 65 83	caninos superiores
+T5	Abbreviation 112 115	ADM
+T6	Disease 112 120	ADM leve
+T7	Family_Member 141 145	mamá
+T8	Clinical_Finding 2 28	PACIENTE SANO ODONTOLÓGICO
+T9	Clinical_Finding 195 221	Paciente Sano Odontologico

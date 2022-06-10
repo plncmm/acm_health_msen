@@ -1,0 +1,10 @@
+T1	Abbreviation 0 3	FUR
+T2	Abbreviation 24 27	ANT
+T3	Abbreviation 29 31	GO
+T4	Abbreviation 33 44	P:O A:O C:O
+T5	Clinical_Finding 33 36	P:O
+T6	Clinical_Finding 37 40	A:O
+T7	Clinical_Finding 41 44	C:O
+T8	Sign_or_Symptom 45 61	MENARQUIA TARDIA
+T9	Disease 62 83	INFERTILIDAD PRIMARIA
+T10	Disease 88 110	DISMENORREA SECUNDARIA

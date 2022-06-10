@@ -1,0 +1,11 @@
+T1	Disease 2 29	HEMORROIDES EN EL PUERPERIO
+T2	Abbreviation 53 56	APS
+T3	Clinical_Finding 118 129	gestacion  
+T4	Sign_or_Symptom 177 198	rectorragia rutilante
+T6	Sign_or_Symptom 258 285	expulsa coagulos sanguineos
+T7	Body_Part 317 330	esfinter anal
+T8	Sign_or_Symptom 353 374	induracion en esfnter
+T9	Body_Part 367 376	esfnter  
+T10	Sign_or_Symptom 393 409	restos hematicos
+A1	Negated T10
+T11	Disease 453 480	Hemorroides en el puerperio

@@ -1,0 +1,10 @@
+T2	Body_Part 70 79	diente 17
+T3	Therapeutic_Procedure 28 38	extraccion
+A1	Pending T3
+T4	Therapeutic_Procedure 94 104	extraccion
+A2	Pending T4
+T5	Clinical_Finding 70 120	diente 17 indicacion de extraccion semierupcionada
+T6	Clinical_Finding 39 69	dificil acceso a higiene bucal
+T7	Sign_or_Symptom 123 134	mal higiene
+T8	Sign_or_Symptom 150 179	retencion de placa bacteriana
+T1	Body_Part 0 13	diente 1 y 16

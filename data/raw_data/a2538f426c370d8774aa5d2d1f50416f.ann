@@ -1,0 +1,8 @@
+T1	Disease 2 28	GASTRITIS, NO ESPECIFICADA
+T2	Abbreviation 52 55	APS
+T3	Sign_or_Symptom 70 77	pirosis
+T4	Sign_or_Symptom 79 100	epigastralgia cronica
+T5	Abbreviation 111 114	RGE
+T6	Disease 111 114	RGE
+T7	Sign_or_Symptom 111 123	RGE nocturno
+#1	AnnotatorNotes T5	reflujo gastro esofagico

@@ -1,0 +1,24 @@
+T1	Abbreviation 79 82	APS
+T2	Abbreviation 99 103	ANTC
+T3	Abbreviation 108 110	CA
+T4	Abbreviation 167 170	RGE
+T5	Abbreviation 192 195	EDA
+T6	Abbreviation 205 207	HP
+T7	Abbreviation 349 352	RGE
+T8	Abbreviation 171 172	X
+T9	Family_Member 123 140	MAS DE 1 FAMILIAR
+T10	Abbreviation 197 198	+
+T11	Disease 2 55	ENFERMEDAD DEL REFLUJO GASTROESOFÁGICO CON ESOFAGITIS
+T12	Disease 108 119	CA GASTRICO
+A1	Implicit_Family_Background T12
+T13	Sign_or_Symptom 158 165	PIROSIS
+T14	Disease 167 170	RGE
+T15	Disease 173 186	HERNIA HIATAL
+T16	Diagnostic_Procedure 192 195	EDA
+T17	Laboratory_or_Test_Result 197 207	+) PARA HP
+R1	Has Arg1:T16 Arg2:T17	
+T18	Sign_or_Symptom 252 283	PERSISTENCIA DE SINTOMAYTOLOGIA
+T19	Sign_or_Symptom 289 307	DESPERTAR NOCTURNO
+T20	Disease 349 352	RGE
+T21	Disease 374 427	Enfermedad del reflujo gastroesofagico con esofagitis
+R2	Has Arg1:T9 Arg2:T12	

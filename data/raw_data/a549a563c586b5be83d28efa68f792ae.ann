@@ -1,0 +1,37 @@
+T1	Disease 2 33	HIPERTENSIÓN ESENCIAL (PRIMARIA
+T2	Disease 38 70	ENFERMEDAD RENAL CRÓNICA ETAPA 4
+T3	Disease 74 132	ANEMIA EN ENFERMEDADES CRÓNICAS CLASIFICADAS EN OTRA PARTE
+T5	Abbreviation 156 159	APS
+T6	Abbreviation 181 184	ANT
+T7	Abbreviation 186 189	HTA
+T8	Abbreviation 191 193	DL
+T9	Clinical_Finding 195 203	ALERGIAS
+A1	Negated T9
+T10	Abbreviation 218 220	CV
+T11	Abbreviation 245 249	CREA
+T12	Abbreviation 257 261	VFGE
+T13	Abbreviation 271 274	MIN
+T14	Abbreviation 268 270	ML
+T15	Abbreviation 262 264	CG
+T16	Abbreviation 301 305	CREA
+T17	Abbreviation 311 314	VFG
+T18	Abbreviation 318 320	ML
+T19	Abbreviation 322 325	MIN
+T20	Disease 343 361	ANMIEA NORMO NORMO
+T21	Abbreviation 350 355	NORMO
+T22	Abbreviation 356 361	NORMO
+T23	Abbreviation 362 364	HB
+T24	Body_Part 446 456	EPIGASTRIO
+T25	Sign_or_Symptom 464 491	HEMORRGIA U OTRAS MOLESTIAS
+A2	Negated T25
+T26	Disease 494 526	Enfermedad renal cronica Etapa 4
+T27	Disease 186 189	HTA
+T28	Disease 191 193	DL
+T4	Laboratory_Procedure 245 249	CREA
+T29	Laboratory_Procedure 257 261	VFGE
+T30	Laboratory_Procedure 301 305	CREA
+T31	Laboratory_Procedure 311 314	VFG
+T32	Laboratory_Procedure 362 364	HB
+T33	Sign_or_Symptom 372 384	BAJA DE PESO
+T34	Sign_or_Symptom 418 456	DOLRO ABDONIAL OCASIOANL EN EPIGASTRIO
+T35	Laboratory_or_Test_Result 350 361	NORMO NORMO

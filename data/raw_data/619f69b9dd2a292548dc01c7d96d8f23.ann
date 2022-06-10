@@ -1,0 +1,22 @@
+T1	Abbreviation 7 10	EMB
+T2	Abbreviation 0 1	G
+T3	Abbreviation 3 4	P
+T4	Abbreviation 5 6	A
+T5	Family_Member 41 45	HIJA
+T6	Abbreviation 69 73	PART
+T7	Abbreviation 85 88	EGD
+T8	Abbreviation 136 139	LCF
+T9	Abbreviation 140 143	MIO
+T10	Body_Part 92 97	UTERO
+T11	Clinical_Finding 0 1	G
+T12	Clinical_Finding 3 4	P
+T13	Clinical_Finding 5 6	A
+T14	Clinical_Finding 7 10	EMB
+T15	Disease 50 67	SINDROME DE DANDY
+T16	Disease 85 88	EGD
+T17	Sign_or_Symptom 92 115	UTERO A NIVEL UMBILICAL
+T18	Sign_or_Symptom 126 139	AUSCULTAR LCF
+A1	Negated T18
+T19	Disease 140 143	MIO
+T20	Disease 15 21	ULCERA
+R1	Has Arg1:T5 Arg2:T15	

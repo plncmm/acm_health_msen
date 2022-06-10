@@ -1,0 +1,14 @@
+T1	Disease 2 23	CONJUNTIVITIS CRÓNICA
+T2	Disease 59 73	hipotiroidismo
+T3	Disease 112 120	catarata
+T4	Disease 175 188	conjuntivitis
+T5	Body_Part 124 137	ojo izquierdo
+T6	Abbreviation 264 266	mg
+T7	Abbreviation 267 269	dl
+T8	Abbreviation 283 285	mg
+T9	Abbreviation 287 289	dl
+T10	Sign_or_Symptom 78 88	exoftalmos
+T11	Sign_or_Symptom 90 99	proptosis
+T12	Therapeutic_Procedure 101 120	operada de catarata
+T13	Laboratory_Procedure 252 260	glicemia
+T14	Laboratory_Procedure 271 279	glicemia

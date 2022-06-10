@@ -1,0 +1,9 @@
+T1	Disease 0 31	hipertension esencial (primaria
+T2	Disease 33 44	sobrepeso  
+T3	Disease 44 76	enfermedad renal cronica etepa 3
+T4	Laboratory_Procedure 77 94	disminucion renal
+T5	Laboratory_Procedure 96 99	vgf
+T6	Abbreviation 106 108	ml
+T7	Abbreviation 109 114	min  
+T8	Laboratory_Procedure 114 124	creatinina
+T9	Abbreviation 96 99	vgf

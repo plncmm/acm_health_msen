@@ -1,0 +1,7 @@
+T1	Disease 0 18	Desdentado parcial
+T2	Disease 31 72	Periodontitis crónica generalizada severa
+T3	Sign_or_Symptom 83 154	mal cumplimiento en higiene oral y en asoistir a mantención periodontal
+T4	Body_Part 156 175	Pieza 4.1 3.1 y 3.2
+T5	Therapeutic_Procedure 194 204	extracción
+A1	Pending T5
+T6	Therapeutic_Procedure 132 154	mantención periodontal

@@ -1,0 +1,19 @@
+T1	Disease 2 33	HIPERTENSIÓN ESENCIAL (PRIMARIA
+T2	Disease 38 54	ANGINA INESTABLE
+T3	Disease 58 87	INFARTO ANTIGUO DEL MIOCARDIO
+T4	Disease 91 103	MEGAOBESIDAD
+T5	Body_Part 78 87	MIOCARDIO
+T6	Abbreviation 127 130	APS
+T7	Abbreviation 172 177	ttmto
+T8	Medication 182 190	losartan
+T9	Medication 192 202	carvedilol
+T10	Medication 204 217	atorvastatina
+T11	Medication 220 223	aas
+T12	Abbreviation 220 223	aas
+T14	Sign_or_Symptom 391 441	se asocia a disnea y se irradia a hombro izquierdo
+T15	Body_Part 425 441	hombro izquierdo
+T16	Disease 403 409	disnea
+T17	Disease 495 511	Angina inestable
+T18	Diagnostic_Procedure 467 483	test de esfuerzo
+A1	Pending T18
+T13	Sign_or_Symptom 233 307	dolor anginoso, transfixiante de corta duracion y que cede espontaneamente

@@ -1,0 +1,33 @@
+T1	Disease 2 35	INSUFICIENCIA CARDÍACA CONGESTIVA
+T2	Abbreviation 59 62	APS
+T3	Abbreviation 93 96	ICC
+T4	Disease 93 96	ICC
+T5	Abbreviation 99 101	AC
+T6	Disease 102 104	FA
+T7	Abbreviation 99 104	ACxFA
+T8	Abbreviation 102 104	FA
+T9	Medication 99 101	AC
+T10	Abbreviation 194 197	HTA
+T11	Disease 194 197	HTA
+T13	Abbreviation 200 203	AVE
+T12	Disease 200 226	AVE isquimico no secuelado
+T14	Medication 246 255	Valsartan
+T15	Medication 256 266	amlodipino
+T16	Medication 268 278	Bisoprolol
+T17	Medication 281 291	Doxazosina
+T19	Sign_or_Symptom 360 368	nicturia
+T20	Sign_or_Symptom 371 380	CF III-IV
+T21	Abbreviation 371 373	CF
+T22	Body_Part 397 402	torax
+T24	Abbreviation 483 486	ECG
+T25	Abbreviation 491 493	FA
+T27	Disease 580 613	Insuficiencia cardiaca congestiva
+T29	Body_Part 476 481	aorta
+T18	Sign_or_Symptom 309 347	ortopnea y disnea paroxistica nocturna
+T28	Diagnostic_Procedure 382 402	Radiografía de torax
+T30	Diagnostic_Procedure 483 486	ECG
+T31	Disease 491 493	FA
+T23	Laboratory_or_Test_Result 407 481	aumento moderado de la silueta cardiaca y ateromatosis calcica de la aorta
+R1	Has Arg1:T28 Arg2:T23	
+T26	Laboratory_or_Test_Result 491 528	FA con respuesta ventricular adecuada
+R2	Has Arg1:T30 Arg2:T26	

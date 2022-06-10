@@ -1,0 +1,18 @@
+T1	Family_Member 95 99	mama
+T2	Abbreviation 245 249	pcte
+T3	Abbreviation 124 126	rx
+T4	Abbreviation 254 256	cc
+T5	Body_Part 130 147	cavum rinofarngeo
+T6	Body_Part 21 30	AMÍGDALAS
+T7	Body_Part 54 63	ADENOIDES
+T8	Body_Part 234 243	adenoides
+T9	Body_Part 254 270	cc respiratorios
+T10	Disease 2 63	HIPERTROFIA DE LAS AMÍGDALAS CON HIPERTROFIA DE LAS ADENOIDES
+T11	Diagnostic_Procedure 124 147	rx de cavum rinofarngeo
+T12	Laboratory_or_Test_Result 181 204	hirpertrofia amigdalina
+T13	Laboratory_or_Test_Result 219 243	hipertroifa de adenoides
+T14	Disease 181 204	hirpertrofia amigdalina
+T15	Disease 219 243	hipertroifa de adenoides
+R1	Has Arg1:T11 Arg2:T12	
+R2	Has Arg1:T11 Arg2:T13	
+T16	Disease 257 294	respiratorios obstructivos superiores

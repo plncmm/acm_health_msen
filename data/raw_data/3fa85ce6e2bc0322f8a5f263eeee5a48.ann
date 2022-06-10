@@ -1,0 +1,5 @@
+T1	Body_Part 78 86	prepucio
+T2	Body_Part 2 10	PREPUCIO
+T3	Body_Part 121 136	extremo uretral
+T4	Disease 2 44	PREPUCIO REDUNDANTE, FIMOSIS Y PARAFIMOSIS
+T5	Sign_or_Symptom 78 136	prepucio redundante con estrechez hacia el extremo uretral

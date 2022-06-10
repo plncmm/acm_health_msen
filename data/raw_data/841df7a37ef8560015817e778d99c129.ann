@@ -1,0 +1,13 @@
+T1	Body_Part 150 164	vías urinarias
+T2	Body_Part 227 233	hígado
+T3	Body_Part 269 282	TEJIDO BLANDO
+T4	Body_Part 312 325	tejido blando
+T5	Disease 0 19	Diabetes Mellitus 2
+T6	Disease 41 58	Diabetes mellitus
+T7	Disease 82 134	INFECCION URINARIA BETA-LACTAMASE DE AMPLIO ESPECTRO
+T8	Disease 137 187	Infección de vías urinarias, sitio no especificado
+T9	Disease 188 209	DAÑO HEPATICO CRONICO
+T10	Disease 212 250	Enfermedad del hígado, no especificada
+T11	Disease 251 282	CUERPO EXTRAÑO EN TEJIDO BLANDO
+T12	Disease 285 325	Cuerpo extraño residual en tejido blando
+T13	Laboratory_or_Test_Result 101 134	BETA-LACTAMASE DE AMPLIO ESPECTRO

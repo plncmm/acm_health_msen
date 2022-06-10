@@ -1,0 +1,13 @@
+T1	Abbreviation 0 2	PZ
+T2	Body_Part 0 6	PZ 1,6
+T3	Laboratory_or_Test_Result 11 32	CARIES OM PENETRANTES
+T4	Abbreviation 18 20	OM
+T5	Disease 11 17	CARIES
+T6	Therapeutic_Procedure 37 44	TREPANA
+T7	Abbreviation 54 56	PZ
+T8	Sign_or_Symptom 61 106	HISTORIA DE DOLOR TIPO PULPITIS IRREVERSIBLE,
+T9	Disease 84 105	PULPITIS IRREVERSIBLE
+T10	Abbreviation 119 122	TTO
+T11	Therapeutic_Procedure 119 132	TTO RADICULAR
+A1	Pending T11
+T12	Body_Part 54 56	PZ

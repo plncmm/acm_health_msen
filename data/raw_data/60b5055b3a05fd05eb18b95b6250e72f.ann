@@ -1,0 +1,5 @@
+T1	Abbreviation 13 16	IRC
+T2	Disease 13 16	IRC
+T3	Therapeutic_Procedure 36 48	HEMODIALISIS
+T4	Therapeutic_Procedure 92 108	TRASPLANTE RENAL
+T5	Diagnostic_Procedure 80 108	ESTUDIO PRE TRASPLANTE RENAL

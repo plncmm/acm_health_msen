@@ -1,0 +1,10 @@
+T1	Abbreviation 38 41	PZA
+T2	Body_Part 38 46	PZA. 2.4
+T3	Abbreviation 51 54	TTO
+T4	Therapeutic_Procedure 51 66	TTO. RADICULAR,
+T5	Laboratory_or_Test_Result 82 95	LESION APICAL
+A1	Negated T5
+T7	Body_Part 127 133	P. 2.4
+T8	Abbreviation 127 128	P
+T6	Therapeutic_Procedure 110 123	PROTESIS FIJA
+A2	Pending T6

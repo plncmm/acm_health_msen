@@ -1,0 +1,10 @@
+T1	Abbreviation 43 46	APS
+T3	Abbreviation 218 220	cm
+T4	Abbreviation 289 291	DR
+T2	Body_Part 127 152	lobulo de oreja izquierda
+T5	Disease 2 19	CICATRIZ QUELOIDE
+T6	Clinical_Finding 68 88	antecedente morbidos
+A1	Negated T6
+T8	Disease 237 254	cicatriz queloide
+T9	Disease 388 405	Cicatriz queloide
+T7	Sign_or_Symptom 175 192	lesion pediculada

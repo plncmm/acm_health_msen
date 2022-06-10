@@ -1,0 +1,10 @@
+T1	Disease 0 8	Bruxismo
+T2	Sign_or_Symptom 26 56	dolores de cabeza en la mañana
+T3	Sign_or_Symptom 106 167	dolor en escala EVA de 7 a 5 en músculos maseteros y temporal
+T4	Body_Part 138 167	músculos maseteros y temporal
+T5	Abbreviation 175 178	ATM
+T6	Body_Part 175 178	ATM
+T7	Sign_or_Symptom 169 201	click ATM izquierda reproducible
+T8	Sign_or_Symptom 218 249	rechinamiento dentario nocturno
+T9	Body_Part 37 43	cabeza
+T10	Abbreviation 122 125	EVA

@@ -1,0 +1,18 @@
+T1	Abbreviation 0 1	G
+T2	Abbreviation 3 4	P
+T3	Abbreviation 6 7	A
+T4	Abbreviation 9 14	ANTEC
+T5	Abbreviation 46 48	AN
+T6	Abbreviation 49 51	FE
+T7	Abbreviation 66 69	EMB
+T8	Abbreviation 73 76	SEM
+T9	Abbreviation 79 82	DIS
+T10	Abbreviation 88 91	EMB
+T11	Abbreviation 103 106	SEM
+T12	Clinical_Finding 0 2	G3
+T13	Clinical_Finding 3 5	P0
+T14	Clinical_Finding 6 8	A2
+T15	Disease 16 34	HUEVO ANEMBRIONADO
+T16	Disease 52 63	OBITO FETAL
+T17	Clinical_Finding 88 91	EMB
+T18	Clinical_Finding 66 69	EMB

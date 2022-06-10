@@ -1,0 +1,13 @@
+T1	Body_Part 25 31	RETINA
+T2	Abbreviation 55 58	APS
+T3	Body_Part 102 115	ojo izquierdo
+T4	Body_Part 212 219	pupilas
+T5	Body_Part 233 249	pupila izquierda
+T6	Body_Part 343 349	retina
+T7	Disease 2 31	OTROS TRASTORNOS DE LA RETINA
+T8	Sign_or_Symptom 72 115	disminucion de agudeza visual ojo izquierdo
+T9	Sign_or_Symptom 115 140	ve imagenes disorcionadas
+T10	Clinical_Finding 212 231	pupilas asimetricas
+T11	Sign_or_Symptom 233 289	pupila izquierda midriatica en comparacin con la derecha
+T12	Sign_or_Symptom 291 319	reflejo fotomotor disminuido
+T13	Disease 320 349	Otros trastornos de la retina

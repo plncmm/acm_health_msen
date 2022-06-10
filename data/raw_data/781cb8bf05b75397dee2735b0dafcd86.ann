@@ -1,0 +1,16 @@
+T1	Disease 2 19	CÁLCULO DEL RIÑÓN
+T2	Body_Part 14 19	RIÑÓN
+T3	Abbreviation 43 46	APS
+T4	Sign_or_Symptom 93 111	sintomas urinarios
+T5	Sign_or_Symptom 113 120	disuria
+T6	Sign_or_Symptom 122 137	tenesmo vesical
+T7	Sign_or_Symptom 139 151	poliaquiuria
+T8	Sign_or_Symptom 154 167	incontinencia
+T9	Sign_or_Symptom 189 226	dolor lumbar migratorio y descendente
+T10	Diagnostic_Procedure 242 258	cultivo de orina
+T11	Laboratory_or_Test_Result 272 281	negativos
+R1	Has Arg1:T10 Arg2:T11	
+T12	Diagnostic_Procedure 317 325	Peilotac
+T13	Disease 330 347	Calculo del riñon
+T14	Body_Part 342 347	riñon
+T15	Abbreviation 317 325	Peilotac

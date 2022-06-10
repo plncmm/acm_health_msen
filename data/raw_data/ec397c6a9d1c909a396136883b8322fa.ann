@@ -1,0 +1,16 @@
+T1	Abbreviation 35 38	APS
+T2	Abbreviation 81 84	HTA
+T3	Abbreviation 112 115	APS
+T4	Abbreviation 387 390	HRC
+T5	Body_Part 473 501	mucosa nasal lado  izquierdo
+T6	Abbreviation 384 386	SU
+T7	Disease 2 11	EPISTAXIS
+T8	Disease 81 84	HTA
+T9	Disease 147 169	epistaxis  recurrentes
+T10	Clinical_Finding 247 287	alterando la calidad d vida del paciente
+T11	Sign_or_Symptom 452 501	lesión prominente en mucosa nasal lado  izquierdo
+T12	Sign_or_Symptom 507 525	lesiones ulcerosas
+A1	Negated T12
+T13	Sign_or_Symptom 531 549	lesiones poliposas
+A2	Negated T13
+T14	Disease 633 642	Epistaxis

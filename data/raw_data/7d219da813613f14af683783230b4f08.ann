@@ -1,0 +1,8 @@
+T1	Abbreviation 88 92	KINE
+T2	Abbreviation 117 120	CIG
+T3	Disease 0 4	F172
+T4	Disease 5 39	SINDROME DE DEPENDENCIA DEL TABACO
+T5	Therapeutic_Procedure 88 92	KINE
+T6	Diagnostic_Procedure 94 108	TEST DE MARCHA
+T7	Clinical_Finding 110 114	FUMA
+A1	Pending T5

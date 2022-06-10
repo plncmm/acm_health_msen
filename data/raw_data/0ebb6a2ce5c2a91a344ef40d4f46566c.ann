@@ -1,0 +1,7 @@
+T1	Abbreviation 71 74	APS
+T2	Abbreviation 104 106	mm
+T3	Clinical_Finding 2 47	ESTADOS MENOPÁUSICOS Y CLIMATÉRICOS FEMENINOS
+T4	Clinical_Finding 125 137	asintomatica
+A1	Negated T4
+T5	Clinical_Finding 139 184	Estados menopausicos y climatericos femeninos
+T6	Clinical_Finding 107 123	post menopausica

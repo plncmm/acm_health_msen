@@ -1,0 +1,5 @@
+T1	Body_Part 11 18	DIENTES
+T2	Abbreviation 52 55	ENF
+T3	Clinical_Finding 81 102	antecedentes morbidos
+A1	Negated T3
+T4	Clinical_Finding 0 74	PERDIDA DE DIENTES DEBIDA A ACCIDENTE, EXTRACCION O ENF. PERIODONTAL LOCAL

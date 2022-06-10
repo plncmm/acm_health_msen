@@ -1,0 +1,23 @@
+T1	Disease 2 63	HIPERTROFIA DE LAS AMÍGDALAS CON HIPERTROFIA DE LAS ADENOIDES
+T2	Sign_or_Symptom 454 464	roncopatia
+T3	Sign_or_Symptom 466 475	halitosis
+T4	Sign_or_Symptom 477 495	sialorrea nocturna
+T5	Sign_or_Symptom 498 522	amigdalitis a repeticion
+T6	Disease 605 666	Hipertrofia de las amigdalas con hipertrofia de las adenoides
+T7	Sign_or_Symptom 334 382	Signo de marcada hipertrofia amigdalas palatinas
+T8	Disease 242 262	hipertroia adenoidea
+T9	Sign_or_Symptom 414 431	Respiracion bucal
+T10	Abbreviation 87 90	APS
+#1	AnnotatorNotes T10	atención primaria de la salud
+T11	Abbreviation 126 128	RX
+#2	AnnotatorNotes T11	radiografía
+T12	Body_Part 21 30	AMÍGDALAS
+T13	Body_Part 54 63	ADENOIDES
+T14	Body_Part 363 382	amigdalas palatinas
+T15	Body_Part 624 633	amigdalas
+T16	Body_Part 657 666	adenoides
+T17	Diagnostic_Procedure 126 155	RX CAVUM RINOFARINGEO LATERAL
+T18	Laboratory_or_Test_Result 159 330	Engrosamiento de las partes blandas de un amplio sector del rinofarix secundario a hipertroia adenoidea. Determina estrechez del cavum en un porcentaje que no supera el 60
+R1	Has Arg1:T17 Arg2:T18	
+T19	Body_Part 219 228	rinofarix
+T20	Body_Part 288 293	cavum

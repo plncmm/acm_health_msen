@@ -1,0 +1,12 @@
+T1	Abbreviation 0 2	pd
+T2	Body_Part 0 6	pd 3.6
+T3	Sign_or_Symptom 11 39	fractura de amalgama antigua
+T4	Disease 41 56	caries profunda
+T5	Sign_or_Symptom 59 110	sintomatologia dolorosa espontanea y a la percusion
+T6	Therapeutic_Procedure 123 134	trepanacion
+T7	Therapeutic_Procedure 136 152	medicacion pmfca
+T8	Medication 147 152	pmfca
+T9	Abbreviation 147 152	pmfca
+T10	Therapeutic_Procedure 155 185	obturacion provisoria eugenato
+T11	Medication 177 185	eugenato
+T12	Therapeutic_Procedure 23 31	amalgama

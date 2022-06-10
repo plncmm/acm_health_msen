@@ -1,0 +1,15 @@
+T1	Body_Part 48 65	HUESOS DEL CRÁNEO
+T2	Body_Part 74 78	CARA
+T3	Abbreviation 102 105	APS
+T4	Abbreviation 192 195	DSM
+T5	Abbreviation 204 206	PC
+T6	Abbreviation 210 212	cm
+T7	Disease 2 78	MALFORMACIÓN CONGÉNITA NO ESPECIFICADA DE LOS HUESOS DEL CRÁNEO Y DE LA CARA
+T8	Sign_or_Symptom 143 178	fontanela anterior permeable 1 dedo
+T9	Clinical_Finding 180 190	normotensa
+T10	Clinical_Finding 192 202	DSM normal
+T11	Clinical_Finding 272 284	asintomatica
+T12	Body_Part 143 161	fontanela anterior
+T13	Body_Part 174 178	dedo
+T14	Body_Part 261 270	fontanela
+T15	Sign_or_Symptom 244 270	cierre tardio de fontanela

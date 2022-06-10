@@ -1,0 +1,11 @@
+T1	Abbreviation 31 34	SEM
+T2	Abbreviation 65 68	CTG
+T3	Abbreviation 76 78	MG
+T4	Abbreviation 79 81	DL
+T5	Abbreviation 90 92	MG
+T6	Abbreviation 93 95	DL
+T7	Clinical_Finding 0 9	MULTIPARA
+T8	Clinical_Finding 17 25	EMBARAZO
+T9	Disease 36 56	DIABETES GESTACIONAL
+T10	Laboratory_Procedure 65 68	CTG
+T11	Laboratory_Procedure 133 141	EXAMENES

@@ -1,0 +1,6 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Abbreviation 74 77	APS
+T3	Sign_or_Symptom 115 134	Clase II esqueletal
+T4	Clinical_Finding 136 149	Neutroclusión
+T5	Sign_or_Symptom 151 193	Discrepancia dentomaxilar negativa severa.
+T6	Disease 194 242	Anomalias dentofaciales (incluso la maloclusion)

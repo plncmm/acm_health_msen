@@ -1,0 +1,25 @@
+T1	Disease 2 93	TUMOR DE COMPORTAMIENTO INCIERTO O DESCONOCIDO DE LA TRAQUEA, DE LOS BRONQUIOS Y DEL PULMÓN
+T2	Body_Part 55 62	TRAQUEA
+T3	Body_Part 71 80	BRONQUIOS
+T4	Body_Part 87 93	PULMÓN
+T5	Abbreviation 117 120	APS
+T6	Disease 150 165	fractura costal
+T7	Disease 204 229	dolor torácico permanente
+T8	Abbreviation 247 252	AINES
+T9	Medication 247 252	AINES
+T10	Medication 256 264	Tramadol
+T11	Sign_or_Symptom 277 294	tope inspiratorio
+A1	Negated T11
+T12	Abbreviation 302 304	rx
+T13	Diagnostic_Procedure 302 313	rx de tórax
+T14	Body_Part 308 313	tórax
+T15	Laboratory_or_Test_Result 330 360	nódulo pulmonar apical derecho
+R1	Has Arg1:T13 Arg2:T15	
+T18	Disease 538 629	Tumor de comportamiento incierto o desconocido de la traquea, de los bronquios y del pulmon
+T19	Body_Part 591 598	traquea
+T20	Body_Part 607 616	bronquios
+T21	Body_Part 623 629	pulmon
+T22	Abbreviation 364 369	aprox
+T23	Abbreviation 372 374	cm
+T16	Laboratory_or_Test_Result 421 444	nódulo pulmonar derecho
+R2	Has Arg1:T13 Arg2:T16	

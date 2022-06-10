@@ -1,0 +1,11 @@
+T1	Abbreviation 0 3	PZA
+T2	Body_Part 0 7	PZA 2.7
+T3	Laboratory_or_Test_Result 17 52	OBTURACIOIN OCLUSO DISTRAL PROFUNDA
+T4	Sign_or_Symptom 57 82	SINTOMATOLOGIA ESPORADICA
+T5	Diagnostic_Procedure 94 106	RADIOGRAFICO
+R1	Has Arg1:T5 Arg2:T3	
+T6	Laboratory_or_Test_Result 118 160	DESAJUSTE DISTAL Y CAVIDAD BAJO OBTURACION
+T7	Laboratory_or_Test_Result 165 178	LESION APICAL
+A1	Negated T7
+R2	Has Arg1:T5 Arg2:T6	
+R3	Has Arg1:T5 Arg2:T7	

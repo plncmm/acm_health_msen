@@ -1,0 +1,16 @@
+T1	Body_Part 37 56	miembros inferiores
+T2	Abbreviation 80 83	APS
+T3	Body_Part 171 185	pierna derecha
+T4	Abbreviation 280 283	eco
+T5	Body_Part 295 314	miembros inferiores
+T6	Body_Part 360 387	extremidad inferior derecha
+T7	Body_Part 403 424	cayado safeno interno
+T8	Disease 2 25	VARICES EN OTROS SITIOS
+T9	Disease 25 56	varices en  miembros inferiores
+T10	Sign_or_Symptom 149 247	aumento de volumen en pierna derecha con coloracion  negruzca   que ha ido aumentando de extension
+T11	Diagnostic_Procedure 280 314	eco doopler de miembros inferiores
+T12	Laboratory_or_Test_Result 333 424	sindrome post flebitico de extremidad inferior derecha con varices de cayado safeno interno
+R1	Has Arg1:T11 Arg2:T12	
+T13	Sign_or_Symptom 453 460	edema  
+T14	Sign_or_Symptom 464 471	dolor  
+T15	Disease 499 522	Varices en otros sitios

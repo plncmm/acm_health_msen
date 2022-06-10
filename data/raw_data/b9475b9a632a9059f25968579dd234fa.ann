@@ -1,0 +1,23 @@
+T1	Body_Part 31 38	ESCROTO
+T2	Family_Member 80 85	madre
+T3	Family_Member 88 95	hermana
+T4	Body_Part 165 169	piel
+T5	Body_Part 175 180	torax
+T6	Body_Part 263 270	abdomen
+T7	Body_Part 305 325	genitales masculinos
+T8	Body_Part 362 369	escroto
+T9	Body_Part 445 455	testiculos
+T10	Body_Part 457 493	extremidades superiores e inferiores
+T11	Body_Part 159 164	pecho
+T12	Disease 2 38	TRASTORNOS INFLAMATORIOS DEL ESCROTO
+T13	Therapeutic_Procedure 114 119	parto
+T14	Clinical_Finding 165 174	piel sana
+T15	Clinical_Finding 175 190	torax simetrico
+T16	Clinical_Finding 192 227	campos pulmonares ventilados claros
+T17	Clinical_Finding 228 262	ruidos cardiacos ritmicos normales
+T18	Clinical_Finding 263 284	abdomen blando normal
+T19	Sign_or_Symptom 289 304	masas palpables
+A1	Negated T19
+T20	Clinical_Finding 305 335	genitales masculinos presentes
+T21	Sign_or_Symptom 340 386	aumento de volumen de escroto del lado derecho
+T22	Clinical_Finding 457 502	extremidades superiores e inferiores normales

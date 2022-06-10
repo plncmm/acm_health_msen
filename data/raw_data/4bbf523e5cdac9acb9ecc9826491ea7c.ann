@@ -1,0 +1,8 @@
+T1	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T2	Body_Part 2 9	DIENTES
+T3	Abbreviation 56 59	APS
+T4	Abbreviation 87 91	Pzas
+T5	Body_Part 87 105	Pzas# 13, 23,42,43
+T6	Sign_or_Symptom 87 115	Pzas# 13, 23,42,43 ectópicas
+T7	Clinical_Finding 124 140	relación caninas
+A1	Negated T7

@@ -1,0 +1,8 @@
+T1	Disease 2 45	TRASTORNO DE LA REFRACCIÓN, NO ESPECIFICADO
+T2	Abbreviation 69 72	APS
+T5	Abbreviation 159 162	TTO
+T6	Abbreviation 181 187	ATTE  
+T7	Disease 187 230	Trastorno de la refraccion, no especificado
+T3	Clinical_Finding 78 99	ANTECEDENTES MORBIDOS
+A1	Negated T3
+T4	Sign_or_Symptom 109 135	DISMINUCION AGUDEZA VISUAL

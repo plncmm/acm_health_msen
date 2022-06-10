@@ -1,0 +1,7 @@
+T1	Abbreviation 33 36	APS
+T2	Body_Part 47 53	CABEZA
+T3	Disease 2 9	CEFALEA
+T4	Sign_or_Symptom 38 66	DOLOR DE CABEZA INTERMITENTE
+T5	Sign_or_Symptom 131 137	MAREOS
+T6	Sign_or_Symptom 138 153	DESVANECIMIENTO
+T7	Disease 177 184	Cefalea

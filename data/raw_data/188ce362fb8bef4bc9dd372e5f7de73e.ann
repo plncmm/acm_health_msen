@@ -1,0 +1,5 @@
+T1	Body_Part 46 70	sistema nervioso central
+T2	Disease 0 85	Atrofia sistémica que afecta primariamente el sistema nervioso central en el mixedema
+T3	Disease 87 92	E00.1
+T4	Disease 94 97	E03
+T5	Sign_or_Symptom 77 85	mixedema

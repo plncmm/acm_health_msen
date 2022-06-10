@@ -1,0 +1,9 @@
+T1	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T2	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T3	Abbreviation 70 73	APS
+T4	Sign_or_Symptom 93 128	creep articular bilateral, doloroso
+T5	Abbreviation 93 98	creep
+T6	Sign_or_Symptom 131 177	nodulos dolorosos musculares debido a bruxismo
+T7	Disease 169 177	bruxismo
+T8	Disease 178 222	Trastornos de la articulacion temporomaxilar
+T9	Body_Part 195 222	articulacion temporomaxilar

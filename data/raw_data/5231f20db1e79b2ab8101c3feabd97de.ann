@@ -1,0 +1,17 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 191 193	rx
+T3	Body_Part 261 271	premolares
+T4	Body_Part 552 561	1.1 y 2.1
+T5	Abbreviation 163 166	GES
+T6	Body_Part 228 237	denticion
+T7	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T8	Diagnostic_Procedure 191 204	rx panoramica
+T9	Laboratory_or_Test_Result 228 283	denticion mixta con presencia de premolares definitivos
+R1	Has Arg1:T8 Arg2:T9	
+T10	Disease 308 332	anomalias dentomaxilares
+T11	Sign_or_Symptom 374 403	relacion esqueletal clase III
+T12	Clinical_Finding 405 432	relacion molar mesioclusion
+T13	Clinical_Finding 434 462	relacion canina mesioclusion
+T14	Sign_or_Symptom 464 497	relacion incisva mordia invertida
+T15	Sign_or_Symptom 503 561	apiñamientos anteriores superires y rotacion del 1.1 y 2.1
+T16	Disease 675 722	Anomalias dentofaciales (incluso la maloclusion

@@ -1,0 +1,14 @@
+T1	Abbreviation 3 6	HTA
+T2	Abbreviation 10 14	DM-2
+T3	Abbreviation 46 47	I
+T4	Abbreviation 76 77	I
+T5	Abbreviation 88 92	C.F.
+T6	Body_Part 107 115	PROSTATA
+T7	Disease 3 6	HTA
+T8	Disease 10 14	DM-2
+T9	Disease 18 42	CARDIOPATIA HIPERTENSIVA
+T10	Disease 46 72	I. RENAL CRONICA ETAPA III
+T11	Disease 76 87	I. CARDIACA
+T12	Therapeutic_Procedure 100 123	CANCER PROSTATA OPERADA
+T13	Disease 100 115	CANCER PROSTATA
+T14	Sign_or_Symptom 88 96	C.F. III

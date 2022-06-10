@@ -1,0 +1,6 @@
+T1	Disease 27 43	ARTROSIS RODILLA
+T2	Body_Part 36 43	RODILLA
+T3	Diagnostic_Procedure 60 67	ELECTRO
+T4	Laboratory_or_Test_Result 68 76	ALTERADO
+R1	Has Arg1:T3 Arg2:T4	
+T5	Diagnostic_Procedure 101 118	PASE PARA CIRUGIA

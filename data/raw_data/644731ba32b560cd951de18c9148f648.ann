@@ -1,0 +1,8 @@
+T1	Abbreviation 11 14	IRC
+T2	Abbreviation 40 43	HTA
+T3	Abbreviation 51 54	SIC
+T4	Abbreviation 79 82	IRC
+T5	Disease 11 14	IRC
+T6	Disease 40 43	HTA
+T7	Laboratory_or_Test_Result 83 99	MICROALBUMINURIA
+T8	Disease 79 82	IRC

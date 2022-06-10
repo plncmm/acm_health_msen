@@ -1,0 +1,11 @@
+T1	Laboratory_or_Test_Result 0 48	SECCION TRAUMATICA TFS Y TFP ZONA II MEÑIQUE IZQ
+T2	Abbreviation 19 22	TFS
+T3	Body_Part 19 22	TFS
+T4	Abbreviation 25 28	TFP
+T5	Body_Part 25 28	TFP
+T6	Body_Part 37 48	MEÑIQUE IZQ
+T7	Abbreviation 45 48	IZQ
+T8	Body_Part 59 70	PLACA VOLAR
+T9	Disease 50 70	FRACTURA PLACA VOLAR
+T10	Sign_or_Symptom 72 101	RIGIDEZ ARTICULAR REFRACTARIA
+#1	AnnotatorNotes T1	Probablemente lo vieron en imagenes , por eso lo puse ahi , disponible a discusión

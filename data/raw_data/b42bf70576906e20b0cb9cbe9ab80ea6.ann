@@ -1,0 +1,12 @@
+T1	Disease 2 79	TRAUMATISMO DE LA CONJUNTIVA Y ABRASIÓN CORNEAL SIN MENCIÓN DE CUERPO EXTRAÑO
+T2	Sign_or_Symptom 79 90	xeroftalmia
+T3	Abbreviation 115 118	APS
+T4	Disease 129 139	hipertensa
+T6	Abbreviation 191 196	antec
+T8	Medication 226 247	lagrimas artificiales
+T10	Disease 296 373	Traumatismo de la conjuntiva y abrasion corneal sin mencion de cuerpo extraño
+T11	Body_Part 314 324	conjuntiva
+T12	Body_Part 20 30	CONJUNTIVA
+T5	Sign_or_Symptom 150 171	sensacion de ojo seco
+T7	Sign_or_Symptom 200 216	lesion ulcerosas
+A1	Negated T7

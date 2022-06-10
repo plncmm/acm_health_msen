@@ -1,0 +1,7 @@
+T1	Disease 2 17	PERICORONARITIS
+T2	Abbreviation 41 44	APS
+T3	Disease 46 61	Pericoronaritis
+T4	Body_Part 73 76	3.8
+T5	Clinical_Finding 73 92	3.8 Semierupcionado
+T6	Sign_or_Symptom 94 101	Trismus
+T7	Sign_or_Symptom 103 119	malestar general

@@ -1,0 +1,6 @@
+T1	Abbreviation 67 70	APS
+T2	Body_Part 151 156	MAMAS
+T3	Disease 2 43	LIPOMATOSIS, NO CLASIFICADA EN OTRA PARTE
+T4	Diagnostic_Procedure 117 128	LABORATORIO
+T5	Laboratory_or_Test_Result 141 156	LIPOMA EN MAMAS
+R1	Has Arg1:T4 Arg2:T5	

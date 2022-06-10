@@ -1,0 +1,5 @@
+T1	Disease 2 36	ARRITMIA CARDÍACA, NO ESPECIFICADA
+T3	Laboratory_or_Test_Result 95 111	arritmia sinusal
+T4	Disease 113 147	Arritmia cardiaca, no especificada
+T5	Abbreviation 60 63	APS
+#1	AnnotatorNotes T5	atención primaria de salud

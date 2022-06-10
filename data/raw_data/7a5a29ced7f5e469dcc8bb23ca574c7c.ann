@@ -1,0 +1,13 @@
+T1	Disease 2 22	NECROSIS DE LA PULPA
+T2	Disease 27 53	PERIODONTITIS APICAL AGUDA
+T3	Body_Part 70 75	PULPA
+T4	Body_Part 82 91	pieza 3.4
+T5	Disease 96 124	caries dentinaria penetrante
+T6	Sign_or_Symptom 140 160	dolor a la percusion
+T7	Disease 174 206	periodontitis apical sintomatica
+T8	Disease 211 226	necrosis pulpar
+T9	Medication 279 291	clorhexidina
+T10	Medication 314 332	paramonoclorofenol
+T11	Medication 358 366	eugenato
+T12	Abbreviation 367 369	OD
+T13	Body_Part 17 22	PULPA

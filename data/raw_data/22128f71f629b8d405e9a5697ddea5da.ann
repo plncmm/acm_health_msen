@@ -1,0 +1,10 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Abbreviation 44 47	APS
+T3	Disease 49 87	desdentada parcial superior e inferior
+T4	Clinical_Finding 95 124	PPR de base metalica inferior
+T5	Abbreviation 95 98	PPR
+T6	Abbreviation 126 129	PPR
+T7	Therapeutic_Procedure 158 168	extraccion
+T8	Sign_or_Symptom 126 183	PPR superior dejo de usarla por extraccion de pieza pilar
+T9	Disease 186 262	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T10	Body_Part 224 231	dientes

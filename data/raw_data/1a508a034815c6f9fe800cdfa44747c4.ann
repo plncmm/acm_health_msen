@@ -1,0 +1,19 @@
+T2	Body_Part 61 67	ovario
+T3	Body_Part 82 92	endometrio
+T4	Family_Member 94 101	hermana
+T5	Abbreviation 106 108	TU
+T6	Body_Part 109 115	ovario
+T7	Family_Member 116 121	madre
+T8	Abbreviation 132 134	CA
+T9	Abbreviation 135 137	CU
+T10	Body_Part 135 137	CU
+T1	Abbreviation 30 33	ant
+T11	Sign_or_Symptom 4 17	oligomenorrea
+T12	Clinical_Finding 19 28	multipara
+T13	Disease 54 67	quiste ovario
+T14	Laboratory_or_Test_Result 70 92	hiperplasia endometrio
+T15	Disease 106 115	TU ovario
+T16	Disease 132 137	CA CU
+R1	Has Arg1:T4 Arg2:T15	
+R2	Has Arg1:T7 Arg2:T16	
+T17	Laboratory_or_Test_Result 54 67	quiste ovario

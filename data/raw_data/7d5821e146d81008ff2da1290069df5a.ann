@@ -1,0 +1,9 @@
+T1	Body_Part 39 49	diente 1.5
+T2	Abbreviation 95 100	PMCFA
+T3	Medication 95 100	PMCFA
+T4	Disease 2 10	PULPITIS
+T5	Disease 101 109	Pulpitis
+T6	Abbreviation 34 37	APS
+T7	Therapeutic_Procedure 50 59	trepanado
+T8	Therapeutic_Procedure 61 76	cemento tempora
+T9	Therapeutic_Procedure 80 100	medicacion con PMCFA

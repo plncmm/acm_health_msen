@@ -1,0 +1,6 @@
+T1	Abbreviation 86 89	TTO
+T2	Medication 86 104	TTO. FARMACOLOGICO
+T3	Sign_or_Symptom 29 32	TOS
+T4	Sign_or_Symptom 34 40	DISNEA
+T5	Sign_or_Symptom 42 61	RONCUS RESPIRATORIO
+T6	Sign_or_Symptom 134 156	INTENSA SINTOMATOLOGIA

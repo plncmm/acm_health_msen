@@ -1,0 +1,9 @@
+T1	Disease 2 50	OTROS TRASTORNOS MENOPÁUSICOS Y PERIMENOPÁUSICOS
+T2	Disease 57 84	trastornos perimenopausicos
+T4	Sign_or_Symptom 148 179	trastornos vasomotores intensos
+T5	Sign_or_Symptom 181 190	bochornos
+T6	Abbreviation 224 227	MRS
+T8	Abbreviation 293 296	TRH
+T9	Medication 293 296	TRH
+T3	Disease 87 97	Menopausia
+T7	Diagnostic_Procedure 224 227	MRS

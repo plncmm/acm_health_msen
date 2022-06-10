@@ -1,0 +1,12 @@
+T1	Body_Part 45 50	PULPA
+T2	Body_Part 69 74	PULPA
+T3	Body_Part 78 94	piezas 1.1 y 2.1
+T4	Body_Part 95 104	conductos
+T5	Body_Part 215 221	piezas
+T7	Disease 54 74	NECROSIS DE LA PULPA
+T6	Disease 2 50	PERIODONTITIS APICAL AGUDA ORIGINADA EN LA PULPA
+T8	Laboratory_or_Test_Result 95 131	conductos  parcialmente calcificados
+T9	Laboratory_or_Test_Result 133 151	enanismo radicular
+T10	Disease 154 172	fractura coronaria
+T11	Therapeutic_Procedure 195 205	endodoncia
+A1	Pending T11

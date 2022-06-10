@@ -1,0 +1,13 @@
+T1	Disease 2 45	TUMOR BENIGNO DEL RIÑÓNNODULOS SUPRARENALES
+T2	Disease 25 45	NODULOS SUPRARENALES
+T3	Abbreviation 69 72	APS
+#1	AnnotatorNotes T3	atención primaria de salud
+T4	Abbreviation 113 116	TAC
+#2	AnnotatorNotes T4	tomografía axial computarizada
+T5	Abbreviation 213 215	IC
+#3	AnnotatorNotes T5	interconsulta
+T6	Body_Part 20 25	RIÑÓN
+T7	Body_Part 129 135	PELVIS
+T8	Diagnostic_Procedure 113 135	TAC ABDOMINAL Y PELVIS
+T9	Laboratory_or_Test_Result 137 199	NODULOS SUPRARRENALES ASOCIADO A ADENOPATIAS RETROPERITONEALES
+R1	Has Arg1:T8 Arg2:T9	

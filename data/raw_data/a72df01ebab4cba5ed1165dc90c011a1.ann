@@ -1,0 +1,9 @@
+T1	Abbreviation 48 51	QMT
+T2	Therapeutic_Procedure 48 51	QMT
+T3	Abbreviation 53 57	Desd
+T4	Disease 53 76	Desd parcial maxilomand
+T5	Abbreviation 66 76	maxilomand
+T6	Disease 88 90	RR
+T7	Abbreviation 88 90	RR
+T8	Sign_or_Symptom 78 90	multiples RR
+T9	Body_Part 92 124	7,8,9,10,16,20,21,23,24,25,26,27

@@ -1,0 +1,10 @@
+T1	Abbreviation 89 94	ANTEC
+T3	Abbreviation 163 167	DIAG
+T4	Abbreviation 169 172	OBS
+T5	Abbreviation 57 58	+
+T2	Clinical_Finding 0 8	PUERPERA
+T6	Sign_or_Symptom 40 56	DOLOR AL DEFECAR
+T7	Sign_or_Symptom 59 84	HEMATOQUECIA INTERMITENTE
+T8	Disease 99 110	HEMORROIDES
+T9	Clinical_Finding 122 130	EMBARAZO
+T10	Disease 174 185	HEMORROIDES

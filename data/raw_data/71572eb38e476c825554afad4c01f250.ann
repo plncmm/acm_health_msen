@@ -1,0 +1,7 @@
+T1	Abbreviation 0 3	PZA
+T2	Body_Part 0 7	PZA  30
+T3	Therapeutic_Procedure 8 34	TRATATADA ENDODONTICAMENTE
+T4	Laboratory_or_Test_Result 40 52	LESIO APICAL
+T5	Abbreviation 79 82	PZA
+T6	Body_Part 79 85	PZA 12
+T7	Disease 86 101	NECROSIS PULPAR

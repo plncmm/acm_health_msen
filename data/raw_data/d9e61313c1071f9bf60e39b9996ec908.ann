@@ -1,0 +1,9 @@
+T1	Clinical_Finding 0 23	denticion mixta 2° fase
+T2	Sign_or_Symptom 26 40	clase II MOLAR
+T3	Disease 41 63	MAL ,POSICION DENTARIA
+T4	Abbreviation 66 70	PZAS
+T5	Body_Part 66 79	PZAS N° 06-11
+T6	Sign_or_Symptom 66 119	PZAS N° 06-11 MESIOINCLINADAS HACIA PZAS N° 07 - N°10
+T7	Abbreviation 102 106	PZAS
+T8	Body_Part 102 119	PZAS N° 07 - N°10
+T9	Body_Part 0 9	denticion

@@ -1,0 +1,9 @@
+T1	Abbreviation 94 97	ECG
+T2	Sign_or_Symptom 0 15	Soplo sistólico
+T3	Disease 33 53	insuficiencia mitral
+T4	Laboratory_or_Test_Result 65 78	cardiomegalia
+T5	Diagnostic_Procedure 79 91	radiográfica
+R1	Has Arg1:T5 Arg2:T4	
+T6	Diagnostic_Procedure 94 97	ECG
+T7	Laboratory_or_Test_Result 102 182	alteraciones de la repolarización sugerentes de sobrecarga ventricular izquierda
+R2	Has Arg1:T6 Arg2:T7	

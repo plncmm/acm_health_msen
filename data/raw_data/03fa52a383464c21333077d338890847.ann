@@ -1,0 +1,6 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Sign_or_Symptom 57 94	Relación esqueletal posible clase lll
+T3	Clinical_Finding 96 124	relación molar, mesioclusión
+T4	Clinical_Finding 126 164	relación canina no se puede determinar
+T5	Sign_or_Symptom 184 196	overbite 5mm
+T6	Sign_or_Symptom 197 208	overjet 3mm

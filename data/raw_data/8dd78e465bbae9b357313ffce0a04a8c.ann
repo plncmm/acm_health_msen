@@ -1,0 +1,18 @@
+T1	Abbreviation 4 7	EMB
+T2	Abbreviation 24 27	FUR
+T3	Abbreviation 28 30	OP
+T4	Abbreviation 32 35	CCA
+T5	Abbreviation 36 39	FUR
+T6	Abbreviation 52 54	AU
+T7	Abbreviation 59 61	CM
+T8	Abbreviation 62 65	LCF
+T9	Abbreviation 73 76	RYT
+T10	Abbreviation 0 1	M
+T11	Abbreviation 22 23	X
+T12	Abbreviation 71 72	X
+T13	Clinical_Finding 0 2	M1
+T14	Clinical_Finding 4 7	EMB
+T15	Therapeutic_Procedure 32 35	CCA
+T16	Sign_or_Symptom 110 127	ESTRECHEZ PELVICA
+T17	Diagnostic_Procedure 81 88	DOPPLER
+T18	Therapeutic_Procedure 89 105	CESAREA ANTERIOR

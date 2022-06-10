@@ -1,0 +1,5 @@
+T1	Body_Part 110 140	región maxilar y nasal derecha
+T2	Body_Part 169 192	canino superior derecho
+T3	Sign_or_Symptom 91 140	aumento de volumen región maxilar y nasal derecha
+T4	Sign_or_Symptom 143 192	gingivorragia a nivel del canino superior derecho
+T5	Disease 194 213	absceso periodontal

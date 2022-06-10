@@ -1,0 +1,7 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Abbreviation 74 77	APS
+T3	Sign_or_Symptom 79 93	Paladar ojival
+T4	Sign_or_Symptom 95 112	mordida vis a vis
+T5	Body_Part 79 86	Paladar
+T6	Sign_or_Symptom 114 130	respirador bucal
+T7	Disease 131 179	Anomalias dentofaciales (incluso la maloclusion)

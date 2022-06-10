@@ -1,0 +1,16 @@
+T1	Abbreviation 49 52	APS
+T2	Abbreviation 65 66	+
+T3	Abbreviation 66 67	-
+T4	Abbreviation 276 278	dg
+T5	Medication 318 327	Actigenon
+T6	Abbreviation 332 333	d
+T7	Medication 336 345	Memantine
+T8	Abbreviation 350 351	d
+T9	Medication 354 361	VIvemax
+T10	Abbreviation 366 367	d
+T11	Abbreviation 421 424	tto
+T12	Disease 2 25	ENFERMEDAD DE ALZHEIMER
+T13	Sign_or_Symptom 87 104	OLVIDOS FRECUENTE
+T14	Sign_or_Symptom 110 139	ALTERACION DEL COMPORTAMIENTO
+A1	Negated T14
+T15	Disease 282 305	enfermedad de Alzheimer

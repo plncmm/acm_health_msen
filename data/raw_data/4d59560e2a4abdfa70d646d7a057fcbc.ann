@@ -1,0 +1,8 @@
+T1	Abbreviation 0 3	pza
+T2	Body_Part 0 6	pza 18
+T4	Disease 62 77	pericoronaritis
+T5	Abbreviation 78 81	pza
+T6	Body_Part 78 84	pza 17
+T7	Laboratory_or_Test_Result 85 116	incluida en posicion horizontal
+T3	Laboratory_or_Test_Result 7 41	sumergida semiincluida e impcatada
+T8	Disease 32 41	impcatada

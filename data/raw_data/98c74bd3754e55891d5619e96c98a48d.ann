@@ -1,0 +1,11 @@
+T1	Disease 2 30	PERIODONTITIS CRÓNICA SEVERA
+T2	Sign_or_Symptom 52 121	perdida de inserción severa en piezas 2.2, 2.1,1.1 y 2.1 por palatino
+T3	Body_Part 83 108	piezas 2.2, 2.1,1.1 y 2.1
+T4	Body_Part 123 132	pieza 1.2
+T5	Sign_or_Symptom 123 158	pieza 1.2 con grado de movilidad II
+T6	Therapeutic_Procedure 186 209	destartraje subgingival
+A1	Pending T6
+T7	Abbreviation 213 216	APS
+T8	Therapeutic_Procedure 237 260	tratamiento de refuerzo
+T9	Clinical_Finding 293 391	piezas no presentan movilidad elevada debido a que pérdida de inserción es exclusivamente palatina
+T10	Body_Part 293 299	piezas

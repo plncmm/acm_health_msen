@@ -1,0 +1,7 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Disease 36 80	desdentado parcial superior y total inferior
+T3	Sign_or_Symptom 83 111	clase II de Kennedy superior
+T4	Body_Part 125 133	grupo II
+T5	Therapeutic_Procedure 164 203	prótesis parciales superior e inferior.
+A1	Pending T5
+T6	Clinical_Finding 114 133	remanencia grupo II

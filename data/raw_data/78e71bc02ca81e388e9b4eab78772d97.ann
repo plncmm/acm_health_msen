@@ -1,0 +1,11 @@
+T6	Abbreviation 77 80	IZQ
+T7	Disease 82 85	DM2
+T8	Abbreviation 82 85	DM2
+T9	Abbreviation 89 92	TTO
+T10	Abbreviation 101 104	TTO
+T11	Abbreviation 94 97	HTA
+T12	Disease 94 97	HTA
+T4	Body_Part 50 58	CALCANEO
+T3	Laboratory_or_Test_Result 42 80	ESPOLON CALCANEO BILATERAL MAYOR A IZQ
+T1	Disease 0 40	ESPONDILOARTROSIS DE DEGENERATIVA SEVERA
+#1	AnnotatorNotes T3	Cuestionable lo que puse , pero eso es un hallazgo de imagen , por eso no lo puse en signos

@@ -1,0 +1,9 @@
+T1	Abbreviation 39 42	APS
+T2	Abbreviation 44 48	pzas
+T3	Body_Part 44 57	pzas 1.8, 2.8
+T4	Body_Part 77 84	3.8 4.8
+T5	Disease 2 15	CARIES DENTAL
+T6	Disease 58 75	caries dentinaria
+T7	Disease 105 118	Caries dental
+T8	Therapeutic_Procedure 93 103	extraccion
+A1	Pending T8

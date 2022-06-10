@@ -1,0 +1,15 @@
+T1	Abbreviation 18 21	T.E
+T2	Therapeutic_Procedure 18 21	T.E
+T3	Body_Part 25 34	PIEZA 2.1
+T4	Body_Part 37 68	INC. CENTRAL SUPERIOR IZQUIERDO
+T5	Abbreviation 37 40	INC
+T6	Therapeutic_Procedure 70 79	TREPANADO
+T7	Abbreviation 100 103	TDA
+T8	Disease 106 112	CARIES
+T9	Abbreviation 104 105	+
+T10	Clinical_Finding 134 140	FERMIN
+T11	Abbreviation 132 133	+
+T12	Abbreviation 125 131	PRECFA
+T13	Clinical_Finding 84 103	ANTECEDENTES DE TDA
+A1	Pending T2
+T14	Disease 100 103	TDA

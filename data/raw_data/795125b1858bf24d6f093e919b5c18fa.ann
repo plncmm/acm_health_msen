@@ -1,0 +1,16 @@
+T1	Sign_or_Symptom 0 22	HEMATURIA MACROSCOPICA
+T2	Sign_or_Symptom 24 37	DOLOR PELVICO
+T3	Laboratory_or_Test_Result 72 94	NEFROLITIASIS  DERECHA
+T5	Laboratory_or_Test_Result 135 148	HIDRONEFROSIS
+T6	Sign_or_Symptom 219 241	HEMATURIA MACROSCOPICA
+T7	Disease 243 265	HIDRONEFROSIS  DERECHA
+T8	Disease 196 218	NEFROLITIASIS DERECHA.
+T9	Abbreviation 131 133	MM
+#1	AnnotatorNotes T9	milímetros
+T10	Abbreviation 55 58	SIC
+#2	AnnotatorNotes T10	solicitud de interconsulta
+T11	Abbreviation 182 185	SIC
+#3	AnnotatorNotes T11	solicitud de interconsulta
+T12	Body_Part 116 128	PELVIS RENAL
+T13	Laboratory_or_Test_Result 99 128	GRAN CALCULO  EN PELVIS RENAL
+T4	Laboratory_or_Test_Result 150 174	CICATRICES RENAL DERECHA

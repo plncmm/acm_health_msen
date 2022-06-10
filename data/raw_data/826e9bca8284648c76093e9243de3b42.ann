@@ -1,0 +1,53 @@
+T1	Abbreviation 49 52	APS
+T2	Family_Member 68 73	MADRE
+T3	Abbreviation 75 77	AM
+T4	Abbreviation 82 85	AQX
+T5	Abbreviation 103 106	ANT
+T6	Abbreviation 107 110	FAM
+T7	Abbreviation 143 147	HOSP
+T8	Abbreviation 149 152	ANT
+T9	Abbreviation 168 171	kgs
+T10	Abbreviation 173 175	MC
+T11	Body_Part 308 312	PIEL
+T12	Abbreviation 415 417	EF
+T13	Body_Part 438 442	PIEL
+T14	Body_Part 567 574	FARINGE
+T15	Abbreviation 617 619	MP
+T16	Abbreviation 629 632	SRA
+T17	Abbreviation 633 636	ABD
+T18	Abbreviation 637 640	BDI
+T19	Abbreviation 641 644	RHA
+T20	Abbreviation 646 648	BB
+T22	Body_Part 526 533	MUCOSAS
+T21	Body_Part 491 524	ZONA BAJA ESPALDA COSTADO DERECHO
+T23	Abbreviation 610 616	RR2TSS
+T24	Body_Part 633 636	ABD
+T25	Abbreviation 644 645	+
+T26	Abbreviation 648 649	-
+T27	Disease 2 25	ALERGIA NO ESPECIFICADA
+T28	Clinical_Finding 75 77	AM
+A1	Negated T28
+T29	Clinical_Finding 177 191	LACTANTE MAYOR
+T30	Sign_or_Symptom 293 335	LESIONES EN LA PIEL PRURIGINOSAS QUE CEDEN
+T31	Sign_or_Symptom 387 392	DOLOR
+T32	Sign_or_Symptom 404 412	SINTOMAS
+A2	Negated T32
+T33	Clinical_Finding 419 429	CONSCIENTE
+T34	Clinical_Finding 431 437	ACTIVO
+T35	Sign_or_Symptom 444 524	PLACAS ERITEMATOSAS, EDEMATOSAS, EXUDATIVAS EN ZONA BAJA ESPALDA COSTADO DERECHO
+T36	Clinical_Finding 526 549	MUCOSAS NORMOCOLOREADAS
+T37	Clinical_Finding 551 566	BIEN HIDRATADAS
+T38	Clinical_Finding 567 586	FARINGE ERITEMATOSA
+T39	Sign_or_Symptom 588 609	PLACAS NO CONFLUENTES
+T40	Clinical_Finding 610 616	RR2TSS
+T41	Clinical_Finding 617 619	MP
+T42	Clinical_Finding 629 632	SRA
+T43	Clinical_Finding 637 640	BDI
+T44	Sign_or_Symptom 641 644	RHA
+T45	Sign_or_Symptom 646 648	BB
+A3	Negated T45
+T46	Sign_or_Symptom 660 665	MASAS
+A4	Negated T46
+T47	Sign_or_Symptom 669 684	VISCEROMEGALIAS
+T48	Disease 723 746	Alergia no especificada
+T49	Medication 355 374	CORTICOIDES TOPICOS

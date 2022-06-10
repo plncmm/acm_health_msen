@@ -1,0 +1,10 @@
+T1	Abbreviation 9 12	ASA
+T2	Clinical_Finding 9 14	ASA 1
+T3	Therapeutic_Procedure 71 80	EXODONCIA
+A1	Pending T3
+T4	Body_Part 81 90	DIENTE 16
+T5	Disease 108 125	CARIES PENETRANTE
+T6	Laboratory_or_Test_Result 108 125	CARIES PENETRANTE
+T7	Abbreviation 138 140	RX
+T8	Body_Part 147 152	PIEZA
+T9	Diagnostic_Procedure 138 139	R

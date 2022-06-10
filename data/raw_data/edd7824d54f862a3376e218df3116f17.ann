@@ -1,0 +1,9 @@
+T1	Abbreviation 41 44	APS
+T2	Body_Part 62 69	PZA 4.8
+T3	Body_Part 101 108	dientes
+T4	Abbreviation 62 65	PZA
+T5	Disease 2 17	RESTO RADICULAR
+T6	Disease 46 61	RESTO RADICULAR
+T7	Sign_or_Symptom 83 88	DOLOR
+A1	Negated T7
+T8	Disease 90 170	Perdida de dientes debida a accidente, extraccion o enfermedad periodontal local

@@ -1,0 +1,8 @@
+T1	Abbreviation 0 4	PCTE
+T2	Disease 5 36	DESDENTADO TOTAL SUP E INFERIOR
+T3	Abbreviation 22 25	SUP
+T5	Clinical_Finding 94 108	PCTE NO LA USA
+T6	Abbreviation 94 98	PCTE
+T7	Abbreviation 60 63	SUP
+T4	Clinical_Finding 51 63	PROTESIS SUP
+T8	Sign_or_Symptom 65 93	PROTESIS INFERIOR DESAJUSTAD

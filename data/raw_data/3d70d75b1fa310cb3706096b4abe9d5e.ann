@@ -1,0 +1,19 @@
+T1	Abbreviation 53 56	APS
+T2	Abbreviation 87 90	DLP
+T3	Body_Part 104 120	tunel del carpio
+T4	Abbreviation 220 224	EESS
+T5	Abbreviation 316 319	EMG
+T6	Body_Part 359 374	tunel del carpo
+T7	Body_Part 15 29	TÚNEL CARPIANO
+T8	Body_Part 488 502	tunel carpiano
+T9	Body_Part 220 224	EESS
+T10	Disease 2 29	SÍNDROME DEL TÚNEL CARPIANO
+T11	Disease 87 90	DLP
+T12	Disease 92 120	Sindrome de tunel del carpio
+T13	Therapeutic_Procedure 162 176	kinesioterapia
+T14	Sign_or_Symptom 205 224	dolor en ambas EESS
+T15	Sign_or_Symptom 236 247	parestesias
+T16	Diagnostic_Procedure 316 319	EMG
+T17	Laboratory_or_Test_Result 332 374	signos de atrapamiento del tunel del carpo
+R1	Has Arg1:T16 Arg2:T17	
+T18	Disease 475 502	Sindrome del tunel carpiano

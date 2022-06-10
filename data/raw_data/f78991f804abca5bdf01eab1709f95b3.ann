@@ -1,0 +1,12 @@
+T1	Abbreviation 57 60	USA
+T2	Abbreviation 99 102	TSH
+T3	Abbreviation 123 126	T4L
+T4	Disease 0 4	E039
+T5	Disease 5 36	HIPOTIROIDISMO, NO ESPECIFICADO
+T6	Disease 65 81	Intento suicidio
+T7	Laboratory_Procedure 99 102	TSH
+T8	Laboratory_or_Test_Result 112 118	normal
+R1	Has Arg1:T7 Arg2:T8	
+T9	Laboratory_Procedure 123 126	T4L
+T10	Laboratory_or_Test_Result 136 140	bajo
+R2	Has Arg1:T9 Arg2:T10	

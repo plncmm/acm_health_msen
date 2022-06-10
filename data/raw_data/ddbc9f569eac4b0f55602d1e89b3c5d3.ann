@@ -1,0 +1,19 @@
+T1	Disease 2 17	RESTO RADICULAR
+T2	Abbreviation 41 44	APS
+T3	Sign_or_Symptom 133 174	molestia en diente 3,8 con caries extensa
+T4	Disease 160 166	caries
+T5	Body_Part 145 155	diente 3,8
+T6	Therapeutic_Procedure 196 205	exodoncia
+A1	Pending T6
+T7	Sign_or_Symptom 222 277	diente se va fracturando, sin lograr realizar exodoncia
+T8	Therapeutic_Procedure 268 277	exodoncia
+A2	Pending T8
+T9	Body_Part 222 228	diente
+T10	Abbreviation 335 338	tto
+T11	Therapeutic_Procedure 335 349	tto analgesico
+T12	Therapeutic_Procedure 419 426	colgajo
+T13	Abbreviation 462 464	Rx
+T14	Diagnostic_Procedure 462 464	Rx
+T15	Abbreviation 498 501	CMF
+T16	Disease 503 583	Perdida de dientes debida a accidente, extraccion o enfermedad periodontal local
+T17	Body_Part 514 521	dientes

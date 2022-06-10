@@ -1,0 +1,16 @@
+T1	Abbreviation 0 3	DTE
+T2	Body_Part 0 6	DTE 19
+T3	Disease 11 25	CARIES EXTENSA
+T4	Disease 30 45	NECROSIS PULPAR
+T5	Abbreviation 26 28	OD
+T6	Abbreviation 45 48	TTO
+T7	Therapeutic_Procedure 50 61	TREPANACIÓN
+T8	Abbreviation 62 65	DTE
+T9	Body_Part 62 68	DTE 19
+T10	Abbreviation 81 84	CHX
+T11	Medication 81 84	CHX
+T12	Abbreviation 128 133	PMCFA
+T13	Medication 128 133	PMCFA
+T14	Clinical_Finding 135 177	OBTURACION TEMPORAL IONOMERO (BASE FERMIN)
+T15	Diagnostic_Procedure 199 210	RADIOGRAFIA
+T16	Abbreviation 222 224	IC

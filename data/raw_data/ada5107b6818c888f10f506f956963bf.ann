@@ -1,0 +1,22 @@
+T1	Abbreviation 50 53	DM2
+T2	Abbreviation 55 58	HTA
+T3	Abbreviation 86 89	TTO
+T4	Medication 94 102	LOSARTAN
+T5	Abbreviation 105 107	MG
+T6	Abbreviation 113 117	INPH
+T7	Medication 113 117	INPH
+T8	Abbreviation 120 123	UAM
+T9	Abbreviation 125 128	AAS
+T10	Medication 125 128	AAS
+T11	Abbreviation 140 143	ECG
+T12	Abbreviation 132 134	MG
+T13	Abbreviation 198 201	ATN
+T14	Medication 198 201	ATN
+T15	Abbreviation 204 206	MG
+T16	Disease 2 36	ARRITMIA CARDÍACA, NO ESPECIFICADA
+T17	Disease 50 53	DM2
+T18	Disease 55 58	HTA
+T19	Diagnostic_Procedure 140 143	ECG
+T20	Disease 148 175	EXTRASISTOLES VENTRICULARES
+T21	Laboratory_or_Test_Result 148 175	EXTRASISTOLES VENTRICULARES
+R1	Has Arg1:T19 Arg2:T21	

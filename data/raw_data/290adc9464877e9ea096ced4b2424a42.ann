@@ -1,0 +1,16 @@
+T1	Body_Part 2 10	PREPUCIO
+T2	Abbreviation 68 71	APS
+T3	Family_Member 122 127	MADRE
+T4	Abbreviation 172 175	ITU
+T5	Body_Part 223 231	PREPUCIO
+T6	Body_Part 232 240	Prepucio
+T7	Disease 2 44	PREPUCIO REDUNDANTE, FIMOSIS Y PARAFIMOSIS
+T8	Disease 144 151	FIMOSIS
+T9	Clinical_Finding 86 107	ANTECEDENTES MORBIDOS
+A1	Negated T9
+T10	Disease 172 175	ITU
+T11	Disease 179 188	BALANITIS
+T12	Sign_or_Symptom 209 231	ESTRECHEZ DEL PREPUCIO
+T13	Disease 232 274	Prepucio redundante, fimosis y parafimosis
+A2	Negated T10
+A3	Negated T11

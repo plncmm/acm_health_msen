@@ -1,0 +1,6 @@
+T1	Abbreviation 82 85	Eco
+T2	Body_Part 53 67	Extremidad Izq
+T3	Abbreviation 64 67	Izq
+T4	Sign_or_Symptom 13 67	Multiples Lesiones Tumorales Blandas En Extremidad Izq
+T5	Diagnostic_Procedure 82 103	Eco De Partes Blandas
+A1	Pending T5

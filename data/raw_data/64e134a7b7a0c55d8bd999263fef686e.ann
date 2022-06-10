@@ -1,0 +1,10 @@
+T1	Abbreviation 20 23	VRS
+T2	Abbreviation 35 38	VCI
+T3	Body_Part 35 38	VCI
+T4	Abbreviation 86 89	VRS
+T5	Abbreviation 19 20	x
+T6	Abbreviation 85 86	x
+T7	Disease 0 18	BRTONQUITIS SEVERA
+T8	Therapeutic_Procedure 40 62	INTUVACION OROTRAQUIAL
+T9	Disease 76 84	NEUMONIA
+T10	Disease 90 124	SINDROME EDENETARIO MULTIFACTORIAL

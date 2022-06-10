@@ -1,0 +1,10 @@
+T1	Abbreviation 0 4	pcte
+T2	Disease 5 49	desdentado total superior y parcial inferior
+T3	Sign_or_Symptom 51 80	protesis superior desajustada
+T4	Therapeutic_Procedure 105 183	rehabilitacion con protesis total superior y parcial inferior de base acrilica
+A1	Pending T4
+T5	Abbreviation 185 187	pd
+T7	Therapeutic_Procedure 230 238	exodonci
+A2	Pending T7
+T6	Body_Part 185 197	pd 3.1 y 4.1
+T8	Sign_or_Symptom 198 207	movilidad

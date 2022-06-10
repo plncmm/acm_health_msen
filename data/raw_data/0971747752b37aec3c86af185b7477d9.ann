@@ -1,0 +1,18 @@
+T1	Abbreviation 35 38	APS
+T2	Abbreviation 123 125	Dr
+T3	Abbreviation 145 147	dg
+T4	Abbreviation 281 283	dg
+T5	Body_Part 520 523	Ojo
+T6	Disease 2 11	PRESBICIA
+T7	Disease 68 87	vicio de refracción
+T8	Disease 158 178	vicios de refracción
+T9	Disease 248 257	cataratas
+T10	Sign_or_Symptom 357 366	fotofobia
+T11	Sign_or_Symptom 368 383	encandilamiento
+T12	Sign_or_Symptom 385 420	fotopsias ocasionales de larga data
+T13	Sign_or_Symptom 422 449	sensacion de cuerpo extraño
+T14	Sign_or_Symptom 452 459	prurito
+T15	Sign_or_Symptom 520 528	Ojo rojo
+T16	Sign_or_Symptom 532 551	Sintomas sistemicos
+A1	Negated T16
+T17	Sign_or_Symptom 313 343	ha empeorado su agudeza visual

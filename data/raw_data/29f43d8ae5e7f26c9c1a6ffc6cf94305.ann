@@ -1,0 +1,7 @@
+T1	Body_Part 31 37	DIENTE
+T2	Abbreviation 61 64	APS
+T3	Body_Part 66 81	dientes 3.8-4.8
+T4	Body_Part 96 103	3.7-4.7
+T5	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T6	Sign_or_Symptom 82 92	impactados
+T7	Sign_or_Symptom 104 123	posicion horizontal

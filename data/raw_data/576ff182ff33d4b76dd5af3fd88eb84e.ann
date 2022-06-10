@@ -1,0 +1,12 @@
+T1	Body_Part 21 30	AMÍGDALAS
+T2	Family_Member 120 125	padre
+T3	Body_Part 409 418	amigdalas
+T4	Abbreviation 54 57	APS
+T5	Abbreviation 259 262	ORL
+T6	Disease 2 30	HIPERTROFIA DE LAS AMÍGDALAS
+T7	Sign_or_Symptom 178 195	ronquera nocturna
+T8	Sign_or_Symptom 197 215	respiracion  bucal
+T9	Sign_or_Symptom 217 238	resfrios a repeticion
+T10	Sign_or_Symptom 287 303	respirador bucal
+T11	Sign_or_Symptom 306 336	hipertrofia  amigdalar grado 4
+T12	Disease 390 418	Hipertrofia de las amigdalas

@@ -1,0 +1,11 @@
+T1	Body_Part 17 22	COLON
+T2	Abbreviation 144 146	IC
+T3	Abbreviation 191 194	SOS
+T4	Abbreviation 49 50	>
+T5	Disease 0 3	K58
+T6	Disease 4 32	SINDROME DEL COLON IRRITABLE
+T7	Sign_or_Symptom 33 48	DOLOR ABDOMINAL
+T8	Clinical_Finding 70 79	FUNCIONAL
+T9	Sign_or_Symptom 85 103	SINTOMAS DE ALARMA
+A1	Negated T9
+T10	Sign_or_Symptom 151 175	PERSISTENCIA DE SINTOMAS

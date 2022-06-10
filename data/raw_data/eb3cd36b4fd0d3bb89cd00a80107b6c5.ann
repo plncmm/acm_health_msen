@@ -1,0 +1,40 @@
+T1	Disease 2 51	ENFERMEDAD DE LA VESÍCULA BILIAR, NO ESPECIFICADA
+T2	Body_Part 19 34	VESÍCULA BILIAR
+T3	Abbreviation 75 78	APS
+T5	Body_Part 117 136	HIPOCONDRIO DERECHO
+T6	Body_Part 149 158	EPIGATRIO
+T7	Sign_or_Symptom 262 269	COLURIA
+A1	Negated T7
+T8	Sign_or_Symptom 273 279	ACOLIA
+A2	Negated T8
+T9	Sign_or_Symptom 286 293	VOMTIOS
+A3	Negated T9
+T10	Sign_or_Symptom 294 300	FIEBRE
+A4	Negated T10
+T12	Body_Part 340 355	VESICULA BILIAR
+T13	Body_Part 466 499	VIA BILIAR INTRA Y EXTRA HEPATICA
+T15	Abbreviation 539 542	gpt
+T16	Abbreviation 547 549	fa
+T17	Abbreviation 553 557	bilt
+T18	Disease 600 650	 Enfermedad de la vesicula biliar, no especificada
+T19	Abbreviation 168 171	EVA
+#1	AnnotatorNotes T19	Escala visual análoga
+T20	Abbreviation 463 465	MM
+T21	Body_Part 618 633	vesicula biliar
+T22	Abbreviation 189 192	MIN
+T4	Sign_or_Symptom 107 178	DOLOR  EN HIPOCONDRIO DERECHO IRRADIADO A EPIGATRIO, COLICO, EVA 6 / 10
+T23	Sign_or_Symptom 206 256	DISNTENSION ABOMINAL ENR ELACIONA  COMIDAS GRASAS.
+T11	Diagnostic_Procedure 308 327	ECOGRAFIA ABDOMINAL
+T24	Laboratory_or_Test_Result 466 517	VIA BILIAR INTRA Y EXTRA HEPATICA DE CALIBRE NORMAL
+R1	Has Arg1:T11 Arg2:T24	
+T14	Laboratory_Procedure 519 534	perfil hapatico
+T25	Laboratory_Procedure 539 542	gpt
+T26	Laboratory_Procedure 548 549	a
+T27	Laboratory_Procedure 553 557	bilt
+T28	Laboratory_or_Test_Result 340 369	VESICULA BILIAR DE PARED FINA
+T29	Laboratory_or_Test_Result 386 408	CALCULOS EN SU INTERIO
+A5	Negated T29
+T30	Laboratory_or_Test_Result 423 449	2 SOLEVANTAMIENTOS MUCOSOS
+R2	Has Arg1:T11 Arg2:T28	
+R3	Has Arg1:T11 Arg2:T29	
+R4	Has Arg1:T11 Arg2:T30	

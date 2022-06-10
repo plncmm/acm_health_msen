@@ -1,0 +1,8 @@
+T1	Abbreviation 93 95	MM
+T2	Diagnostic_Procedure 20 43	ECOTOMOGRAFIA ABDOMINAL
+T3	Disease 63 75	COLELITIASIS
+T4	Laboratory_or_Test_Result 63 75	COLELITIASIS
+R1	Has Arg1:T2 Arg2:T4	
+T5	Laboratory_or_Test_Result 80 125	IMAGEN DE 18 MM CON SOMBRA ACUSTICA POSTERIOR
+R2	Has Arg1:T2 Arg2:T5	
+T6	Clinical_Finding 127 139	ASINTOMATICA

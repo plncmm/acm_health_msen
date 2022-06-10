@@ -1,0 +1,5 @@
+T1	Body_Part 0 16	diente 3.8 y 4.8
+T3	Body_Part 103 116	diente 1 y 16
+T5	Disease 49 70	pericoronaritis aguda
+T4	Therapeutic_Procedure 89 99	endodoncia
+T2	Sign_or_Symptom 0 33	diente 3.8 y 4.8 semierupcionados

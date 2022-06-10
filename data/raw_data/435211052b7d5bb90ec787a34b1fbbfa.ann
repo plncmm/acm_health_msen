@@ -1,0 +1,16 @@
+T1	Disease 2 58	PARKINSONISMO EN ENFERMEDADES CLASIFICADAS EN OTRA PARTE
+T2	Disease 175 188	parkinsonismo
+T3	Disease 322 378	Parkinsonismo en enfermedades clasificadas en otra parte
+T4	Abbreviation 82 85	APS
+#1	AnnotatorNotes T4	atención primaria de salud
+T5	Abbreviation 260 262	mg
+#2	AnnotatorNotes T5	miligramos
+T6	Abbreviation 269 273	comp
+#3	AnnotatorNotes T6	comprimido
+T7	Abbreviation 294 296	mg
+#4	AnnotatorNotes T7	miligramos
+T8	Abbreviation 304 308	comp
+#5	AnnotatorNotes T8	comprimido
+T9	Medication 212 219	prolopa
+T10	Medication 249 256	Mimetix
+T11	Medication 281 291	melatonina

@@ -1,0 +1,14 @@
+T1	Medication 194 206	Escitalopram
+T2	Medication 218 228	Clonazapam
+T4	Disease 44 68	TRASTORNOS DE ADAPTACIÓN
+T11	Disease 394 418	Trastornos de adaptacion
+T5	Abbreviation 92 95	APS
+T6	Abbreviation 142 145	Dra
+T7	Abbreviation 158 161	+/-
+T8	Abbreviation 186 189	tto
+T9	Abbreviation 230 232	mg
+T10	Abbreviation 209 211	mg
+T3	Disease 2 40	TRASTORNO DE ANSIEDAD, NO ESPECIFICADO
+T12	Sign_or_Symptom 247 272	descompensacion emocional
+T13	Sign_or_Symptom 274 294	alteracion del ánimo
+T14	Sign_or_Symptom 300 318	crisis de angustia

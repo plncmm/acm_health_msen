@@ -1,0 +1,10 @@
+T1	Disease 0 23	FRACTURA DE LOS DIENTES
+T2	Body_Part 16 23	DIENTES
+T3	Abbreviation 54 57	PFU
+T4	Abbreviation 58 62	Pza 
+T5	Body_Part 58 64	Pza 30
+#1	AnnotatorNotes T3	PRÓTESIS FIJA UNITARIA
+T7	Sign_or_Symptom 92 128	amplia destrucción vestibulo lingual
+T6	Therapeutic_Procedure 69 80	endodoncia 
+T8	Therapeutic_Procedure 54 58	PFU 
+A1	Pending T8

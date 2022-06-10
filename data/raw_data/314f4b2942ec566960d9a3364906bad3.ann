@@ -1,0 +1,7 @@
+T1	Sign_or_Symptom 0 83	placas blanquesinas reborde alveolar inf. lado der. que no se desprenden al raspado
+T2	Abbreviation 37 40	inf
+T3	Abbreviation 47 50	der
+T4	Body_Part 20 51	reborde alveolar inf. lado der.
+T5	Laboratory_Procedure 97 104	biopsia
+A1	Pending T5
+T6	Abbreviation 105 108	dra

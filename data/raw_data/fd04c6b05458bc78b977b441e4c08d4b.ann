@@ -1,0 +1,10 @@
+T1	Abbreviation 0 2	Dg
+T2	Abbreviation 64 67	Ant
+T3	Abbreviation 69 73	RNPT
+T4	Abbreviation 84 88	RDSM
+T5	Abbreviation 77 80	sem
+T6	Sign_or_Symptom 7 41	Tetraparesia de predominio derecho
+T7	Disease 69 73	RNPT
+T8	Disease 84 106	RDSM (motor y lenguaje
+T9	Disease 111 131	Estrabismo bilateral
+T10	Diagnostic_Procedure 132 139	operado

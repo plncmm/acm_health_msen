@@ -1,0 +1,10 @@
+T1	Abbreviation 35 36	G
+T2	Abbreviation 37 38	P
+T3	Abbreviation 39 40	A
+T4	Abbreviation 68 71	FUR
+T5	Clinical_Finding 35 37	G7
+T6	Clinical_Finding 37 39	P6
+T7	Clinical_Finding 39 41	A0
+T8	Clinical_Finding 42 50	EMBARAZO
+T9	Clinical_Finding 95 109	GRAN MULTIPARA
+T10	Clinical_Finding 15 34	INMIGRANTE HAITIANA

@@ -1,0 +1,12 @@
+T1	Body_Part 37 41	PENE
+T2	Abbreviation 65 68	APS
+T3	Abbreviation 177 180	cms
+T4	Medication 344 353	aciclovir
+T5	Body_Part 503 507	pene
+T6	Body_Part 196 210	región peneana
+T7	Disease 2 41	OTROS TRASTORNOS INFLAMATORIOS DEL PENE
+T8	Disease 99 111	Dislipidemia
+T9	Sign_or_Symptom 163 266	lesión de 1.5 cms de diametro en región peneana eritematosa solevantada no dolorosa de bordes definidos
+T10	Disease 302 316	herpes genital
+T11	Sign_or_Symptom 381 435	secreción purulenta, de color seromucoso, sin mal olor
+T12	Disease 468 507	Otros trastornos inflamatorios del pene

@@ -1,0 +1,15 @@
+T1	Abbreviation 93 96	APS
+T2	Abbreviation 135 138	dm2
+T3	Abbreviation 142 144	ir
+T4	Body_Part 251 255	mano
+T5	Body_Part 284 289	manos
+T6	Body_Part 292 301	mandibula
+T7	Disease 2 42	DIABETES MELLITUS NO INSULINODEPENDIENTE
+T8	Disease 46 69	ENFERMEDAD DE PARKINSON
+T9	Disease 135 138	dm2
+T10	Disease 147 155	artrosis
+T11	Sign_or_Symptom 205 222	temblor de reposo
+T12	Sign_or_Symptom 312 329	fasie inexpresiva
+T13	Sign_or_Symptom 332 358	disminucion del equilibrio
+T14	Sign_or_Symptom 363 375	pasos cortos
+T15	Disease 423 432	parkinson

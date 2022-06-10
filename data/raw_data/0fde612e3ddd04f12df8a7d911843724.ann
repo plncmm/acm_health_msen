@@ -1,0 +1,11 @@
+T1	Abbreviation 84 87	APS
+T2	Abbreviation 89 93	PCTE
+T3	Abbreviation 162 165	ECO
+T4	Abbreviation 168 171	EDA
+T5	Body_Part 55 60	ANTRO
+T6	Disease 2 14	COLELITIASIS
+T7	Disease 30 60	COMPRESIÓN EXTRINSECA EN ANTRO
+T8	Sign_or_Symptom 119 148	DOLOR ABDOMINAL DE LARGA DATA
+T9	Diagnostic_Procedure 162 165	ECO
+T10	Diagnostic_Procedure 168 171	EDA
+T11	Disease 172 184	Colelitiasis

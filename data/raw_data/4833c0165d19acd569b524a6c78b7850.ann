@@ -1,0 +1,7 @@
+T1	Disease 9 48	desdentada parcial  superior e inferior
+T2	Disease 54 62	pulpitis
+T3	Body_Part 70 86	piezas 1.1 y 2.1
+T5	Clinical_Finding 90 102	usa protesis
+A2	Negated T5
+T4	Therapeutic_Procedure 120 148	protesis inferior y superior
+A1	Pending T4

@@ -1,0 +1,8 @@
+T1	Body_Part 1 10	PIEZA 2.6
+T2	Abbreviation 118 121	PFS
+T3	Sign_or_Symptom 1 37	PIEZA 2.6 GRAN DESTRUCCION CORONARIA
+T4	Sign_or_Symptom 43 64	OBTURACION FRACTURADA
+T5	Therapeutic_Procedure 110 115	ONLAY
+A1	Pending T5
+T6	Therapeutic_Procedure 118 121	PFS
+A2	Pending T6

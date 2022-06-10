@@ -1,0 +1,11 @@
+T1	Disease 2 24	PERIODONTITIS AGRESIVA
+T2	Sign_or_Symptom 31 34	ROM
+T3	Abbreviation 31 34	ROM
+T4	Sign_or_Symptom 36 41	sacos
+T5	Clinical_Finding 43 82	historia absceso periodontal reg dte 30
+T6	Abbreviation 72 75	reg
+T7	Abbreviation 76 79	dte
+T8	Body_Part 76 82	dte 30
+T9	Abbreviation 108 110	EP
+T10	Disease 108 110	EP
+A1	Implicit_Family_Background T10

@@ -1,0 +1,13 @@
+T1	Abbreviation 73 76	APS
+T2	Abbreviation 100 103	obs
+T3	Abbreviation 94 98	ptve
+T4	Abbreviation 142 145	obs
+T5	Abbreviation 256 258	ex
+T6	Abbreviation 260 263	obs
+T7	Sign_or_Symptom 264 273	cistocele
+T8	Disease 274 308	Incontinencia urinaria por tension
+T9	Disease 2 36	INCONTINENCIA URINARIA POR TENSIÓN
+T10	Disease 40 49	CISTOCELE
+T11	Clinical_Finding 78 98	multipara 4 por ptve
+T12	Disease 104 139	incontienencia urinaria ed urgencia
+T13	Disease 146 155	cistocele

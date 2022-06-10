@@ -1,0 +1,8 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Abbreviation 44 47	APS
+T3	Disease 64 82	desdentada parcial
+T4	Sign_or_Symptom 83 115	clase III modificación 2 maxilar
+T5	Sign_or_Symptom 118 163	clase III modificación 1 mandibular (Kennedy)
+T6	Body_Part 202 209	dientes
+T7	Disease 164 240	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T8	Body_Part 108 115	maxilar

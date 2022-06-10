@@ -1,0 +1,12 @@
+T1	Abbreviation 56 59	APS
+T2	Body_Part 177 184	hombros
+T3	Body_Part 219 226	columna
+T4	Disease 2 32	ESCOLIOSIS IDIOPÁTICA INFANTIL
+T5	Sign_or_Symptom 96 126	dolor en extremidades y lumbar
+T6	Sign_or_Symptom 142 162	dolor en nivel sacro
+T7	Sign_or_Symptom 165 184	desnivel de hombros
+T8	Diagnostic_Procedure 207 231	radiografia columna tota
+T9	Laboratory_or_Test_Result 251 342	desviaicon moderada del eje lumbar compatible con escoliosis Escoliosis idiopatica infantil
+R1	Has Arg1:T8 Arg2:T9	
+T10	Body_Part 105 117	extremidades
+T11	Body_Part 151 162	nivel sacro

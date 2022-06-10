@@ -1,0 +1,9 @@
+T1	Body_Part 38 47	PIEZA 2.1
+T2	Abbreviation 49 54	A.D.A
+T3	Body_Part 56 61	PIEZA
+T4	Medication 95 107	ANTIBIOTICOS
+T5	Medication 110 121	ANALGESICOS
+T6	Therapeutic_Procedure 24 34	ENDODONCIA
+A1	Pending T6
+T7	Disease 49 54	A.D.A
+T8	Therapeutic_Procedure 62 71	TREPANADA

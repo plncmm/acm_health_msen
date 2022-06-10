@@ -1,0 +1,12 @@
+T1	Body_Part 0 10	diente 2.3
+T2	Abbreviation 64 67	v.i
+T3	Abbreviation 82 85	pfu
+T5	Disease 0 33	diente 2.3 estado resto radicular
+T6	Therapeutic_Procedure 50 67	sochapado con v.i
+T7	Therapeutic_Procedure 82 85	pfu
+A1	Pending T7
+T8	Clinical_Finding 86 111	terminacion gingival sana
+T9	Laboratory_or_Test_Result 117 130	lesion apical
+A2	Negated T9
+T10	Sign_or_Symptom 136 145	movilidad
+A3	Negated T10

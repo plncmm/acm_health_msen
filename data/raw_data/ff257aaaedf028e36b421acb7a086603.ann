@@ -1,0 +1,12 @@
+T1	Disease 2 47	OTROS QUISTES OVÁRICOS Y LOS NO ESPECIFICADOS
+T2	Disease 80 94	QUISTE OVARICO
+T3	Clinical_Finding 76 79	GM6
+T4	Disease 97 111	COLPOCISTOCELE
+T5	Sign_or_Symptom 116 126	MENORRAGIA
+T6	Disease 127 172	Otros quistes ovaricos y los no especificados
+T7	Abbreviation 71 74	APS
+#1	AnnotatorNotes T7	atención primaria de salud
+T8	Abbreviation 76 79	GM6
+#2	AnnotatorNotes T8	abreviación no indentificada
+T9	Abbreviation 112 115	ANT
+#3	AnnotatorNotes T9	antecedente

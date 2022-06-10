@@ -1,0 +1,11 @@
+T1	Family_Member 89 95	padres
+T2	Abbreviation 308 311	ORL
+T3	Body_Part 21 30	AMÍGDALAS
+T4	Disease 2 30	HIPERTROFIA DE LAS AMÍGDALAS
+T5	Disease 116 127	amigdalitis
+T6	Clinical_Finding 148 167	antecede enfermedad
+A1	Negated T6
+T7	Clinical_Finding 200 208	alergias
+A2	Negated T7
+T8	Disease 217 228	amigdalitis
+T9	Sign_or_Symptom 116 142	amigdalitis con frecuencia

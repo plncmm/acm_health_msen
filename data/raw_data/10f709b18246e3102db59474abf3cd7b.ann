@@ -1,0 +1,8 @@
+T1	Abbreviation 85 88	APS
+T3	Disease 2 61	EPILEPSIA Y SÍNDROMES EPILÉPTICOS IDIOPÁTICOS GENERALIZADOS
+T4	Disease 109 118	Epilepsia
+T5	Sign_or_Symptom 208 220	convulsiones
+A1	Negated T5
+T6	Disease 239 298	Epilepsia y sindromes epilepticos idiopaticos generalizados
+T2	Medication 182 191	Valproato
+T7	Medication 193 201	Depakine

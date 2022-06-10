@@ -1,0 +1,12 @@
+T1	Abbreviation 0 2	SD
+T2	Abbreviation 21 23	SD
+T3	Abbreviation 57 60	ENF
+T4	Abbreviation 74 77	DM2
+T5	Abbreviation 78 80	IR
+T6	Abbreviation 103 106	HTA
+T7	Disease 0 18	SD APNEICO CRONICO
+T8	Disease 21 38	SD MALA ABSORCION
+T9	Disease 39 55	COLITIS ULCEROSA
+T10	Disease 57 73	ENF DIVERTICULAR
+T11	Disease 74 77	DM2
+T12	Disease 103 106	HTA

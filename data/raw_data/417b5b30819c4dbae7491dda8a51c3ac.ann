@@ -1,0 +1,14 @@
+T1	Disease 2 45	INSUFICIENCIA VENOSA (CRÓNICA) (PERIFÉRICA)
+T2	Disease 84 98	ASMA BRONQUIAL
+T3	Abbreviation 69 72	APS
+T4	Abbreviation 115 118	ERA
+T5	Abbreviation 151 155	PROX
+T6	Abbreviation 168 172	KINE
+T7	Abbreviation 188 192	PROX
+T8	Abbreviation 226 231	ALERG
+T9	Abbreviation 235 237	OP
+T10	Clinical_Finding 226 231	ALERG
+A1	Negated T10
+T11	Disease 239 253	QUISTE SEBACEO
+T12	Therapeutic_Procedure 168 172	KINE
+T13	Therapeutic_Procedure 235 253	OP: QUISTE SEBACEO

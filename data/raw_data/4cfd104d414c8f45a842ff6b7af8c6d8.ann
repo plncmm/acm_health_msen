@@ -1,0 +1,8 @@
+T1	Abbreviation 53 56	tsh
+T2	Abbreviation 69 72	eco
+T3	Body_Part 73 80	tiroide
+T4	Disease 13 40	artritis idiopatica juvenil
+T5	Laboratory_Procedure 53 56	tsh
+T6	Diagnostic_Procedure 69 80	eco tiroide
+T7	Laboratory_Procedure 83 107	anticuerpos antitiroides
+A1	Pending T6

@@ -1,0 +1,63 @@
+T1	Abbreviation 35 38	APS
+T2	Abbreviation 142 145	HRC
+T3	Abbreviation 148 151	APS
+T4	Abbreviation 172 174	IC
+T5	Abbreviation 444 447	Dr.
+T6	Abbreviation 470 473	TAC
+T7	Body_Part 477 484	cerebro
+T8	Abbreviation 502 505	TAC
+T9	Body_Part 509 516	cerebro
+T10	Body_Part 669 677	cerebelo
+T12	Abbreviation 1009 1012	Dra
+T13	Body_Part 696 709	IV ventriculo
+T14	Body_Part 739 753	III ventrículo
+T15	Body_Part 770 791	Ventriculos laterales
+T16	Body_Part 574 606	Cisternas subaracnoideas basales
+T17	Body_Part 869 888	parenquima cerebral
+T18	Abbreviation 242 247	aprox
+T19	Abbreviation 251 253	cm
+T20	Body_Part 335 342	mucosas
+T11	Body_Part 652 658	tronco
+T21	Body_Part 658 666	encéfalo
+T22	Disease 2 11	CONTUSIÓN
+T23	Clinical_Finding 75 96	antecedentes morbidos
+A1	Negated T23
+T24	Disease 233 238	caida
+T25	Disease 258 275	contusion frontal
+T26	Sign_or_Symptom 281 302	perdida de conciencia
+A2	Negated T26
+T27	Sign_or_Symptom 307 314	vómitos
+A3	Negated T27
+T28	Sign_or_Symptom 316 321	vigil
+T29	Sign_or_Symptom 323 329	lucido
+T30	Clinical_Finding 330 333	G15
+T31	Sign_or_Symptom 335 355	mucosas sin lesiones
+T32	Sign_or_Symptom 361 371	otorraquia
+A4	Negated T32
+T33	Sign_or_Symptom 377 388	rinorraquia
+A5	Negated T33
+T34	Sign_or_Symptom 390 403	edema frontal
+T35	Sign_or_Symptom 408 431	solucion de continuidad
+A6	Negated T35
+T36	Diagnostic_Procedure 470 498	TAC de cerebro sin contraste
+T37	Diagnostic_Procedure 502 516	TAC de cerebro
+T38	Laboratory_or_Test_Result 537 573	limitado por artefacto de movimiento
+T41	Disease 1038 1047	Contusion
+T42	Abbreviation 330 331	G
+T39	Laboratory_or_Test_Result 574 650	Cisternas subaracnoideas basales de configuracion normal, Megacisterna Magna
+T43	Laboratory_or_Test_Result 652 694	troncoencéfalo y cerebelo sin alteraciones
+T44	Laboratory_or_Test_Result 696 737	IV ventriculo de tamaño y posicion normal
+T45	Laboratory_or_Test_Result 739 768	III ventrículo en linea media
+T46	Laboratory_or_Test_Result 770 825	Ventriculos laterales de volumen y configuracion normañ
+R2	Has Arg1:T37 Arg2:T39	
+R3	Has Arg1:T37 Arg2:T43	
+R4	Has Arg1:T37 Arg2:T44	
+R5	Has Arg1:T37 Arg2:T45	
+R6	Has Arg1:T37 Arg2:T46	
+T40	Laboratory_or_Test_Result 842 888	alteraciones focales en el parenquima cerebral
+A7	Negated T40
+T47	Laboratory_or_Test_Result 890 945	Surcos de la convexidad de distribucion y tamaño normal
+T48	Laboratory_or_Test_Result 947 997	En ventana ósea, no se observan signos de fractura
+R1	Has Arg1:T37 Arg2:T40	
+R7	Has Arg1:T37 Arg2:T47	
+R8	Has Arg1:T37 Arg2:T48	

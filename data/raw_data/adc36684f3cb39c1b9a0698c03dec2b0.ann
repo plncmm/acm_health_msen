@@ -1,0 +1,13 @@
+T1	Abbreviation 57 60	APS
+T2	Abbreviation 78 81	DIU
+T3	Abbreviation 111 114	DIU
+T4	Abbreviation 62 63	G
+T5	Abbreviation 64 65	P
+T6	Abbreviation 66 67	A
+T7	Disease 2 33	ATENCIÓN PARA LA ANTICONCEPCIÓN
+T8	Clinical_Finding 62 64	G2
+T9	Clinical_Finding 64 66	P2
+T10	Clinical_Finding 66 68	A0
+T11	Clinical_Finding 70 81	USUARIA DIU
+T12	Disease 125 156	Atencion para la anticoncepcion
+T13	Sign_or_Symptom 111 124	DIU SIN GUIAS

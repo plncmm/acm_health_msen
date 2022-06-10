@@ -1,0 +1,31 @@
+T1	Abbreviation 94 97	APS
+T2	Abbreviation 182 185	ARO
+T3	Abbreviation 190 193	EDG
+T4	Abbreviation 195 198	FUR
+T5	Abbreviation 276 279	1ER
+T6	Abbreviation 314 317	LCF
+T7	Abbreviation 341 343	EG
+T8	Abbreviation 99 100	G
+T9	Abbreviation 101 102	P
+T10	Abbreviation 103 104	A
+T11	Abbreviation 177 181	POLI
+T12	Medication 219 245	ANTICONCEPTIVOS INYECTABLE
+T13	Abbreviation 319 320	+
+T14	Disease 2 70	SUPERVISIÓN DE OTROS EMBARAZOS DE ALTO RIESGOEDAD GESTACIONAL DUDOSA
+T15	Clinical_Finding 99 101	G4
+T16	Clinical_Finding 101 103	P3
+T17	Clinical_Finding 103 105	A0
+T18	Sign_or_Symptom 111 138	CICATRIZ DE CESAREA ANTIGUA
+T19	Therapeutic_Procedure 123 130	CESAREA
+T20	Disease 143 164	PRESENTACION PODALICA
+T21	Disease 190 193	EDG
+T22	Diagnostic_Procedure 262 290	ECOGRAFIA DEL 1ER TRIMESTRES
+T23	Laboratory_or_Test_Result 302 312	FETO UNICO
+T24	Laboratory_or_Test_Result 314 321	LCF (+)
+T25	Laboratory_or_Test_Result 327 343	ESTIMACION DE EG
+A1	Negated T25
+R1	Has Arg1:T22 Arg2:T23	
+R2	Has Arg1:T22 Arg2:T24	
+R3	Has Arg1:T22 Arg2:T25	
+T26	Diagnostic_Procedure 387 396	ECOGRAFÍA
+A2	Pending T26

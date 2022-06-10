@@ -1,0 +1,7 @@
+T1	Abbreviation 18 21	ASA
+T2	Abbreviation 73 77	PZAS
+T3	Body_Part 73 85	PZAS. 5 Y 12
+T4	Disease 35 62	DESDENTADA PARCIAL SUPERIOR
+T5	Clinical_Finding 86 102	OCLUSION ESTABLE
+T6	Therapeutic_Procedure 0 8	IMPLANTE
+A1	Pending T6

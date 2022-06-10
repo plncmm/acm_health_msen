@@ -1,0 +1,6 @@
+T1	Abbreviation 33 35	SD
+T2	Therapeutic_Procedure 0 11	CISTOSTOMIA
+T3	Disease 12 33	DOLOR PELVICO CRONICO
+T4	Disease 33 46	SD. DEPRESIVO
+T5	Sign_or_Symptom 85 104	DOLOR EN CISTOTOMIA
+T6	Therapeutic_Procedure 94 104	CISTOTOMIA

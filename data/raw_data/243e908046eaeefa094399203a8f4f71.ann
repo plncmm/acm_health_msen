@@ -1,0 +1,7 @@
+T1	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T2	Abbreviation 56 59	APS
+T3	Body_Part 61 77	pieza dental 4.8
+T4	Laboratory_or_Test_Result 61 86	pieza dental 4.8 incluida
+T5	Diagnostic_Procedure 107 126	radiografia digital
+R1	Has Arg1:T5 Arg2:T4	
+T6	Body_Part 2 9	DIENTES

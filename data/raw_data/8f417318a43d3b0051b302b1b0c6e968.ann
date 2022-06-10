@@ -1,0 +1,9 @@
+T1	Sign_or_Symptom 18 38	APIÑAMIENTO GRUPO II
+T2	Body_Part 30 38	GRUPO II
+T3	Sign_or_Symptom 39 54	MORDIDA CRUZADA
+T4	Body_Part 66 75	PIEZA 1.2
+T5	Body_Part 76 85	PIEZA 1.3
+T6	Sign_or_Symptom 76 95	PIEZA 1.3 SOBRE 1.2
+T7	Body_Part 92 95	1.2
+T8	Sign_or_Symptom 96 113	MORDIDA VIS A VIS
+T9	Body_Part 125 134	PIEZA 2.2

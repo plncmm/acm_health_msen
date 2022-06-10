@@ -1,0 +1,11 @@
+T1	Body_Part 31 37	DIENTE
+T2	Abbreviation 61 64	APS
+T3	Abbreviation 66 71	pacte
+T5	Body_Part 162 168	diente
+T6	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T7	Sign_or_Symptom 76 95	ausencia de dientes
+T4	Body_Part 88 95	dientes
+T8	Body_Part 96 99	3.6
+T9	Sign_or_Symptom 96 122	3.6  mal posicion dentaria
+T10	Disease 133 168	Anomalias de la posicion del diente
+T11	Disease 124 132	agenesia

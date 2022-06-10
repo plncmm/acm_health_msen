@@ -1,0 +1,17 @@
+T1	Clinical_Finding 0 27	Clase esqueletal,mesofacial
+T2	Sign_or_Symptom 29 72	Exodoncias prematuras de p16y 26 por caries
+T3	Therapeutic_Procedure 29 39	Exodoncias
+T4	Body_Part 54 61	p16y 26
+T5	Abbreviation 54 55	p
+T6	Disease 66 72	caries
+T7	Disease 73 82	Agenesias
+T8	Laboratory_or_Test_Result 73 98	Agenesias de p14,24,34,44
+T9	Body_Part 86 98	p14,24,34,44
+T10	Abbreviation 86 87	p
+T11	Sign_or_Symptom 100 131	Mordida en tigeras entre p14,44
+T12	Body_Part 125 131	p14,44
+T13	Abbreviation 125 126	p
+T14	Sign_or_Symptom 132 162	mordida vis a vis entre p24,36
+T15	Body_Part 156 162	p24,36
+T16	Abbreviation 156 157	p
+T17	Sign_or_Symptom 164 183	Overbite disminuido

@@ -1,0 +1,7 @@
+T1	Disease 2 18	DESDENTADO TOTAL
+T2	Disease 23 59	Desdentada total superior e inferior
+T3	Clinical_Finding 78 86	protesis
+T4	Clinical_Finding 106 171	Protesis total superior se encuentra en buen estado con retencion
+T5	Sign_or_Symptom 173 221	protesis total inferior se encuentra desajustada
+T6	Sign_or_Symptom 232 268	reborde alveolar inferior disminuido
+T7	Body_Part 232 257	reborde alveolar inferior

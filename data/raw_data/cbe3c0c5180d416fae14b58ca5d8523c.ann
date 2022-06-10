@@ -1,0 +1,9 @@
+T1	Body_Part 0 18	Pieza Dentaria 3.5
+T2	Disease 28 54	caries dentinaria profunda
+T3	Sign_or_Symptom 59 73	gran extension
+T4	Abbreviation 90 93	tto
+T5	Therapeutic_Procedure 90 106	tto. endodontico
+A1	Pending T5
+T6	Abbreviation 141 144	PFU
+T7	Therapeutic_Procedure 141 144	PFU
+A2	Pending T7

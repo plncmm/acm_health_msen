@@ -1,0 +1,8 @@
+T1	Abbreviation 39 42	OBS
+T2	Abbreviation 0 2	GM
+T3	Clinical_Finding 0 3	GM5
+T4	Clinical_Finding 5 13	EMBARAZO
+T5	Disease 28 37	SOBREPESO
+T6	Laboratory_or_Test_Result 44 60	MACROSOMIA FETAL
+T7	Diagnostic_Procedure 44 60	MACROSOMIA FETAL
+T8	Disease 62 94	EMBARAZO EN VIAS DE PROLONGACION

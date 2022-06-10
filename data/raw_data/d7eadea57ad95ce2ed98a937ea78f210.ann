@@ -1,0 +1,12 @@
+T1	Body_Part 21 30	ADENOIDES
+T2	Abbreviation 54 57	APS
+T3	Abbreviation 59 63	PCTE
+T4	Abbreviation 68 69	A
+T5	Abbreviation 71 72	M
+T6	Body_Part 174 183	adenoides
+T7	Disease 2 30	HIPERTROFIA DE LAS ADENOIDES
+T8	Disease 78 105	CUADROS RESPIRATORIOS ALTOR
+T9	Sign_or_Symptom 120 129	VOZ NASAL
+T10	Sign_or_Symptom 131 141	RONCOPATIA
+T11	Sign_or_Symptom 144 154	SALIVACION
+T12	Disease 155 183	Hipertrofia de las adenoides

@@ -1,0 +1,9 @@
+T1	Disease 2 30	PERIODONTITIS CRÓNICA SEVERA
+T2	Abbreviation 54 57	APS
+T3	Sign_or_Symptom 77 94	recesion gingival
+T4	Sign_or_Symptom 96 114	sangrado de encias
+T5	Sign_or_Symptom 116 136	inflamacion gingival
+T6	Sign_or_Symptom 138 157	sacos periodontales
+T7	Sign_or_Symptom 160 178	movilidad dentaria
+T8	Disease 180 201	Periodontitis cronica
+T9	Body_Part 108 114	encias

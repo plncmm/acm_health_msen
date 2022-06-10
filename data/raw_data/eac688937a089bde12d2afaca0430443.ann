@@ -1,0 +1,12 @@
+T1	Abbreviation 53 56	APS
+T2	Disease 2 29	ESCOLIOSIS, NO ESPECIFICADA
+T3	Clinical_Finding 83 104	antecedentes morbidos
+A1	Negated T3
+T4	Sign_or_Symptom 125 176	dolor en dorso, intermitente, de mediana intensidad
+T5	Sign_or_Symptom 195 217	test de adams alterado
+T6	Sign_or_Symptom 227 260	abombamiento de hemidorso derecho
+T7	Sign_or_Symptom 262 312	dolor a la palpacion de musculatura para vertebral
+T8	Disease 451 478	Escoliosis, no especificada
+T9	Body_Part 286 297	musculatura
+T10	Diagnostic_Procedure 349 368	estudio radiologico
+A2	Pending T10

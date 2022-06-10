@@ -1,0 +1,8 @@
+T2	Body_Part 30 38	prostata
+T3	Sign_or_Symptom 71 79	sintomas
+A1	Negated T3
+T4	Diagnostic_Procedure 80 95	examen de a.p.e
+T5	Abbreviation 90 95	a.p.e
+T6	Laboratory_or_Test_Result 96 104	alterado
+R1	Has Arg1:T4 Arg2:T6	
+T1	Disease 0 55	enfermedad inflamatoria de la prostata, no especificada

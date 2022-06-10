@@ -1,0 +1,9 @@
+T1	Abbreviation 69 71	PA
+T2	Medication 111 119	ATENOLOL
+T3	Medication 120 133	ESPIROLACTOSA
+T4	Medication 134 144	FUROSEMIDA
+T5	Medication 145 153	LOSARTAN
+T6	Abbreviation 243 245	HB
+T7	Laboratory_Procedure 176 186	CREATININA
+T8	Disease 206 240	ENFERMEDAD RENAL CRONICA ESTADO IV
+T9	Laboratory_Procedure 243 245	HB

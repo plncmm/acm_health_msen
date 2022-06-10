@@ -1,0 +1,7 @@
+T1	Body_Part 20 27	molares
+T2	Family_Member 73 78	madre
+T3	Body_Part 91 95	boca
+T4	Abbreviation 137 140	Pac
+T5	Clinical_Finding 0 27	caries multiples en molares
+T6	Clinical_Finding 41 51	cooperador
+A1	Negated T6

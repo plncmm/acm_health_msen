@@ -1,0 +1,7 @@
+T1	Body_Part 104 109	dorso
+T2	Body_Part 111 121	antebrasos
+T3	Body_Part 123 130	piernas
+T4	Body_Part 68 85	region subcotaneo
+T5	Clinical_Finding 4 25	antecedentes morbidos
+A1	Negated T5
+T6	Sign_or_Symptom 35 130	tumoraciones de variostamaños en region subcotaneo de varios portes: dorso, antebrasos, piernas

@@ -1,0 +1,7 @@
+T1	Body_Part 91 96	molar
+T2	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T3	Clinical_Finding 57 75	Clase I Esqueletal
+T4	Clinical_Finding 77 106	Neutroclusion molar bilateral
+T5	Sign_or_Symptom 108 137	Distoclusion canina bilateral
+T6	Sign_or_Symptom 139 156	Resalte aumentado
+T7	Sign_or_Symptom 158 187	Leve mordida abierta anterior

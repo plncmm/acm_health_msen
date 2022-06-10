@@ -1,0 +1,8 @@
+T1	Disease 2 47	HEMORROIDES INTERNAS CON OTRAS COMPLICACIONES
+T2	Abbreviation 71 74	APS
+T3	Disease 125 145	HEMORROIDES INTERNAS
+T4	Medication 185 191	DAFLON
+T5	Medication 194 203	PROCTOGEN
+T6	Sign_or_Symptom 258 278	SANGRADOS FRECUENTES
+T7	Sign_or_Symptom 284 289	DOLOR
+T8	Disease 404 449	Hemorroides internas con otras complicaciones

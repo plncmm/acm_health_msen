@@ -1,0 +1,31 @@
+T1	Abbreviation 86 89	APS
+T2	Abbreviation 100 103	hta
+T3	Abbreviation 103 104	+
+T4	Abbreviation 105 108	dlp
+T5	Abbreviation 112 115	tto
+T6	Abbreviation 120 123	enl
+T7	Medication 120 123	enl
+T8	Abbreviation 128 130	mg
+T9	Abbreviation 141 144	aas
+T10	Medication 141 144	aas
+T11	Abbreviation 155 158	atv
+T12	Medication 155 158	atv
+T13	Abbreviation 332 335	ecg
+T14	Abbreviation 398 401	ECG
+T15	Abbreviation 417 419	AV
+T16	Disease 2 15	PALPITACIONES
+T17	Disease 19 62	BLOQUEO AURICULOVENTRICULAR DE PRIMER GRADO
+T18	Disease 100 103	hta
+T19	Disease 105 108	dlp
+T20	Sign_or_Symptom 214 288	palpitacion  entre 2 a 3 veces por semanas que limitan actividades diarias
+T21	Diagnostic_Procedure 322 335	holter de ecg
+T22	Laboratory_or_Test_Result 345 358	ritmo sinusal
+R1	Has Arg1:T21 Arg2:T22	
+T23	Laboratory_or_Test_Result 362 396	extrasistolia ventricularfrecuente
+R2	Has Arg1:T21 Arg2:T23	
+T24	Diagnostic_Procedure 398 401	ECG
+T25	Laboratory_or_Test_Result 409 427	bloqueo AV 1 grado
+T26	Laboratory_or_Test_Result 432 465	posible necrosis inferior antigua
+R3	Has Arg1:T24 Arg2:T25	
+R4	Has Arg1:T24 Arg2:T26	
+T27	Disease 468 481	Palpitaciones

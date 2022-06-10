@@ -1,0 +1,8 @@
+T1	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T2	Disease 32 60	Caries dentinaria penetrante
+T3	Therapeutic_Procedure 73 84	trepanacíon
+T4	Medication 120 128	paramono
+T5	Medication 147 155	eugenato
+T6	Clinical_Finding 86 155	irrigacíon con suero + motita con paramono + restauracíon de eugenato
+T7	Abbreviation 107 108	+
+T8	Abbreviation 129 130	+

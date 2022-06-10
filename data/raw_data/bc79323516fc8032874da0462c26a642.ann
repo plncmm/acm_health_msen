@@ -1,0 +1,16 @@
+T1	Abbreviation 69 72	APS
+T2	Abbreviation 109 112	APP
+T3	Abbreviation 181 185	MMII
+T4	Body_Part 181 185	MMII
+T5	Abbreviation 197 200	APP
+T6	Abbreviation 205 207	DM
+T7	Abbreviation 210 213	HTA
+T8	Abbreviation 217 220	IAM
+T9	Body_Part 171 177	SAFENA
+T10	Disease 2 45	INSUFICIENCIA VENOSA (CRÓNICA) (PERIFÉRICA)
+T11	Laboratory_or_Test_Result 117 177	INSUFICIENCIA VENOSA CRONICA PERIFERICA A EXPENSAS DE SAFENA
+T12	Disease 117 145	INSUFICIENCIA VENOSA CRONICA
+T13	Disease 205 207	DM
+T14	Disease 210 213	HTA
+T15	Disease 217 220	IAM
+T16	Disease 271 314	Insuficiencia venosa (cronica) (periferica)

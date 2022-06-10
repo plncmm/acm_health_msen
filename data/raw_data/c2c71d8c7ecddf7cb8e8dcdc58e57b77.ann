@@ -1,0 +1,14 @@
+T1	Body_Part 2 11	TESTÍCULO
+T2	Body_Part 90 100	testiculos
+T3	Body_Part 250 269	testiculo izquierdo
+T4	Body_Part 277 287	testiculos
+T5	Body_Part 291 305	canal inguinal
+T6	Body_Part 341 348	escroto
+T7	Abbreviation 369 370	+
+T8	Disease 2 36	TESTÍCULO NO DESCENDIDO, BILATERAL
+T9	Sign_or_Symptom 90 112	testiculos en ascensor
+T10	Sign_or_Symptom 143 171	falta de descenso testicular
+T11	Sign_or_Symptom 197 228	asimetria en volumen testicular
+T12	Sign_or_Symptom 234 269	menor tamaño en testiculo izquierdo
+T13	Sign_or_Symptom 271 348	Ambos testiculos en canal inguinal, que descienden temporalmente haci escroto
+T14	Clinical_Finding 350 369	Fimosis fisiológica

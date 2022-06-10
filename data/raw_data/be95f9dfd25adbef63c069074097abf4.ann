@@ -1,0 +1,12 @@
+T1	Disease 0 12	HIDROCEFALIA
+T2	Disease 15 19	RDSM
+T3	Disease 37 66	CRISIS CONVULSIVA HIPERTONICA
+T4	Disease 79 99	EPILEPSIA SECUNDARIA
+T5	Disease 101 111	SD. FEBRIL
+T6	Disease 113 126	ENTEROVIROSIS
+T7	Abbreviation 101 103	SD
+#1	AnnotatorNotes T7	síndrome
+T8	Abbreviation 15 19	RDSM
+#2	AnnotatorNotes T8	retraso del desarrollo psicomotor
+T9	Abbreviation 32 35	OBS
+#3	AnnotatorNotes T9	observaciones

@@ -1,0 +1,14 @@
+T1	Body_Part 2 5	PIE
+T2	Body_Part 34 37	pie
+T3	Body_Part 113 116	pie
+T4	Family_Member 204 209	Madre
+T5	Body_Part 286 298	arco plantar
+T6	Disease 2 33	PIE PLANO PES PLANUS (ADQUIRIDO
+T7	Disease 34 43	pie plano
+T8	Clinical_Finding 63 84	antecedentes mórbidos
+A1	Negated T8
+T9	Disease 113 122	pie plano
+T10	Therapeutic_Procedure 146 169	ejercicios terapéuticos
+T11	Sign_or_Symptom 274 298	ausencia de arco plantar
+T12	Sign_or_Symptom 313 332	genu valgo calcáneo
+T13	Sign_or_Symptom 225 243	cae frecuentemente

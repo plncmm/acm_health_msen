@@ -1,0 +1,5 @@
+T1	Disease 2 22	NECROSIS DE LA PULPA
+T2	Body_Part 17 22	PULPA
+T3	Body_Part 29 39	Diente 3.5
+T4	Clinical_Finding 44 72	terapia previamente iniciada
+T5	Disease 77 103	caries dentinaria profunda

@@ -1,0 +1,8 @@
+T1	Disease 2 23	PERIODONTITIS CRÓNICA
+T2	Abbreviation 47 50	APS
+T3	Disease 52 95	periodontitis cronica generalizada moderada
+T4	Sign_or_Symptom 97 118	conmovilidad dentaria
+T5	Disease 122 161	periodontitis cronica severa localizada
+T6	Body_Part 162 169	pza 2.1
+T7	Abbreviation 162 165	pza
+T8	Disease 171 192	Periodontitis cronica

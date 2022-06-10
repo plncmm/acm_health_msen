@@ -1,0 +1,26 @@
+T1	Body_Part 23 48	COLUMNA VERTEBRALCERVICAL
+T2	Abbreviation 72 75	APS
+T3	Abbreviation 239 241	Rx
+T4	Abbreviation 363 365	Rx
+T5	Body_Part 369 385	COLUMNA CERVICAL
+T6	Abbreviation 391 393	Rx
+T7	Body_Part 446 469	QUINTA Y SEXTA CERVICAL
+T8	Body_Part 602 619	columna vertebral
+T9	Disease 2 48	OTRAS FUSIONES DE LA COLUMNA VERTEBRALCERVICAL
+T10	Disease 92 120	CAIDA CON CONTUSION CERVICAL
+T11	Sign_or_Symptom 143 155	FALLA MOTORA
+A1	Negated T11
+T12	Clinical_Finding 159 168	SENSITIVA
+A2	Negated T12
+T13	Clinical_Finding 185 205	LIMITACION FUNCIONAL
+T14	Diagnostic_Procedure 239 241	Rx
+T15	Therapeutic_Procedure 242 255	COLLAR BLANDO
+T16	Therapeutic_Procedure 258 264	REPOSO
+T17	Sign_or_Symptom 320 325	DOLOR
+T18	Diagnostic_Procedure 363 385	Rx DE COLUMNA CERVICAL
+T19	Diagnostic_Procedure 391 393	Rx
+T20	Laboratory_or_Test_Result 435 469	FUSION  DE QUINTA Y SEXTA CERVICAL
+R1	Has Arg1:T18 Arg2:T20	
+T21	Clinical_Finding 495 504	FUNCIONAL
+T22	Sign_or_Symptom 510 525	MOLESTIAS LEVES
+T23	Disease 581 619	Otras fusiones de la columna vertebral

@@ -1,0 +1,21 @@
+T1	Abbreviation 110 115	SPECT
+T2	Abbreviation 137 140	iam
+T3	Abbreviation 217 220	ADA
+T4	Abbreviation 243 246	ACx
+T6	Abbreviation 13 18	anetc
+T7	Body_Part 141 154	pared aterior
+T5	Clinical_Finding 13 27	anetc morbidos
+A1	Negated T5
+T8	Sign_or_Symptom 55 73	angina de esfuerzo
+T9	Diagnostic_Procedure 110 115	SPECT
+T10	Disease 137 154	iam pared aterior
+T11	Disease 157 183	isquemia residual moderada
+T12	Laboratory_or_Test_Result 157 183	isquemia residual moderada
+T13	Laboratory_or_Test_Result 137 154	iam pared aterior
+R1	Has Arg1:T9 Arg2:T12	
+R2	Has Arg1:T9 Arg2:T13	
+T14	Diagnostic_Procedure 185 200	coronariografia
+T15	Laboratory_or_Test_Result 217 235	ADA lesion proxima
+T16	Laboratory_or_Test_Result 243 253	ACx lesion
+R3	Has Arg1:T14 Arg2:T15	
+R4	Has Arg1:T14 Arg2:T16	

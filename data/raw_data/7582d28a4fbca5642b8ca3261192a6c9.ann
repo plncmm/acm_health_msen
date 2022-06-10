@@ -1,0 +1,21 @@
+T1	Disease 2 40	INFERTILIDAD FEMENINA, NO ESPECIFICADA
+T2	Abbreviation 64 67	APS
+T6	Clinical_Finding 69 71	G0
+T7	Clinical_Finding 71 73	P0
+T8	Clinical_Finding 73 75	A0
+T9	Abbreviation 91 94	TTO
+T11	Body_Part 122 129	OVARIOS
+T13	Abbreviation 144 147	ECO
+T14	Body_Part 159 174	ANEXO IZQUIERDO
+T16	Abbreviation 199 204	APROX
+T17	Clinical_Finding 231 239	EMBARAZO
+T18	Abbreviation 245 248	MAC
+T3	Abbreviation 69 70;71 72;73 74	G P A
+T4	Disease 122 143	OVARIOS CON 2 QUISTES
+T5	Abbreviation 120 121	X
+T12	Laboratory_or_Test_Result 179 195	IMAGEN ECOGENICA
+T10	Medication 111 119	DIXIE 35
+T20	Diagnostic_Procedure 144 149	ECO18
+T15	Clinical_Finding 245 248	MAC
+A1	Negated T15
+R1	Has Arg1:T20 Arg2:T12	

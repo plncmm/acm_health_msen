@@ -1,0 +1,16 @@
+T1	Abbreviation 0 1	P
+T2	Body_Part 0 3	P 9
+T3	Abbreviation 8 11	TDA
+T4	Disease 8 11	TDA
+T5	Disease 29 37	LUXACION
+T6	Abbreviation 59 61	RX
+T7	Diagnostic_Procedure 59 61	RX
+T8	Abbreviation 74 77	OBS
+T9	Laboratory_or_Test_Result 87 111	FRACTURA EN EL 13 APICAL
+T10	Abbreviation 115 118	P.D
+T11	Laboratory_or_Test_Result 120 134	ENDO RIZOLISIS
+R1	Has Arg1:T7 Arg2:T9	
+R2	Has Arg1:T7 Arg2:T11	
+T12	Laboratory_or_Test_Result 139 152	CIERRE APICAL
+A1	Negated T12
+R3	Has Arg1:T7 Arg2:T12	

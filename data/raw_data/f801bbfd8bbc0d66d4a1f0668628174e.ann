@@ -1,0 +1,10 @@
+T1	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T2	Disease 129 164	Anomalias de la posicion del diente
+T3	Abbreviation 61 64	APS
+#1	AnnotatorNotes T3	atención primaria de salud
+T4	Body_Part 31 37	DIENTE
+T5	Body_Part 85 92	4.8-3.8
+T6	Body_Part 158 164	diente
+T7	Therapeutic_Procedure 75 84	exodoncia
+A1	Pending T7
+T8	Laboratory_or_Test_Result 85 128	4.8-3.8semi-incluidaposicion vertical - I A

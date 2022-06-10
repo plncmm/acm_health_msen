@@ -1,0 +1,10 @@
+T1	Abbreviation 16 19	PZA
+T2	Body_Part 16 23	PZA. 13
+T3	Abbreviation 68 71	PZA
+T4	Body_Part 68 75	PZA. 14
+T5	Therapeutic_Procedure 28 38	ENDODONCIA
+T6	Disease 0 15	RESTO RADICULAR
+T7	Sign_or_Symptom 41 65	CARIES RADICULAR EXTENSA
+T8	Disease 41 47	CARIES
+T9	Disease 76 91	RESTO RADICULAR
+T10	Therapeutic_Procedure 96 106	ENDODONCIA

@@ -1,0 +1,7 @@
+T1	Disease 0 35	Periodontitis marginal generalizada
+T2	Clinical_Finding 37 86	Cardiópata valvular operada ( anomalía congénita)
+T3	Abbreviation 88 92	TACO
+T4	Medication 88 92	TACO
+T5	Therapeutic_Procedure 102 112	profilaxis
+A1	Pending T5
+T6	Abbreviation 113 116	E.B

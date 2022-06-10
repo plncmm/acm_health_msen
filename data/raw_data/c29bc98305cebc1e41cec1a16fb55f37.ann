@@ -1,0 +1,26 @@
+T1	Disease 2 39	TUMOR BENIGNO DE LA GLÁNDULA PARÓTIDA
+T2	Disease 111 122	ca tiroides
+T3	Sign_or_Symptom 166 213	aumento de volumen en parotida derecha doloroso
+T4	Sign_or_Symptom 324 329	dolor
+T5	Disease 385 422	Tumor benigno de la glandula parotida
+T6	Abbreviation 63 66	APS
+#1	AnnotatorNotes T6	atención primaria de la salud
+T7	Abbreviation 111 113	ca
+#2	AnnotatorNotes T7	cáncer
+T8	Abbreviation 127 130	tto
+#3	AnnotatorNotes T8	tratamiento
+T9	Abbreviation 291 294	atb
+#4	AnnotatorNotes T9	antibióticos 
+T10	Abbreviation 341 344	tto
+#5	AnnotatorNotes T10	tratamiento
+T11	Abbreviation 283 288	aines
+#6	AnnotatorNotes T11	antiinflamatorios no esteroideos
+T12	Body_Part 22 39	GLÁNDULA PARÓTIDA
+T13	Body_Part 114 122	tiroides
+T14	Medication 135 142	eutirox
+T15	Body_Part 188 204	parotida derecha
+T16	Medication 283 288	aines
+T17	Medication 291 301	atb orales
+T18	Body_Part 405 422	glandula parotida
+T19	Therapeutic_Procedure 86 106	irradiacion con yodo
+T20	Abbreviation 77 82	antec

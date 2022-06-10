@@ -1,0 +1,9 @@
+T1	Disease 62 83	hipertension arterial
+T2	Abbreviation 140 142	mg
+T3	Abbreviation 143 146	min
+T4	Disease 0 12	QUISTE RENAL
+T5	Disease 14 18	Q611
+T6	Disease 20 32	QUISTE RENAL
+T7	Laboratory_Procedure 84 94	Creatinina
+T8	Laboratory_or_Test_Result 98 113	Microalbuinuria
+T9	Laboratory_Procedure 118 135	Velocidad fitrado

@@ -1,0 +1,15 @@
+T1	Abbreviation 97 100	APS
+T2	Abbreviation 242 246	EESS
+T3	Body_Part 242 246	EESS
+T4	Abbreviation 258 261	izq
+T5	Disease 2 16	HIPOTIROIDISMO
+T6	Disease 20 46	DEMENCIA , NO ESPECIFICADA
+T7	Disease 50 73	ENFERMEDAD DE PARKINSON
+T8	Sign_or_Symptom 102 118	Cambios de ánimo
+T9	Sign_or_Symptom 121 145	cada vez más dependiente
+T10	Sign_or_Symptom 211 228	temblor en reposo
+T12	Sign_or_Symptom 264 285	inexpresividad facial
+T13	Disease 287 310	Enfermedad de Parkinson
+T11	Sign_or_Symptom 231 261	rigidez de EESS. (dª mayor izq
+T14	Sign_or_Symptom 147 174	dificultad para movilizarse
+T15	Abbreviation 249 251	dª

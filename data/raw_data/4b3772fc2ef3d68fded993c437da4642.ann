@@ -1,0 +1,10 @@
+T1	Abbreviation 91 94	APS
+T2	Medication 207 217	neosintron
+T3	Abbreviation 245 248	tto
+T4	Medication 253 261	losartan
+T5	Disease 2 32	FIBRILACIÓN Y ALETEO AURICULAR
+T6	Clinical_Finding 49 67	MARCAPASO CARDIACO
+T7	Clinical_Finding 135 144	marcapaso
+T8	Disease 166 187	fibrilacion auricular
+T9	Disease 220 241	hipertension arterial
+T10	Disease 446 476	Fibrilacion y aleteo auricular

@@ -1,0 +1,30 @@
+T1	Body_Part 29 35	CADERA
+T2	Abbreviation 76 79	APS
+T3	Abbreviation 104 107	RNT
+T4	Abbreviation 111 114	sem
+T5	Abbreviation 116 119	PTV
+T6	Abbreviation 160 165	antec
+T7	Abbreviation 181 184	DDC
+T8	Abbreviation 188 190	rx
+T9	Body_Part 191 197	pelvis
+T10	Family_Member 221 226	madre
+T11	Abbreviation 254 255	m
+T12	Family_Member 91 96	madre
+T13	Abbreviation 96 101	antec
+T14	Abbreviation 186 187	-
+T15	Body_Part 301 318	cejas cotiloideas
+T16	Body_Part 333 355	fosetas de impactacion
+T17	Body_Part 433 448	arco de Shenton
+T18	Disease 2 52	DEFORMIDAD CONGÉNITA DE LA CADERA, NO ESPECIFICADA
+T19	Clinical_Finding 104 107	RNT
+T20	Clinical_Finding 116 119	PTV
+T21	Diagnostic_Procedure 188 197	rx pelvis
+T22	Laboratory_or_Test_Result 258 299	angulo acetabular Dº 32 º  izquierdo 28 º
+T23	Laboratory_or_Test_Result 301 377	cejas cotiloideas bien formadas fosetas de impactacion impresionan centradas
+T24	Laboratory_or_Test_Result 380 420	nucleos osificacion femoral aun ausentes
+T25	Disease 181 184	DDC
+T26	Laboratory_or_Test_Result 433 467	arco de Shenton Dº algo asimetrico
+A1	Implicit_Family_Background T25
+R1	Has Arg1:T21 Arg2:T22	
+R2	Has Arg1:T21 Arg2:T24	
+R3	Has Arg1:T21 Arg2:T26	

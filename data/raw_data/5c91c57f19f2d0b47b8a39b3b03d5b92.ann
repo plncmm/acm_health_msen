@@ -1,0 +1,17 @@
+T1	Abbreviation 76 79	APS
+T2	Abbreviation 81 85	pcte
+T3	Abbreviation 95 98	hta
+T4	Abbreviation 100 105	dmnir
+T5	Abbreviation 107 112	hipot
+T6	Abbreviation 129 132	crm
+T7	Abbreviation 160 162	ac
+T8	Abbreviation 163 164	x
+T9	Abbreviation 165 167	fa
+T10	Disease 2 33	HIPERTENSIÓN ESENCIAL (PRIMARIA
+T11	Disease 38 52	CARDIOMIOPATÍA
+T12	Disease 95 98	hta
+T13	Disease 100 102	dm
+T14	Disease 107 112	hipot
+T15	Disease 114 124	cardiopata
+T16	Therapeutic_Procedure 141 157	bypass coronario
+T17	Medication 160 162	ac

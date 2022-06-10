@@ -1,0 +1,6 @@
+T1	Sign_or_Symptom 0 14	Clase II molar
+T2	Clinical_Finding 20 31	meso facial
+T3	Sign_or_Symptom 32 77	apiñamiento moderado superior y leve inferior
+T5	Sign_or_Symptom 121 138	averget aumentado
+T4	Clinical_Finding 78 99	clase I molar derecho
+T6	Sign_or_Symptom 102 120	II molar izquierdo

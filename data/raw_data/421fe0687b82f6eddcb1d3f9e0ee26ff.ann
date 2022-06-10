@@ -1,0 +1,5 @@
+T1	Clinical_Finding 38 69	antecedentes medicos relevantes
+A1	Negated T1
+T2	Disease 72 118	desdentado parcial maxilar superior e inferior
+T3	Therapeutic_Procedure 132 146	rehabilitacion
+A2	Pending T3

@@ -1,0 +1,8 @@
+T1	Disease 2 23	PERIODONTITIS CRÓNICA
+T2	Abbreviation 47 50	APS
+T3	Disease 52 73	periodontitis cronica
+T4	Body_Part 98 105	dientes
+T5	Body_Part 107 117	diente 1.1
+T6	Sign_or_Symptom 118 135	movilidad grado 3
+T7	Disease 136 157	Periodontitis cronica
+T8	Sign_or_Symptom 75 105	movilidad en todos los dientes

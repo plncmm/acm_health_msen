@@ -1,0 +1,14 @@
+T1	Disease 2 17	MORDIDA ABIERTA
+T2	Disease 21 69	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T3	Abbreviation 93 96	APS
+T4	Disease 147 161	CRISIS DE ASMA
+T5	Clinical_Finding 119 134	ANTECED MEDICOS
+A1	Negated T5
+T6	Abbreviation 119 126	ANTECED
+T7	Sign_or_Symptom 184 208	MORDIDA ABIERTA ANTERIOR
+T8	Sign_or_Symptom 211 242	PROTRUSION MANDIBULAR CLASE III
+T9	Abbreviation 244 248	PZAS
+T10	Body_Part 244 253	PZAS 6-11
+T11	Laboratory_or_Test_Result 244 263	PZAS 6-11 RETENIDAS
+T12	Disease 317 367	Anomalias de la relacion entre los arcos dentarios
+T13	Body_Part 352 367	arcos dentarios

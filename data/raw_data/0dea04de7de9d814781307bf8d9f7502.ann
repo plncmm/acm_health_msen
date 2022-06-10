@@ -1,0 +1,15 @@
+T1	Medication 108 118	metformina
+T2	Abbreviation 143 146	HTA
+T3	Abbreviation 148 151	DLP
+T4	Abbreviation 357 362	HbA1c
+T5	Disease 2 32	DIABETES MELLITUS ESPECIFICADA
+T6	Sign_or_Symptom 38 63	COMPLICACIONES OFTÁLMICAS
+T7	Disease 143 146	HTA
+T8	Disease 148 151	DLP
+T9	Disease 154 158	ASMA
+T10	Sign_or_Symptom 198 231	visualiza destellos y culebrillas
+T11	Diagnostic_Procedure 325 337	fondo de ojo
+T12	Laboratory_or_Test_Result 349 355	normal
+R1	Has Arg1:T11 Arg2:T12	
+T13	Laboratory_Procedure 357 362	HbA1c
+T15	Body_Part 334 337	ojo

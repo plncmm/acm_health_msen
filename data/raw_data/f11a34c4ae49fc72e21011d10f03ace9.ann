@@ -1,0 +1,6 @@
+T1	Therapeutic_Procedure 33 50	expansor palatino
+A1	Pending T1
+T2	Abbreviation 83 85	pd
+T3	Body_Part 100 108	3.2- 4.2
+T4	Body_Part 83 94	pd 1.2- 2.2
+T5	Laboratory_or_Test_Result 70 108	retención de pd 1.2- 2.2 y de 3.2- 4.2

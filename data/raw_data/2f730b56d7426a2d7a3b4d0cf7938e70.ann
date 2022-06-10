@@ -1,0 +1,7 @@
+T1	Body_Part 21 26	RECTO
+T2	Abbreviation 76 79	OBS
+T3	Body_Part 98 111	ANO  Y OSTOMA
+T4	Therapeutic_Procedure 0 7	OPERADO
+T5	Disease 11 26	CÁNCER DE RECTO
+T6	Diagnostic_Procedure 32 53	CONTROL COLONOSCOPICO
+T7	Disease 81 111	COLONOSCOPIA POR ANO  Y OSTOMA

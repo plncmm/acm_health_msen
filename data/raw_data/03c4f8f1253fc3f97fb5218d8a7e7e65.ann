@@ -1,0 +1,11 @@
+T1	Body_Part 20 38	MEMBRANA TIMPÁNICA
+T2	Abbreviation 126 129	APS
+T3	Body_Part 155 159	oido
+T4	Abbreviation 175 178	VIF
+T5	Body_Part 340 358	membrana timpanica
+T6	Abbreviation 185 188	+/-
+T7	Disease 2 63	PERFORACIÓN DE LA MEMBRANA TIMPÁNICA, SIN OTRA ESPECIFICACIÓN
+T8	Disease 63 102	Perforacion Timpanica antigua izquierda
+T9	Clinical_Finding 146 159	golpe en oido
+T10	Disease 214 245	perforacion timpánica izquierda
+T11	Disease 322 383	Perforacion de la membrana timpanica, sin otra especificacion

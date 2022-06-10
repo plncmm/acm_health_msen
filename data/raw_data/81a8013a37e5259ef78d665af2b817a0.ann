@@ -1,0 +1,9 @@
+T1	Disease 2 19	DIENTES INCLUIDOS
+T2	Body_Part 2 9	DIENTES
+T3	Abbreviation 43 46	APS
+T4	Body_Part 48 68	Pieza 1.8, 2.8 y 3.8
+T5	Laboratory_or_Test_Result 48 83	Pieza 1.8, 2.8 y 3.8 semi.incluidas
+T6	Body_Part 85 94	pieza 3.4
+T7	Laboratory_or_Test_Result 85 105	pieza 3.4 fracturada
+T8	Disease 109 126	Dientes incluidos
+T9	Body_Part 109 116	Dientes

@@ -1,0 +1,14 @@
+T1	Abbreviation 95 97	DA
+T2	Abbreviation 131 134	TTO
+T3	Medication 149 164	ESPIRONOLACTONA
+T4	Medication 167 177	FUROSEMIDA
+T6	Abbreviation 145 147	BB
+T5	Abbreviation 139 143	ARA2
+T7	Medication 139 143	ARA2
+T8	Medication 145 147	BB
+T9	Disease 0 4	I500
+T10	Disease 5 38	INSUFICIENCIA CARDIACA CONGESTIVA
+T11	Sign_or_Symptom 64 70	ANGINA
+T12	Therapeutic_Procedure 84 89	STENT
+T13	Medication 108 126	DOBLE ANTIAGREGADO
+T14	Body_Part 95 97	DA

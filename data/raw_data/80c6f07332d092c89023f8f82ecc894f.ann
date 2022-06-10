@@ -1,0 +1,8 @@
+T1	Abbreviation 40 43	APS
+T2	Abbreviation 54 57	RNT
+T3	Body_Part 86 102	cordon umbilical
+T4	Disease 2 16	HIPOTIROIDISMO
+T5	Clinical_Finding 54 57	RNT
+T6	Sign_or_Symptom 77 102	caida de cordon umbilical
+T7	Disease 143 157	Hipotiroidismo
+A1	Negated T6

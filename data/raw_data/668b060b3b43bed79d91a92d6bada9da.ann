@@ -1,0 +1,14 @@
+T3	Body_Part 88 100	seno maxilar
+T5	Body_Part 142 148	raíces
+T1	Body_Part 0 7	PD: 1.8
+T4	Body_Part 101 108	PD: 2.8
+T2	Body_Part 35 41	raíces
+T6	Abbreviation 0 2	PD
+T7	Abbreviation 101 103	PD
+T9	Sign_or_Symptom 20 33	disto versión
+T10	Laboratory_or_Test_Result 35 100	raíces cónicas con ven gentes y sobre proyectadas en seno maxilar
+T8	Disease 0 16	PD: 1.8 incluida
+T11	Sign_or_Symptom 101 125	PD: 2.8 Semi erupcionada
+T12	Sign_or_Symptom 126 139	disto versión
+T13	Laboratory_or_Test_Result 142 199	raíces convergentes con dilaceración marcada hacia distal
+T14	Laboratory_or_Test_Result 0 16	PD: 1.8 incluida

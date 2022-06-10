@@ -1,0 +1,9 @@
+T1	Abbreviation 14 19	ANTEC
+T2	Abbreviation 23 26	HTA
+T3	Medication 57 68	GALANTAMINA
+T4	Abbreviation 72 74	MG
+T5	Disease 23 26	HTA
+T6	Disease 29 37	DEMENCIA
+T7	Sign_or_Symptom 164 202	SINTOMAS DE DECOMPENSACION DE ALHEIMER
+#1	AnnotatorNotes T7	whatt????????????
+T8	Disease 194 202	ALHEIMER

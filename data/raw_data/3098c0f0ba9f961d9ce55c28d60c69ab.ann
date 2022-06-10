@@ -1,0 +1,7 @@
+T1	Abbreviation 43 46	ECO
+T2	Clinical_Finding 0 10	PRIMIGESTA
+T3	Clinical_Finding 11 19	EMBARAZO
+T4	Diagnostic_Procedure 43 46	ECO
+T5	Disease 66 74	DIABETES
+T6	Disease 75 80	MIOMA
+T7	Clinical_Finding 88 104	ESTATURA DELGADA

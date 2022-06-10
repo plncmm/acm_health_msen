@@ -1,0 +1,10 @@
+T1	Body_Part 18 23	COLON
+T2	Abbreviation 89 92	FII
+T3	Body_Part 89 92	FII
+T4	Body_Part 95 101	FLANCO
+T5	Disease 0 4	K589
+T6	Disease 5 33	SINDROME DEL COLON IRRITABLE
+T7	Disease 38 45	DIARREA
+A1	Negated T7
+T8	Sign_or_Symptom 53 66	ESTREÑIMIENTO
+T9	Sign_or_Symptom 69 74	DOLOR

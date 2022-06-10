@@ -1,0 +1,13 @@
+T1	Abbreviation 49 51	DR
+T2	Abbreviation 71 74	ECO
+T3	Abbreviation 75 77	TV
+T4	Abbreviation 135 139	GINE
+T5	Abbreviation 130 134	POLI
+T6	Abbreviation 0 1	M
+T7	Abbreviation 3 7	PTVE
+T8	Clinical_Finding 0 2	M3
+T9	Clinical_Finding 3 7	PTVE
+T10	Laboratory_or_Test_Result 25 36	ACTINOMYCES
+T11	Diagnostic_Procedure 71 77	ECO TV
+T12	Laboratory_or_Test_Result 93 117	QUISTE OVARICO IZQUIERDO
+T13	Disease 93 117	QUISTE OVARICO IZQUIERDO

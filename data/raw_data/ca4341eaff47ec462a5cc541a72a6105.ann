@@ -1,0 +1,10 @@
+T1	Body_Part 21 30	ADENOIDES
+T2	Abbreviation 54 57	APS
+T3	Abbreviation 121 124	ORL
+T4	Abbreviation 166 169	ORL
+T5	Body_Part 440 449	adenoides
+T6	Disease 2 30	HIPERTROFIA DE LAS ADENOIDES
+T7	Disease 88 109	hipertrofia adenoidea
+T8	Disease 221 253	cuadros respiratoris recurrentes
+T9	Therapeutic_Procedure 307 327	resolucion quirurgia
+T10	Disease 421 449	Hipertrofia de las adenoides

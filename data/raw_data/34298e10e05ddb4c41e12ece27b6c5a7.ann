@@ -1,0 +1,9 @@
+T1	Abbreviation 17 19	vs
+T2	Abbreviation 52 54	sd
+T3	Sign_or_Symptom 0 16	crisispsicogenas
+T4	Disease 29 38	epilepsia
+T5	Disease 52 64	sd depresivo
+T6	Clinical_Finding 65 107	abuso en la infancia por parte de familiar
+T7	Sign_or_Symptom 118 124	apatia
+T8	Sign_or_Symptom 125 135	desinteres
+T9	Sign_or_Symptom 136 144	anorexia

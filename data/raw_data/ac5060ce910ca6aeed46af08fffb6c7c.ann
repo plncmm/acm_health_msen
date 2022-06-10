@@ -1,0 +1,7 @@
+T1	Disease 2 14	COLELITIASIS
+T2	Abbreviation 64 68	sept
+#1	AnnotatorNotes T2	septiembre
+T3	Body_Part 75 83	vesicula
+T4	Diagnostic_Procedure 38 47	ecografia
+T5	Laboratory_or_Test_Result 75 170	vesicula adecuadamente distendida, con multiples calculos endoluminales, de contornos regulares
+R1	Has Arg1:T4 Arg2:T5	

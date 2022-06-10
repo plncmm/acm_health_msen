@@ -1,0 +1,19 @@
+T1	Disease 2 18	ANGINA INESTABLE
+T2	Sign_or_Symptom 99 145	PRECORDALGIA A LOS ESFUERZOS LEVES A MODERADOS
+T3	Sign_or_Symptom 147 171	CLAUDIACION EN LA MARCHA
+T4	Sign_or_Symptom 176 188	PRECORDALGIA
+T5	Abbreviation 42 45	APS
+#1	AnnotatorNotes T5	atención primaria de la salud
+T6	Abbreviation 205 208	TTO
+#2	AnnotatorNotes T6	tratamiento
+T7	Abbreviation 227 230	MGS
+#3	AnnotatorNotes T7	miligramos
+T8	Abbreviation 252 255	MGS
+#4	AnnotatorNotes T8	miligramos 
+T9	Abbreviation 245 248	ATV
+#5	AnnotatorNotes T9	atazanavir
+T10	Abbreviation 265 268	ASA
+#6	AnnotatorNotes T10	ácido acetil salicílico
+T11	Medication 213 223	ISOSORBIDE
+T12	Medication 245 248	ATV
+T13	Medication 265 268	ASA

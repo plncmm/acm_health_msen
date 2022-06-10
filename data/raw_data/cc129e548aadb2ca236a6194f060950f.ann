@@ -1,0 +1,39 @@
+T1	Body_Part 23 32	Diente 17
+T2	Abbreviation 410 413	min
+T4	Medication 427 438	AMoxicilina
+T3	Medication 448 458	Ibuprofeno
+T5	Abbreviation 462 464	mg
+T6	Medication 475 485	Ketorolaco
+T7	Abbreviation 488 490	mg
+T8	Abbreviation 498 501	SOS
+T9	Body_Part 2 9	DIENTES
+T10	Body_Part 133 139	corona
+T11	Abbreviation 440 441	c
+T12	Abbreviation 442 443	h
+T13	Abbreviation 443 444	x
+T14	Abbreviation 445 446	d
+T15	Abbreviation 466 467	c
+T16	Abbreviation 468 469	h
+T17	Abbreviation 469 470	x
+T18	Abbreviation 471 472	d
+T19	Abbreviation 492 494	c/
+T20	Abbreviation 496 497	h
+T21	Disease 0 19	- DIENTES INCLUIDOS
+T22	Sign_or_Symptom 23 63	Diente 17 con gran destrucción coronaria
+T23	Disease 68 74	caries
+T24	Sign_or_Symptom 79 91	mesioversión
+T25	Sign_or_Symptom 93 105	semiincluído
+T26	Sign_or_Symptom 107 118	anquilosado
+T27	Therapeutic_Procedure 149 174	odontosección transversal
+T28	Sign_or_Symptom 245 325	Hemorragia intraoperatoria por Distal, al parecer a través de periostio, en napa
+T29	Therapeutic_Procedure 125 139	elimina corona
+T30	Sign_or_Symptom 233 242	movilizar
+A1	Negated T30
+T31	Therapeutic_Procedure 343 353	compresión
+T32	Therapeutic_Procedure 365 378	aplica gelita
+T33	Sign_or_Symptom 580 585	dolor
+T34	Sign_or_Symptom 587 598	inflamación
+T35	Sign_or_Symptom 600 608	hematoma
+T37	Laboratory_Procedure 672 695	exámenes preoperatorios
+T38	Body_Part 307 316	periostio
+A2	Pending T37

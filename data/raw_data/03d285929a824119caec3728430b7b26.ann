@@ -1,0 +1,5 @@
+T1	Body_Part 14 30	GLÁNDULA SALIVAL
+T2	Body_Part 77 108	cara interna del labio inferior
+T3	Disease 2 30	MUCOCELE DE GLÁNDULA SALIVAL
+T4	Sign_or_Symptom 52 108	aumento de volumen en la cara interna del labio inferior
+T5	Disease 124 132	mucocele

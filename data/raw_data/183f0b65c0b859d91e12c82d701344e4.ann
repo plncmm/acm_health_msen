@@ -1,0 +1,19 @@
+T1	Body_Part 19 25	LENGUA
+T2	Abbreviation 102 105	APS
+T3	Body_Part 151 172	lengua dorso anterior
+T4	Body_Part 239 245	lengua
+T5	Body_Part 383 390	dientes
+T6	Body_Part 549 555	lengua
+T7	Disease 2 42	ENFERMEDAD DE LA LENGUA, NO ESPECIFICADA
+T8	Disease 46 78	OTRAS ENFERMEDADES PERIODONTALES
+T9	Disease 107 115	BRUXISMO
+T10	Sign_or_Symptom 134 172	hemangioma en la lengua dorso anterior
+T11	Therapeutic_Procedure 181 188	extirpo
+T12	Clinical_Finding 211 312	cambios anatomicos donde la lengua se ha inclinado hacia la izquierda mordiendola de forma recurrente
+T13	Sign_or_Symptom 362 376	dolor muscular
+T14	Sign_or_Symptom 383 400	dientes apretados
+T15	Disease 429 437	bruxismo
+T16	Therapeutic_Procedure 482 501	plano de relajación
+A1	Pending T16
+T17	Disease 532 572	Enfermedad de la lengua, no especificada
+T18	Body_Part 524 530	lengua

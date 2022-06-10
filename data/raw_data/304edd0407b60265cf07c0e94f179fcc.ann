@@ -1,0 +1,37 @@
+T1	Body_Part 33 39	CADERA
+T2	Abbreviation 63 66	APS
+T3	Abbreviation 82 85	RNT
+T4	Abbreviation 88 91	sem
+T5	Abbreviation 92 95	AEG
+T6	Abbreviation 97 100	PTV
+T7	Abbreviation 102 107	Antec
+T8	Abbreviation 122 125	DDC
+T9	Abbreviation 131 133	rx
+T10	Body_Part 134 140	pelvis
+T11	Abbreviation 182 185	izq
+T12	Abbreviation 244 247	izq
+T13	Body_Part 188 205	cejas cotiloideas
+T14	Body_Part 318 335	cabezas femorales
+T15	Body_Part 361 374	Arcos SHenton
+T16	Body_Part 430 437	caderas
+T17	Body_Part 251 273	Fosetas de impactación
+T18	Disease 2 39	DEFORMACIÓNES CONGÉNITAS DE LA CADERA
+T19	Clinical_Finding 82 85	RNT
+T20	Clinical_Finding 92 95	AEG
+T21	Therapeutic_Procedure 97 100	PTV
+T22	Diagnostic_Procedure 131 140	rx pelvis
+T23	Laboratory_or_Test_Result 144 185	Angulos acetabulares 30º derecha, 31º izq
+T24	Laboratory_or_Test_Result 188 247	cejas cotiloideas con escaso desarrollo,especialmente a izq
+T25	Laboratory_or_Test_Result 251 295	Fosetas de impactación impresionan centradas
+T26	Laboratory_or_Test_Result 298 358	Nucleos osificación cabezas femorales:  esbozados, centrados
+T27	Laboratory_or_Test_Result 361 397	Arcos SHenton impresionan simetricos
+T28	Laboratory_or_Test_Result 430 455	caderas límites bilateral
+R1	Has Arg1:T22 Arg2:T23	
+R2	Has Arg1:T22 Arg2:T24	
+R3	Has Arg1:T22 Arg2:T25	
+R4	Has Arg1:T22 Arg2:T26	
+R5	Has Arg1:T22 Arg2:T27	
+R6	Has Arg1:T22 Arg2:T28	
+T29	Disease 122 125	DDC
+A1	Negated T29
+A2	Implicit_Family_Background T29

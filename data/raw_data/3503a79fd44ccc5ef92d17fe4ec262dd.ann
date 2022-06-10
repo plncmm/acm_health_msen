@@ -1,0 +1,20 @@
+T1	Body_Part 21 30	AMÍGDALAS
+T2	Abbreviation 54 57	APS
+T3	Abbreviation 83 86	ant
+T4	Body_Part 338 347	amigdalas
+T5	Abbreviation 411 413	rx
+T6	Body_Part 414 428	cavum faringeo
+T7	Body_Part 538 547	amigdalas
+T8	Disease 2 30	HIPERTROFIA DE LAS AMÍGDALAS
+T9	Disease 519 547	Hipertrofia de las amigdalas
+T10	Sign_or_Symptom 131 176	cuadro a repeticion de amigdaltiis purulentas
+T11	Disease 154 176	amigdaltiis purulentas
+T12	Disease 247 269	trastorno del lenguaje
+T13	Sign_or_Symptom 274 308	dificultad para pronunciacion de R
+T14	Sign_or_Symptom 338 361	amigdalas grado III. IV
+T15	Sign_or_Symptom 388 409	episodios de cianosis
+A1	Negated T15
+T16	Diagnostic_Procedure 411 428	rx cavum faringeo
+T17	Laboratory_or_Test_Result 495 516	hipertrofia adenoidea
+A2	Negated T17
+R1	Has Arg1:T16 Arg2:T17	

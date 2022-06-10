@@ -1,0 +1,13 @@
+T1	Body_Part 81 99	apice pieza. # 2.4
+T2	Body_Part 105 121	revorde alveolar
+T3	Body_Part 236 241	pecho
+T4	Body_Part 268 280	pieza. # 1.4
+T5	Abbreviation 41 44	APS
+T6	Sign_or_Symptom 2 17	RESTO RADICULAR
+T7	Sign_or_Symptom 72 99	Resto de apice pieza. # 2.4
+T8	Sign_or_Symptom 105 134	revorde alveolar y supuración
+A1	Negated T8
+T9	Disease 208 215	infarto
+T10	Disease 226 241	angina de pecho
+T11	Therapeutic_Procedure 248 280	exodoncia previa de pieza. # 1.4
+T12	Sign_or_Symptom 289 329	cuadro hemorragico e inflamatorio severo

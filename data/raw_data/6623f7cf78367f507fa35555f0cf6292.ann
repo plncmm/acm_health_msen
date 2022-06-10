@@ -1,0 +1,17 @@
+T1	Body_Part 15 29	TÚNEL CARPIANO
+T3	Body_Part 293 298	manos
+T4	Abbreviation 352 354	Ex
+T5	Body_Part 47 61	DISCO CERVICAL
+T2	Abbreviation 226 229	Rxs
+T6	Abbreviation 371 372	+
+T7	Body_Part 110 124	ARTICULACIONES
+T8	Disease 2 29	SÍNDROME DEL TÚNEL CARPIANO
+T9	Disease 34 78	TRASTORNO DE DISCO CERVICAL, NO ESPECIFICADO
+T10	Disease 83 124	ARTROSIS PRIMARIA DE OTRAS ARTICULACIONES
+T11	Disease 159 210	Artrosis Glenohumeral y acromioclavicular bilateral
+T12	Diagnostic_Procedure 226 229	Rxs
+T13	Laboratory_or_Test_Result 159 210	Artrosis Glenohumeral y acromioclavicular bilateral
+R1	Has Arg1:T12 Arg2:T13	
+T14	Disease 232 249	artrosis cervical
+T15	Sign_or_Symptom 272 298	parestesias en ambas manos
+T16	Sign_or_Symptom 363 373	Phalen (+)

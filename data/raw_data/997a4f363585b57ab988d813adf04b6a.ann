@@ -1,0 +1,6 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Abbreviation 84 86	AD
+T3	Sign_or_Symptom 84 99	AD intermaxilar
+T4	Sign_or_Symptom 124 152	Compresion maxilar bilateral
+T5	Abbreviation 155 159	Dent
+T6	Clinical_Finding 155 170	Dent permanente

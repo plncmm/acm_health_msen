@@ -1,0 +1,26 @@
+T1	Abbreviation 79 82	APS
+T2	Abbreviation 125 128	dm2
+T3	Abbreviation 186 189	dm2
+T4	Family_Member 199 204	madre
+T5	Abbreviation 190 192	ir
+T6	Medication 290 298	insulina
+T7	Abbreviation 315 317	ui
+T8	Abbreviation 318 322	kilo
+T9	Abbreviation 347 348	+
+T10	Medication 349 356	janumet
+T11	Abbreviation 433 436	imc
+T12	Disease 2 19	DIABETES MELLITUS
+T13	Disease 43 55	DISLIPIDEMIA
+T14	Disease 125 128	dm2
+T15	Disease 186 189	dm2
+R1	Has Arg1:T4 Arg2:T15	
+T16	Laboratory_Procedure 400 418	control metabolico
+T17	Laboratory_or_Test_Result 381 388	mejoria
+A1	Negated T17
+R2	Has Arg1:T16 Arg2:T17	
+T18	Clinical_Finding 448 469	adehrencia a la dieta
+T21	Disease 582 599	Diabetes mellitus
+T19	Disease 239 275	complicaciones derivadas de diabetes
+R3	Has Arg1:T4 Arg2:T19	
+T22	Disease 513 542	diabetes de tipo inespecifico
+T20	Therapeutic_Procedure 562 579	control glicemico

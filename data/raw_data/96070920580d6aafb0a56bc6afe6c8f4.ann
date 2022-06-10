@@ -1,0 +1,10 @@
+T1	Disease 0 12	ERC ETAPA IV
+T2	Abbreviation 0 3	ERC
+T3	Abbreviation 14 17	HTA
+T4	Disease 14 17	HTA
+T6	Disease 33 53	DIABETES MELLITUS II
+T8	Disease 75 78	DLP
+T9	Abbreviation 75 78	DLP
+T10	Disease 80 88	OBESIDAD
+T11	Abbreviation 89 92	RCV
+T12	Clinical_Finding 89 101	RCV MUY ALTO

@@ -1,0 +1,12 @@
+T1	Abbreviation 38 41	APS
+T2	Abbreviation 43 47	PCTE
+T3	Abbreviation 61 64	ANT
+T4	Abbreviation 118 126	OTORRINO
+T5	Disease 2 14	PRESBIACUSIA
+T6	Clinical_Finding 61 74	ANT  MORBIDOS
+A1	Negated T6
+T7	Sign_or_Symptom 84 108	HIPOACUSIA DE LARGA DATA
+T8	Diagnostic_Procedure 150 161	AUDIOMETRIA
+T9	Therapeutic_Procedure 173 181	AUDIFONO
+A2	Pending T9
+T10	Disease 232 244	Presbiacusia

@@ -1,0 +1,15 @@
+T1	Body_Part 17 25	ESTÓMAGO
+T2	Body_Part 32 39	DUODENO
+T3	Abbreviation 140 143	APS
+T4	Body_Part 192 200	ESTOMAGO
+T5	Abbreviation 379 382	EDA
+T6	Body_Part 429 437	estomago
+T7	Body_Part 444 451	duodeno
+T8	Medication 315 345	INHIBIDOR DE BOMBA DE PROTONES
+T9	Disease 2 56	ENFERMEDAD DEL ESTÓMAGO Y DEL DUODENO, NO ESPECIFICADA
+T10	Disease 60 116	HISTORIA FAMILIAR DE TUMOR MALIGNO DE ÓRGANOS DIGESTIVOS
+T11	Disease 182 200	CANCER DE ESTOMAGO
+T12	Sign_or_Symptom 210 223	EPIGASTRALGIA
+T13	Diagnostic_Procedure 379 382	EDA
+T14	Disease 414 468	Enfermedad del estomago y del duodeno, no especificada
+A1	Implicit_Family_Background T11

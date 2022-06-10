@@ -1,0 +1,12 @@
+T1	Body_Part 45 49	PIES
+T2	Abbreviation 73 76	APS
+T3	Abbreviation 117 120	+/-
+T4	Body_Part 176 180	PIES
+T5	Abbreviation 329 333	VRDL
+T6	Family_Member 348 354	PADRES
+T7	Abbreviation 334 335	+
+T8	Disease 2 49	OTRAS DEFORMIDADES VARUS CONGÉNITAS DE LOS PIES
+T9	Sign_or_Symptom 158 180	EQUINOVARO DE LOS PIES
+T12	Laboratory_Procedure 329 333	VRDL
+T13	Laboratory_or_Test_Result 334 335	+
+R1	Has Arg1:T12 Arg2:T13	

@@ -1,0 +1,5 @@
+T1	Therapeutic_Procedure 23 31	implante
+A1	Pending T1
+T2	Body_Part 32 45	pieza 1.2-2.1
+T3	Disease 50 64	estado de raiz
+T4	Sign_or_Symptom 123 156	afecta estetica y calidad de vida

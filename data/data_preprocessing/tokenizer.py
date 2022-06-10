@@ -14,7 +14,7 @@ TOKENIZATION_REGEXS = OrderedDict([
 ])
 
 
-def tokenize_with_spacy(text, entities, tokenizer, lower_tokens=False, no_accent_marks=False, referral_name=None):
+def tokenize_with_spacy(text, entities, tokenizer):
     """ 
     The given text is tokenized prioritizing not to lose entities that ends in the middle of a word.
     This because on many occasions words are stick together in a free text.
@@ -22,16 +22,16 @@ def tokenize_with_spacy(text, entities, tokenizer, lower_tokens=False, no_accent
     idx = 0
     no_tagged_tokens_positions = []
     tagged_tokens_positions = [(entity['start_idx'], entity['end_idx']) for entity in entities]
-    entity_tokens = spacy_tokens(text, tagged_tokens_positions, tokenizer, lower_tokens, no_accent_marks)  
+    entity_tokens = spacy_tokens(text, tagged_tokens_positions, tokenizer)  
     for tagged_token in tagged_tokens_positions:
         no_tagged_tokens_positions.append((idx, tagged_token[0])) # We add text before tagged token
         idx = tagged_token[1] 
     no_tagged_tokens_positions.append((idx, len(text)))           # We add text from last token tagged end possition to end of text.
-    no_entity_tokens = spacy_tokens(text, no_tagged_tokens_positions, tokenizer, lower_tokens, no_accent_marks)
+    no_entity_tokens = spacy_tokens(text, no_tagged_tokens_positions, tokenizer)
     tokens = sorted(entity_tokens+no_entity_tokens, key=lambda entity:entity["start_idx"])
     return [tokens]
 
-def spacy_tokens(text, pos_list, tokenizer, lower_tokens, no_accent_marks): 
+def spacy_tokens(text, pos_list, tokenizer): 
     """ 
     Given a list of pairs of start-end positions in the text, 
     the text within these positions is tokenized and returned in tokens array.
@@ -51,24 +51,8 @@ def spacy_tokens(text, pos_list, tokenizer, lower_tokens, no_accent_marks):
                     continue
                 if len(token_dict['text'].split(' ')) != 1:
                     token_dict['text'] = token_dict['text'].replace(' ', '-')
-                # TODO: Before adding token to token list, process irregular tokens with custom parsing.
-                if lower_tokens: token_dict['text'] = token_dict['text'].lower()
-                if no_accent_marks: token_dict = remove_accent_mark(token_dict)
                 tokens.append(token_dict)
-    
     return tokens
-
-
-def remove_accent_mark(token_dict):
-    try:
-        token_dict['text'] = token_dict['text'].replace('á','a')
-        token_dict['text'] = token_dict['text'].replace('é','e')
-        token_dict['text'] = token_dict['text'].replace('í','i')
-        token_dict['text'] = token_dict['text'].replace('ó','o')
-        token_dict['text'] = token_dict['text'].replace('ú','u')
-        return token_dict
-    except:
-        return token_dict
 
 def fix_tokens(path, output_path):
     tokenization_re = TOKENIZATION_REGEXS.get('default')

@@ -1,0 +1,17 @@
+T1	Abbreviation 0 4	Pcte
+T2	Abbreviation 20 22	HD
+T3	Abbreviation 24 27	IRC
+T4	Disease 24 27	IRC
+T5	Disease 38 46	diabetes
+T6	Disease 48 51	HTA
+T7	Abbreviation 48 51	HTA
+T8	Abbreviation 68 70	Dg
+T9	Sign_or_Symptom 72 83	Sepsis oral
+T10	Abbreviation 85 88	dte
+T11	Body_Part 85 96	dte 28 y 30
+T12	Abbreviation 97 103	period
+T13	Disease 97 114	period cronica av
+T14	Abbreviation 112 114	av
+T15	Abbreviation 119 122	ind
+T16	Therapeutic_Procedure 126 135	exodoncia
+A1	Pending T16

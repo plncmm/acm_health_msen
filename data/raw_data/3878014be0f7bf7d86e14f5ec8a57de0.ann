@@ -1,0 +1,55 @@
+T1	Abbreviation 93 96	hta
+T2	Abbreviation 100 103	tto
+T3	Abbreviation 167 170	tto
+T4	Abbreviation 390 392	ic
+T5	Body_Part 626 630	ojos
+T6	Abbreviation 677 680	hta
+T7	Abbreviation 684 687	tto
+T8	Abbreviation 751 754	tto
+T9	Abbreviation 974 976	ic
+T10	Body_Part 1219 1223	ojos
+T11	Abbreviation 1247 1249	ex
+T12	Body_Part 1269 1272	ojo
+T13	Body_Part 1279 1286	pupilas
+T14	Abbreviation 1344 1347	RFM
+T15	Disease 2 45	TRASTORNO DE LA REFRACCIÓN, NO ESPECIFICADO
+T16	Disease 93 96	hta
+T17	Disease 105 113	diabetes
+T18	Disease 135 147	dislipidemia
+T19	Disease 149 163	hipotiroidismo
+T20	Disease 172 206	enfermedad renal cronica etapa iii
+T21	Disease 207 225	tabaquismo cronico
+T22	Disease 307 316	Alzheimer
+T23	Disease 319 328	parkinson
+T24	Disease 414 426	astigmatismo
+T25	Disease 429 435	miopia
+T26	Clinical_Finding 443 449	lentes
+T28	Sign_or_Symptom 521 531	ve borroso
+T29	Clinical_Finding 543 557	lentes ópticos
+T30	Disease 595 616	retinopatia diabetica
+T31	Disease 677 680	hta
+T32	Disease 689 697	diabetes
+T33	Disease 719 731	dislipidemia
+T34	Disease 733 747	hipotiroidismo
+T35	Disease 756 790	enfermedad renal cronica etapa iii
+T36	Disease 791 809	tabaquismo cronico
+T37	Disease 891 900	Alzheimer
+T38	Disease 903 912	parkinson
+T39	Therapeutic_Procedure 564 571;595 616	operada retinopatia diabetica
+T40	Disease 998 1010	astigmatismo
+T41	Disease 1013 1019	miopia
+T42	Clinical_Finding 1027 1033	lentas
+T43	Disease 1045 1074	trastornos de viciorefraccion
+T27	Disease 461 490	trastornos de viciorefraccion
+T44	Sign_or_Symptom 1105 1115	ve borroso
+T45	Sign_or_Symptom 1127 1150	noche empeora la visión
+T47	Disease 1188 1209	retinopatia diabetica
+T48	Sign_or_Symptom 1231 1240	entopsias
+A1	Negated T48
+T49	Sign_or_Symptom 1269 1277	ojo rojo
+A2	Negated T49
+T50	Sign_or_Symptom 1279 1309	pupilas isocoricas y reactivas
+T51	Sign_or_Symptom 1322 1342	opacidades corneales
+A3	Negated T51
+T52	Sign_or_Symptom 1344 1356	RFM presente
+T53	Sign_or_Symptom 1358 1383	agudeza visual conservada

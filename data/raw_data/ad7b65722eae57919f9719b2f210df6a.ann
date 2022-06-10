@@ -1,0 +1,10 @@
+T1	Sign_or_Symptom 90 275	lesion petequiales  con una base eritematosa de localizacion : gluteo izquierdo muslo   izquierdo y gluteo derecho , de gran extension , y cuando se apreta le sangra , no es pruriginosa
+T2	Disease 2 39	LESIÓN DE SITIOS CONTIGUOS DE LA PIEL
+T3	Disease 344 381	Lesion de sitios contiguos de la piel
+T4	Abbreviation 63 66	APS
+#1	AnnotatorNotes T4	atención primaria de salud
+T5	Body_Part 35 39	PIEL
+T6	Body_Part 153 169	gluteo izquierdo
+T7	Body_Part 170 187	muslo   izquierdo
+T8	Body_Part 190 204	gluteo derecho
+T9	Body_Part 377 381	piel

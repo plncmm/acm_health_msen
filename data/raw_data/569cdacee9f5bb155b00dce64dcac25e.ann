@@ -1,0 +1,30 @@
+T1	Body_Part 164 169	AORTA
+T2	Abbreviation 193 196	APS
+T3	Abbreviation 238 241	dm2
+T4	Body_Part 384 388	mano
+T5	Body_Part 394 409	brazo izquierdo
+T6	Body_Part 466 482	dedos de la mano
+T7	Body_Part 559 565	hombro
+T8	Body_Part 573 586	zona cervical
+T9	Body_Part 680 685	dedos
+T10	Body_Part 703 707	mano
+T11	Body_Part 826 831	aorta
+T12	Body_Part 119 143	ARTERIAS DE LOS MIEMBROS
+T13	Disease 2 34	HIPERTENSIÓN ESENCIAL (PRIMARIA)
+T14	Disease 38 55	DIABETES MELLITUS
+T15	Disease 79 93	HIPOTIROIDISMO
+T16	Disease 97 143	ATEROSCLEROSIS DE LAS ARTERIAS DE LOS MIEMBROS
+T17	Disease 147 169	COARTACIÓN DE LA AORTA
+T18	Disease 238 241	dm2
+T19	Disease 295 316	retinoaptia diabetica
+T20	Sign_or_Symptom 372 409	dolor en la mano y el brazo izquierdo
+T21	Sign_or_Symptom 414 448	sensacion de frio en la extremidad
+T22	Sign_or_Symptom 451 482	palidez de los dedos de la mano
+T23	Sign_or_Symptom 617 660	pulso braquial, radial y cubital disminuido
+T24	Sign_or_Symptom 665 685	palidez de los dedos
+T25	Sign_or_Symptom 688 707	frialdad de la mano
+T26	Sign_or_Symptom 713 740	disminucion de la movilidad
+A1	Negated T26
+T27	Sign_or_Symptom 750 773	dolor a la movilizacion
+T28	Disease 809 831	Coartacion de la aorta
+T29	Sign_or_Symptom 489 586	dolor se ha ido incrementando en el ultimo tiempo y se ha extendido a hombro y a la zona cervical

@@ -1,0 +1,9 @@
+T1	Abbreviation 71 74	APS
+T2	Abbreviation 76 79	eco
+T3	Abbreviation 80 84	gine
+T4	Body_Part 104 136	cara posterior de ovario derecho
+T5	Disease 2 47	OTROS QUISTES OVÁRICOS Y LOS NO ESPECIFICADOS
+T6	Diagnostic_Procedure 76 84	eco gine
+T8	Disease 150 195	Otros quistes ovaricos y los no especificados
+T7	Laboratory_or_Test_Result 86 136	masa ecogenica en cara posterior de ovario derecho
+R1	Has Arg1:T6 Arg2:T7	

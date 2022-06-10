@@ -1,0 +1,13 @@
+T1	Body_Part 21 30	AMÍGDALAS
+T2	Body_Part 49 62	TABIQUE NASAL
+T3	Abbreviation 123 126	IRA
+T4	Body_Part 170 183	tabique nasal
+T5	Disease 2 30	HIPERTROFIA DE LAS AMÍGDALAS
+T6	Disease 34 62	DESVIACIÓN DEL TABIQUE NASAL
+T7	Disease 66 89	Hipertrofia amigdaliana
+T8	Disease 139 157	cefalea recurrente
+T9	Disease 159 183	desviacion tabique nasal
+T10	Disease 100 109	epistaxis
+T11	Disease 111 121	roncopatia
+T12	Disease 123 137	IRA recurrente
+T13	Sign_or_Symptom 66 98	Hipertrofia amigdaliana Grado iv

@@ -1,0 +1,42 @@
+T1	Body_Part 2 7	VENAS
+T2	Body_Part 25 44	MIEMBROS INFERIORES
+T3	Abbreviation 84 87	APS
+T4	Body_Part 140 163	extremidades inferiores
+T5	Body_Part 182 189	piernas
+T6	Body_Part 337 356	MIEMBROS INFERIORES
+T7	Body_Part 410 415	venas
+T8	Body_Part 497 524	tobillo derecho e izquierdo
+T9	Body_Part 568 573	venas
+T10	Body_Part 703 739	miembro inferior derecho e izquierdo
+T11	Body_Part 785 790	venas
+T12	Abbreviation 930 933	EII
+T13	Body_Part 930 933	EII
+T14	Body_Part 968 975	piernas
+T15	Body_Part 1022 1026	piel
+T16	Disease 2 60	VENAS VARICOSAS DE LOS MIEMBROS INFERIORES CON INFLAMACIÓN
+T17	Disease 129 136	varices
+T18	Sign_or_Symptom 129 163	varices en extremidades inferiores
+T19	Sign_or_Symptom 173 231	dolor de piernas, mayor al caminar, pero tambien en reposo
+T20	Sign_or_Symptom 243 250	pesadez
+T21	Sign_or_Symptom 252 261	calambres
+T22	Sign_or_Symptom 264 280	edemas ocasional
+T23	Diagnostic_Procedure 287 356	ECODOPLER DEL SISTEMA VENOSO SUPERFICIAL DE AMBOS MIEMBROS INFERIORES
+T24	Laboratory_or_Test_Result 370 524	Signos de insuficiencia valvular en las venas del sistema venoso superficial: safena interna a nivel de la bifurcacion y en el tobillo derecho e izquierdo
+R1	Has Arg1:T23 Arg2:T24	
+T25	Laboratory_or_Test_Result 528 739	Signos de insuficiencia valvular en las venas del sistema venoso profundo: femoral comun, femoral superficial proximal, medial y distal, tibiales posteriores y peroneas en el miembro inferior derecho e izquierdo
+R2	Has Arg1:T23 Arg2:T25	
+T26	Laboratory_or_Test_Result 742 893	Signos de trombosis venosa profunda en las venas: femoral superficial distal derecha33 e izquierda 38, tibiales posteriores derecha 31 e izquierda 32,6
+R3	Has Arg1:T23 Arg2:T26	
+T27	Sign_or_Symptom 913 996	Varices en ambas EII mayor en parte posterior de ambas piernas con inflamacion leve
+T28	Clinical_Finding 998 1026	Coloracion normal de la piel
+T29	Sign_or_Symptom 1032 1039	ulceras
+A1	Negated T29
+T30	Sign_or_Symptom 1043 1048	edema
+A2	Negated T30
+T31	Sign_or_Symptom 1050 1064	pulsos debiles
+T32	Body_Part 448 462	safena interna
+T33	Body_Part 603 616	femoral comun
+T34	Body_Part 618 663	femoral superficial proximal, medial y distal
+T35	Body_Part 665 696	tibiales posteriores y peroneas
+T36	Body_Part 792 826	femoral superficial distal derecha
+T37	Body_Part 845 873	tibiales posteriores derecha

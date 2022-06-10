@@ -1,0 +1,5 @@
+T1	Body_Part 0 9	PIEZA 3.8
+T2	Body_Part 44 65	ESPACIO PERICORONARIO
+T3	Sign_or_Symptom 0 25	PIEZA 3.8 SEMIERUPCIONADA
+T4	Laboratory_or_Test_Result 30 42	MESIOVERSION
+T6	Therapeutic_Procedure 99 108	EXODONCIA

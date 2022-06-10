@@ -1,0 +1,17 @@
+T1	Disease 2 67	SÍNDROMES VERTIGINOSOS EN ENFERMEDADES CLASIFICADAS EN OTRA PARTE
+T2	Disease 122 147	SD VERTIGINOSO PERIFERICO
+T3	Sign_or_Symptom 185 206	HIPOEXITABILIDAD VEST
+T4	Sign_or_Symptom 207 213	OD 8.3
+T5	Abbreviation 91 94	APS
+#1	AnnotatorNotes T5	atención primaria de salud
+T6	Abbreviation 122 124	SD
+#2	AnnotatorNotes T6	síndrome
+T7	Abbreviation 152 155	DRA
+#3	AnnotatorNotes T7	doctora
+T8	Abbreviation 202 206	VEST
+#4	AnnotatorNotes T8	vestibular
+T9	Abbreviation 207 209	OD
+#5	AnnotatorNotes T9	oido derecho
+T10	Body_Part 207 209	OD
+T11	Therapeutic_Procedure 230 254	EJECICIOS DE HABITUACION
+A1	Pending T11

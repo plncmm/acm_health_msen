@@ -1,0 +1,9 @@
+T1	Therapeutic_Procedure 34 57	tratamiento periodontal
+A1	Pending T1
+T2	Disease 72 102	periodontitis crónico moderada
+T3	Therapeutic_Procedure 113 132	pulidos radiculares
+A2	Pending T3
+T4	Therapeutic_Procedure 155 182	plano estabilizador maxilar
+A3	Pending T4
+T5	Body_Part 175 182	maxilar
+T6	Disease 189 197	bruxismo

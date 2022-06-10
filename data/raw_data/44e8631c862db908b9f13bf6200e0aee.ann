@@ -1,0 +1,14 @@
+T1	Abbreviation 8 9	C
+T2	Abbreviation 20 23	IAM
+T3	Abbreviation 59 62	DM2
+T4	Abbreviation 66 69	HTA
+T5	Body_Part 41 48	Esofago
+T6	Abbreviation 62 65	NIR
+T7	Body_Part 135 142	corazon
+T8	Disease 8 19	C.coronaria
+T9	Disease 20 23	IAM
+T10	Disease 41 58	Esofago de Barret
+T11	Laboratory_or_Test_Result 41 58	Esofago de Barret
+T12	Disease 59 62	DM2
+T13	Disease 66 69	HTA
+T14	Disease 102 142	Enfermedad isquemica cronica del corazon

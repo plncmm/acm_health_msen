@@ -1,0 +1,29 @@
+T1	Disease 2 21	LEIOMIOMA DEL ÚTERO
+T2	Disease 77 96	Miomatosis  uterina
+T3	Sign_or_Symptom 218 223	dolor
+T4	Sign_or_Symptom 227 245	sangrado abundante
+T5	Disease 352 371	Leiomioma del utero
+T6	Abbreviation 45 48	APS
+#1	AnnotatorNotes T6	atención primaria de salud
+T7	Abbreviation 70 71	G
+#2	AnnotatorNotes T7	gestaciones
+T8	Abbreviation 72 73	P
+#3	AnnotatorNotes T8	partos
+T9	Abbreviation 74 75	A
+#4	AnnotatorNotes T9	abortos
+T10	Abbreviation 256 259	ECO
+#5	AnnotatorNotes T10	ecografía
+T11	Abbreviation 339 342	PAP
+#6	AnnotatorNotes T11	papanicolau
+T12	Abbreviation 260 264	Gine
+#7	AnnotatorNotes T12	ginecología
+T13	Abbreviation 265 267	TV
+#8	AnnotatorNotes T13	transvaginal
+T14	Body_Part 16 21	ÚTERO
+T15	Body_Part 366 371	utero
+T16	Clinical_Finding 70 72	G6
+T17	Clinical_Finding 72 74	P6
+T18	Clinical_Finding 74 76	Ao
+T19	Diagnostic_Procedure 256 267	ECO Gine TV
+A1	Pending T19
+T20	Diagnostic_Procedure 339 342	PAP

@@ -1,0 +1,9 @@
+T1	Body_Part 0 8	Pieza 17
+T2	Body_Part 169 195	conducto dentario inferior
+T3	Body_Part 27 48	espacio pericoronario
+T4	Body_Part 76 82	raices
+T5	Body_Part 147 151	raiz
+T6	Laboratory_or_Test_Result 0 70	Pieza 17 semi incluida con espacio pericoronario ensanchado por distal
+T7	Laboratory_or_Test_Result 72 128	dos raices convergentes hacia apical con conductas finas
+T8	Clinical_Finding 130 145	periapia normal
+T9	Laboratory_or_Test_Result 147 195	raiz distal cercana a conducto dentario inferior

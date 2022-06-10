@@ -1,0 +1,15 @@
+T1	Disease 2 52	HIPOACUSIA NEUROSENSORIAL, SIN OTRA ESPECIFICACIÓN
+T2	Abbreviation 76 79	APS
+T3	Disease 90 94	SBOR
+T4	Abbreviation 90 94	SBOR
+T6	Therapeutic_Procedure 107 124	ADENOIDECTOMIZADO
+T8	Abbreviation 140 145	APROX
+T10	Abbreviation 240 243	CAE
+T11	Body_Part 240 243	CAE
+T12	Abbreviation 268 270	MB
+T13	Body_Part 268 280	MB TIMPANICA
+T14	Disease 281 331	Hipoacusia neurosensorial, sin otra especificacion
+T15	Family_Member 147 152	MADRE
+T5	Sign_or_Symptom 182 194	ESCUCHA BIEN
+A1	Negated T5
+T7	Sign_or_Symptom 215 280	SECRECION BLANQUECINA EN CAE QUE DIFICULTA VISION DE MB TIMPANICA

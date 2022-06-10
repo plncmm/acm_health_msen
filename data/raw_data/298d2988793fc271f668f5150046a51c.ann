@@ -1,0 +1,12 @@
+T1	Abbreviation 62 65	APS
+T2	Body_Part 173 178	manos
+T3	Body_Part 223 231	rodillas
+T4	Body_Part 240 246	lumbar
+T5	Disease 2 38	ARTRITIS REUMATOIDE, NO ESPECIFICADA
+T6	Disease 121 140	artritis reumatoide
+T7	Sign_or_Symptom 164 178	dolor en manos
+T8	Sign_or_Symptom 181 191	deformidad
+T9	Sign_or_Symptom 208 231	dolor en ambas rodillas
+T10	Sign_or_Symptom 234 266	dolor lumbar de forma permanente
+T11	Sign_or_Symptom 313 369	limitacion en sus movimientos y dificultad  para caminar
+T12	Disease 421 457	Artritis reumatoide, no especificada

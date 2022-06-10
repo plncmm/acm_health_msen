@@ -1,0 +1,5 @@
+T1	Body_Part 67 74	abdomen
+T2	Body_Part 82 99	region lumbosacra
+T3	Body_Part 108 114	pelvis
+T4	Disease 0 29	Traumatismo por aplastamiento
+T5	Disease 32 114	amputacion traumatica de parte del abdomen, de la region lumbosacra y de la pelvis

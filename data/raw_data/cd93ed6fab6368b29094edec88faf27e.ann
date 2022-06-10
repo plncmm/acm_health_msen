@@ -1,0 +1,7 @@
+T1	Abbreviation 27 30	asa
+T2	Sign_or_Symptom 27 33	asa II
+T3	Disease 34 74	desdentada  parcial  superior e inferior
+T4	Abbreviation 75 78	pza
+T5	Body_Part 75 82	pza, 14
+T6	Disease 83 98	necrosis pulpar
+T7	Clinical_Finding 106 115	trepanada

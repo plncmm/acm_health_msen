@@ -1,0 +1,12 @@
+T1	Body_Part 200 206	HIGADO
+T2	Body_Part 238 244	hígado
+T3	Disease 0 8	OBESIDAD
+T4	Disease 11 19	Obesidad
+T7	Disease 200 212	HIGADO GRASO
+T5	Disease 38 57	HIPERCOLESTEROLEMIA
+T8	Disease 86 106	HIPERTRIGLICERIDEMIA
+T9	Disease 133 158	RESISTENCIA A LA INSULINA
+T6	Disease 161 198	Trastorno metabólico, no especificado
+T10	Laboratory_or_Test_Result 215 244	Degeneración grasa del hígado
+T11	Disease 60 79	Hipercolesterolemia
+T12	Disease 109 126	Hipergliceridemia

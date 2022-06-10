@@ -1,0 +1,6 @@
+T1	Disease 2 10	VITILIGO
+T2	Abbreviation 34 37	APS
+T3	Sign_or_Symptom 74 162	lesiones hipopigmentadas que comienzan en antebrazos, y se comienzan a expandir a tronco
+T4	Body_Part 116 126	antebrazos
+T5	Body_Part 156 162	tronco
+T6	Disease 204 212	Vitiligo

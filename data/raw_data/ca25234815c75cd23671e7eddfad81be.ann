@@ -1,0 +1,6 @@
+T1	Disease 2 23	PERIODONTITIS CRÓNICA
+T2	Sign_or_Symptom 30 59	movilidad dentaria en grupo V
+T3	Body_Part 52 59	grupo V
+T4	Sign_or_Symptom 61 90	encias edematosas, sangrantes
+T5	Body_Part 61 67	encias
+T6	Abbreviation 142 145	tto

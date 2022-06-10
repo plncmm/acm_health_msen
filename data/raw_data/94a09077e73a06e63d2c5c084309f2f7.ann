@@ -1,0 +1,5 @@
+T1	Body_Part 33 36	1.5
+T2	Clinical_Finding 33 46	1.5 TREPANADA
+T3	Disease 66 82	CARIES PROFUNDAS
+T4	Sign_or_Symptom 84 101	CORONA FRACTURADA
+T5	Abbreviation 149 152	TTO

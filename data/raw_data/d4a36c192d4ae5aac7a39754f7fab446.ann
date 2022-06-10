@@ -1,0 +1,5 @@
+T1	Abbreviation 13 16	irc
+T2	Disease 13 16	irc
+T3	Therapeutic_Procedure 36 53	peritoneodialisis
+T4	Therapeutic_Procedure 82 111	trasplante renal donante vivo
+A1	Pending T4

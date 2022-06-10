@@ -1,0 +1,11 @@
+T1	Abbreviation 59 62	APS
+T2	Abbreviation 104 107	HTA
+T3	Disease 2 35	OTROS TRASTORNOS DE LA REFRACCIÓN
+T4	Disease 104 107	HTA
+T5	Disease 109 123	hipotiroidismo
+T6	Disease 125 137	dislipidemia
+T7	Disease 140 148	artrosis
+T8	Sign_or_Symptom 158 187	disminucion de agudeza visual
+T9	Sign_or_Symptom 192 238	dificultad para ver objetos lejanos y cercanos
+T10	Clinical_Finding 244 250	lentes
+T11	Disease 334 367	Otros trastornos de la refraccion

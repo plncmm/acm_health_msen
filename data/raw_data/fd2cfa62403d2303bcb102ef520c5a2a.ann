@@ -1,0 +1,5 @@
+T1	Disease 2 23	PERIODONTITIS CRÓNICA
+T2	Sign_or_Symptom 27 49	profundidad al sondaje
+T3	Sign_or_Symptom 51 71	perdida de inserción
+T4	Sign_or_Symptom 73 92	sangrado al sondaje
+T5	Sign_or_Symptom 94 112	movilidad dentaria

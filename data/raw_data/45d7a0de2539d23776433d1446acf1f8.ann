@@ -1,0 +1,9 @@
+T1	Body_Part 104 117	esfinter anal
+T2	Abbreviation 133 135	TR
+T3	Body_Part 184 189	colon
+T4	Disease 29 47	colitis ulcerativa
+T5	Sign_or_Symptom 70 80	proctalgia
+T6	Sign_or_Symptom 83 117	lesion ulcerativa en esfinter anal
+T7	Sign_or_Symptom 152 157	dolor
+T8	Disease 159 189	enfermedad ulcerativa de colon
+T9	Diagnostic_Procedure 220 232	colonoscopia

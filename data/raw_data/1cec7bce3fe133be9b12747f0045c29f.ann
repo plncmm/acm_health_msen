@@ -1,0 +1,36 @@
+T1	Abbreviation 62 65	APS
+T2	Abbreviation 86 88	cn
+T3	Body_Part 116 131	rodilla derecha
+T4	Body_Part 153 168	rodilla derecha
+T5	Body_Part 188 203	rodilla derecha
+T6	Body_Part 257 283	articulaciones de rodillas
+T7	Body_Part 362 376	articulaciones
+T8	Body_Part 433 456	extremidades superiores
+T9	Medication 500 511	lanzoprazol
+T10	Medication 521 531	clonazepam
+T11	Abbreviation 635 637	nu
+T12	Abbreviation 645 648	tsh
+T13	Abbreviation 655 657	fr
+T14	Abbreviation 662 665	vhs
+T15	Medication 513 520	celebra
+T16	Medication 534 538	isrs
+T17	Disease 2 38	ARTRITIS REUMATOIDE, NO ESPECIFICADA
+T18	Disease 104 131	Artrosis de rodilla derecha
+T19	Disease 132 168	sinovitis cronica de rodilla derecha
+T20	Disease 170 203	desgarro meniscal rodilla derecha
+T21	Sign_or_Symptom 215 232	omalgia bilateral
+T22	Sign_or_Symptom 234 246	dolor lumbar
+T23	Sign_or_Symptom 248 283	dolor en articulaciones de rodillas
+T24	Sign_or_Symptom 342 376	rigidez matinal  de articulaciones
+T25	Diagnostic_Procedure 416 456	electromiografia extremidades superiores
+T26	Laboratory_or_Test_Result 458 464	normal
+R1	Has Arg1:T25 Arg2:T26	
+T27	Laboratory_Procedure 589 597	glicemia
+T28	Laboratory_Procedure 605 615	creatinina
+T29	Laboratory_Procedure 622 628	uremia
+T30	Laboratory_Procedure 635 637	nu
+T31	Laboratory_Procedure 645 648	tsh
+T32	Laboratory_Procedure 655 657	fr
+T33	Laboratory_Procedure 662 665	vhs
+T34	Disease 711 747	Artritis reumatoide, no especificada
+T35	Sign_or_Symptom 325 331	estres

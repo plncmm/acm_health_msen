@@ -1,0 +1,95 @@
+T1	Abbreviation 100 103	APS
+T2	Family_Member 161 166	MADRE
+T3	Abbreviation 237 239	TP
+T4	Abbreviation 243 246	SEG
+T5	Abbreviation 247 250	INR
+T7	Abbreviation 424 428	PROT
+T8	Abbreviation 511 513	DX
+T9	Family_Member 525 530	MADRE
+T10	Abbreviation 564 569	APROX
+T11	Abbreviation 787 792	APROX
+T12	Medication 856 866	ANALGESICO
+T13	Abbreviation 943 945	ML
+T14	Abbreviation 1027 1032	APROX
+T15	Family_Member 1082 1088	ABUELA
+T16	Abbreviation 1089 1092	HTA
+T17	Abbreviation 1094 1096	DM
+T18	Family_Member 1098 1103	MADRE
+T19	Abbreviation 1104 1107	APS
+T20	Family_Member 1108 1113	PADRE
+T21	Abbreviation 1114 1117	APS
+T22	Abbreviation 1126 1131	ANTEC
+T23	Abbreviation 1309 1312	seg
+T24	Body_Part 1314 1321	FARINGE
+T25	Body_Part 1333 1342	AMIGDALAS
+T26	Body_Part 1505 1512	Abdomen
+T27	Body_Part 1472 1489	campos pulmonares
+T28	Body_Part 1626 1638	Extremidades
+T29	Medication 1795 1810	sulfato ferroso
+T30	Abbreviation 1814 1816	mg
+T31	Medication 1822 1832	perenteryl
+T32	Disease 2 32	ANEMIA DE TIPO NO ESPECIFICADO
+T33	Disease 36 76	MALABSORCIÓN INTESTINAL, NO ESPECIFICADA
+T34	Laboratory_Procedure 179 200	EXAMENES  HEMOGLOBINA
+T35	Laboratory_or_Test_Result 206 217	HEMATOCRITO
+T36	Laboratory_or_Test_Result 223 235	ANISOCITOSIS
+T37	Laboratory_Procedure 237 239	TP
+T38	Laboratory_Procedure 247 250	INR
+T39	Laboratory_Procedure 272 300	 COPROPARASITOLOGICO SERIADO
+T41	Laboratory_Procedure 319 337	HEMORRAGIAS OCULTA
+T42	Laboratory_or_Test_Result 338 346	POSITIVO
+R2	Has Arg1:T41 Arg2:T42	
+T43	Laboratory_Procedure 356 374	LEUCOCITOS FECALES
+T44	Laboratory_or_Test_Result 375 383	NEGATIVO
+R3	Has Arg1:T43 Arg2:T44	
+T45	Laboratory_Procedure 386 394	GLICEMIA
+T46	Laboratory_Procedure 399 408	PROTEINAS
+T47	Laboratory_Procedure 411 419	ALBUMINA
+T48	Laboratory_Procedure 424 437	PROT, TOTALES
+T49	Laboratory_Procedure 442 452	GLOBULINAS
+T50	Laboratory_Procedure 470 485	PERFIL HEPATICO
+T51	Laboratory_or_Test_Result 486 492	NORMAL
+R4	Has Arg1:T50 Arg2:T51	
+T52	Sign_or_Symptom 594 605	INAPETENCIA
+T53	Sign_or_Symptom 606 625	DISMINUCION DE PESO
+T54	Sign_or_Symptom 663 674	EPISTAXIS  
+T57	Sign_or_Symptom 736 747	INAPETENCIA
+T58	Sign_or_Symptom 748 786	EVACUACIONES LIQUIDAS DE LEVE CANTIDAD
+T59	Sign_or_Symptom 816 825	VOMITOS  
+A1	Negated T59
+T60	Sign_or_Symptom 825 831	FIEBRE
+T61	Disease 1004 1026	REPETICION AMIGDALITIS
+T62	Disease 1045 1051	OTITIS
+T63	Disease 1089 1092	HTA
+T64	Disease 1094 1098	DM  
+R5	Has Arg1:T15 Arg2:T63	
+R6	Has Arg1:T18 Arg2:T64	
+T65	Disease 1136 1153	ANEMIA TALASEMIAS
+T66	Sign_or_Symptom 1178 1219	REGULARES A BUENAS  condiciones generales
+T67	Sign_or_Symptom 1220 1228	eupneico
+T68	Sign_or_Symptom 1229 1236	afebril
+T69	Sign_or_Symptom 1246 1255	hidratado
+T70	Sign_or_Symptom 1257 1278	leve  palidez cutáneo
+T71	Sign_or_Symptom 1314 1332	FARINGE CONGESTIVA
+T72	Sign_or_Symptom 1333 1356	AMIGDALAS HIPERTROFICAS
+T73	Sign_or_Symptom 1374 1420	ruidos cardiacos rítmicos y regulares no soplo
+T74	Sign_or_Symptom 1432 1504	ruidos respiratorios presentes en ambos campos pulmonares  sin agregados
+T75	Sign_or_Symptom 1514 1520	blando
+T76	Sign_or_Symptom 1521 1531	depresible
+T77	Sign_or_Symptom 1535 1558	doloroso a la palpación
+A2	Negated T77
+T78	Sign_or_Symptom 1559 1596	ruidos hidroaereos presentes normales
+T79	Sign_or_Symptom 1610 1624	visceromegalia
+A3	Negated T79
+T80	Sign_or_Symptom 1626 1649	Extremidades eutróficas
+T81	Sign_or_Symptom 1654 1659	edema
+A4	Negated T81
+T82	Sign_or_Symptom 1685 1690	vigil
+T83	Sign_or_Symptom 1691 1697	activo
+T84	Sign_or_Symptom 1702 1724	signos de focalización
+A5	Negated T84
+T85	Disease 1851 1891	Malabsorcion intestinal, no especificada
+T86	Sign_or_Symptom 1661 1684	Neurológico: conservado
+T6	Laboratory_or_Test_Result 301 311	NEGATIVO  
+R1	Has Arg1:T39 Arg2:T6	
+T40	Laboratory_Procedure 347 356	GUAYACO  

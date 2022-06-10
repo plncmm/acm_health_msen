@@ -1,0 +1,12 @@
+T1	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T2	Body_Part 31 37	DIENTE
+T3	Abbreviation 61 64	APS
+T4	Sign_or_Symptom 84 111	clase II de angle bilateral
+T5	Sign_or_Symptom 113 138	mordida abierta anterior,
+T6	Sign_or_Symptom 139 165	oberbite y oberyet de 0 mm
+T7	Abbreviation 163 165	mm
+T8	Sign_or_Symptom 200 212	uso mamadera
+T9	Therapeutic_Procedure 267 292	tratamiento de ortodoncia
+A1	Pending T9
+T10	Disease 294 329	Anomalias de la posicion del diente
+T11	Body_Part 323 329	diente

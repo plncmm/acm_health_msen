@@ -1,0 +1,51 @@
+T1	Disease 17 32	HIPERTIROIDISMO
+T2	Disease 2 15	TIROTOXICOSIS
+T3	Abbreviation 57 60	APS
+T4	Disease 87 102	HIPERTIROIDISMO
+T5	Abbreviation 137 140	TSH
+T6	Abbreviation 148 151	T4L
+T7	Abbreviation 157 160	HTO
+T8	Abbreviation 167 169	HB
+T9	Abbreviation 176 180	PLAQ
+T10	Abbreviation 186 189	ELP
+T11	Abbreviation 191 192	N
+T12	Abbreviation 194 198	CREA
+T13	Abbreviation 204 210	UREMIA
+T14	Abbreviation 214 223	 N.UREICO
+T15	Abbreviation 231 234	GLI
+T16	Abbreviation 238 240	TP
+T18	Abbreviation 251 254	INR
+T19	Abbreviation 261 263	TP
+T21	Abbreviation 288 291	HRC
+T22	Abbreviation 345 347	IC
+T24	Sign_or_Symptom 460 467	AREOS  
+A1	Negated T24
+T25	Sign_or_Symptom 487 503	PRESENTAR MAREOS
+A2	Negated T25
+T26	Sign_or_Symptom 505 517	ASINTOMATICA
+T27	Sign_or_Symptom 520 532	BAJA DE PESO
+T28	Abbreviation 539 541	KG
+T29	Abbreviation 565 568	ECO
+T30	Disease 578 591	Tirotoxicosis
+T31	Disease 593 608	hipertiroidismo
+T32	Laboratory_Procedure 109 128	EXAMENES DE CONTROL
+T33	Laboratory_Procedure 137 140	TSH
+T34	Laboratory_Procedure 148 151	T4L
+T35	Laboratory_Procedure 157 160	HTO
+T36	Laboratory_Procedure 167 169	HB
+T37	Laboratory_Procedure 176 180	PLAQ
+T38	Laboratory_Procedure 186 189	ELP
+T20	Laboratory_Procedure 194 198	CREA
+T39	Laboratory_or_Test_Result 191 192	N
+R1	Has Arg1:T38 Arg2:T39	
+T40	Laboratory_Procedure 204 210	UREMIA
+T41	Laboratory_Procedure 215 223	N.UREICO
+T42	Laboratory_Procedure 231 234	GLI
+T43	Laboratory_Procedure 238 240	TP
+T44	Laboratory_Procedure 251 254	INR
+T45	Laboratory_Procedure 261 263	TP
+T46	Diagnostic_Procedure 565 577	ECO TIROIDEA
+A3	Pending T46
+T47	Abbreviation 246 251	SEG  
+T17	Laboratory_or_Test_Result 387 426	TIROIDEA AUMENTADA DE TAMAÑO NO NODULAR
+T23	Sign_or_Symptom 428 453	BAJA DE PESO ASINTOMATICA

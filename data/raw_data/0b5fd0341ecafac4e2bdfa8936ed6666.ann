@@ -1,0 +1,12 @@
+T1	Abbreviation 53 56	APS
+T2	Abbreviation 58 62	pcte
+T3	Body_Part 177 189	maño derecha
+T4	Body_Part 193 197	mano
+T5	Abbreviation 377 380	APS
+T6	Disease 2 29	SÍNDROME DEL TÚNEL CARPIANO
+T8	Clinical_Finding 89 100	autovalente
+T9	Clinical_Finding 102 115	atleta senior
+T10	Sign_or_Symptom 162 189	parestesias de maño derecha
+T11	Sign_or_Symptom 222 230	sintomas
+A1	Negated T11
+T12	Disease 386 413	Sindrome del tunel carpiano

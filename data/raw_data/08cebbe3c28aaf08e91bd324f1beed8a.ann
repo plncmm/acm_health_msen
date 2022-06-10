@@ -1,0 +1,21 @@
+T1	Body_Part 250 267	glandula tiroides
+T2	Medication 436 448	levotiroxina
+T3	Abbreviation 40 43	APS
+T4	Abbreviation 202 205	eco
+T5	Abbreviation 316 318	mm
+T6	Abbreviation 430 432	mg
+T7	Abbreviation 495 498	TSH
+T8	Abbreviation 508 510	UI
+T9	Abbreviation 511 513	ml
+T10	Disease 2 16	HIPOTIROIDISMO
+T11	Disease 92 106	hipotiroidismo
+T12	Diagnostic_Procedure 202 214	eco tiroideo
+T13	Laboratory_or_Test_Result 227 267	tejido heterogeneo de  glandula tiroides
+T14	Laboratory_or_Test_Result 274 364	presencia de  nodulacion izquierda de 5.1 mm  no aumenta vascularizacion con doopler color
+R1	Has Arg1:T12 Arg2:T14	
+R2	Has Arg1:T12 Arg2:T13	
+T15	Laboratory_or_Test_Result 472 491	elevacion de cifras
+T16	Laboratory_Procedure 495 498	TSH
+R3	Has Arg1:T16 Arg2:T15	
+T17	Disease 544 558	Hipotiroidismo
+T18	Sign_or_Symptom 383 404	intolerancia gastrica

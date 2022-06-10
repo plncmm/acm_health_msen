@@ -1,0 +1,6 @@
+T1	Abbreviation 56 59	VIH
+T2	Disease 0 54	Enfermedad por el virus de la inmunodeficiencia humana
+T3	Disease 56 59	VIH
+T4	Clinical_Finding 77 85	embarazo
+T5	Procedure 90 95	parto
+T6	Clinical_Finding 101 110	puerperio

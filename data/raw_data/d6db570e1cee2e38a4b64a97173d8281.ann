@@ -1,0 +1,17 @@
+T1	Abbreviation 38 41	APS
+T2	Abbreviation 101 103	PC
+T3	Abbreviation 116 118	cm
+T4	Abbreviation 129 131	CC
+T5	Abbreviation 223 226	DSM
+T6	Abbreviation 264 267	4to
+T7	Body_Part 302 308	craneo
+T8	Abbreviation 319 321	cm
+T9	Abbreviation 333 335	PC
+T10	Abbreviation 343 345	ds
+T11	Disease 2 14	MACROCEFALIA
+T12	Clinical_Finding 68 99	anatcedentes morbidos conocidos
+A1	Negated T12
+T13	Sign_or_Symptom 205 226	alateraciones del DSM
+A2	Negated T13
+T14	Disease 376 388	Macrocefalia
+T15	Sign_or_Symptom 287 331	crecimiento de craneo de casi 3 cm en el mes

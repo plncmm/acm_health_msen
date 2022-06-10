@@ -1,0 +1,5 @@
+T1	Body_Part 77 117	dientes 5.5, 6.5,6.4, 7.5, 8.5, 7.4, 8.4
+T2	Sign_or_Symptom 17 35	respiracion bucal,
+T3	Sign_or_Symptom 36 54	deglucion infantil
+T4	Sign_or_Symptom 65 75	policaries
+T5	Disease 119 135	caries profundas

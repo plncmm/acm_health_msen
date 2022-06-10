@@ -1,0 +1,12 @@
+T1	Disease 50 71	Sindrome Dandy Walker
+T2	Disease 2 50	ATRESIA DE LOS AGUJEROS DE MAGENDIE Y DE LUSCHKA
+T3	Disease 75 96	RETRASO MENTAL GRAVE/
+T4	Disease 99 118	HIPOTONIA CONGÉNITA
+T5	Abbreviation 142 145	APS
+T6	Abbreviation 160 162	Dg
+T7	Disease 163 184	Sindrome Dandy Walker
+T8	Disease 185 206	Retraso Mental Severo
+T9	Abbreviation 208 210	Sd
+T10	Disease 208 221	Sd Hipotonico
+T11	Medication 342 353	Risperidona
+T12	Disease 395 443	Atresia de los agujeros de Magendie y de Luschka

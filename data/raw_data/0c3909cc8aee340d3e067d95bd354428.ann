@@ -1,0 +1,7 @@
+T1	Abbreviation 166 168	IC
+T2	Abbreviation 171 174	ORL
+T3	Disease 2 29	HIPOACUSIA, NO ESPECIFICADA
+T4	Disease 33 43	Hipoacusia
+T5	Clinical_Finding 56 64	audifono
+T6	Therapeutic_Procedure 194 211	protesis auditiva
+A1	Pending T6

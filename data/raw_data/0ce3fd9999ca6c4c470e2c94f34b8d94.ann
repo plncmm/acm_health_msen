@@ -1,0 +1,4 @@
+T1	Abbreviation 103 109	TIRADS
+T3	Laboratory_or_Test_Result 103 112	TIRADS 4A
+T4	Laboratory_or_Test_Result 0 50	BOCIO DIFUSO MULTINODULAR CON PREDOMINIO IZQUIERDO
+T2	Laboratory_or_Test_Result 51 69	IMAGENES NODULARES

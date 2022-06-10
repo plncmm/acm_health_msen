@@ -1,0 +1,42 @@
+T1	Abbreviation 182 185	APS
+T2	Medication 263 273	METFORMINA
+T3	Medication 342 350	INSULINA
+T4	Medication 413 423	METFORMINA
+T5	Medication 443 452	ENALAPRIL
+T6	Abbreviation 353 354	U
+T7	Abbreviation 355 357	AM
+T8	Abbreviation 360 361	U
+T9	Abbreviation 361 363	PM
+T10	Abbreviation 375 376	U
+T11	Abbreviation 377 379	AM
+T12	Abbreviation 385 386	U
+T13	Abbreviation 387 389	PM
+T14	Abbreviation 427 429	MG
+T15	Abbreviation 439 442	HRS
+T16	Abbreviation 455 457	MG
+T17	Medication 467 478	PARACETAMOL
+T18	Abbreviation 482 484	MG
+T19	Family_Member 515 522	HERMANA
+T20	Abbreviation 558 561	EXS
+T21	Abbreviation 574 578	CREA
+T22	Abbreviation 584 587	VFG
+T23	Abbreviation 600 601	N
+T24	Abbreviation 626 631	HBA1C
+T25	Abbreviation 634 636	PA
+T26	Abbreviation 653 655	FC
+T27	Disease 2 19	DIABETES MELLITUS
+T28	Disease 43 67	MONONEUROPATIA DIABÉTICA
+T29	Disease 71 129	DIABETES MELLITUS ESPECIFICADA, CON COMPLICACIONES RENALES
+T30	Disease 133 158	INSUFICIENCIA RENAL AGUDA
+T31	Laboratory_Procedure 283 302	MONITOREO GLICEMICO
+T32	Disease 527 537	NEFROPATIA
+T33	Laboratory_Procedure 558 561	EXS
+T34	Clinical_Finding 572 578	15CREA
+T35	Laboratory_Procedure 574 578	CREA
+T36	Laboratory_Procedure 584 587	VFG
+T37	Laboratory_Procedure 590 594	UREA
+T38	Laboratory_Procedure 600 608	N UREICO
+T39	Laboratory_Procedure 612 620	GLICEMIA
+T40	Laboratory_Procedure 626 631	HBA1C
+T41	Sign_or_Symptom 659 672	ORINANDO POCO
+R1	Has Arg1:T19 Arg2:T32	

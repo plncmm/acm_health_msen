@@ -1,0 +1,9 @@
+T1	Disease 2 15	CARIES DENTAL
+T2	Abbreviation 39 42	APS
+T3	Body_Part 44 47	1.5
+T4	Therapeutic_Procedure 49 58	TREPANADA
+T5	Medication 72 92	HIPOCLORITO DE SODIO
+T6	Clinical_Finding 104 120	CEMENTO TEMPORAL
+T8	Disease 141 154	Caries dental
+T9	Abbreviation 121 123	RX
+T7	Diagnostic_Procedure 121 138	RX: RETROALVEOLAR

@@ -1,0 +1,7 @@
+T1	Disease 2 27	CATARATA, NO ESPECIFICADA
+T2	Abbreviation 51 54	APS
+T4	Disease 123 146	catarata de ojo derecho
+T3	Body_Part 135 146	ojo derecho
+T5	Sign_or_Symptom 157 179	intensa visión borrosa
+T6	Sign_or_Symptom 182 206	distorsión al visualizar
+T7	Sign_or_Symptom 209 217	diplopia

@@ -1,0 +1,12 @@
+T1	Disease 0 14	ca orofaringeo
+T2	Abbreviation 0 2	ca
+T3	Therapeutic_Procedure 28 37	exodoncia
+A1	Pending T3
+T4	Abbreviation 38 41	dte
+T5	Body_Part 38 44	dte 20
+T6	Abbreviation 77 81	dtes
+T7	Body_Part 77 81	dtes
+T8	Abbreviation 86 88	rx
+T9	Abbreviation 89 97	retroalv
+T10	Diagnostic_Procedure 86 103	rx retroalv total
+T11	Abbreviation 117 121	pcte

@@ -1,0 +1,18 @@
+T1	Abbreviation 41 45	pcte
+T2	Medication 301 309	migranol
+T3	Medication 312 323	ketoprofeno
+T4	Medication 325 336	paracetamol
+T5	Medication 338 346	dipirona
+T6	Body_Part 433 446	ojo izquierdo
+T7	Abbreviation 501 504	tta
+T8	Abbreviation 584 587	tta
+T9	Disease 2 11	CEFALEA  
+T10	Disease 13 37	MIGRAÑA, NO ESPECIFICADA
+T11	Sign_or_Symptom 61 69	cefaleas
+T12	Disease 83 91	migrañas
+T13	Sign_or_Symptom 83 107	migrañas lado  izquierdo
+T14	Sign_or_Symptom 144 171	cefalea es mas  en la noche
+T15	Sign_or_Symptom 365 374	molestias
+T16	Sign_or_Symptom 380 402	migraña lado izquierdo
+T17	Sign_or_Symptom 433 462	ojo izquierdo  ya no vee nada
+T18	Clinical_Finding 211 234	no calma con medicacion

@@ -1,0 +1,13 @@
+T1	Disease 0 4	K033
+T2	Disease 5 42	REABSORCION PATOLOGICA DE LOS DIENTES
+T3	Abbreviation 69 72	INF
+T4	Abbreviation 62 65	SUP
+T5	Disease 43 72	DESDENTADO PARCIAL SUP  E INF
+T6	Abbreviation 87 91	EXOD
+T7	Therapeutic_Procedure 87 91	EXOD
+A1	Pending T7
+T8	Abbreviation 93 96	DTE
+T9	Body_Part 93 98	DTE 8
+T10	Therapeutic_Procedure 120 128	PROTESIS
+A2	Pending T10
+T11	Body_Part 35 42	DIENTES

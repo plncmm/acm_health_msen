@@ -1,0 +1,9 @@
+T1	Abbreviation 82 84	MM
+#1	AnnotatorNotes T1	milimetros
+T2	Abbreviation 85 90	APROX
+#2	AnnotatorNotes T2	aproximadamente
+T3	Sign_or_Symptom 11 29	CLASE 3 ESQUELETAL
+T4	Sign_or_Symptom 32 50	COMPRESIÓN MAXILAR
+T5	Sign_or_Symptom 53 77	DISCREPANCIA OVERJET (-)
+T6	Sign_or_Symptom 94 109	MORDIDA CRUZADA
+T7	Abbreviation 75 76	-

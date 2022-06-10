@@ -1,0 +1,6 @@
+T1	Abbreviation 24 26	TX
+T2	Disease 24 33	TX OCULAR
+T3	Body_Part 34 36	OD
+T4	Abbreviation 34 36	OD
+T5	Clinical_Finding 76 91	PROTESIS OCULAR
+T6	Sign_or_Symptom 140 179	PROTESIS ESTABA MUY MOVIL Y SE LE SALIA

@@ -1,0 +1,8 @@
+T1	Abbreviation 35 38	APS
+T2	Laboratory_or_Test_Result 2 11	MESIODENS
+T3	Clinical_Finding 53 76	antecedentes sistémicos
+A1	Negated T3
+T4	Laboratory_or_Test_Result 87 96	mesiodens
+T5	Therapeutic_Procedure 108 117	exodoncia
+A2	Pending T5
+T6	Disease 119 128	Anodoncia

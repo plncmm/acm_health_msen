@@ -1,0 +1,12 @@
+T1	Abbreviation 99 102	ITU
+T2	Abbreviation 0 1	G
+T3	Abbreviation 2 3	P
+T4	Abbreviation 4 5	A
+T5	Abbreviation 96 97	G
+T6	Clinical_Finding 0 1	G
+T7	Clinical_Finding 2 3	P
+T8	Clinical_Finding 4 5	A
+T9	Clinical_Finding 7 15	EMBARAZO
+T10	Sign_or_Symptom 30 61	DOBLE CICATRIZ CESAREA ANTERIOR
+T11	Disease 74 90	MASOCROMIA FETAL
+T12	Disease 99 113	ITU RECURRENTE

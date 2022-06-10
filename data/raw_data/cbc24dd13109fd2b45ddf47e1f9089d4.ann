@@ -1,0 +1,11 @@
+T1	Clinical_Finding 31 64	denticion mixta intertransicional
+T2	Disease 66 77	maloclusion
+T3	Sign_or_Symptom 78 92	clase ii angle
+T4	Sign_or_Symptom 94 110	mordida cubierta
+T5	Sign_or_Symptom 111 128	ob y oj aumentado
+T6	Abbreviation 111 113	ob
+T7	Abbreviation 116 118	oj
+T8	Sign_or_Symptom 133 145	mesioclusion
+T9	Sign_or_Symptom 161 177	paladar profundo
+T10	Body_Part 31 40	denticion
+T11	Body_Part 161 168	paladar

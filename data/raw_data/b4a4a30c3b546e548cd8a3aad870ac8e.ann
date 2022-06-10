@@ -1,0 +1,10 @@
+T1	Disease 2 39	ABSCESO DENTO ALVEOLAR CRÓNICO (ADAC)
+T2	Abbreviation 34 38	ADAC
+T3	Abbreviation 63 66	APS
+T4	Disease 68 97	Absceso dentoalveolar crónico
+T8	Therapeutic_Procedure 108 128	diente 2.2 trepanado
+T9	Disease 156 183	Celulitis y absceso de boca
+T10	Body_Part 179 183	boca
+#1	AnnotatorNotes T2	ABSCESO DENTO ALVEOLAR CRÓNICO
+T5	Body_Part 108 118	diente 2.2
+N1	Reference T9 cie-10_norm_db:3931	K122

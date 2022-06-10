@@ -1,0 +1,7 @@
+T1	Body_Part 23 30	L4 Y L5
+T2	Body_Part 68 75	L5 - S1
+T3	Body_Part 92 107	L2-L3 Y L3 - L4
+T5	Laboratory_or_Test_Result 31 56	RAQUIESTENOSIS SECUNDARIA
+T6	Laboratory_or_Test_Result 57 75	DISCOPATIA L5 - S1
+T7	Laboratory_or_Test_Result 76 107	LEVE DISCOPATIA L2-L3 Y L3 - L4
+T8	Disease 0 19	SINOVITIS FACETARIA

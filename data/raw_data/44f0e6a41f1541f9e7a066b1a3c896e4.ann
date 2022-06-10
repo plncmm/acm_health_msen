@@ -1,0 +1,12 @@
+T1	Body_Part 26 43	ÓRGANOS GENITALES
+T2	Abbreviation 54 57	Obs
+T3	Abbreviation 99 102	APS
+T4	Abbreviation 108 114	antede
+T5	Abbreviation 208 211	+/-
+T6	Body_Part 284 301	organos genitales
+T7	Disease 2 54	OTROS TRASTORNOS DE LOS ÓRGANOS GENITALES MASCULINOS
+T8	Disease 58 75	Disfuncion sexual
+T9	Clinical_Finding 108 132	antede. morbidos previos
+A1	Negated T9
+T10	Sign_or_Symptom 142 174	disminucion de líbido y ereccion
+T11	Disease 260 312	Otros trastornos de los organos genitales masculinos

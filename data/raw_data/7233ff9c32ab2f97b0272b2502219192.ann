@@ -1,0 +1,9 @@
+T1	Abbreviation 0 4	pcte
+T2	Abbreviation 66 69	pan
+T3	Abbreviation 70 73	tac
+T4	Disease 24 41	anemia ferropirva
+T5	Diagnostic_Procedure 42 63	endosocopai digestiva
+T6	Diagnostic_Procedure 66 73	pan tac
+T7	Laboratory_or_Test_Result 74 82	normales
+R1	Has Arg1:T5 Arg2:T7	
+R2	Has Arg1:T6 Arg2:T7	

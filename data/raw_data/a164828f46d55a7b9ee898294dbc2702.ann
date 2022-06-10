@@ -1,0 +1,35 @@
+T1	Disease 2 23	FIBROADENOSIS DE MAMA
+T2	Disease 92 95	HTA
+T3	Body_Part 19 23	MAMA
+T4	Body_Part 130 144	mama izquierda
+T5	Body_Part 163 167	mama
+T6	Body_Part 210 214	mama
+T7	Body_Part 339 353	mama izquierda
+T8	Body_Part 384 389	pezón
+T9	Body_Part 399 403	piel
+T10	Body_Part 446 451	Mamas
+T11	Abbreviation 92 95	HTA
+T12	Abbreviation 47 50	APS
+T13	Abbreviation 268 270	cm
+T14	Abbreviation 522 528	BIRADS
+T15	Sign_or_Symptom 120 144	nodulo en mama izquierda
+T16	Sign_or_Symptom 154 168	dolor en mama,
+T18	Sign_or_Symptom 224 233	afiebrada
+T19	Sign_or_Symptom 248 260	palpa nodulo
+T20	Sign_or_Symptom 284 289	movil
+T21	Sign_or_Symptom 291 314	doloroso a la palpación
+T22	Sign_or_Symptom 317 353	aumento de volumen de mama izquierda
+T23	Sign_or_Symptom 369 389	retracción del pezón
+A1	Negated T23
+T24	Diagnostic_Procedure 421 431	mamografía
+T26	Diagnostic_Procedure 512 521	ecografia
+T27	Diagnostic_Procedure 549 566	ecografia mamaria
+T17	Sign_or_Symptom 184 214	aumento de temperatura de mama
+T25	Laboratory_or_Test_Result 446 458	Mamas densas
+T28	Laboratory_or_Test_Result 460 484	Nodulo mamario izquierdo
+T29	Clinical_Finding 522 530	BIRADS 0
+T30	Laboratory_or_Test_Result 522 530	BIRADS 0
+R1	Has Arg1:T24 Arg2:T25	
+R2	Has Arg1:T24 Arg2:T28	
+R3	Has Arg1:T24 Arg2:T30	
+A2	Pending T26

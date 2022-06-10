@@ -1,0 +1,8 @@
+T1	Body_Part 72 82	Dedo Medio
+T2	Body_Part 83 97	Mano Izquierda
+T4	Disease 32 35	Hta
+T5	Abbreviation 32 35	Hta
+T3	Body_Part 114 118	Dedo
+T6	Clinical_Finding 21 30	Monorreno
+T8	Sign_or_Symptom 114 129	Dedo En Gatillo
+T7	Sign_or_Symptom 46 97	Dificultad A La Extensi?n Dedo Medio Mano Izquierda

@@ -1,0 +1,15 @@
+T1	Abbreviation 0 3	ACV
+T2	Abbreviation 53 56	TBQ
+T3	Abbreviation 66 69	ECO
+T4	Body_Part 109 126	LOBULO TIROIDEO I
+T5	Abbreviation 125 126	I
+T6	Abbreviation 128 131	ECO
+T7	Abbreviation 184 188	PAAF
+T8	Disease 0 32	ACV ISQUEMICO CEREBELOSO DERECHO
+T9	Disease 35 50	NODULO TIROIDEO
+T11	Disease 53 63	TBQ ACTIVO
+T10	Diagnostic_Procedure 66 77	ECO DOPPLER
+T12	Laboratory_or_Test_Result 87 126	NODULO SOSPECHOSO DEL LOBULO TIROIDEO I
+R1	Has Arg1:T10 Arg2:T12	
+T13	Diagnostic_Procedure 128 140	ECO TIROIDEA
+T14	Diagnostic_Procedure 184 188	PAAF

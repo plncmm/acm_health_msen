@@ -1,0 +1,7 @@
+T1	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T2	Body_Part 37 46	pieza 1,2
+T3	Clinical_Finding 47 56	trepanado
+T4	Disease 77 94	caries penetrante
+T5	Laboratory_or_Test_Result 77 94	caries penetrante
+T7	Therapeutic_Procedure 151 176	tratamiento de endodoncia
+A1	Pending T7

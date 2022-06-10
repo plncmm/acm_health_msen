@@ -1,0 +1,10 @@
+T1	Disease 2 17	RESTO RADICULAR
+T2	Disease 21 37	DESDENTADO TOTAL
+T3	Abbreviation 62 65	APS
+T4	Disease 121 133	hipertensión
+T5	Disease 144 156	dislipidemia
+T6	Therapeutic_Procedure 170 203	rehabilitación de protesis dental
+A1	Pending T6
+T7	Disease 206 249	desdentado total superior, parcial inferior
+T8	Disease 251 327	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T9	Body_Part 289 296	dientes

@@ -1,0 +1,10 @@
+T1	Abbreviation 89 92	APS
+#1	AnnotatorNotes T1	atención primaria de salud
+T3	Abbreviation 142 146	PTGO
+#3	AnnotatorNotes T3	prueba de tolerancia a la glucosa oral
+T4	Abbreviation 152 154	mg
+#4	AnnotatorNotes T4	miligramos
+T5	Abbreviation 155 157	dl
+#5	AnnotatorNotes T5	decilitro
+T2	Disease 2 65	SUPERVISIÓN DE EMBARAZO DE ALTO RIESGO, SIN OTRA ESPECIFICACIÓN
+T6	Laboratory_Procedure 142 146	PTGO

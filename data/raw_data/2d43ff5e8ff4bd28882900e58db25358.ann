@@ -1,0 +1,7 @@
+T1	Disease 2 62	AUSENCIA, ATRESIA Y ESTENOSIS CONGÉNITA DEL ANO, SIN FÍSTULA
+T2	Body_Part 46 49	ANO
+T3	Abbreviation 86 89	APS
+T4	Body_Part 104 107	ano
+T6	Disease 164 178	estenosis anal
+T7	Abbreviation 161 163	dg
+T5	Sign_or_Symptom 104 118;120 129;135 158	ano puntiforme permeable dificultad para defecar

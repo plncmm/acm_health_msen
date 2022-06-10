@@ -1,0 +1,9 @@
+T1	Abbreviation 44 47	APS
+T2	Body_Part 335 342	dientes
+T3	Disease 2 20	DESDENTADO PARCIAL
+T4	Disease 49 83	Paciente desdentada total supeiror
+T5	Sign_or_Symptom 85 118	clase I de kennedy modificación 2
+T6	Sign_or_Symptom 136 196	prótesis total superior la cual esta desajustada con váscula
+T7	Therapeutic_Procedure 287 295	prótesis
+A1	Pending T7
+T8	Disease 297 373	Otras afecciones especificadas de los dientes y de sus estructuras de sosten

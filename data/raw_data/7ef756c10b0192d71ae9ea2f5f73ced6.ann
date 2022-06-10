@@ -1,0 +1,8 @@
+T2	Family_Member 48 52	mamá
+T3	Family_Member 55 59	papá
+T1	Disease 4 42	retardo en la adquisición del lenguaje
+T4	Sign_or_Symptom 64 85	obedece instrucciones
+A1	Negated T4
+T5	Disease 110 120	hipoacusia
+T6	Sign_or_Symptom 126 168	respuesta disminuída a estímulos auditivos
+T7	Disease 169 179	HIPOACUSIA

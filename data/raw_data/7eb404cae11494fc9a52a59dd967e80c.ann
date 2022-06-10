@@ -1,0 +1,4 @@
+T1	Clinical_Finding 56 73	buen reborde oseo
+T2	Clinical_Finding 78 98	portador de protesis
+A1	Negated T2
+T3	Disease 100 120	dentado parcialmente

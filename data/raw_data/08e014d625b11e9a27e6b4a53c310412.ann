@@ -1,0 +1,9 @@
+T1	Abbreviation 23 26	DHC
+T2	Abbreviation 61 65	ANTC
+T3	Abbreviation 69 71	DM
+T4	Abbreviation 74 78	ANTC
+T5	Abbreviation 89 91	IC
+T6	Disease 0 4	K740
+T7	Disease 5 22	FIBROSIS HEPATICA
+T8	Disease 23 34	DHC CHILD C
+T9	Diagnostic_Procedure 38 60	ESTUDIO PRE TRASPLANTE

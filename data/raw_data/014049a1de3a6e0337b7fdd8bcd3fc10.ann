@@ -1,0 +1,15 @@
+T1	Body_Part 21 27	HOMBRO
+T2	Body_Part 83 99	hombro izquierdo
+T3	Body_Part 117 133	miembro inferior
+T4	Medication 168 179	analgesicos
+T5	Sign_or_Symptom 52 147	dolro de moderada intensida en hombro izquierdo que se irradia a miembro inferior de mismo lado
+T6	Sign_or_Symptom 152 179	cede sintomas a analgesicos
+A1	Negated T6
+T7	Therapeutic_Procedure 239 263	ejercicios de relajacion
+T8	Therapeutic_Procedure 266 282	terapia calorica
+T9	Sign_or_Symptom 326 331	masas
+A2	Negated T9
+T10	Sign_or_Symptom 335 377	deformaciones en estructura antes descrita
+A3	Negated T10
+T11	Disease 2 27	OTRAS LESIONES DEL HOMBRO
+T12	Therapeutic_Procedure 196 224	Kinesiologia por 10 sesiones

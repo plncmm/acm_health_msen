@@ -1,0 +1,9 @@
+T1	Abbreviation 77 80	APS
+T2	Abbreviation 150 154	HIPO
+T3	Abbreviation 155 160	MICRO
+T4	Disease 2 53	HEMATURIA RECURRENTE Y PERSISTENTE, NO ESPECIFICADA
+T5	Disease 95 109	ANEMIA CRONICA
+T6	Laboratory_or_Test_Result 150 154	HIPO
+T7	Laboratory_or_Test_Result 155 160	MICRO
+T8	Disease 203 209	ANEMIA
+T9	Sign_or_Symptom 222 231	DORSALGIA

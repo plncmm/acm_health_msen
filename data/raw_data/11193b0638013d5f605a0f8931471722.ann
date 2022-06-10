@@ -1,0 +1,36 @@
+T1	Body_Part 55 62	TRAQUEA
+T2	Body_Part 71 80	BRONQUIOS
+T3	Body_Part 87 93	PULMÓN
+T4	Body_Part 283 288	tórax
+T5	Body_Part 360 396	tercio superior del pulmón izquierdo
+T6	Body_Part 490 501	Ao torácica
+T7	Body_Part 550 556	cayado
+T8	Body_Part 558 564	Hilios
+T9	Body_Part 691 696	Tórax
+T10	Abbreviation 490 492	Ao
+T11	Disease 128 131	HTA
+T12	Disease 133 147	Hipotiroidismo
+T13	Disease 149 160	Gonartrosis
+T14	Disease 246 249	TBC
+T15	Abbreviation 128 131	HTA
+T18	Abbreviation 246 249	TBC
+T16	Abbreviation 164 167	tto
+T17	Abbreviation 238 241	tto
+T19	Abbreviation 337 339	mm
+T20	Abbreviation 688 690	TC
+T21	Disease 2 93	TUMOR DE COMPORTAMIENTO INCIERTO O DESCONOCIDO DE LA TRAQUEA, DE LOS BRONQUIOS Y DEL PULMÓN
+T22	Sign_or_Symptom 182 194	asintomatica
+A1	Negated T22
+T23	Diagnostic_Procedure 271 288	Radiografía tórax
+T24	Diagnostic_Procedure 204 223	estudio de contacto
+T25	Laboratory_or_Test_Result 298 396	Opacidad nodular de aproximandamente 15mm sobre proyectada al tercio superior del pulmón izquierdo
+R1	Has Arg1:T23 Arg2:T25	
+T26	Laboratory_or_Test_Result 490 556	Ao torácica con algunas calcificaciones murales a nivel del cayado
+R2	Has Arg1:T23 Arg2:T26	
+T27	Laboratory_or_Test_Result 558 606	Hilios levemente prominentes de aspecto vascular
+R3	Has Arg1:T23 Arg2:T27	
+T28	Sign_or_Symptom 610 637	examen fisico sin hallazgos
+T29	Diagnostic_Procedure 688 696	TC Tórax
+T30	Diagnostic_Procedure 722 734	radiografías
+T31	Family_Member 228 234	esposo
+R4	Has Arg1:T31 Arg2:T14	

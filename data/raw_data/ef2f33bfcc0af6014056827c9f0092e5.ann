@@ -1,0 +1,7 @@
+T1	Clinical_Finding 0 9	MULTIPARA
+T2	Clinical_Finding 12 20	EMBARAZO
+T3	Laboratory_Procedure 32 41	SEROLOGIA
+T4	Laboratory_or_Test_Result 42 50	POSITIVA
+R1	Has Arg1:T3 Arg2:T4	
+T5	Disease 64 76	INFERTILIDAD
+T6	Disease 90 99	DEPRESION

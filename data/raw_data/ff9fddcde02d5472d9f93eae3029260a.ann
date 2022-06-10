@@ -1,0 +1,17 @@
+T1	Family_Member 81 86	Madre
+T2	Body_Part 185 189	ojos
+T3	Family_Member 191 196	Madre
+T4	Family_Member 460 465	madre
+T5	Disease 2 35	OTROS TRASTORNOS DE LA REFRACCIÓN
+T6	Sign_or_Symptom 112 118	mareos
+T7	Sign_or_Symptom 120 128	cefaleas
+T8	Sign_or_Symptom 130 143	le cuesta ver
+T9	Sign_or_Symptom 145 155	ve borroso
+T10	Sign_or_Symptom 175 189	rasca los ojos
+T11	Disease 223 246	trastorno de refracción
+A1	Implicit_Family_Background T11
+T12	Clinical_Finding 330 336	lentes
+T13	Clinical_Finding 55 67	antecedentes
+A2	Negated T13
+T14	Clinical_Finding 71 79	alergias
+A3	Negated T14

@@ -1,0 +1,5 @@
+T1	Abbreviation 87 90	ROM
+T2	Body_Part 103 123	incisivos inferiores
+T3	Disease 0 38	Desdentada parcial superior e inferior
+T4	Clinical_Finding 53 70	prótesis superior
+T5	Sign_or_Symptom 87 123	ROM avanzada en incisivos inferiores

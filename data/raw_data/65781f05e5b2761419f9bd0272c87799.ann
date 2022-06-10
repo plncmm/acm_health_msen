@@ -1,0 +1,25 @@
+T1	Medication 105 110	aines
+T2	Body_Part 207 214	espalda
+T3	Body_Part 277 286	metatarso
+T4	Body_Part 301 308	ortejos
+T5	Body_Part 362 366	piel
+T6	Body_Part 2 8	HALLUX
+T7	Body_Part 131 137	hallux
+T8	Abbreviation 105 110	aines
+T9	Abbreviation 156 158	rx
+T10	Abbreviation 217 219	rx
+T11	Abbreviation 238 240	dg
+T12	Abbreviation 244 246	ex
+T13	Abbreviation 248 251	fco
+T14	Disease 2 26	HALLUX VALGUS (ADQUIRIDO
+T15	Sign_or_Symptom 64 76	dolor lumbar
+T16	Disease 131 144	hallux valgus
+T17	Diagnostic_Procedure 156 169	rx de control
+T18	Sign_or_Symptom 179 214	alivio parcial del dolor de espalda
+T19	Diagnostic_Procedure 217 219	rx
+T20	Laboratory_or_Test_Result 220 240	compatible con el dg
+R1	Has Arg1:T19 Arg2:T20	
+T21	Sign_or_Symptom 253 298	deformidad evidente con metatarso en en valgo
+T22	Sign_or_Symptom 301 332	ortejos montados uno sobre otro
+T23	Sign_or_Symptom 334 398	Alteraciones troficas de la piel secundarias al roce del calzado
+T24	Abbreviation 96 102	grales

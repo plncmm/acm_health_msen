@@ -1,0 +1,14 @@
+T1	Disease 0 20	DIABETES GESTACIONAL
+T2	Abbreviation 21 22	M
+T3	Clinical_Finding 21 23	M1
+T4	Clinical_Finding 24 32	EMBARAZO
+T5	Abbreviation 36 39	SEM
+T6	Abbreviation 57 58;60 61;63 64	G P A
+T9	Clinical_Finding 57 59	G1
+T10	Clinical_Finding 60 62	P1
+T11	Clinical_Finding 63 65	A0
+T13	Abbreviation 80 83	SEM
+T14	Disease 85 113	FETO C/ OBS DE MAL FORMACION
+T7	Abbreviation 90 92	C/
+T8	Abbreviation 93 96	OBS
+T12	Clinical_Finding 68 76	EMBARAZO

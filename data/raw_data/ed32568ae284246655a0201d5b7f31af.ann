@@ -1,0 +1,9 @@
+T1	Body_Part 15 29	DISCO CERVICAL
+T2	Abbreviation 94 97	APS
+T3	Body_Part 127 134	hombros
+T4	Abbreviation 141 145	evol
+T5	Body_Part 160 174	disco cervical
+T6	Disease 2 47	TRASTORNO DE DISCO CERVICAL CON RADICULOPATÍA
+T7	Disease 47 69	cervicalgia en estudio
+T8	Sign_or_Symptom 99 134	dolor cervical irradiado  a hombros
+T9	Disease 147 192	Trastorno de disco cervical con radiculopatia

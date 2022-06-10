@@ -1,0 +1,9 @@
+T1	Abbreviation 13 15	TX
+T2	Abbreviation 23 25	OI
+T3	Body_Part 23 25	OI
+T4	Body_Part 53 65	GLOBO OCULAR
+T5	Abbreviation 110 111	>
+T6	Disease 13 25	TX OCULAR OI
+T7	Sign_or_Symptom 42 65	PERDIDA DE GLOBO OCULAR
+T8	Therapeutic_Procedure 96 104	PROTESIS
+A1	Pending T8

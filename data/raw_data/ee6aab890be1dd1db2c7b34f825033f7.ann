@@ -1,0 +1,12 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Abbreviation 44 47	APS
+T3	Disease 82 103	Hipertensión arterial
+T4	Disease 105 113	diabetes
+T5	Disease 135 139	asma
+T6	Disease 141 155	hipotiroidismo
+T7	Disease 157 169	dislipidemia
+T8	Disease 171 210	Desdentada parcial maxilar y mandibular
+T9	Therapeutic_Procedure 239 277	confección de juego prótesis parciales
+A1	Pending T9
+T10	Disease 280 356	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T11	Body_Part 318 325	dientes

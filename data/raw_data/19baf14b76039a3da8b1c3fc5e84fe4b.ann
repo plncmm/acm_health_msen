@@ -1,0 +1,14 @@
+T1	Disease 0 8	GLAUCOMA
+T3	Body_Part 18 29	OJO DERECHO
+T5	Disease 73 92	OJO IZQUIERDO CIEGO
+T6	Abbreviation 93 96	ACX
+T7	Medication 93 95	AC
+T8	Disease 97 99	FA
+T9	Abbreviation 103 107	TACO
+T10	Abbreviation 108 111	HTA
+T11	Disease 108 111	HTA
+T12	Medication 103 107	TACO
+T13	Abbreviation 97 99	FA
+T14	Body_Part 73 86	OJO IZQUIERDO
+T15	Sign_or_Symptom 63 72	OJO UNICO
+T17	Body_Part 63 66	OJO

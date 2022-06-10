@@ -1,0 +1,13 @@
+T1	Body_Part 53 58	COLON
+T2	Abbreviation 105 108	APS
+T3	Abbreviation 291 295	atte
+T4	Abbreviation 178 183	kilos
+T5	Abbreviation 237 238	+
+T6	Laboratory_or_Test_Result 14 30	hemorragia oulta
+T7	Disease 35 81	TUMOR MALIGNO DEL COLON, PARTE NO ESPECIFICADA
+T8	Clinical_Finding 123 144	antecedentes morbidos
+A1	Negated T8
+T9	Sign_or_Symptom 159 171	baja de peso
+T10	Laboratory_or_Test_Result 217 236	hemorragias ocultas
+T11	Diagnostic_Procedure 277 289	colonoscopia
+A2	Pending T11

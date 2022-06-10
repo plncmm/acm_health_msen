@@ -1,0 +1,6 @@
+T1	Abbreviation 27 32	p.s.r
+T3	Disease 2 23	PERIODONTITIS CRÓNICA
+T4	Diagnostic_Procedure 27 32	p.s.r
+T2	Sign_or_Symptom 62 69	biofilm
+T5	Sign_or_Symptom 71 90	sacos periodontales
+T6	Therapeutic_Procedure 104 115	destartraje

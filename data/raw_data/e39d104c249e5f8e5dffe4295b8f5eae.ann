@@ -1,0 +1,9 @@
+T1	Abbreviation 33 36	APS
+T2	Disease 2 9	CEFALEA
+T3	Sign_or_Symptom 98 159	cefalea frontoparietal a diario en la tarde, de tipo opresivo
+T4	Sign_or_Symptom 165 171	mareos
+T5	Sign_or_Symptom 177 184	nauseas
+A1	Negated T5
+T6	Sign_or_Symptom 186 193	vomitos
+T7	Clinical_Finding 216 223	afebril
+T8	Clinical_Finding 236 242	lentes

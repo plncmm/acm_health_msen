@@ -1,0 +1,7 @@
+T1	Body_Part 10 39	Extremidad inferior izquierda
+T2	Body_Part 61 84	extremidades inferiores
+T3	Abbreviation 104 107	HTA
+T4	Disease 0 39	celulitis Extremidad inferior izquierda
+T5	Sign_or_Symptom 41 84	Edema cronico ambas extremidades inferiores
+T6	Disease 86 102	obesidad Morbida
+T7	Disease 104 107	HTA

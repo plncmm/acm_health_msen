@@ -1,0 +1,5 @@
+T1	Abbreviation 14 16	dg
+T2	Abbreviation 20 22	RM
+T3	Disease 20 40	RM moderado a severo
+T4	Sign_or_Symptom 42 52	Compensado
+T5	Medication 91 116	tratamiento farmacologico

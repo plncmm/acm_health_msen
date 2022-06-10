@@ -1,0 +1,6 @@
+T1	Disease 2 11	PTERIGION
+T2	Sign_or_Symptom 18 79	ojo rojo frecuente sin mejores resultados con tto lubricantes
+T3	Abbreviation 64 67	tto
+#1	AnnotatorNotes T3	tratamiento
+T4	Body_Part 18 21	ojo
+T5	Medication 68 79	lubricantes

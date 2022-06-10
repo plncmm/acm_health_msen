@@ -1,0 +1,5 @@
+T3	Sign_or_Symptom 0 13	HIPERMENORREA
+T4	Sign_or_Symptom 16 49	Menstruación excesiva y frecuente
+T5	Clinical_Finding 54 67	ciclo regular
+T1	Disease 97 128	Hipotiroidismo, no especificado
+T2	Disease 69 94	HIPOTIROIDISMO SUBCLINICO

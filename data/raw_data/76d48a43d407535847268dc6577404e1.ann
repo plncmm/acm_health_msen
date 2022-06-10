@@ -1,0 +1,23 @@
+T1	Abbreviation 63 66	HTA
+T2	Abbreviation 101 104	NTD
+T3	Abbreviation 106 109	ATV
+T4	Abbreviation 111 114	FLX
+T5	Medication 101 104	NTD
+T6	Medication 106 109	ATV
+T7	Medication 111 114	FLX
+T8	Medication 117 128	neurobionta
+T9	Body_Part 164 175	mejilla izq
+T10	Abbreviation 172 175	izq
+T11	Abbreviation 188 193	aprox
+T12	Abbreviation 294 299	aprox
+T13	Abbreviation 310 312	cm
+T14	Medication 330 335	AINES
+T15	Abbreviation 330 335	AINES
+T16	Abbreviation 391 393	cm
+T17	Abbreviation 394 399	aprox
+T19	Disease 63 66	HTA
+T20	Disease 69 81	fibromialgia
+T21	Sign_or_Symptom 151 175	espinilla en mejilla izq
+T22	Sign_or_Symptom 249 290	lesión redondeada eritematosa solevantada
+T18	Disease 2 19	GRANULOMA PIÓGENO
+T23	Therapeutic_Procedure 338 349	calor local

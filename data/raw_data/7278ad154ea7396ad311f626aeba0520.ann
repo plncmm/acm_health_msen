@@ -1,0 +1,8 @@
+T1	Body_Part 0 10	diente 4.6
+T2	Medication 87 91	PMCF
+T4	Abbreviation 87 91	PMCF
+T5	Disease 53 60	absceso
+T6	Sign_or_Symptom 15 38	restauración penetrante
+T7	Sign_or_Symptom 41 60	historia de absceso
+T8	Therapeutic_Procedure 65 72	trepana
+T3	Therapeutic_Procedure 94 123	obturación temporal de fermin

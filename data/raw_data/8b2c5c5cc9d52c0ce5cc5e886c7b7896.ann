@@ -1,0 +1,9 @@
+T1	Abbreviation 34 38	ADAC
+T2	Abbreviation 71 75	Adac
+T3	Abbreviation 80 82	Rx
+T4	Body_Part 149 163	apice diente 5
+T5	Disease 2 39	ABSCESO DENTO ALVEOLAR CRÓNICO (ADAC)
+T6	Disease 39 76	Absceso Dento Alveolar Crónico (Adac)
+T7	Diagnostic_Procedure 80 93	Rx panorámica
+T8	Laboratory_or_Test_Result 105 163	lesión radiolucida periapical en realción a apice diente 5
+R1	Has Arg1:T7 Arg2:T8	

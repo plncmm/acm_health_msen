@@ -1,0 +1,8 @@
+T1	Clinical_Finding 9 27	clase I esqueletal
+T2	Sign_or_Symptom 29 72	apiñamiento leve superior y severo inferior
+T3	Disease 29 40	apiñamiento
+T4	Body_Part 74 83	pieza 3.3
+T5	Sign_or_Symptom 74 104	pieza 3.3 ectopica. Vestibular
+T6	Sign_or_Symptom 106 122	oucejt aumentodo
+T7	Abbreviation 134 136	mm
+T8	Abbreviation 124 129	aprox

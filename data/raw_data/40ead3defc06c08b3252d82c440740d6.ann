@@ -1,0 +1,8 @@
+T1	Abbreviation 58 60	rx
+T2	Abbreviation 138 141	TAC
+T3	Diagnostic_Procedure 58 72	rx. panorámica
+T4	Laboratory_or_Test_Result 73 97	no se observan anomalías
+R1	Has Arg1:T3 Arg2:T4	
+T5	Diagnostic_Procedure 138 141	TAC
+T6	Sign_or_Symptom 0 16	Mordida cubierta
+A1	Pending T5

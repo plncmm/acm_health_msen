@@ -1,0 +1,4 @@
+T1	Therapeutic_Procedure 35 42	CORONAS
+A1	Pending T1
+T2	Body_Part 46 60	PIEZAS 11 Y 21
+T3	Therapeutic_Procedure 82 107	TRATAMIENTO DE ENDODONCIA

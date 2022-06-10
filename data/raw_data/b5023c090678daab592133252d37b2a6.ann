@@ -1,0 +1,12 @@
+T1	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T2	Abbreviation 52 55	APS
+T3	Disease 86 113	CARIES PROFUNDA SINTOMATICA
+T4	Therapeutic_Procedure 126 137	TREPANACION
+T5	Abbreviation 138 141	PZA
+T6	Body_Part 138 143	PZA 4
+T7	Therapeutic_Procedure 145 163	IIRIGADA CON SUERO
+T8	Medication 158 163	SUERO
+T9	Clinical_Finding 164 175	HASTA Nº 30
+T10	Abbreviation 217 220	TTO
+T11	Disease 221 241	Caries de la dentina
+T12	Body_Part 234 241	dentina

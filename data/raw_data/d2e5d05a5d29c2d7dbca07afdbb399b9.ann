@@ -1,0 +1,19 @@
+T1	Body_Part 35 45	CRISTALINO
+T2	Abbreviation 110 112	DM
+T3	Abbreviation 116 118	IR
+T4	Abbreviation 122 125	HTA
+T5	Abbreviation 171 172	-
+T6	Abbreviation 173 175	Oh
+T7	Abbreviation 177 178	-
+T8	Disease 2 88	CATARATAS Y OTROS TRASTORNOS DEL CRISTALINO EN ENFERMEDADES CLASIFICADAS EN OTRA PARTE
+T9	Disease 110 112	DM
+T10	Disease 122 125	HTA
+T11	Disease 129 161	enfermedad pulmonar no precisada
+T12	Disease 208 226	Volvulo intestinal
+T13	Therapeutic_Procedure 227 234	operado
+T14	Clinical_Finding 236 244	Alergías
+A1	Negated T14
+T15	Clinical_Finding 173 175	Oh
+A2	Negated T15
+T16	Clinical_Finding 163 169	Tabaco
+A3	Negated T16

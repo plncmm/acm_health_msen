@@ -1,0 +1,8 @@
+T1	Body_Part 139 145	cuerpo
+T2	Body_Part 148 152	cara
+T3	Disease 2 10	VITILIGO
+T4	Disease 208 216	Vitiligo
+T5	Abbreviation 34 37	APS
+T6	Sign_or_Symptom 111 152	manchas hipopigmentadas  en cuerpo y cara
+T7	Clinical_Finding 63 84	antecedentes morbidos
+A1	Negated T7

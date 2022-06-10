@@ -1,0 +1,8 @@
+T1	Abbreviation 0 1	G
+T2	Abbreviation 2 3	P
+T3	Abbreviation 4 5	A
+T4	Clinical_Finding 0 6	G4P3A1
+T5	Disease 9 55	INCONTINENCIA URINARIA DE ESFUERZO Y VERDADERA
+T6	Disease 58 78	INCONTINENCIA RECTAL
+T7	Disease 81 89	PROLAPSO
+T8	Therapeutic_Procedure 90 97	OPERADO

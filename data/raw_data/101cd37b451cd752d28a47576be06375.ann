@@ -1,0 +1,7 @@
+T4	Disease 79 94	AVULSION DIENTE
+T6	Disease 98 124	Traumatismo dento alveolar
+T10	Disease 55 78	FRACTURA DIENTE 24 Y 26
+T2	Body_Part 110 124	dento alveolar
+T3	Body_Part 88 94;95 97	DIENTE 25
+T7	Disease 15 24	ATROPELLO
+T5	Body_Part 64 78	DIENTE 24 Y 26

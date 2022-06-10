@@ -1,0 +1,5 @@
+T1	Body_Part 0 7	pieza 7
+T2	Laboratory_or_Test_Result 0 26	pieza 7 camara calcificada
+T3	Clinical_Finding 39 47	ionomero
+T4	Therapeutic_Procedure 58 68	se trepana
+T5	Disease 70 103	periodontitis apical asintomatica

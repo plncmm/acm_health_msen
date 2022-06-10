@@ -1,0 +1,11 @@
+T1	Body_Part 18 27	diente 32
+T2	Abbreviation 52 55	Obs
+T4	Body_Part 80 89	diente 31
+T5	Body_Part 91 98	Dientes
+T6	Therapeutic_Procedure 8 17	exodoncia
+A1	Pending T6
+T7	Disease 29 49	incluido e impactado
+T8	Sign_or_Symptom 57 73	Saco periodontal
+T9	Disease 91 108	Dientes incluidos
+T3	Abbreviation 74 76	DV
+T10	Abbreviation 77 79	DL

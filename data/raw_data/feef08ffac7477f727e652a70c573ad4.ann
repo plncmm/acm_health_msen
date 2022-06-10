@@ -1,0 +1,6 @@
+T1	Body_Part 11 18	dientes
+T2	Disease 52 74	enfermedad periodental
+T3	Therapeutic_Procedure 39 49	extraccion
+A1	Pending T3
+T4	Disease 75 105	desdentada superior e inferior
+T5	Disease 0 74	perdida de dientes debida  a accidente,extraccion o enfermedad periodental

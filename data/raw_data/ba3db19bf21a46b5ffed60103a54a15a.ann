@@ -1,0 +1,9 @@
+T1	Disease 2 39	ABSCESO DENTO ALVEOLAR CRÓNICO (ADAC)
+T2	Abbreviation 63 66	APS
+T3	Body_Part 68 77	pieza 1.1
+T4	Therapeutic_Procedure 78 87	trepanada
+T5	Sign_or_Symptom 98 116	fistula vestibular
+T6	Disease 119 128	Celulitis
+T7	Disease 131 146	absceso de boca
+T8	Body_Part 142 146	boca
+T9	Abbreviation 34 38	ADAC

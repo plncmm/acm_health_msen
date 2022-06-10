@@ -1,0 +1,8 @@
+T1	Disease 2 15	CARIES DENTAL
+T2	Abbreviation 39 42	APS
+T3	Abbreviation 44 49	pacte
+T4	Laboratory_or_Test_Result 54 78	restauraciones profundas
+T5	Sign_or_Symptom 90 118	dolor en dientes 1.1-2.1-2.2
+T6	Body_Part 99 118	dientes 1.1-2.1-2.2
+T7	Disease 119 132	Caries dental
+T8	Therapeutic_Procedure 54 68	restauraciones

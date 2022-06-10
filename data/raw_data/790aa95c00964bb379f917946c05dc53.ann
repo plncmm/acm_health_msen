@@ -1,0 +1,9 @@
+T1	Body_Part 73 78	ÚTERO
+T2	Abbreviation 207 211	poli
+T3	Abbreviation 212 216	gine
+T4	Medication 292 305	Depoprodazone
+T5	Disease 2 55	HEMORRAGIA VAGINAL Y UTERINA ANORMAL, NO ESPECIFICADA
+T6	Disease 59 78	LEIOMIOMA DEL ÚTERO
+T7	Therapeutic_Procedure 86 110	esterilizacion Quirugica
+T8	Disease 147 165	miomatosis uterina
+T9	Sign_or_Symptom 226 247	menstruacion excesiva

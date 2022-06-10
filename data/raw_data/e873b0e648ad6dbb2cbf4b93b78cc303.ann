@@ -1,0 +1,29 @@
+T1	Disease 2 38	TRASTORNO DE LA CONDUCTA ALIMENTARIA
+T2	Sign_or_Symptom 182 191	BAJO PESO
+T3	Sign_or_Symptom 207 219	POCO APETITO
+T4	Sign_or_Symptom 401 460	ACUSA MALESTAR ESTOMACAL CON EL FIN DE SALTARSE LAS COMIDAS
+T5	Sign_or_Symptom 487 494	VOMITOS
+T6	Sign_or_Symptom 619 635	GANANCIA DE PESO
+A1	Negated T6
+T7	Sign_or_Symptom 604 613	IMC: 16.7
+T8	Abbreviation 62 65	APS
+#1	AnnotatorNotes T8	atención primaria de salud
+T9	Abbreviation 586 587	P
+#2	AnnotatorNotes T9	peso
+T10	Abbreviation 591 593	KG
+#3	AnnotatorNotes T10	kilogramos
+T11	Abbreviation 594 595	T
+#4	AnnotatorNotes T11	estatura
+T12	Abbreviation 601 603	MT
+#5	AnnotatorNotes T12	metros
+T13	Abbreviation 604 607	IMC
+#6	AnnotatorNotes T13	índice de masa corporal
+T14	Family_Member 148 153	MADRE
+T15	Family_Member 308 313	MADRE
+T16	Sign_or_Symptom 221 241	DIFICIL COMUNICACION
+T17	Clinical_Finding 75 96	ANTECEDENTES MORBIDOS
+A2	Negated T17
+T18	Sign_or_Symptom 259 303	IDENTIFICA PROBLEMAS O RIESGO EN SU CONDUCTA
+A3	Negated T18
+T19	Sign_or_Symptom 347 374	SELECTIVA CON LOS ALIMENTOS
+T20	Sign_or_Symptom 564 584	INDUCIENDO EL VOMITO

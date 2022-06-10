@@ -1,0 +1,13 @@
+T1	Disease 4 43	CARDIOPATIA (MIXTA ESTATICA) CON FE A/P
+T2	Disease 51 54	SCA
+T3	Disease 65 79	ANGINA ESTABLE
+T4	Disease 98 101	HTA
+T5	Disease 120 128	ISQUEMIA
+T6	Abbreviation 0 2	DG
+#1	AnnotatorNotes T6	diagnóstico
+T7	Abbreviation 51 54	SCA
+#2	AnnotatorNotes T7	síndrome coronario agudo
+T8	Abbreviation 98 101	HTA
+#3	AnnotatorNotes T8	hipertensión arterial
+T9	Abbreviation 37 39	FE
+#4	AnnotatorNotes T9	fracción de eyección

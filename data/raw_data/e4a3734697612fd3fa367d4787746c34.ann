@@ -1,0 +1,15 @@
+T1	Disease 2 37	NÓDULO TIROIDEO SOLITARIO NO TÓXICO
+T2	Disease 80 83	HTA
+T3	Disease 85 92	DMTIPO2
+T4	Disease 97 109	DISLIPIDEMIA
+T5	Disease 111 125	HIPOTIROIDISMO
+T6	Abbreviation 80 83	HTA
+#1	AnnotatorNotes T6	hipertensión arterial
+T7	Abbreviation 85 87	DM
+#2	AnnotatorNotes T7	diabetes mellitus
+T8	Abbreviation 92 95	NIR
+#3	AnnotatorNotes T8	no insulino requiriente
+T9	Abbreviation 179 185	TIRADS
+#4	AnnotatorNotes T9	imagenología tiroidea - sistema de reporte y datos
+T10	Laboratory_or_Test_Result 162 177	nodulo tiroideo
+T11	Laboratory_or_Test_Result 179 187	TIRADS 4

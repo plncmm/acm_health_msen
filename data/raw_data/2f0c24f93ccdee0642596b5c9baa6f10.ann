@@ -1,0 +1,6 @@
+T1	Abbreviation 63 64	+
+T2	Clinical_Finding 0 2	M3
+T3	Disease 4 27	INCONTINENECIA URINARIA
+T4	Abbreviation 0 2	M3
+T5	Sign_or_Symptom 29 57	PERDIDA DE ORINA AL ESFUERZO
+T6	Therapeutic_Procedure 74 92	EJERCICIO DE KEGEL

@@ -1,0 +1,8 @@
+T1	Disease 2 32	PERIODONTITIS CRÓNICA MODERADA
+T2	Abbreviation 56 59	APS
+T3	Abbreviation 61 66	pacte
+T4	Sign_or_Symptom 71 87	saco periodontal
+T5	Sign_or_Symptom 89 107	movilidad dentaria
+T6	Sign_or_Symptom 108 153	cambio en la posicion dentariarx perdida osea
+T7	Disease 155 176	Periodontitis cronica
+T8	Abbreviation 139 140	x

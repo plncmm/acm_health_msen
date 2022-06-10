@@ -1,0 +1,16 @@
+T1	Body_Part 68 71	COL
+T2	Abbreviation 48 51	PTA
+T3	Abbreviation 65 67	RX
+T4	Abbreviation 68 71	COL
+T5	Abbreviation 89 91	DG
+T6	Abbreviation 110 112	RX
+T7	Abbreviation 139 141	RX
+T8	Abbreviation 174 176	EX
+T9	Abbreviation 177 180	FCO
+T10	Diagnostic_Procedure 65 71	RX COL
+T11	Laboratory_or_Test_Result 95 105	ESCOLIOSIS
+R1	Has Arg1:T10 Arg2:T11	
+T12	Diagnostic_Procedure 110 112	RX
+T13	Diagnostic_Procedure 139 141	RX
+T14	Sign_or_Symptom 143 180	ESCOLIOSIS NO EVIDENCIABLE CON EX FCO
+T15	Disease 143 153	ESCOLIOSIS

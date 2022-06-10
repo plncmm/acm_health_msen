@@ -1,0 +1,9 @@
+T1	Body_Part 0 3	P 8
+T2	Abbreviation 0 1	P
+T4	Abbreviation 13 14	-
+T5	Abbreviation 97 100	OBS
+T6	Body_Part 113 123	ZONA P 8-9
+T7	Abbreviation 118 119	P
+T9	Laboratory_or_Test_Result 101 109	MESIODEN
+T10	Sign_or_Symptom 32 52	PERDIDA DE VITALIDAD
+T3	Sign_or_Symptom 54 91	DOLOR A LA PERCUSION Y A LA PALPACION

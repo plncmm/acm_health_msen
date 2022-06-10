@@ -1,0 +1,12 @@
+T1	Abbreviation 56 59	APS
+T2	Family_Member 61 66	madre
+T3	Family_Member 75 79	hijo
+T4	Disease 2 32	ESQUIZOFRENIA, NO ESPECIFICADA
+T5	Disease 114 137	retraso mental moderado
+T6	Sign_or_Symptom 157 181	alteraciones emocionales
+T7	Sign_or_Symptom 182 190	inquieto
+T8	Sign_or_Symptom 191 200	irritable
+T9	Sign_or_Symptom 201 206	tenso
+T10	Sign_or_Symptom 207 229	alteraciones del sueño
+T11	Sign_or_Symptom 230 247	cambio de actitud
+T12	Sign_or_Symptom 248 255	ansioso

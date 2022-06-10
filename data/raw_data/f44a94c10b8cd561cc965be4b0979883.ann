@@ -1,0 +1,12 @@
+T1	Abbreviation 71 74	APS
+T2	Body_Part 140 152	PZAS D-E-F-G
+T3	Abbreviation 140 144	PZAS
+T4	Body_Part 182 203	1º MOLARES TEMPORALES
+T5	Medication 279 290	AMOXICILINA
+T6	Body_Part 302 309	dientes
+T7	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T8	Disease 32 47	RESTO RADICULAR
+T9	Disease 101 118	CARIES  MULTIPLES
+T10	Sign_or_Symptom 123 152	ESTADO RADICULAR PZAS D-E-F-G
+T11	Sign_or_Symptom 155 203	GRAN DESTRUCCION CORONARIA 1º MOLARES TEMPORALES
+T12	Disease 292 371	erdida de dientes debida a accidente, extraccion o enfermedad periodontal local

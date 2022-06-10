@@ -1,0 +1,13 @@
+T1	Body_Part 0 7	P.  3.5
+T2	Abbreviation 0 1	P
+T3	Body_Part 36 41	PIEZA
+T4	Abbreviation 83 86	SIC
+T5	Abbreviation 135 138	TTO
+T6	Abbreviation 152 155	PZA
+T7	Body_Part 152 159	PZA. 10
+T8	Abbreviation 161 164	PTE
+T9	Sign_or_Symptom 9 31	PULPITIS  ERREVERSIBLE
+T10	Clinical_Finding 48 77	TERAPIA PREVIAMENTE  INICIADA
+T11	Clinical_Finding 171 201	TERAPIA  PREVIAMENTE  INICIADA
+T12	Therapeutic_Procedure 135 150	TTO. ENDODONCIA
+A1	Pending T12

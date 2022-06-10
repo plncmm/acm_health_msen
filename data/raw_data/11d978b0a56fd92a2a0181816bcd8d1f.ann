@@ -1,0 +1,6 @@
+T1	Therapeutic_Procedure 16 35	MASTECTOMIA PARCIAL
+T3	Body_Part 61 75	MAMA IZQUIERDA
+T2	Laboratory_or_Test_Result 40 75	MICRICALCIFICACIONES MAMA IZQUIERDA
+T4	Abbreviation 104 107	UPM
+T5	Abbreviation 144 150	CESFAM
+T6	Abbreviation 162 165	UPM

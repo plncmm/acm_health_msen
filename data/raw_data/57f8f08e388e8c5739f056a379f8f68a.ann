@@ -1,0 +1,8 @@
+T1	Body_Part 22 39	CAVIDAD ABDOMINAL
+T2	Body_Part 231 248	cavidad abdominal
+T3	Abbreviation 106 109	APS
+T4	Disease 2 82	OTRAS HERNIAS DE LA CAVIDAD ABDOMINAL ESPECIFICADAS, SIN OBSTRUCCIÓN NI GANGRENA
+T5	Disease 134 150	hernia abdominal
+T9	Disease 211 291	Otras hernias de la cavidad abdominal especificadas, sin obstruccion ni gangrena
+T6	Sign_or_Symptom 171 209	Hernia gigante, medial, supraumbilical
+T7	Disease 171 177	Hernia

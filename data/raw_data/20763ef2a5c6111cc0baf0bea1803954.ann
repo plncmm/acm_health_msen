@@ -1,0 +1,27 @@
+T1	Disease 123 133	PREMATUREZ
+T2	Abbreviation 45 48	APS
+#1	AnnotatorNotes T2	atención primaria de salud
+T3	Abbreviation 52 53	G
+#2	AnnotatorNotes T3	gestaciones
+T4	Abbreviation 54 55	P
+#3	AnnotatorNotes T4	partos
+T5	Abbreviation 56 57	A
+#4	AnnotatorNotes T5	abortos
+T6	Abbreviation 83 86	SEM
+#5	AnnotatorNotes T6	semanas
+T7	Abbreviation 118 121	ANT
+#6	AnnotatorNotes T7	antecedente
+T8	Abbreviation 91 94	FUR
+#7	AnnotatorNotes T8	fecha de la última regla.
+T9	Abbreviation 96 98	SD
+T10	Abbreviation 62 65	CCA
+#8	AnnotatorNotes T10	acrecentismo placentario
+#9	AnnotatorNotes T9	síndrome
+T11	Clinical_Finding 2 21	EMBARAZO CONFIRMADO
+T12	Clinical_Finding 134 153	Embarazo confirmado
+T13	Clinical_Finding 52 54	G6
+T14	Clinical_Finding 54 56	P3
+T15	Clinical_Finding 56 58	A2
+T16	Clinical_Finding 62 65	CCA
+T17	Clinical_Finding 67 75	EMBARAZO
+T18	Disease 96 116	SD. ANTIFOSFOLÍPIDOS

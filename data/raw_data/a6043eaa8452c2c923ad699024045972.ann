@@ -1,0 +1,9 @@
+T1	Disease 2 20	GINGIVITIS CRÓNICA
+T2	Disease 20 30	gingivitis
+T3	Abbreviation 54 57	APS
+T4	Disease 71 112	gingivitis cronico margino papilar severa
+T5	Sign_or_Symptom 118 152	agrandamiento gingival del grupo V
+T6	Body_Part 145 152	grupo V
+T7	Therapeutic_Procedure 165 190	destartraje supragingival
+T8	Clinical_Finding 192 220	reforzo tecnica de cepillado
+T9	Medication 251 262	clorexidina

@@ -1,0 +1,8 @@
+T1	Abbreviation 41 44	APS
+T2	Abbreviation 72 75	pza
+T3	Body_Part 72 79	pza 2.6
+T4	Body_Part 91 98	dientes
+T5	Disease 2 17	RESTO RADICULAR
+T6	Disease 46 61	Resto radicular
+T7	Sign_or_Symptom 46 71	Resto radicular submucoso
+T8	Disease 80 160	Perdida de dientes debida a accidente, extraccion o enfermedad periodontal local

@@ -1,0 +1,7 @@
+T1	Clinical_Finding 0 21	Clase I molar derecha
+T2	Sign_or_Symptom 23 46	Clase II molar isquiera
+T3	Sign_or_Symptom 47 65	over yet aumentado
+T4	Sign_or_Symptom 67 103	falta espacio sector antero superior
+T5	Body_Part 81 103	sector antero superior
+T6	Clinical_Finding 105 125	denticion definitiva
+T7	Body_Part 105 114	denticion

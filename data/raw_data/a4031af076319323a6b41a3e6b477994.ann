@@ -1,0 +1,7 @@
+T1	Abbreviation 9 12	ASA
+T2	Clinical_Finding 9 14	ASA 1
+T3	Therapeutic_Procedure 24 68	TRATAMIENTO EN LA ESPECIALIDAD DE ORTODONCIA
+A1	Pending T3
+T4	Sign_or_Symptom 83 99	FALTA DE ESPACIO
+T5	Sign_or_Symptom 102 122	APIÑAMIENTO DENTARIO
+T6	Disease 102 113	APIÑAMIENTO

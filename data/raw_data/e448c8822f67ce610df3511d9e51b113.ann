@@ -1,0 +1,21 @@
+T1	Abbreviation 113 116	APS
+T2	Abbreviation 155 158	DM2
+T3	Medication 170 178	Insulina
+T4	Abbreviation 181 184	HTA
+T5	Body_Part 250 261	Ojo Derecho
+T6	Body_Part 310 323	Ojo Izquierdo
+T7	Disease 2 23	RETINOPATÍA DIABÉTICA
+T8	Disease 27 35	GLAUCOMA
+T9	Disease 39 71	HIPERTENSIÓN ESENCIAL (PRIMARIA)
+T10	Disease 75 89	HIPOTIROIDISMO
+T11	Disease 155 158	DM2
+T12	Disease 181 184	HTA
+T13	Disease 185 198	Hipotirodismo
+T14	Laboratory_or_Test_Result 250 310	Ojo Derecho: retinopatia diabetica no proliferativa moderada
+T15	Laboratory_or_Test_Result 310 373	Ojo Izquierdo:  retinopatia diabetica no proliferativa moderada
+T16	Disease 431 439	glaucoma
+T17	Diagnostic_Procedure 462 482	Curva Tension ocular
+T18	Diagnostic_Procedure 490 501	paquimetria
+T19	Disease 525 546	Retinopatia diabetica
+T20	Disease 263 284	retinopatia diabetica
+T21	Disease 326 347	retinopatia diabetica

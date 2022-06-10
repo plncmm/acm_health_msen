@@ -1,0 +1,9 @@
+T1	Disease 2 27	FRACTURA CORONO RADICULAR
+T2	Diagnostic_Procedure 67 89	radiografia periapical
+T3	Body_Part 90 107	dientes 1.1 y 2.1
+T4	Sign_or_Symptom 132 146	fistula activa
+T5	Body_Part 150 173	vestibular a diente 1.1
+T6	Laboratory_or_Test_Result 204 254	fractura radicular en tercio apical del diente 1.1
+T7	Disease 204 222	fractura radicular
+T8	Body_Part 226 254	tercio apical del diente 1.1
+R1	Has Arg1:T2 Arg2:T6	

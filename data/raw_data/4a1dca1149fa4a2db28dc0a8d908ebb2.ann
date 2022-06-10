@@ -1,0 +1,13 @@
+T1	Abbreviation 40 44	DIAG
+T2	Abbreviation 57 60	HTA
+T3	Abbreviation 64 67	TTO
+T4	Abbreviation 72 76	CREA
+T5	Abbreviation 91 94	VFG
+T6	Abbreviation 101 103	ML
+T7	Disease 0 9	HEMATURIA
+T8	Disease 11 14	R31
+T9	Disease 16 25	HEMATURIA
+T10	Disease 57 60	HTA
+T11	Laboratory_Procedure 72 76	CREA
+T12	Laboratory_Procedure 91 94	VFG
+T13	Disease 105 125	HEMATURIA GLOMENULAR

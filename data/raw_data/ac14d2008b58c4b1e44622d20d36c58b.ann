@@ -1,0 +1,11 @@
+T1	Sign_or_Symptom 0 27	OD: Drusas fuera de arcadas
+T2	Sign_or_Symptom 28 101	OI: Membrana epiretinal Pseudoagujero macular Drusas fuera de las arcadas
+T3	Abbreviation 0 2	OD
+#1	AnnotatorNotes T3	oído derecho
+T4	Abbreviation 28 30	OI
+#2	AnnotatorNotes T4	oído izquierdo
+T5	Body_Part 0 2	OD
+T6	Body_Part 28 30	OI
+T7	Body_Part 20 27	arcadas
+T8	Body_Part 94 101	arcadas
+T9	Body_Part 32 51	Membrana epiretinal

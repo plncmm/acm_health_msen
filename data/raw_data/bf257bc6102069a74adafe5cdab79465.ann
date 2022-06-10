@@ -1,0 +1,13 @@
+T1	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T2	Abbreviation 54 57	APS
+T3	Laboratory_or_Test_Result 60 77	caries penetrante
+T4	Body_Part 78 81	2.4
+T5	Abbreviation 82 84	od
+T6	Therapeutic_Procedure 86 97	trepanacion
+T7	Medication 99 117	paramonoclorofenol
+T8	Body_Part 121 134	camara pulpar
+T9	Therapeutic_Procedure 99 134	paramonoclorofenol en camara pulpar
+T10	Clinical_Finding 136 167	obturacion provisoria de fermin
+T11	Abbreviation 180 183	SIC
+T12	Disease 212 230	Caries del cemento
+T13	Body_Part 223 230	cemento

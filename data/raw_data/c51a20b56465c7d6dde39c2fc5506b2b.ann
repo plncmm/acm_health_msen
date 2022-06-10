@@ -1,0 +1,5 @@
+T1	Abbreviation 46 49	Enf
+T2	Disease 46 58	Enf. Celiaca
+T3	Abbreviation 96 98	Dr
+T4	Diagnostic_Procedure 12 22	endoscopia
+A1	Pending T4

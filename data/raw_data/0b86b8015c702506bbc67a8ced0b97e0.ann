@@ -1,0 +1,8 @@
+T1	Disease 16 54	desdentado parcial superior e inferior
+T2	Abbreviation 55 59	pzas
+T3	Therapeutic_Procedure 130 158	rehabilitacion con implantes
+T4	Body_Part 164 180	maxilar inferior
+T5	Body_Part 220 237	maxilar cinferior
+T6	Therapeutic_Procedure 242 251	implantes
+A1	Pending T6
+A2	Pending T3

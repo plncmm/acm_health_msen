@@ -1,0 +1,9 @@
+T1	Disease 2 22	NECROSIS DE LA PULPA
+T2	Abbreviation 46 49	APS
+T3	Disease 51 66	necrosis pulpar
+T4	Laboratory_or_Test_Result 67 84	lesion apical 1.2
+T5	Body_Part 81 84	1.2
+T6	Disease 97 117	Necrosis de la pulpa
+T7	Therapeutic_Procedure 87 96	trepanada
+T8	Body_Part 112 117	pulpa
+T9	Body_Part 17 22	PULPA

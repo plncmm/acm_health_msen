@@ -1,0 +1,14 @@
+T1	Disease 0 4	K045
+T2	Disease 5 33	PERIODONTITIS APICAL CRONICA
+T3	Sign_or_Symptom 34 55	SEMIINCLUIDOS 17 Y 32
+T4	Body_Part 48 55	17 Y 32
+T5	Abbreviation 68 71	TTO
+T6	Therapeutic_Procedure 68 89	TTO POR PERICORONITIS
+T7	Abbreviation 93 96	APS
+T8	Sign_or_Symptom 121 136	DOLOR BILATERAL
+T9	Medication 149 154	AINES
+T10	Abbreviation 149 154	AINES
+T11	Abbreviation 161 165	ELEM
+T12	Clinical_Finding 161 176	ELEM DE HIGIENE
+A1	Pending T12
+T13	Abbreviation 155 158	SOS

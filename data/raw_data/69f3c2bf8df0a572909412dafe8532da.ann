@@ -1,0 +1,6 @@
+T1	Disease 2 20	ABSCESO PERIAPICAL
+T2	Sign_or_Symptom 25 32	FÍSTULA
+A1	Negated T2
+T3	Body_Part 39 45	Diente
+T4	Clinical_Finding 39 78	Diente con terapia previamente iniciada
+T5	Disease 80 106	absceso periapical crónico

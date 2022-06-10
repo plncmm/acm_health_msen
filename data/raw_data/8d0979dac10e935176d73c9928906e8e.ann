@@ -1,0 +1,9 @@
+T1	Body_Part 13 29	CUELLO DEL ÚTERO
+T2	Abbreviation 44 47	DIU
+T3	Abbreviation 49 52	Obs
+T4	Abbreviation 89 92	CCU
+T5	Disease 2 29	PÓLIPO DEL CUELLO DEL ÚTERO
+T6	Therapeutic_Procedure 44 47	DIU
+T7	Disease 53 72	polipo endocervical
+T8	Disease 89 92	CCU
+T9	Therapeutic_Procedure 105 116	crioterapia

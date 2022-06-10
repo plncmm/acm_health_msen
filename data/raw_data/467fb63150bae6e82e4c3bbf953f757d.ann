@@ -1,0 +1,11 @@
+T1	Medication 170 183	bromocriptina
+T2	Medication 186 197	cabergolina
+T3	Abbreviation 309 312	TSH
+T4	Medication 136 163	inhibidores de la lactancia
+T5	Abbreviation 297 299	PX
+T6	Disease 0 23	Galactorrea persistente
+T7	Therapeutic_Procedure 33 38	parto
+T8	Sign_or_Symptom 64 95	no ha tenido secreción lactante
+T9	Laboratory_Procedure 280 290	Protaclina
+T10	Laboratory_Procedure 297 308	PX tiroideo
+T11	Laboratory_Procedure 309 312	TSH

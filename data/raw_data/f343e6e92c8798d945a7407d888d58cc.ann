@@ -1,0 +1,18 @@
+T1	Abbreviation 57 60	APS
+#1	AnnotatorNotes T1	atención primaria de salud
+T2	Abbreviation 80 83	HTA
+#2	AnnotatorNotes T2	hipertensión arterial
+T3	Abbreviation 184 187	ecg
+#3	AnnotatorNotes T3	electrocardiograma
+T4	Disease 2 33	SOPLO CARDÍACO, NO ESPECIFICADO
+T5	Disease 80 83	HTA
+T6	Sign_or_Symptom 102 136	SINTOMAS DE INSUFICIENCIA CARDIACA
+T7	Disease 114 136	INSUFICIENCIA CARDIACA
+T8	Sign_or_Symptom 248 304	soplo mitral ii/ vi, sisitolico, sin irradaicion , agudo
+T9	Disease 346 377	Soplo cardiaco, no especificado
+A1	Negated T6
+T10	Laboratory_or_Test_Result 192 218	bloqueo de primer grado av
+T11	Clinical_Finding 138 150	ASINTOMATICO
+T12	Diagnostic_Procedure 184 187	ecg
+R1	Has Arg1:T12 Arg2:T10	
+T13	Abbreviation 216 218	av

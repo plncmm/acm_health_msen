@@ -1,0 +1,5 @@
+T1	Sign_or_Symptom 1 46	COMPRENSION bimaxilar CON APIÑAMIENTO MARCADO
+T2	Disease 27 38	APIÑAMIENTO
+T3	Clinical_Finding 47 62	clase I DERECHO
+T4	Sign_or_Symptom 63 82	clase III IZQUIERDA
+T5	Sign_or_Symptom 83 108	MORDIDA CRUZADA izquierda

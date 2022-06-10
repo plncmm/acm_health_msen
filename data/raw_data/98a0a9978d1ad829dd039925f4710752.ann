@@ -1,0 +1,8 @@
+T1	Disease 2 30	PERIODONTITIS CRÓNICA SEVERA
+T2	Abbreviation 54 57	APS
+T3	Sign_or_Symptom 79 100	movilidad grado 2 y 3
+T4	Sign_or_Symptom 102 121	sacos periodontales
+T5	Sign_or_Symptom 123 135	mala higiene
+T6	Sign_or_Symptom 137 156	absceso periodontal
+T7	Medication 174 186	metronidazol
+T8	Disease 188 209	Periodontitis cronica

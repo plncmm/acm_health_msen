@@ -1,0 +1,5 @@
+T1	Disease 13 24	apiñamiento
+T2	Sign_or_Symptom 13 31	apiñamiento severo
+T3	Therapeutic_Procedure 58 83	tratamiento de ortodoncia
+T4	Disease 169 189	MALOCLUSION DENTARIA
+A1	Pending T3

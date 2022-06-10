@@ -1,0 +1,11 @@
+T1	Abbreviation 49 52	TTO
+T2	Abbreviation 103 106	MAC
+T3	Abbreviation 0 1	M
+T4	Family_Member 21 25	HIJO
+T5	Abbreviation 26 27	C
+T6	Clinical_Finding 0 2	M1
+T7	Disease 3 20	ANEMIA SECUNDARIA
+T8	Disease 28 45	TETRABOGUI FALLOP
+R1	Has Arg1:T4 Arg2:T8	
+T9	Disease 53 76	INFERTILIDAD SECUNDARIA
+T10	Disease 77 98	RESISTENTE A INSULINA

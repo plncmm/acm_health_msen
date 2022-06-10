@@ -1,0 +1,7 @@
+T1	Body_Part 101 108	pieza 6
+T2	Body_Part 58 65	pieza C
+T3	Disease 9 31	embarazada adolescente
+T4	Sign_or_Symptom 42 65	persistencia de pieza C
+T5	Diagnostic_Procedure 70 89	examen radiografico
+T6	Laboratory_or_Test_Result 101 138	pieza 6 incluida en mesioversion leve
+R1	Has Arg1:T5 Arg2:T6	

@@ -1,0 +1,5 @@
+T1	Abbreviation 37 40	TTO
+T2	Abbreviation 60 63	PZA
+T3	Body_Part 60 65	PZA 9
+T4	Clinical_Finding 66 75	TREPANADA
+T5	Laboratory_or_Test_Result 60 109	PZA 9 TREPANADA CON LESION OSTEOLITICA PERIAPICAL

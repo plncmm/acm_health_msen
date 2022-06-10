@@ -1,0 +1,6 @@
+T1	Body_Part 54 61	pieza 8
+T2	Body_Part 132 139	pieza 8
+T3	Sign_or_Symptom 22 61	dolor y cambio de coloracion en pieza 8
+T4	Diagnostic_Procedure 66 85	examen Radiografico
+T5	Laboratory_or_Test_Result 97 139	reabsorcion osea en zona distal de pieza 8
+R1	Has Arg1:T4 Arg2:T5	

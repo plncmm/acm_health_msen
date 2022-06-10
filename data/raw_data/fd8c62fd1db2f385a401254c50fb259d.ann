@@ -1,0 +1,16 @@
+T1	Body_Part 45 50	ÚTERO
+T2	Abbreviation 74 77	APS
+T3	Abbreviation 105 108	Obs
+T4	Abbreviation 79 80	G
+T5	Abbreviation 81 82	P
+T6	Abbreviation 83 84	A
+T7	Abbreviation 85 86	V
+T8	Disease 2 27	PROLAPSO GENITAL FEMENINO
+T10	Disease 31 50	LEIOMIOMA DEL ÚTERO
+T11	Clinical_Finding 79 81	G8
+T12	Clinical_Finding 81 83	P4
+T13	Clinical_Finding 83 85	A4
+T14	Clinical_Finding 85 87	V3
+T15	Disease 88 104	Prolapso uterino
+T16	Disease 110 120	miomatosis
+T17	Disease 121 146	Prolapso genital femenino

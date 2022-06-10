@@ -1,0 +1,4 @@
+T1	Disease 0 35	ANOMALIAS DE LA POSICION DEL DIENTE
+T2	Body_Part 29 35	DIENTE
+T3	Sign_or_Symptom 56 85	apiñamiento dentario anterior
+T4	Sign_or_Symptom 88 105	mordida vis a vis

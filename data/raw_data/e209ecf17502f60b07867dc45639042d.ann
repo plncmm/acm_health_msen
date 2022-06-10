@@ -1,0 +1,8 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Abbreviation 74 77	APS
+T3	Abbreviation 79 83	pcte
+T4	Disease 88 110	anomalias dentomaxilar
+T5	Abbreviation 112 116	pzas
+T6	Body_Part 112 126	pzas 1.2 y 2.2
+T7	Sign_or_Symptom 112 133	pzas 1.2 y 2.2 aladas
+T8	Disease 136 184	Anomalias dentofaciales (incluso la maloclusion)

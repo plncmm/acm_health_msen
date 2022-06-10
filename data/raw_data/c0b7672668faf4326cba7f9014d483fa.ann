@@ -1,0 +1,17 @@
+T1	Abbreviation 0 2	dg
+T2	Abbreviation 3 7	post
+T3	Abbreviation 8 10	op
+T4	Abbreviation 11 13	ca
+T5	Abbreviation 66 69	mtz
+T6	Medication 66 69	mtz
+T7	Body_Part 14 24	via biliar
+T8	Diagnostic_Procedure 33 49	biopsia hepatica
+T9	Laboratory_or_Test_Result 51 65	adenocarcinoma
+T10	Disease 51 65	adenocarcinoma
+R1	Has Arg1:T8 Arg2:T9	
+T11	Disease 11 24	ca via biliar
+T12	Therapeutic_Procedure 8 24	op ca via biliar
+T13	Therapeutic_Procedure 73 85	coloca foley
+T14	Disease 90 108	retencion urinaria
+T15	Therapeutic_Procedure 121 160	manejo de sonda foley o probable retiro
+A1	Pending T15

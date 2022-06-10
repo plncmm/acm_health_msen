@@ -1,0 +1,27 @@
+T1	Medication 415 423	losartan
+T2	Medication 440 450	furosemida
+T3	Medication 475 490	sulfato ferroso
+T5	Disease 103 124	hipertension arterial
+T6	Abbreviation 58 61	APS
+T7	Abbreviation 201 202	N
+T8	Abbreviation 247 250	VFG
+T9	Abbreviation 302 305	VFG
+T10	Abbreviation 343 346	RPC
+T11	Abbreviation 426 428	mg
+T12	Abbreviation 453 455	mg
+T13	Abbreviation 460 464	comp
+T14	Abbreviation 511 513	IC
+T15	Laboratory_or_Test_Result 143 171	disminucion en funcion renal
+T17	Laboratory_Procedure 192 196	urea
+T18	Laboratory_Procedure 201 210	N. ureico
+T19	Laboratory_Procedure 215 226	Acido urico
+T20	Laboratory_Procedure 232 242	Creatinina
+T21	Laboratory_Procedure 247 250	VFG
+T23	Laboratory_Procedure 285 295	creatinina
+T24	Laboratory_Procedure 302 305	VFG
+T25	Laboratory_or_Test_Result 322 338	Microalbuminuria
+T26	Laboratory_Procedure 343 346	RPC
+T27	Sign_or_Symptom 359 374	orinando normal
+T28	Sign_or_Symptom 380 394	sintomatologia
+A1	Negated T28
+T4	Disease 2 34	ENFERMEDAD RENAL CRÓNICA ETAPA 3

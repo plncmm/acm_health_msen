@@ -1,0 +1,27 @@
+T1	Disease 2 76	LUXACIÓN, ESGUINCE Y DESGARRO DE ARTICULACIONES Y LIGAMENTOS DE LA RODILLA
+T2	Sign_or_Symptom 118 153	problema cronico de rodilla derecha
+T3	Disease 272 291	esguince de rodilla
+T4	Sign_or_Symptom 309 314	dolor
+T5	Sign_or_Symptom 316 337	bostezo + a izquierda
+T6	Abbreviation 100 103	APS
+#1	AnnotatorNotes T6	atención primaria de salud
+T7	Abbreviation 324 325	+
+#2	AnnotatorNotes T7	más
+T8	Abbreviation 364 365	-
+#3	AnnotatorNotes T8	negativo
+T9	Abbreviation 367 369	rx
+#4	AnnotatorNotes T9	radiografía
+T10	Abbreviation 412 413	+
+#5	AnnotatorNotes T10	positivo
+T11	Abbreviation 456 460	Atte
+#6	AnnotatorNotes T11	atentamente
+T12	Body_Part 35 76	ARTICULACIONES Y LIGAMENTOS DE LA RODILLA
+T13	Body_Part 138 153	rodilla derecha
+T14	Body_Part 284 291	rodilla
+T15	Therapeutic_Procedure 206 226	kinesiterapia motora
+T16	Sign_or_Symptom 339 365	cajon anterio y posterio -
+T17	Sign_or_Symptom 394 413	signos meniscales +
+T18	Diagnostic_Procedure 367 369	rx
+T19	Laboratory_or_Test_Result 374 392	signos de fractura
+A1	Negated T19
+R1	Has Arg1:T18 Arg2:T19	

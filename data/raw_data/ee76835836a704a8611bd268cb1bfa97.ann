@@ -1,0 +1,40 @@
+T1	Body_Part 37 43	HOMBRO
+T2	Body_Part 58 64	HOMBRO
+T3	Abbreviation 105 108	APS
+T4	Body_Part 190 197	hombros
+T5	Abbreviation 273 276	RNM
+T6	Body_Part 305 321	hombro izquierdo
+T7	Body_Part 505 518	supraespinoso
+T8	Body_Part 588 601	infraespinoso
+T9	Body_Part 717 749	articulacion acromicioclavicualr
+T10	Body_Part 906 911	brazo
+T11	Body_Part 942 955	brazo derecho
+T12	Body_Part 358 386	labrum posterior y susperior
+T13	Body_Part 604 616	subescapular
+T14	Abbreviation 790 793	sos
+T15	Medication 783 789	cronus
+T16	Abbreviation 796 799	KTM
+T17	Disease 2 43	SÍNDROME DE ABDUCCIÓN DOLOROSA DEL HOMBRO
+T18	Disease 47 81	LESIÓN DEL HOMBRO, NO ESPECIFICADA
+T19	Sign_or_Symptom 175 216	dolor en amnos hombros, mayor a izquierdo
+T20	Diagnostic_Procedure 273 276	RNM
+T21	Laboratory_or_Test_Result 335 386	rotura degenerativa de labrum posterior y susperior
+R1	Has Arg1:T20 Arg2:T21	
+T22	Laboratory_or_Test_Result 391 442	pequeñas lesiones cistoideas subcondrales labrakles
+T23	Laboratory_or_Test_Result 444 488	engrosamiento capsular anaterior y posterior
+T24	Laboratory_or_Test_Result 490 565	tendinosis del supraespinoso con rotura de espesor completo y ancho parcial
+T25	Laboratory_or_Test_Result 567 616	tendoentesopatia del infraespinoso y subescapular
+R2	Has Arg1:T20 Arg2:T22	
+R3	Has Arg1:T20 Arg2:T23	
+R4	Has Arg1:T20 Arg2:T24	
+T26	Disease 567 616	tendoentesopatia del infraespinoso y subescapular
+T27	Disease 490 565	tendinosis del supraespinoso con rotura de espesor completo y ancho parcial
+T28	Disease 618 652	sindrome de pizamiento subacromial
+T29	Laboratory_or_Test_Result 618 652	sindrome de pizamiento subacromial
+T30	Laboratory_or_Test_Result 654 688	leve derrame articular genohumeral
+R5	Has Arg1:T20 Arg2:T29	
+T31	Laboratory_or_Test_Result 690 767	cambios degeneratitviso de articulacion acromicioclavicualr en rango moderado
+R6	Has Arg1:T20 Arg2:T31	
+R7	Has Arg1:T20 Arg2:T30	
+T32	Sign_or_Symptom 853 871	aumentado el dolor
+T33	Sign_or_Symptom 887 955	adormecimiento del brazo nocturno y se ha extendido al brazo derecho

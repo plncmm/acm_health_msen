@@ -1,0 +1,23 @@
+T1	Abbreviation 86 89	APS
+T2	Body_Part 148 163	rodilla derecha
+T3	Abbreviation 339 341	ex
+T4	Abbreviation 409 411	Rx
+T5	Medication 326 335	Celecoxib
+T6	Body_Part 437 458	tendón del cuádriceps
+T7	Abbreviation 535 537	ex
+T8	Disease 2 62	ARTROPATÍA EN OTRAS ENFERMEDADES ESPECIFICADAS, CLASIFICADAS
+T9	Disease 100 105	Obesa
+T10	Sign_or_Symptom 139 177	dolor en rodilla derecha de larga data
+T11	Sign_or_Symptom 179 201	crépitos al levantarse
+T12	Sign_or_Symptom 224 268	no dificulta deambulación ni subir escaleras
+T13	Sign_or_Symptom 354 361	derrame
+T14	Sign_or_Symptom 365 375	deformidad
+A1	Negated T14
+T15	Sign_or_Symptom 377 406	crépitos escasos a la flexión
+T16	Diagnostic_Procedure 409 411	Rx
+T17	Laboratory_or_Test_Result 412 458	Tendinopatía cálcica del tendón del cuádriceps
+R1	Has Arg1:T16 Arg2:T17	
+T18	Diagnostic_Procedure 476 485	Ecografia
+T20	Disease 595 655	Artropatia en otras enfermedades especificadas, clasificadas
+T21	Sign_or_Symptom 512 517	dolor
+A2	Negated T13

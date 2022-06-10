@@ -1,0 +1,7 @@
+T1	Body_Part 187 195	diente 9
+T2	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T3	Clinical_Finding 71 86	dentición mixta
+T4	Sign_or_Symptom 88 104	Perfil clase III
+T5	Clinical_Finding 106 129	Clase I molar bilateral
+T6	Disease 131 173	Desarmonía dentoalveolar moderada superior
+T7	Sign_or_Symptom 175 195	Giroversión diente 9

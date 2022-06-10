@@ -1,0 +1,9 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Abbreviation 44 47	APS
+T3	Disease 58 97	desdentado parcial maxilar y mandibular
+T5	Sign_or_Symptom 100 114	clase dos mand
+T6	Abbreviation 110 114	mand
+T8	Clinical_Finding 123 143	partador de protesis
+A1	Negated T8
+T9	Disease 145 221	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T10	Body_Part 183 190	dientes

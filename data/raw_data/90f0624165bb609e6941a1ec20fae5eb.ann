@@ -1,0 +1,8 @@
+T1	Abbreviation 6 8	EQ
+T2	Abbreviation 9 11	+-
+T3	Abbreviation 117 120	FUR
+T4	Abbreviation 43 46	PCO
+T5	Abbreviation 0 1	M
+T6	Clinical_Finding 0 1	M
+T7	Sign_or_Symptom 18 31	HIPERMENORREA
+T8	Sign_or_Symptom 55 100	REGLAS IRREGULARES CON SANGRAMIENTO ABUNDANTE

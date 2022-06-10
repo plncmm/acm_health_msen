@@ -1,0 +1,9 @@
+T1	Disease 0 33	Conjuntivitis pseudomembranosa od
+T2	Abbreviation 31 33	od
+T3	Body_Part 31 33	od
+T4	Medication 74 87	cloranfenicol
+T5	Therapeutic_Procedure 131 143	parto normal
+T6	Sign_or_Symptom 157 174	secresión vaginal
+A1	Negated T6
+T7	Abbreviation 194 199	E.S.A
+T8	Disease 194 199	E.S.A

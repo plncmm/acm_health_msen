@@ -1,0 +1,7 @@
+T1	Abbreviation 4 7	HTT
+T2	Body_Part 28 34	CUELLO
+T3	Abbreviation 0 1	M
+T4	Clinical_Finding 0 2	M3
+T5	Therapeutic_Procedure 4 15	HTT PARCIAL
+T6	Therapeutic_Procedure 45 61	PESARIO CERVICAL
+T7	Disease 63 100	INCONTINENCIA ORINA URGENCIA-ESFUERZO

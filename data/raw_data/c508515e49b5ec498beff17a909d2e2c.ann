@@ -1,0 +1,17 @@
+T1	Body_Part 30 37	RODILLA
+T3	Body_Part 166 173	rodilla
+T4	Abbreviation 286 289	DM2
+T5	Abbreviation 290 294	COMP
+T6	Abbreviation 324 327	KNT
+T2	Body_Part 80 118	PRIMERA ARTICULACIÓN CARPOMETACARPIANA
+T7	Disease 2 50	GONARTROSIS (ARTROSIS DE LA RODILLA) , (ARTROSIS
+T8	Disease 56 129	ARTROSIS PRIMARIA DE LA PRIMERA ARTICULACIÓN CARPOMETACARPIANA, BILATERAL
+T9	Disease 151 183	gonartroisi de rodilla bilateral
+T10	Disease 185 219	artrosisis  metacarpiana bilateral
+T11	Sign_or_Symptom 225 250	trastorno de marcha lento
+T12	Disease 252 270	dorsopatia cronica
+T13	Disease 286 289	DM2
+T14	Disease 297 311	HIPOTIROIDISMO
+T15	Disease 314 322	OBESIDAD
+T16	Therapeutic_Procedure 324 327	KNT
+T17	Sign_or_Symptom 290 295	COMP.

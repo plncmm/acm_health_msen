@@ -1,0 +1,6 @@
+T1	Body_Part 65 71	HIGADO
+T2	Body_Part 95 101	hígado
+T3	Disease 0 25	Resistencia a la Insulina
+T4	Disease 28 65	Trastorno metabólico, no especificado
+T5	Disease 65 77	HIGADO GRASO
+T6	Disease 80 150	Trastornos del hígado en otras enfermedades clasificadas en otra parte

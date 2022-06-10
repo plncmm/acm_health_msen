@@ -1,0 +1,11 @@
+T1	Body_Part 13 29	CUELLO DEL ÚTERO
+T2	Abbreviation 53 56	APS
+T3	Body_Part 104 110	vagina
+T4	Abbreviation 126 129	pap
+T5	Body_Part 237 253	cuello del utero
+T6	Disease 2 29	PÓLIPO DEL CUELLO DEL ÚTERO
+T7	Sign_or_Symptom 80 110	ardor en el fondo de la vagina
+T8	Laboratory_Procedure 126 129	pap
+T9	Disease 143 162	polipo endocervical
+T10	Sign_or_Symptom 185 225	sangra frecuentremente en las relaciones
+T11	Disease 226 253	Polipo del cuello del utero

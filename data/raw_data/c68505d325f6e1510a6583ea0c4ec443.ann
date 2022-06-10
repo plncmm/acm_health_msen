@@ -1,0 +1,7 @@
+T1	Body_Part 7 23	manguito rotador
+T2	Body_Part 24 30	hombro
+T3	Disease 0 40	Rotura manguito rotador hombro requerido
+T4	Laboratory_or_Test_Result 43 61	tensiono bicipital
+T5	Laboratory_or_Test_Result 64 95	tendosentoso patia subescapular
+T6	Laboratory_or_Test_Result 98 126	tendomesopatia supraespinoso
+T7	Laboratory_or_Test_Result 129 188	rotura de espesor completo y ancho parcial dorso anteriores

@@ -1,0 +1,22 @@
+T1	Abbreviation 29 33	MORB
+T2	Abbreviation 35 38	HTA
+T3	Abbreviation 40 44	EPOC
+T4	Abbreviation 47 49	QX
+T5	Medication 72 81	BREXOTIDE
+T6	Medication 83 93	SALBUTAMOL
+T7	Medication 95 104	LORTADINA
+T8	Abbreviation 320 323	TAC
+T9	Abbreviation 327 330	SPN
+T10	Medication 273 292	CORTICOIDES NASALES
+T11	Body_Part 327 330	SPN
+T12	Disease 2 22	PANSINUSITIS CRÓNICA
+T13	Disease 35 38	HTA
+T14	Disease 40 44	EPOC
+T15	Clinical_Finding 47 49	QX
+A1	Negated T15
+T16	Sign_or_Symptom 128 144	CONGESTION NASAL
+T17	Sign_or_Symptom 146 155	VOZ NASAL
+T18	Sign_or_Symptom 157 175	RINORREA ABUNDANTE
+T19	Sign_or_Symptom 180 210	DESCARGA POSTERIOR PERSISTENTE
+T20	Diagnostic_Procedure 320 330	TAC DE SPN
+A2	Pending T20

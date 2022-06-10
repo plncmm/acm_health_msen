@@ -1,0 +1,12 @@
+T1	Disease 2 46	LEIOMIOMA DEL ÚTERO, SIN OTRA ESPECIFICACIÓN
+T2	Disease 80 90	MIOMATOSIS
+T3	Sign_or_Symptom 90 112	METRORRAGIA SECUNDARIA
+T4	Disease 162 206	Leiomioma del utero, sin otra especificacion
+T5	Abbreviation 70 73	APS
+#1	AnnotatorNotes T5	atención primaria de salud
+T6	Abbreviation 75 78	OBS
+#2	AnnotatorNotes T6	observación
+T7	Abbreviation 147 149	IC
+#3	AnnotatorNotes T7	interconsulta
+T8	Body_Part 16 21	ÚTERO
+T9	Body_Part 176 181	utero

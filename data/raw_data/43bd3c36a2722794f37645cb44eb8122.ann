@@ -1,0 +1,8 @@
+T1	Abbreviation 39 42	APS
+T2	Body_Part 45 55	Diente 3.8
+T3	Clinical_Finding 2 15	CARIES DENTAL
+T4	Sign_or_Symptom 45 83	Diente 3.8 erupcionada en mesioversion
+T5	Clinical_Finding 85 99	caries extensa
+T6	Sign_or_Symptom 101 121	fragilidad coronaria
+T7	Therapeutic_Procedure 135 144	exodoncia
+A1	Pending T7

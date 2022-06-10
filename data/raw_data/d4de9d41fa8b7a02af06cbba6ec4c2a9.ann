@@ -1,0 +1,10 @@
+T1	Abbreviation 91 95	TSVP
+T2	Abbreviation 127 130	LPM
+T3	Medication 170 179	ADENOSINA
+T4	Abbreviation 181 183	MG
+T5	Abbreviation 184 186	EV
+T6	Medication 235 244	NEBIVOLOL
+T7	Abbreviation 249 251	MG
+T8	Abbreviation 252 254	OD
+T9	Disease 91 95	TSVP
+T10	Laboratory_or_Test_Result 91 95	TSVP

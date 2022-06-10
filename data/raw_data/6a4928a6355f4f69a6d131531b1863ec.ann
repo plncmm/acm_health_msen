@@ -1,0 +1,8 @@
+T1	Disease 2 40	ENFERMEDAD DEL REFLUJO GASTROESOFÁGICO
+T2	Abbreviation 64 67	APS
+T3	Abbreviation 69 73	PCTE
+T4	Sign_or_Symptom 141 154	EPIGASTRALGIA
+T5	Sign_or_Symptom 157 172	REGURGITACIONES
+T6	Disease 173 211	Enfermedad del reflujo gastroesofagico
+T7	Clinical_Finding 90 102	ANTECEDENTES
+A1	Negated T7

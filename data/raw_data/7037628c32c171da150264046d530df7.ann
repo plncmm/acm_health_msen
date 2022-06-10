@@ -1,0 +1,31 @@
+T1	Abbreviation 56 59	DM2
+T2	Abbreviation 61 64	HTA
+T3	Abbreviation 113 118	APROX
+T4	Abbreviation 216 218	PA
+T5	Abbreviation 228 232	MMHG
+T6	Abbreviation 264 266	MP
+T7	Abbreviation 267 270	SRA
+T10	Abbreviation 289 292	BDI
+T11	Abbreviation 293 296	RHA
+T12	Abbreviation 309 313	EEII
+T13	Abbreviation 266 267	+
+T8	Abbreviation 272 278	RR2TSS
+T9	Body_Part 280 287	ABDOMEN
+T14	Abbreviation 296 297	+
+T15	Body_Part 309 313	EEII
+T16	Abbreviation 320 321	-
+T17	Disease 2 40	HIPOACUSIA CONDUCTIVA Y NEUROSENSORIAL
+T18	Disease 56 59	DM2
+T19	Disease 61 64	HTA
+T20	Sign_or_Symptom 235 251	OTOSCOPIA NORMAL
+T21	Sign_or_Symptom 264 270	MP+SRA
+T22	Sign_or_Symptom 315 320	EDEMA
+A1	Negated T22
+T23	Sign_or_Symptom 302 307	MASAS
+A2	Negated T23
+T24	Sign_or_Symptom 293 296	RHA
+T25	Clinical_Finding 289 292	BDI
+T26	Sign_or_Symptom 272 278	RR2TSS
+T27	Clinical_Finding 180 196	ACTIVIDAD FISICA
+A3	Negated T27
+T28	Clinical_Finding 155 174	ADHERENCIA  A DIETA

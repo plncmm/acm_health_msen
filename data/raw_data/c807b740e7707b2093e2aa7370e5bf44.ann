@@ -1,0 +1,14 @@
+T1	Disease 5 13	Ca recto
+T2	Abbreviation 5 7	Ca
+T3	Body_Part 8 13	recto
+T4	Body_Part 34 39	Dte 3
+T5	Abbreviation 34 37	Dte
+T6	Abbreviation 0 4	Pcte
+T7	Abbreviation 15 18	nec
+T8	Abbreviation 29 32	QMT
+T9	Therapeutic_Procedure 29 32	QMT
+T10	Sign_or_Symptom 44 57	lesión apical
+T11	Therapeutic_Procedure 113 122	exodoncia
+A1	Pending T11
+T12	Therapeutic_Procedure 78 88	endodoncia
+A2	Pending T12

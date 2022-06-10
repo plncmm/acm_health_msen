@@ -1,0 +1,9 @@
+T1	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T2	Body_Part 31 37	DIENTE
+T3	Abbreviation 61 64	APS
+T4	Abbreviation 66 69	Pac
+T5	Abbreviation 74 78	pzas
+T6	Body_Part 74 88	pzas 1.3 y 2.3
+T7	Sign_or_Symptom 74 105	pzas 1.3 y 2.3 vestibularizadas
+T8	Disease 107 142	Anomalias de la posicion del diente
+T9	Body_Part 136 142	diente

@@ -1,0 +1,9 @@
+T1	Abbreviation 39 42	APS
+T2	Abbreviation 44 45	M
+T3	Disease 2 15	ENDOMETRIOSIS
+T4	Clinical_Finding 44 46	M3
+T5	Therapeutic_Procedure 47 69	ESTERILIZACION TUBARIA
+T6	Sign_or_Symptom 81 92	DISMENORREA
+T7	Sign_or_Symptom 93 105	MENORRAGIA  
+T8	Disease 105 118	ADENOMIOSIS  
+T9	Disease 118 131	Endometriosis

@@ -1,0 +1,19 @@
+T1	Body_Part 23 32	BRONQUIOS
+T2	Body_Part 39 45	PULMÓN
+T3	Abbreviation 126 129	APS
+T4	Abbreviation 153 155	DR
+T5	Abbreviation 185 188	TAC
+T6	Body_Part 192 197	TORAX
+T7	Abbreviation 391 393	IC
+T8	Abbreviation 489 491	DR
+T9	Body_Part 570 579	bronquios
+T10	Body_Part 586 592	pulmon
+T11	Disease 2 68	TUMOR MALIGNO DE LOS BRONQUIOS O DEL PULMÓN, PARTE NO ESPECIFICADA
+T12	Disease 72 102	NEUMOCONIOSIS, NO ESPECIFICADA
+T13	Diagnostic_Procedure 185 197	TAC DE TORAX
+T14	Laboratory_or_Test_Result 234 282	PATRON NODULAR BILATERAL DE ASPECTO INESPECIFICO
+R1	Has Arg1:T13 Arg2:T14	
+T15	Disease 315 332	PATOLOGIA TUMORAL
+T16	Disease 349 362	NEUMOCONIOSIS
+T17	Diagnostic_Procedure 439 456	FIBROBRONCOSCOPIA
+T18	Disease 549 615	Tumor maligno de los bronquios o del pulmon, parte no especificada

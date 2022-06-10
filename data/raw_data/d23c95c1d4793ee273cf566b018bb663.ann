@@ -1,0 +1,16 @@
+T1	Abbreviation 38 41	APS
+T2	Body_Part 140 155	vesícula biliar
+T3	Abbreviation 216 218	IC
+T4	Abbreviation 311 314	ECG
+T5	Disease 2 14	COLELITIASIS
+T6	Diagnostic_Procedure 78 97	ecografìa abdominal
+T7	Laboratory_or_Test_Result 128 176	càlculos en vesícula biliar, con sombra acustica
+R1	Has Arg1:T6 Arg2:T7	
+T8	Sign_or_Symptom 190 202	asintomática
+T9	Therapeutic_Procedure 235 265	resolucion quirúrgica electiva
+T10	Laboratory_Procedure 284 308	exámenes pre-operatorios
+T11	Diagnostic_Procedure 311 314	ECG
+T12	Disease 316 328	Colelitiasis
+A1	Pending T9
+A2	Pending T10
+A3	Pending T11

@@ -1,0 +1,6 @@
+T1	Disease 0 4	N19X
+T2	Disease 5 40	INSUFICIENCIA RENAL NO ESPECIFICADA
+T3	Therapeutic_Procedure 70 86	TRASPLANTE RENAL
+T4	Diagnostic_Procedure 88 106	COLONOSCOPÍA LARGA
+A1	Pending T3
+A2	Pending T4

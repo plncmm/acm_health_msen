@@ -1,0 +1,11 @@
+T1	Disease 2 85	OTROS TRASTORNOS SINOVIALES Y TENDINOSOS EN ENFERMEDADES CLASIFICADAS EN OTRA PARTE
+T2	Disease 163 194	tendinitis antebraquial derecha
+T3	Disease 339 352	epicondilitis
+T4	Disease 436 519	Otros trastornos sinoviales y tendinosos en enfermedades clasificadas en otra parte
+T5	Abbreviation 109 112	APS
+#1	AnnotatorNotes T5	atención primaria de salud
+T6	Abbreviation 243 248	AINES
+#2	AnnotatorNotes T6	antiinflamatorios no esteroideos
+T7	Medication 243 248	AINES
+T8	Medication 250 271	relajantes musculares
+T9	Therapeutic_Procedure 227 241	kinesioterapia

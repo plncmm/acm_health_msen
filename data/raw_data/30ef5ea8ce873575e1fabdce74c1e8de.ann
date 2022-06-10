@@ -1,0 +1,61 @@
+T1	Body_Part 55 62	TRAQUEA
+T2	Body_Part 71 80	BRONQUIOS
+T3	Body_Part 87 93	PULMÓN
+T4	Abbreviation 196 199	PCT
+T6	Abbreviation 221 224	DM2
+T7	Abbreviation 225 227	IR
+T8	Abbreviation 230 233	HTA
+T9	Abbreviation 238 241	TTO
+T10	Medication 247 255	losartan
+T11	Medication 261 269	aspirina
+T12	Abbreviation 273 275	mg
+T13	Medication 283 293	metformina
+T14	Abbreviation 297 299	mg
+T15	Medication 307 319	insulina nph
+T16	Abbreviation 323 326	uni
+T17	Abbreviation 342 345	PCT
+T19	Abbreviation 351 354	NAC
+T21	Abbreviation 527 530	NAC
+T22	Abbreviation 568 571	TBC
+T23	Abbreviation 599 601	RX
+T24	Abbreviation 653 655	CM
+T25	Abbreviation 692 695	SRA
+T26	Abbreviation 731 733	HD
+T27	Abbreviation 751 753	CM
+T28	Abbreviation 838 841	TAC
+T29	Body_Part 845 850	TORAX
+T30	Body_Part 851 858	ABDOMEN
+T31	Body_Part 861 867	PELVIS
+T32	Body_Part 148 166	ÓRGANOS DIGESTIVOS
+T5	Abbreviation 276 277	x
+T33	Abbreviation 316 319	nph
+T18	Body_Part 602 607	TORAX
+T20	Abbreviation 638 641	IZQ
+T34	Abbreviation 645 650	APORX
+T35	Abbreviation 685 687	MP
+T36	Abbreviation 689 690	+
+T37	Disease 2 93	TUMOR DE COMPORTAMIENTO INCIERTO O DESCONOCIDO DE LA TRAQUEA, DE LOS BRONQUIOS Y DEL PULMÓN
+T38	Disease 98 189	TUMOR DE COMPORTAMIENTO INCIERTO O DESCONOCIDO DE ÓRGANOS DIGESTIVOS, SITIO NO ESPECIFICADO
+T39	Disease 221 224	DM2
+T40	Disease 230 233	HTA
+T41	Disease 351 361	NAC ATPICA
+T42	Sign_or_Symptom 464 476	BAJA DE PEOS
+T43	Sign_or_Symptom 501 520	SUDORAICON NOCTURNA
+T44	Disease 527 530	NAC
+T45	Sign_or_Symptom 539 554	TOS PERSISTENTE
+T46	Disease 568 571	TBC
+T47	Laboratory_Procedure 576 588	BACILOSCOPIA
+A1	Negated T46
+T48	Laboratory_or_Test_Result 589 597	NEGATIVA
+R1	Has Arg1:T47 Arg2:T48	
+T49	Diagnostic_Procedure 599 607	RX TORAX
+T50	Laboratory_or_Test_Result 620 641	MASA PRIBRONQUIAL IZQ
+R2	Has Arg1:T49 Arg2:T50	
+T51	Sign_or_Symptom 692 695	SRA
+T52	Sign_or_Symptom 685 687	MP
+T53	Sign_or_Symptom 701 722	ADENOPATIAS PALPABLES
+A2	Negated T53
+T54	Sign_or_Symptom 726 791	MASA HD PALPABLE, DE 3X3 CM, POCO DEFINIDA, MOVIL CON INSPIRACION
+T55	Diagnostic_Procedure 838 867	TAC DE TORAX/ABDOMEN Y PELVIS
+A3	Pending T55
+T56	Abbreviation 482 487	KILOS

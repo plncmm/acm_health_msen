@@ -1,0 +1,9 @@
+T1	Sign_or_Symptom 13 50	erupcion ectopica de piezas de 6 y 11
+T2	Body_Part 34 50	piezas de 6 y 11
+T3	Sign_or_Symptom 59 75	falta de espacio
+T4	Sign_or_Symptom 76 94	compresion maxilar
+T5	Sign_or_Symptom 95 129	mordida cruzada posteior bilateral
+T6	Sign_or_Symptom 130 179	apiñamiento dentario anterior superior e inferior
+T7	Disease 130 141	apiñamiento
+T8	Disease 189 211	hiperplasia suprarenal
+T9	Abbreviation 215 218	tto

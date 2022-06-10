@@ -1,0 +1,10 @@
+T1	Body_Part 2 26	FRENILLO LABIAL SUPERIOR
+T2	Disease 2 32	FRENILLO LABIAL SUPERIOR CORTO
+T3	Abbreviation 56 59	APS
+T4	Body_Part 61 85	frenillo labial superior
+T6	Body_Part 109 116	5.1-6.1
+T5	Sign_or_Symptom 61 93	frenillo labial superior extenso
+T7	Sign_or_Symptom 95 116	separacion de 5.1-6.1
+T8	Sign_or_Symptom 142 178	Hipertrofia de las papilas linguales
+T9	Sign_or_Symptom 117 141	extension hasta palatino
+T10	Body_Part 161 178	papilas linguales

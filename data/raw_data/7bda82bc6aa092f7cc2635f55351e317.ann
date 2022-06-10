@@ -1,0 +1,7 @@
+T1	Abbreviation 67 70	APS
+T2	Abbreviation 110 113	OBS
+T3	Body_Part 115 120	UTERO
+T4	Abbreviation 95 98	ACI
+T5	Medication 95 98	ACI
+T6	Clinical_Finding 72 81	MULTIPARA
+T7	Disease 115 130	UTERO MIOMATOSO

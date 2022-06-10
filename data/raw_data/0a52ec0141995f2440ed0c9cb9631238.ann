@@ -1,0 +1,14 @@
+T1	Disease 13 56	Periodontitis Crónica Generalizada Moderada
+T2	Body_Part 58 65	Pieza 9
+T3	Sign_or_Symptom 58 74	Pieza 9 extruida
+T4	Diagnostic_Procedure 78 97	examen radiográfico
+T5	Body_Part 107 114	pieza 8
+T6	Laboratory_or_Test_Result 115 119	EPAE
+T7	Abbreviation 115 119	EPAE
+T8	Body_Part 122 129	pieza 9
+T9	Laboratory_or_Test_Result 130 154	restauraciones profundas
+T10	Laboratory_or_Test_Result 159 175	periapice normal
+T11	Body_Part 216 228	piezas 8 y 9
+R1	Has Arg1:T4 Arg2:T6	
+R2	Has Arg1:T4 Arg2:T9	
+R3	Has Arg1:T4 Arg2:T10	

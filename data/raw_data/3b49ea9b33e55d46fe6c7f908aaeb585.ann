@@ -1,0 +1,17 @@
+T1	Therapeutic_Procedure 2 32	PIEZA TRATADA ENDODÓNTICAMENTE
+T2	Sign_or_Symptom 55 60	dolor
+T3	Body_Part 100 110	diente 2.5
+T4	Sign_or_Symptom 55 169	dolor iniciado hace 2 semanas, localizado en diente 2.5, que incrementa al tomar cosas frias, calientes y al comer
+T5	Abbreviation 193 196	dte
+T6	Body_Part 193 200	dte 2.5
+T7	Disease 201 227	caries dentinaria profunda
+T8	Abbreviation 229 231	rx
+T10	Diagnostic_Procedure 229 242	rx periapical
+T9	Disease 254 299	caries dentinaria comunicada en camara pulpar
+T11	Body_Part 286 299	camara pulpar
+T12	Therapeutic_Procedure 313 324	trepanacion
+T13	Medication 363 367	CaOH
+T14	Clinical_Finding 391 397	fermin
+T15	Body_Part 2 7	PIEZA
+T16	Laboratory_or_Test_Result 254 300	caries dentinaria comunicada en camara pulpar,
+R1	Has Arg1:T10 Arg2:T16	

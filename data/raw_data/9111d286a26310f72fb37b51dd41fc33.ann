@@ -1,0 +1,11 @@
+T1	Disease 2 19	MORDIDA INVERTIDA
+T2	Abbreviation 43 46	APS
+T3	Clinical_Finding 57 106	dentición mixta 1ra fase, 1er periodo de recambio
+T4	Sign_or_Symptom 121 166	Clase molar II (1/2 cuspide) de Angle derecha
+T5	Clinical_Finding 169 195	Clase I de Angle izquierda
+T6	Disease 200 217	Mordida invertida
+T7	Sign_or_Symptom 222 248	2.2 mesiopalatogiroversión
+T8	Body_Part 222 225	2.2
+T9	Disease 251 301	Anomalias de la relacion entre los arcos dentarios
+T10	Body_Part 286 301	arcos dentarios
+T11	Body_Part 57 66	dentición

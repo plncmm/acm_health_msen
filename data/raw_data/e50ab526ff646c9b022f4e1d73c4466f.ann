@@ -1,0 +1,26 @@
+T1	Disease 2 38	GONARTROSIS (ARTROSIS DE LA RODILLA)
+T3	Disease 42 50	ARTROSIS
+T4	Disease 93 132	GONARTROSIS MODERAD AA SEVERA IZQUIERDA
+T5	Disease 368 404	Gonartrosis (artrosis de la rodilla)
+T7	Disease 408 416	artrosis
+T2	Abbreviation 75 78	APS
+#1	AnnotatorNotes T2	atención primaria de salud
+T6	Abbreviation 170 175	AINES
+#2	AnnotatorNotes T6	antiinflamatorios no esteroideos
+T8	Abbreviation 200 202	RX
+#3	AnnotatorNotes T8	radiografía
+T9	Abbreviation 262 263	+
+#4	AnnotatorNotes T9	positivo
+T10	Abbreviation 306 309	TTO
+#5	AnnotatorNotes T10	tratamiento
+T11	Abbreviation 361 365	ATTE
+#6	AnnotatorNotes T11	atentamente
+T12	Body_Part 30 37	RODILLA
+T13	Medication 170 175	AINES
+T14	Body_Part 396 403	rodilla
+T15	Therapeutic_Procedure 178 198	KINESIOTERPIA MOTORA
+T16	Diagnostic_Procedure 200 202	RX
+T17	Laboratory_or_Test_Result 216 249	DISMINUCION DE ESPACION ARTICULAR
+T18	Laboratory_or_Test_Result 250 260	OSTEOFITOS
+R1	Has Arg1:T16 Arg2:T17	
+R2	Has Arg1:T16 Arg2:T18	

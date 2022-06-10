@@ -1,0 +1,6 @@
+T1	Disease 0 32	PERIODONTITIS APICAL SINTOMATICA
+T2	Body_Part 36 48	DIENTE 8 Y 9
+T3	Abbreviation 49 53	POST
+T4	Sign_or_Symptom 54 99	ACCIDENTE ESCOLAR CON TRAUMA EN AMBOS DIENTES
+T5	Body_Part 92 99	DIENTES
+T6	Disease 100 132	fractura coronaria no complicada

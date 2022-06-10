@@ -1,0 +1,12 @@
+T1	Disease 2 15	ENDOMETRIOSIS
+T2	Disease 19 38	LEIOMIOMA DEL ÚTERO
+T3	Disease 87 105	MIOMATOSIS UTERINA
+T4	Disease 107 120	ENDOMETRIOSIS
+T5	Disease 122 141	Leiomioma del utero
+T6	Abbreviation 62 65	APS
+#1	AnnotatorNotes T6	atención primaria de la salud
+T7	Abbreviation 69 70	M
+#2	AnnotatorNotes T7	madre
+T8	Body_Part 33 38	ÚTERO
+T9	Body_Part 136 141	utero
+T10	Clinical_Finding 69 71	M3

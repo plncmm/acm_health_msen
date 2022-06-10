@@ -1,0 +1,19 @@
+T1	Abbreviation 153 156	APS
+T2	Abbreviation 171 173	dg
+T3	Abbreviation 177 179	DM
+T4	Abbreviation 179 181	IR
+T5	Abbreviation 183 186	HTA
+T6	Abbreviation 188 191	DLP
+T7	Abbreviation 232 234	ex
+T8	Abbreviation 246 249	TSH
+T9	Disease 2 33	TIROTOXICOSIS (HIPERTIROIDISMO)
+T10	Disease 37 49	DISLIPIDEMIA
+T11	Disease 53 85	HIPERTENSIÓN ESENCIAL (PRIMARIA)
+T12	Disease 89 129	DIABETES MELLITUS NO INSULINODEPENDIENTE
+T13	Disease 177 179	DM
+T14	Disease 183 186	HTA
+T15	Disease 188 191	DLP
+T16	Sign_or_Symptom 202 209	temblor
+T17	Sign_or_Symptom 211 219	mialgias
+T18	Sign_or_Symptom 222 230	ansiedad
+T19	Laboratory_Procedure 246 249	TSH

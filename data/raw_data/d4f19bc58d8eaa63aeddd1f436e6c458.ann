@@ -1,0 +1,11 @@
+T1	Abbreviation 2 3	G
+T2	Abbreviation 5 6	P
+T3	Abbreviation 8 9	A
+T4	Clinical_Finding 2 10	G1 P0 A0
+T5	Abbreviation 13 16	EMB
+T6	Clinical_Finding 13 16	EMB
+T7	Abbreviation 21 24	SEM
+T8	Abbreviation 26 27	X
+T9	Abbreviation 28 31	FUR
+T10	Abbreviation 55 58	OBS
+T11	Clinical_Finding 60 89	EMBARAZO VIAS DE PROLONGACION

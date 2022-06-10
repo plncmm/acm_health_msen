@@ -1,0 +1,25 @@
+T1	Body_Part 38 44	CADERA
+T2	Body_Part 59 66	CADERAS
+T3	Body_Part 83 97	CUELLO FEMORAL
+T4	Body_Part 98 102	COXA
+T6	Abbreviation 151 154	APS
+T7	Body_Part 198 204	cadera
+T8	Body_Part 284 298	cadera derecha
+T9	Body_Part 316 322	pelvis
+T10	Body_Part 369 376	caderas
+T11	Abbreviation 499 503	atte
+T12	Body_Part 338 353	ileon izquierdo
+T13	Body_Part 420 427	cotilos
+T14	Disease 2 127	OTRAS DEFORMIDADES CONGÉNITAS DE LA CADERA (DISPLASIA DE CADERAS ANTEVERSIÓN DEL CUELLO FEMORAL COXA CONGÉNITA: VARA O VALGA)
+T15	Disease 185 214	displasia de cadera congénita
+T16	Sign_or_Symptom 253 298	dolores lumbares intensos y de cadera derecha
+T17	Diagnostic_Procedure 301 322	radiografia de pelvis
+T18	Laboratory_or_Test_Result 324 353	hipoplasia de ileon izquierdo
+T19	Laboratory_or_Test_Result 355 376	asimentria de caderas
+T20	Laboratory_or_Test_Result 378 427	disminucion de espacio articular de ambos cotilos
+T21	Laboratory_or_Test_Result 429 447	signos de artrosis
+R1	Has Arg1:T17 Arg2:T18	
+R2	Has Arg1:T17 Arg2:T19	
+R3	Has Arg1:T17 Arg2:T20	
+R4	Has Arg1:T17 Arg2:T21	
+T5	Disease 439 447	artrosis

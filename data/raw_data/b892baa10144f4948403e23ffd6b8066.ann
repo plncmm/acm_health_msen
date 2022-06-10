@@ -1,0 +1,17 @@
+T1	Body_Part 23 32	MIOCARDIO
+T2	Body_Part 57 66	MIOCARDIO
+T3	Abbreviation 251 254	IAM
+T4	Abbreviation 309 312	HGF
+T5	Abbreviation 379 382	EKG
+T6	Disease 2 32	ISQUEMIA SILENTE DEL MIOCARDIO
+T7	Disease 37 66	INFARTO ANTIGUO DEL MIOCARDIO
+T8	Disease 71 103	HIPERTENSIÓN ESENCIAL (PRIMARIA)
+T9	Disease 108 125	DIABETES MELLITUS
+T10	Disease 153 165	DISLIPIDEMIA
+T11	Disease 170 184	HIPOTIROIDISMO
+T12	Disease 251 254	IAM
+T13	Therapeutic_Procedure 286 291	stent
+T14	Diagnostic_Procedure 379 382	EKG
+T15	Laboratory_or_Test_Result 417 443	isquemia de pared inferior
+R1	Has Arg1:T14 Arg2:T15	
+T16	Clinical_Finding 476 488	asintomático

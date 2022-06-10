@@ -1,0 +1,16 @@
+T1	Abbreviation 36 39	DCP
+T2	Abbreviation 0 1	G
+#1	AnnotatorNotes T2	gestaciones
+T3	Abbreviation 3 4	P
+#2	AnnotatorNotes T3	partos
+T4	Abbreviation 6 7	A
+#3	AnnotatorNotes T4	abortos
+#4	AnnotatorNotes T1	desproporción cefalopélvica
+T5	Clinical_Finding 0 2	G4
+T6	Clinical_Finding 3 5	P2
+T7	Clinical_Finding 6 8	A1
+T8	Clinical_Finding 9 31	DOBLE CESAREA ANTERIOR
+T9	Disease 36 39	DCP
+T10	Clinical_Finding 40 48	EMBARAZO
+T11	Therapeutic_Procedure 77 102	ESTERILIZACION QUIRURGICA
+A1	Pending T11

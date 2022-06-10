@@ -1,0 +1,7 @@
+T1	Abbreviation 0 3	ERC
+T2	Abbreviation 22 24	HD
+T3	Disease 0 14	ERC  ETAPA   V
+T4	Therapeutic_Procedure 22 24	HD
+T5	Disease 56 74	SEPSI POR  CATETER
+T6	Clinical_Finding 147 157	COLOSTOMIA
+T7	Disease 186 213	HIPOTIROIDISMO   SUBCLINICO

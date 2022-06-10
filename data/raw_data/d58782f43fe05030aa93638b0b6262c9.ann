@@ -1,0 +1,11 @@
+T1	Body_Part 59 69	diente 2.8
+T2	Body_Part 88 98	diente 3.8
+T3	Therapeutic_Procedure 48 58	extraccion
+A1	Pending T3
+T4	Therapeutic_Procedure 70 87	exondoncia simple
+A2	Pending T4
+T5	Clinical_Finding 88 114	diente 3.8 semierupcionado
+T6	Therapeutic_Procedure 115 133	exodoncia compleja
+A3	Pending T6
+T7	Therapeutic_Procedure 152 162	extraccion
+A4	Pending T7

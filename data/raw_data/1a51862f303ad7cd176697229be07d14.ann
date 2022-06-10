@@ -1,0 +1,9 @@
+T1	Body_Part 29 36	PIEZA 8
+T2	Abbreviation 87 90	TDA
+T3	Body_Part 144 146	13
+T4	Body_Part 174 187	CAMARA PULPAR
+T5	Therapeutic_Procedure 18 36	ENDODONCIA PIEZA 8
+A1	Pending T5
+T6	Disease 54 74	PERIODONTITIS APICAL
+T7	Disease 87 90	TDA
+T8	Disease 134 146	PERDIO EL 13

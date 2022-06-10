@@ -1,0 +1,6 @@
+T1	Body_Part 46 56	Diente 2.7
+T2	Abbreviation 41 44	APS
+T3	Sign_or_Symptom 2 17	RESTO RADICULAR
+T4	Sign_or_Symptom 46 72	Diente 2.7 Resto radicular
+T5	Therapeutic_Procedure 96 105	exodoncia
+A1	Pending T5

@@ -1,0 +1,8 @@
+T1	Disease 25 47	hiperplasia prostatica
+T2	Abbreviation 55 58	ECG
+T3	Disease 98 118	BLOQUEO BIFASCICULAR
+T4	Therapeutic_Procedure 13 47	cirugia por hiperplasia prostatica
+A1	Pending T4
+T5	Diagnostic_Procedure 55 58	ECG
+T6	Laboratory_or_Test_Result 98 118	BLOQUEO BIFASCICULAR
+R1	Has Arg1:T5 Arg2:T6	

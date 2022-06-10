@@ -1,0 +1,9 @@
+T1	Disease 2 39	ANOMALÍA DENTOFACIAL, NO ESPECIFICADA
+T2	Abbreviation 63 66	APS
+T3	Abbreviation 77 80	ADM
+T4	Sign_or_Symptom 81 111	Apiñamiento infeior y superior
+T5	Disease 81 92	Apiñamiento
+T6	Sign_or_Symptom 112 140	Resalte horizontal aumentado
+T7	Clinical_Finding 141 169	Dentición mixta segunda fase
+T8	Clinical_Finding 170 191	Relación molar clase1
+T9	Body_Part 141 150	Dentición

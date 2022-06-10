@@ -1,0 +1,10 @@
+T1	Disease 2 22	NECROSIS DE LA PULPA
+T2	Body_Part 17 22	PULPA
+T4	Body_Part 98 108	diente 2.3
+T5	Sign_or_Symptom 139 154	atricion severa
+T6	Sign_or_Symptom 187 204	exposicion pulpar
+T7	Therapeutic_Procedure 217 228	trepanacion
+T8	Medication 316 320	CaOH
+T3	Clinical_Finding 35 83	portadora de protesis parciel removible superior
+T9	Body_Part 176 182	diente
+T10	Clinical_Finding 323 339	cemento temporal

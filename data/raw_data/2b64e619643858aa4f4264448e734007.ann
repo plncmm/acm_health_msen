@@ -1,0 +1,13 @@
+T1	Body_Part 31 38	RODILLA
+T2	Abbreviation 40 43	SOP
+T3	Abbreviation 121 123	EX
+T4	Abbreviation 186 190	AINE
+T5	Medication 186 190	AINE
+T6	Abbreviation 126 127	+
+T7	Disease 0 38	ARTROPIA INFLAMATORIA DE AMBAS RODILLA
+T8	Disease 40 43	SOP
+T9	Sign_or_Symptom 67 72	DOLOR
+T10	Sign_or_Symptom 75 80	EDEMA
+T11	Laboratory_Procedure 141 157	FACOR REUMATOIDE
+T12	Laboratory_or_Test_Result 126 127	+
+R1	Has Arg1:T11 Arg2:T12	

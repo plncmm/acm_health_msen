@@ -1,0 +1,5 @@
+T1	Abbreviation 100 103	PPR
+T2	Abbreviation 104 107	Sup
+T3	Disease 29 56	desdentada parcial superior
+T4	Therapeutic_Procedure 100 107	PPR Sup
+A1	Pending T4

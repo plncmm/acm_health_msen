@@ -1,0 +1,9 @@
+T1	Clinical_Finding 0 2	PG
+T2	Abbreviation 0 2	PG
+T3	Clinical_Finding 4 12	EMBARAZO
+T4	Abbreviation 26 29	OBS
+T5	Disease 31 41	COLESTASIA
+T6	Disease 43 57	HIPOTIROIDISMO
+T7	Sign_or_Symptom 67 111	PRURITO PALMA PLANTAR DE PREDOMINIO NOCTURNO
+T8	Abbreviation 15 16	+
+T9	Body_Part 75 80	PALMA

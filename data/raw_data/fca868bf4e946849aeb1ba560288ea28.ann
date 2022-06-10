@@ -1,0 +1,13 @@
+T1	Disease 4 23	OSTEITIS PERIAPICAL
+T2	Body_Part 0 3	P.3
+T3	Abbreviation 0 1	P
+T4	Body_Part 25 30	PIEZA
+T5	Clinical_Finding 31 40	TREPANADA
+T6	Abbreviation 81 85	PMCF
+T7	Medication 81 85	PMCF
+T8	Clinical_Finding 88 104	CEMENTO TEMPORAL
+T9	Abbreviation 117 119	RX
+T10	Diagnostic_Procedure 117 130	RX PERIAPICAL
+T11	Body_Part 131 134	P.3
+T12	Abbreviation 131 132	P
+T13	Laboratory_or_Test_Result 0 23	P.3 OSTEITIS PERIAPICAL

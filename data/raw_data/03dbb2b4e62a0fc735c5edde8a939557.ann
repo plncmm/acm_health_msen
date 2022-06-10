@@ -1,0 +1,12 @@
+T1	Abbreviation 67 71	APS:
+T2	Abbreviation 262 265	qca
+T3	Body_Part 113 141	pabellon auricularizquierrda
+T4	Body_Part 25 43	PABELLÓN AURICULAR
+T5	Body_Part 290 308	pabellon auricular
+T6	Disease 2 43	OTRAS DEFORMIDADES DEL PABELLÓN AURICULAR
+T7	Disease 85 141	malformacipon congenita del pabellon auricularizquierrda
+T8	Sign_or_Symptom 147 172	alteracion de la audicion
+A1	Negated T8
+T9	Sign_or_Symptom 178 212	alteracion aparente a la otoscopia
+A2	Negated T9
+T10	Disease 267 308	Otras deformidades del pabellon auricular

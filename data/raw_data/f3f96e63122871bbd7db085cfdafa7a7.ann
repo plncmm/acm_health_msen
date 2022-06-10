@@ -1,0 +1,16 @@
+T1	Abbreviation 79 82	APS
+#1	AnnotatorNotes T1	atención primaria de salud
+T2	Abbreviation 107 111	ERGE
+#2	AnnotatorNotes T2	enfermedad por reflujo gastroesofágico
+T3	Abbreviation 125 128	EDA
+#3	AnnotatorNotes T3	endoscopia digestiva alta
+T4	Body_Part 140 147	CARDIAS
+T5	Disease 2 55	ENFERMEDAD DEL REFLUJO GASTROESOFÁGICO CON ESOFAGITIS
+T6	Disease 107 111	ERGE
+T7	Laboratory_or_Test_Result 212 225	HERNIA HIATAL
+T8	Laboratory_or_Test_Result 227 253	GASTROPATIA EROSIVA ANTRAL
+T9	Laboratory_or_Test_Result 255 286	DUODNITIS EROSIVA BULBAR SEVERA
+T10	Disease 309 362	Enfermedad del reflujo gastroesofagico con esofagitis
+T11	Laboratory_or_Test_Result 177 210	ESOFAGITIS GRADO C DE LOS ANGELES
+T12	Diagnostic_Procedure 125 128	EDA
+T13	Laboratory_or_Test_Result 140 175	CARDIAS AMPLIAMENTE ABIERTO HILL IV

@@ -1,0 +1,20 @@
+T1	Abbreviation 44 47	APS
+#1	AnnotatorNotes T1	atención primaria de salud
+T2	Abbreviation 162 164	vb
+#2	AnnotatorNotes T2	vesícula biliar
+T3	Abbreviation 150 153	eco
+#3	AnnotatorNotes T3	ecografía
+T4	Body_Part 71 81	epigastrio
+T5	Body_Part 84 103	hipocondrio derecho
+T6	Body_Part 162 164	vb
+T7	Disease 2 20	COLECISTITIS AGUDA
+T8	Sign_or_Symptom 62 103	dolor en epigastrio e hipocondrio derecho
+T9	Sign_or_Symptom 116 123	nasueas
+T10	Sign_or_Symptom 129 136	vomitos
+A1	Negated T10
+T11	Sign_or_Symptom 141 148	diarrea
+A2	Negated T11
+T12	Disease 205 223	Colecistitis aguda
+T13	Diagnostic_Procedure 150 153	eco
+T14	Laboratory_or_Test_Result 162 202	vb distendia con calculos en su interior
+R1	Has Arg1:T13 Arg2:T14	

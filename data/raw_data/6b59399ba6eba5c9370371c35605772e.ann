@@ -1,0 +1,10 @@
+T1	Abbreviation 24 27	atm
+T2	Body_Part 24 27	atm
+T3	Disease 0 8	bruxismo
+T4	Sign_or_Symptom 10 27	alteracion de atm
+T5	Sign_or_Symptom 29 51	limitacion de apertura
+T6	Sign_or_Symptom 53 59	ruidos
+T7	Sign_or_Symptom 61 80	saltos desviaciones
+T8	Sign_or_Symptom 82 87	dolor
+T9	Therapeutic_Procedure 131 145	alivio oclusal
+A1	Pending T9

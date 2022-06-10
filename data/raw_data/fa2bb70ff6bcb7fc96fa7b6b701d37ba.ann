@@ -1,0 +1,37 @@
+T1	Abbreviation 33 36	APS
+T2	Abbreviation 301 305	AINE
+T3	Medication 301 305	AINE
+T4	Medication 347 358	paracetamol
+T5	Medication 360 368	opioides
+T6	Medication 371 380	triptanes
+T7	Abbreviation 419 421	EF
+T8	Abbreviation 583 586	ROT
+T9	Abbreviation 592 594	FM
+T10	Abbreviation 614 618	HTEC
+T11	Body_Part 631 634	ojo
+T12	Body_Part 483 498	pares craneales
+T13	Abbreviation 535 536	-
+T14	Disease 2 9	MIGRAÑA
+T15	Disease 65 81	migraña sin aura
+T16	Disease 83 102	vicio de refraccion
+T17	Sign_or_Symptom 142 200	aumento en la frecuencia e intensidad de crisis migrañosas
+T18	Disease 183 200	crisis migrañosas
+T19	Sign_or_Symptom 214 221	epifora
+T20	Sign_or_Symptom 227 248	focalidad neurologica
+A1	Negated T20
+T21	Disease 256 268	traumatismos
+A2	Negated T21
+T22	Disease 286 305	alergica a los AINE
+T23	Clinical_Finding 435 463	buenas condiciones generales
+T24	Clinical_Finding 465 473	eupneica
+T25	Clinical_Finding 474 481	afebril
+T26	Clinical_Finding 483 507	pares craneales indemnes
+T27	Clinical_Finding 509 525	marcha simetrica
+T28	Clinical_Finding 527 536	romberg -
+T29	Clinical_Finding 538 581	funciones corticales superiores conservadas
+T30	Disease 614 618	HTEC
+T31	Sign_or_Symptom 604 634	signos de HTEC en fondo de ojo
+A3	Negated T31
+T32	Sign_or_Symptom 663 678	signos de alrma
+T33	Sign_or_Symptom 680 731	aumento de intensidad y de frecuencia de las crisis
+T34	Disease 733 740	Migraña

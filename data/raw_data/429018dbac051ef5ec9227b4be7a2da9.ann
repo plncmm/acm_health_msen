@@ -1,0 +1,7 @@
+T1	Body_Part 44 58	pierna derecha
+T2	Body_Part 137 160	extremidades inferiores
+T3	Disease 24 58	patología isquémica pierna derecha
+T4	Disease 73 102	Cáncer cervicuterino terminal
+T5	Disease 127 170	linfedema extremidades inferiores bilateral
+T6	Disease 172 185	Anemia severa
+T7	Laboratory_or_Test_Result 172 185	Anemia severa

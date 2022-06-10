@@ -1,0 +1,4 @@
+T1	Sign_or_Symptom 44 77	RESTRASO EN LA ERUPCION DENTARIA,
+T2	Sign_or_Symptom 78 95	MORDIDA VIS A VIS
+T3	Body_Part 102 137	PIEZAS PD 1.2-4.3; 2.1-3.2; 2.2-3.3
+T4	Abbreviation 109 111	PD

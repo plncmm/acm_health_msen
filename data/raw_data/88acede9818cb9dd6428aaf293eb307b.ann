@@ -1,0 +1,12 @@
+T1	Disease 2 18	DESDENTADO TOTAL
+T2	Abbreviation 43 46	APS
+T3	Abbreviation 48 52	pcte
+T4	Disease 53 79	desdentado total sup e inf
+T5	Abbreviation 70 73	sup
+T6	Abbreviation 76 79	inf
+T7	Sign_or_Symptom 101 116	protesis suelta
+T8	Sign_or_Symptom 117 149	protesis en regular o mal estado
+T9	Disease 168 171	EQZ
+T10	Abbreviation 168 171	EQZ
+T11	Sign_or_Symptom 155 162	tartaro
+T12	Abbreviation 163 167	pcte

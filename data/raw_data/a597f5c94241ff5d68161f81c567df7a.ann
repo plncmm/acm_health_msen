@@ -1,0 +1,23 @@
+T2	Abbreviation 63 68	DM2IR
+T3	Abbreviation 70 73	HTA
+T4	Abbreviation 101 104	ERC
+T5	Abbreviation 274 277	NAC
+T6	Abbreviation 314 317	IRA
+T7	Medication 410 429	insulina cristalina
+T8	Abbreviation 483 486	nph
+T9	Medication 483 486	nph
+T1	Abbreviation 38 42	Pcte
+T10	Disease 2 34	ENFERMEDAD RENAL CRÓNICA ETAPA 3
+T11	Disease 63 66	DM2
+T12	Disease 70 73	HTA
+T13	Disease 75 79	ASMA
+T14	Disease 81 98	fibrosis pulmonar
+T15	Disease 101 113	ERC etapa 3b
+T16	Laboratory_Procedure 164 182	control metabólico
+T17	Laboratory_or_Test_Result 156 163	dificil
+R1	Has Arg1:T16 Arg2:T17	
+T18	Laboratory_or_Test_Result 228 254	descompensacion metabolica
+T19	Disease 259 271	hipoglicemia
+T20	Disease 274 277	NAC
+T21	Disease 314 331	IRA sobre crónica
+T22	Clinical_Finding 549 573	presion arterial optimas

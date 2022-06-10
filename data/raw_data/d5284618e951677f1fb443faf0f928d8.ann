@@ -1,0 +1,11 @@
+T1	Disease 2 28	AGENESIA DIENTE PERMANENTE
+T2	Body_Part 11 17	DIENTE
+T3	Abbreviation 52 55	APS
+T4	Clinical_Finding 70 93	antecedentes sistémicos
+A1	Negated T4
+T5	Body_Part 116 125	pieza 1.2
+T6	Body_Part 128 137	pieza 1.5
+T7	Disease 104 112	agenesia
+T8	Sign_or_Symptom 138 164	erupcionando en el paladar
+T9	Disease 166 223	Trastornos del desarrollo y de la erupcion de los dientes
+T10	Body_Part 216 223	dientes

@@ -1,0 +1,23 @@
+T1	Disease 2 42	TUMOR BENIGNO DE LOS GANGLIOS LINFÁTICOS
+T2	Sign_or_Symptom 71 93	ADENOPATIA SUPERFICIAL
+T3	Disease 182 212	PROCESO INFECCIOSO OROFARINGEO
+A1	Negated T3
+T4	Sign_or_Symptom 228 247	ADENOPATIA CERVICAL
+T5	Sign_or_Symptom 427 446	CONSISTENCIA PETREA
+T6	Sign_or_Symptom 451 459	DOLOROSO
+A2	Negated T6
+T7	Disease 462 501	Tumor benigno de los ganglios linfatico
+T8	Abbreviation 66 69	APS
+#1	AnnotatorNotes T8	atención primaria de salud
+T9	Abbreviation 345 347	MM
+#2	AnnotatorNotes T9	milímetros
+T10	Abbreviation 347 348	X
+#3	AnnotatorNotes T10	por
+T11	Abbreviation 352 354	MM
+#4	AnnotatorNotes T11	milímetros
+T12	Body_Part 23 42	GANGLIOS LINFÁTICOS
+T13	Medication 137 149	ANTIBIOTICOS
+T14	Body_Part 309 316	GANGLIO
+T15	Body_Part 359 394	CADENA CERVICAL POSTERIOR IZQUIERDA
+T16	Body_Part 483 502	ganglios linfaticos
+T17	Laboratory_or_Test_Result 283 339	TUMORACION CON ASPECTO DE GANGLIO SUPERFICIAL PROMINENTE

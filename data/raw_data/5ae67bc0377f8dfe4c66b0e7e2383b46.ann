@@ -1,0 +1,17 @@
+T1	Body_Part 27 38	ojo derecho
+T2	Abbreviation 62 65	APS
+T3	Abbreviation 96 98	DM
+T4	Body_Part 126 129	ojo
+T5	Body_Part 231 233	OD
+T6	Abbreviation 231 233	OD
+T7	Body_Part 249 251	OI
+T8	Abbreviation 249 251	OI
+T9	Disease 2 27	CATARATA, NO ESPECIFICADA
+T10	Disease 96 98	DM
+T11	Diagnostic_Procedure 117 129	fondo de ojo
+T12	Disease 222 233	catarata OD
+T13	Disease 236 251	pseudofaquia OI
+T14	Disease 257 278	retinopatia diabetica
+T15	Disease 328 337	cataratas
+T16	Disease 339 364	Catarata, no especificada
+A1	Negated T14

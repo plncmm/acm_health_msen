@@ -1,0 +1,8 @@
+T1	Disease 2 10	PULPITIS
+T2	Abbreviation 34 37	APS
+T3	Body_Part 39 49	Diente 1.1
+T4	Sign_or_Symptom 50 74	desalojo de restauracion
+T5	Disease 76 97	Pulpitis irreversible
+T6	Therapeutic_Procedure 111 136	tratamiento de endodoncia
+A1	Pending T6
+T7	Disease 137 145	Pulpitis

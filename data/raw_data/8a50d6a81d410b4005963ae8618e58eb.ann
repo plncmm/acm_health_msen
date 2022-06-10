@@ -1,0 +1,95 @@
+T1	Abbreviation 62 65	APS
+T2	Abbreviation 67 72	Pacte
+T3	Body_Part 173 186	brazo derecho
+T4	Medication 203 215	medicamnetos
+T5	Abbreviation 217 222	Pacte
+T6	Body_Part 443 457	articulaciones
+T7	Body_Part 507 526	miembros superiores
+T8	Body_Part 544 551	muñecas
+T9	Body_Part 686 692	Cabeza
+T10	Body_Part 713 717	Cara
+T11	Body_Part 721 725	Ojos
+T12	Body_Part 736 747	mucosa conj
+T13	Abbreviation 743 747	conj
+T14	Body_Part 757 761	Boca
+T15	Body_Part 765 771	Mucosa
+T16	Body_Part 790 796	Cuello
+T17	Body_Part 877 885	Tiroides
+T18	Body_Part 903 908	Tórax
+T19	Body_Part 912 925	Caja toráxica
+T20	Body_Part 1068 1075	Corazón
+T21	Body_Part 1135 1142	Abdomen
+T22	Body_Part 1153 1160	ombligo
+T23	Body_Part 1197 1203	Hígado
+T24	Body_Part 1229 1233	Bazo
+T25	Body_Part 1247 1259	Extremidades
+T26	Body_Part 1275 1282	muñecas
+T27	Body_Part 1558 1566	Rodillas
+T28	Body_Part 1569 1576	piernas
+T29	Body_Part 1598 1602	Pies
+T30	Body_Part 1786 1793	Columna
+T31	Abbreviation 1851 1853	EX
+T32	Abbreviation 1854 1857	LAB
+T33	Body_Part 1645 1653	Vascular
+T34	Body_Part 1701 1723	Neurológico periférico
+T35	Body_Part 1263 1273	Superiores
+T36	Body_Part 1411 1421	Inferiores
+T37	Disease 2 38	ARTRITIS REUMATOIDE, NO ESPECIFICADA
+T38	Therapeutic_Procedure 125 153	intervenido qurirugicaemnete
+T39	Disease 157 186	fractura ebn su brazo derecho
+T41	Laboratory_Procedure 258 280	examnes de laboratorio
+T42	Sign_or_Symptom 312 332	dolores articulaeres
+T43	Sign_or_Symptom 352 367	dolor articular
+T45	Sign_or_Symptom 443 526	articulaciones que refiere que son mas afectadas son las de los miembros superiores
+T46	Sign_or_Symptom 544 615	muñecas, refiere que aumentan de volumen, principalmente por las noches
+T47	Sign_or_Symptom 623 642	dolores se agudizan
+T48	Sign_or_Symptom 700 712	alteraciones
+A2	Negated T48
+T50	Sign_or_Symptom 736 755	mucosa conj. Rosada
+T52	Sign_or_Symptom 804 816	alteraciones
+A3	Negated T52
+T51	Clinical_Finding 819 845	Pulsos carotídeos normales
+T53	Clinical_Finding 848 874	Yugulares sin alteraciones
+T54	Clinical_Finding 877 902	Tiroides sin alteraciones
+T55	Clinical_Finding 912 942	Caja toráxica sin alteraciones
+T56	Clinical_Finding 947 969	dolor palpacion costal
+T57	Clinical_Finding 974 994	Respiración eupneica
+T58	Sign_or_Symptom 1007 1036	murmullo vesicular conservado
+T59	Sign_or_Symptom 1054 1064	estertores
+A4	Negated T59
+T60	Sign_or_Symptom 1077 1090	Ritmo regular
+T61	Sign_or_Symptom 1092 1109	tonos conservados
+T62	Sign_or_Symptom 1127 1133	soplos
+A5	Negated T62
+T63	Sign_or_Symptom 1146 1151	Plano
+T64	Sign_or_Symptom 1153 1171	ombligo umbilicado
+T65	Sign_or_Symptom 1173 1183	depresible
+T66	Sign_or_Symptom 1186 1194	indoloro
+T67	Sign_or_Symptom 1197 1225	Hígado bajo el reborde costa
+T68	Clinical_Finding 1229 1245	Bazo no se palpa
+T69	Sign_or_Symptom 1291 1309	aumento de volumen
+T70	Sign_or_Symptom 1326 1347	cambios de coloracion
+A6	Negated T70
+T71	Sign_or_Symptom 1349 1372	dolor a la movilizacion
+T72	Sign_or_Symptom 1374 1408	limitacion en extencion y flexion.
+A7	Negated T71
+A8	Negated T72
+T74	Sign_or_Symptom 1452 1457	edema
+A10	Negated T74
+T75	Sign_or_Symptom 1470 1498	ejes y movilidad conservados
+T76	Sign_or_Symptom 1526 1554	ejes y movilidad conservados
+T77	Sign_or_Symptom 1558 1594	Rodillas y piernas de aspecto normal
+T78	Sign_or_Symptom 1598 1643	Pies:Inspección, ejes y movilidad conservados
+T79	Sign_or_Symptom 1657 1687	Pulsos periféricos conservados
+T80	Sign_or_Symptom 1689 1699	simétricos
+T81	Sign_or_Symptom 1727 1784	Movilidad, fuerzas y reflejos osteotendinosos conservados
+T82	Sign_or_Symptom 1797 1837	Inspección, ejes y movilidad conservados
+T83	Disease 1859 1895	Artritis reumatoide, no especificada
+T84	Laboratory_Procedure 1851 1857	EX LAB
+T40	Clinical_Finding 192 215	alergias a medicamnetos
+A1	Negated T40
+T44	Sign_or_Symptom 726 734	isocoria
+T49	Sign_or_Symptom 765 779	Mucosa húmedas
+T85	Clinical_Finding 781 788	dentada
+A11	Negated T56
+A9	Pending T84

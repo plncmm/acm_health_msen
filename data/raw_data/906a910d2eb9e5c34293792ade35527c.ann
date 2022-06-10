@@ -1,0 +1,9 @@
+T1	Body_Part 0 7	pieza 9
+T2	Abbreviation 82 86	ADAC
+T3	Body_Part 138 146	conducto
+T4	Therapeutic_Procedure 8 32	tratada endodonticamente
+T5	Disease 82 86	ADAC
+T6	Laboratory_or_Test_Result 89 105	lesion radicular
+T7	Laboratory_or_Test_Result 121 146	poste anclado al conducto
+T8	Therapeutic_Procedure 199 212	retratamiento
+A1	Pending T8

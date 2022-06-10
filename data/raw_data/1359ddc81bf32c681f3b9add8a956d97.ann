@@ -1,0 +1,7 @@
+T1	Abbreviation 61 64	APS
+T2	Abbreviation 160 163	EKG
+T3	Disease 2 37	OTRAS ENFERMEDADES CARDIOPULMONARES
+T4	Diagnostic_Procedure 160 163	EKG
+T5	Laboratory_or_Test_Result 172 179	anormal
+R1	Has Arg1:T4 Arg2:T5	
+T6	Disease 181 216	Otras enfermedades cardiopulmonares

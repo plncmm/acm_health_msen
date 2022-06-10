@@ -1,0 +1,6 @@
+T1	Disease 5 37	ANEMIA POR DEFICIENCIA DE HIERRO
+T2	Disease 0 4	D509
+T3	Sign_or_Symptom 62 71	DISPEPSIA
+T4	Diagnostic_Procedure 85 110	ENDOSCOPIA DIGESTIVA ALTA
+A1	Pending T4
+T5	Abbreviation 71 73	++

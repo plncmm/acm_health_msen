@@ -1,0 +1,18 @@
+T1	Abbreviation 42 45	APS
+#1	AnnotatorNotes T1	atención primaria de salud
+T2	Abbreviation 69 73	EEII
+#2	AnnotatorNotes T2	extremidades inferiores
+T3	Abbreviation 148 150	DM
+#3	AnnotatorNotes T3	diabetes mellitus
+T4	Abbreviation 233 236	eco
+#4	AnnotatorNotes T4	ecografía
+T5	Body_Part 11 18	MIEMBRO
+T6	Body_Part 69 73	EEII
+T7	Body_Part 327 334	miembro
+T8	Disease 2 18	DOLOR EN MIEMBRO
+T9	Sign_or_Symptom 60 73	dolor de EEII
+T10	Disease 148 150	DM
+T11	Disease 153 164	gonartrosis
+T12	Disease 318 334	Dolor en miembro
+T13	Diagnostic_Procedure 233 244	eco Doppler
+A1	Pending T13

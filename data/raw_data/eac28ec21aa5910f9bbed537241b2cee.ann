@@ -1,0 +1,12 @@
+T1	Body_Part 11 24	SUPRAESPINOSO
+T2	Body_Part 55 71	manguito rotador
+T3	Body_Part 133 146	SUPRAESPINOSO
+T4	Body_Part 215 231	manguito rotador
+T5	Disease 0 24	TENDINOSIS SUPRAESPINOSO
+T6	Disease 27 71	Tendinitis o tendinosis del manguito rotador
+T7	Disease 74 97	Síndrome de pinzamiento
+T8	Disease 100 120	Bursitis subacromial
+T9	Disease 122 146	TENDINOSIS SUPRAESPINOSO
+T10	Disease 187 231	Tendinitis o tendinosis del manguito rotador
+T11	Disease 234 257	Síndrome de pinzamiento
+T12	Disease 260 280	Bursitis subacromial

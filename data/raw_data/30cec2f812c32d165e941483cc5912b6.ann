@@ -1,0 +1,7 @@
+T1	Abbreviation 39 42	HTA
+T2	Abbreviation 43 44	+
+T3	Abbreviation 45 47	FA
+T4	Disease 39 42	HTA
+T5	Disease 45 47	FA
+T6	Therapeutic_Procedure 51 66	anticoagulación
+T7	Sign_or_Symptom 96 107	rectorragia

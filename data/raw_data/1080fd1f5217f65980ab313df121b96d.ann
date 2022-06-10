@@ -1,0 +1,7 @@
+T1	Abbreviation 57 60	APS
+T2	Clinical_Finding 62 64	M3
+T3	Abbreviation 62 63	M
+T4	Therapeutic_Procedure 70 76	pomero
+T5	Sign_or_Symptom 77 105	episiorrafia mal cicatrizada
+T6	Therapeutic_Procedure 77 89	episiorrafia
+A1	Pending T4

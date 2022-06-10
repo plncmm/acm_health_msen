@@ -1,0 +1,12 @@
+T1	Abbreviation 69 71	MX
+T2	Abbreviation 128 131	IZQ
+T3	Abbreviation 126 127	M
+T4	Body_Part 126 131	M IZQ
+T5	Abbreviation 0 1	M
+T6	Abbreviation 24 29	BIRAD
+T7	Clinical_Finding 0 3	M 3
+T8	Clinical_Finding 6 21	POSTMENOPAUSICA
+T9	Laboratory_or_Test_Result 24 31	BIRAD 3
+T10	Laboratory_or_Test_Result 32 67	IMAGEN NODULAR RETROAREOLAR DERECHA
+T11	Therapeutic_Procedure 69 81	MX BILATERAL
+T12	Sign_or_Symptom 92 131	DENSIDAD ASIMETRICA FOCALIZADA EN M IZQ

@@ -1,0 +1,13 @@
+T2	Disease 30 33	HTA
+T4	Abbreviation 30 33	HTA
+T1	Disease 60 63	TVP
+T3	Abbreviation 60 63	TVP
+T5	Disease 36 51	INSUF. CARDIACA
+T6	Disease 5 20	INSUF. CARDIACA
+T7	Abbreviation 5 10	INSUF
+T8	Abbreviation 36 41	INSUF
+T9	Abbreviation 0 3	OBS
+T10	Abbreviation 52 54	CF
+T11	Abbreviation 55 57	IV
+T12	Clinical_Finding 52 57	CF IV
+T13	Sign_or_Symptom 89 95	DISNEA

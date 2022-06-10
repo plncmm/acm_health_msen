@@ -1,0 +1,11 @@
+T1	Therapeutic_Procedure 0 9	EXODONCIA
+T2	Abbreviation 10 11	P
+T3	Body_Part 10 15	P. 17
+T4	Abbreviation 50 54	TRAT
+T5	Body_Part 66 70	P.17
+T6	Abbreviation 66 67	P
+T7	Therapeutic_Procedure 56 65	EXODONCIA
+A1	Pending T7
+A2	Pending T1
+T8	Laboratory_or_Test_Result 66 102	P.17 SEMIEMPINADA, CURVATURA DE RAIZ
+T9	Body_Part 98 102	RAIZ

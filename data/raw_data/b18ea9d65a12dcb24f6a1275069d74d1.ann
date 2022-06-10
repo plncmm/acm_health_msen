@@ -1,0 +1,11 @@
+T1	Abbreviation 31 34	IRC
+T2	Abbreviation 38 40	HD
+T3	Abbreviation 42 46	DM 2
+T4	Abbreviation 47 49	IR
+T5	Disease 0 4	F03X
+T6	Disease 5 30	DEMENCIA, NO ESPECIFICADA
+T7	Disease 31 34	IRC
+T8	Therapeutic_Procedure 38 40	HD
+T9	Disease 42 46	DM 2
+T10	Sign_or_Symptom 67 102	DESORIENTACION TEMPORAL EN DOMICLIO
+T11	Sign_or_Symptom 103 125	DESORIENTADA EN TIEMPO

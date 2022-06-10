@@ -1,0 +1,7 @@
+T1	Abbreviation 63 64	H
+T2	Disease 13 33	endotropia congénita
+T3	Sign_or_Symptom 36 45	nistagmus
+T4	Therapeutic_Procedure 52 59	operada
+A1	Pending T4
+T5	Diagnostic_Procedure 121 136	pase anestésico
+A2	Pending T5

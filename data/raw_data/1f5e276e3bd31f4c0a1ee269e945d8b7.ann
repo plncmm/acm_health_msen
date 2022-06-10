@@ -1,0 +1,12 @@
+T1	Abbreviation 27 30	HNP
+T2	Abbreviation 31 33	op
+T3	Abbreviation 35 38	HTA
+T4	Abbreviation 39 42	DM2
+T5	Abbreviation 42 45	NIR
+T6	Abbreviation 22 25	der
+T7	Disease 9 25	Lumbociatica der
+T8	Therapeutic_Procedure 27 33	HNP op
+T9	Disease 27 30	HNP
+T10	Disease 35 38	HTA
+T11	Disease 39 42	DM2
+T12	Disease 80 110	LUMBOCIATICA CON DEFICIT MOTOR

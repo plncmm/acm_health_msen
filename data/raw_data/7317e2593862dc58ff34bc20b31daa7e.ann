@@ -1,0 +1,8 @@
+T1	Abbreviation 80 83	IMC
+T2	Abbreviation 89 92	DPM
+T3	Abbreviation 110 112	DS
+T4	Abbreviation 113 116	P/T
+T5	Abbreviation 117 118	N
+T6	Disease 0 51	TELARQUIA PRECOZ EN ESTUDIO O POLIPOMASTIA TANER II
+T7	Clinical_Finding 54 79	ESTADO NUTRICIONAL NORMAR
+T8	Clinical_Finding 89 99	DPM NORMAL

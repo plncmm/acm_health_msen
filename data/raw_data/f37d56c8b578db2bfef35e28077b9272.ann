@@ -1,0 +1,16 @@
+T1	Disease 2 15	TIROTOXICOSIS
+T2	Disease 17 32	HIPERTIROIDISMO
+T3	Disease 91 103	acné juvenil
+T4	Disease 105 126	ansiedad generalizada
+T5	Sign_or_Symptom 139 167	dolor abdominal intermitente
+T6	Disease 169 190	sindrome premenstrual
+T7	Disease 359 372	Tirotoxicosis
+T8	Disease 374 389	hipertiroidismo
+T9	Abbreviation 57 60	APS
+#1	AnnotatorNotes T9	atención primaria de salud
+T10	Abbreviation 251 254	TSH
+#2	AnnotatorNotes T10	tirotropina
+T11	Laboratory_Procedure 251 254	TSH
+T12	Laboratory_or_Test_Result 255 263	alterada
+R1	Has Arg1:T11 Arg2:T12	
+T13	Medication 302 313	betabloqueo

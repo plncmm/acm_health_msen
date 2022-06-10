@@ -1,0 +1,10 @@
+T1	Body_Part 26 29	OJO
+T2	Body_Part 84 100	parpado inferior
+T3	Abbreviation 101 106	2ario
+T4	Abbreviation 122 124	ca
+T5	Body_Part 36 42	ANEXOS
+T6	Disease 0 4	H598
+T7	Disease 5 73	OTROS TRASTORNOS DEL OJO Y SUS ANEXOS, CONSECUTIVOS A PROCEDIMIENTOS
+T8	Disease 74 100	Ectropion parpado inferior
+T9	Therapeutic_Procedure 109 146	reseccion de ca espinocelular extenso
+T10	Therapeutic_Procedure 146 158	Radioterapia

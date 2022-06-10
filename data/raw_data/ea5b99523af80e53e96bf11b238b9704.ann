@@ -1,0 +1,11 @@
+T1	Disease 2 34	ATRICIÓN EXCESIVA DE LOS DIENTES
+T2	Body_Part 27 34	DIENTES
+T3	Abbreviation 58 61	APS
+T5	Body_Part 101 109	PZAS 8-9
+T4	Disease 92 100	ATRICION
+T6	Sign_or_Symptom 111 143	DOLOR CON CAMBIOS DE TEMPERATURA
+T7	Laboratory_or_Test_Result 145 172	LINEA PERIODONTAL ENGROSADA
+T8	Abbreviation 214 217	TTO
+T9	Disease 218 250	Atricion excesiva de los dientes
+T10	Body_Part 243 250	dientes
+T11	Abbreviation 101 105	PZAS

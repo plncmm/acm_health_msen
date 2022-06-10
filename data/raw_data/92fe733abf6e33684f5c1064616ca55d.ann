@@ -1,0 +1,5 @@
+T1	Abbreviation 55 58	TTO
+T2	Body_Part 95 102	MOLARES
+T3	Disease 9 36	DESDENTADO PARCIAL SUPERIOR
+T4	Therapeutic_Procedure 55 78	TTO. PROTESICO SUPERIOR
+A1	Pending T4

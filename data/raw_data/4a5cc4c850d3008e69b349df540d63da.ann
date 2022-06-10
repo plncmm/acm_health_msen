@@ -1,0 +1,7 @@
+T1	Abbreviation 48 51	sup
+T2	Therapeutic_Procedure 39 51	protesis sup
+A1	Pending T2
+T3	Abbreviation 56 58	ex
+T4	Disease 71 97	desdentamiento parcial sup
+T5	Abbreviation 94 97	sup
+T6	Abbreviation 111 114	tto

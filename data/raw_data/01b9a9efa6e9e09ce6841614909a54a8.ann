@@ -1,0 +1,9 @@
+T1	Therapeutic_Procedure 31 39	IMPLANTE
+A1	Pending T1
+T2	Body_Part 40 52	PIEZA 7 Y 10
+T3	Disease 124 150	Agenesia Diente Permanente
+T4	Therapeutic_Procedure 113 121	IMPLANTE
+A2	Pending T4
+T5	Body_Part 78 84	6 Y 11
+T6	Body_Part 95 97	11
+T7	Body_Part 122 123	7

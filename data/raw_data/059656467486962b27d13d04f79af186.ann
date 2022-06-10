@@ -1,0 +1,10 @@
+T4	Abbreviation 9 12	PAP
+T6	Clinical_Finding 0 2	G1
+T7	Clinical_Finding 3 5	P1
+T8	Clinical_Finding 6 8	A0
+T1	Abbreviation 0 1;3 4;6 7	G P A
+T3	Diagnostic_Procedure 9 12	PAP
+T2	Laboratory_or_Test_Result 13 20	ATIPICO
+T5	Laboratory_or_Test_Result 21 76	CELULAS ESCAMOSAS ATIPICAS DE SIGNIFICADO INDETERMINADO
+R1	Has Arg1:T3 Arg2:T2	
+R2	Has Arg1:T3 Arg2:T5	

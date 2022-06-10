@@ -1,0 +1,15 @@
+T1	Body_Part 2 9	DIENTES
+T2	Abbreviation 43 46	APS
+T3	Abbreviation 115 117	RX
+T4	Body_Part 148 175	TERCEROS MOLARES INFERIORES
+T5	Body_Part 189 196	DIENTES
+T6	Body_Part 243 250	DIENTES
+T7	Body_Part 350 367	DIENTES 3.8 Y 4.8
+T8	Body_Part 370 377	Dientes
+T9	Disease 2 19	DIENTES INCLUIDOS
+T10	Disease 370 387	Dientes incluidos
+T11	Laboratory_or_Test_Result 189 229	DIENTES INCLUIDOS EN POSICION HORIZONTAL
+T12	Therapeutic_Procedure 326 335	EXODONCIA
+A1	Pending T12
+T13	Diagnostic_Procedure 115 128	RX PANORAMICA
+R1	Has Arg1:T13 Arg2:T11	

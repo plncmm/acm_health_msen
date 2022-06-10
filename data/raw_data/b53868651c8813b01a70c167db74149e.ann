@@ -1,0 +1,6 @@
+T1	Abbreviation 55 58	APS
+T3	Body_Part 146 167	hemipaladar izquierdo
+T4	Disease 181 189	papiloma
+T2	Sign_or_Symptom 78 167	aumento de volumen con digitaciones color rosado y blanquecino , en hemipaladar izquierdo
+T5	Therapeutic_Procedure 211 222	extirpacion
+A1	Pending T5

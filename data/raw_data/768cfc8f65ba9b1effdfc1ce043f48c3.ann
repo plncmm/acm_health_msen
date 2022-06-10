@@ -1,0 +1,39 @@
+T1	Abbreviation 47 51	Pcte
+T2	Abbreviation 167 172	antec
+T3	Abbreviation 176 179	OMA
+T4	Body_Part 199 203	oido
+T5	Abbreviation 208 213	antec
+T6	Abbreviation 286 291	aprox
+T7	Abbreviation 361 364	TAV
+T8	Abbreviation 387 389	ex
+T9	Abbreviation 415 417	OD
+T10	Body_Part 415 417	OD
+T11	Abbreviation 423 425	OI
+T12	Body_Part 423 425	OI
+T13	Abbreviation 439 444	indic
+T14	Abbreviation 448 453	aplic
+T15	Abbreviation 457 461	H202
+T16	Medication 457 461	H202
+T17	Abbreviation 466 468	OD
+T18	Body_Part 466 468	OD
+T19	Abbreviation 476 479	sem
+T20	Abbreviation 510 512	OD
+T21	Body_Part 510 512	OD
+T22	Medication 243 259	medics ototxicos
+T23	Abbreviation 243 249	medics
+T24	Abbreviation 376 381	grles
+T25	Disease 2 40	HIPOACUSIA CONDUCTIVA Y NEUROSENSORIAL
+T26	Disease 69 81	hipoacusia  
+T27	Disease 176 179	OMA
+A1	Negated T27
+T28	Sign_or_Symptom 184 203	supuracion del oido
+A2	Negated T28
+T29	Disease 208 231	antec de traumas oticos
+A3	Negated T29
+T30	Sign_or_Symptom 297 330	disminucion de audicion bilateral
+T31	Therapeutic_Procedure 361 364	TAV
+T32	Laboratory_Procedure 368 381	exmaens grles
+T33	Sign_or_Symptom 390 417	otoscopico tapon cerumen OD
+T34	Sign_or_Symptom 423 432	OI NORMAL
+T35	Therapeutic_Procedure 448 468	aplic de H202  en OD
+T36	Therapeutic_Procedure 503 512	lavado OD

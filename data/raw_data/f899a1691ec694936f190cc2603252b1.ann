@@ -1,0 +1,13 @@
+T1	Disease 2 45	TRASTORNO DE LA REFRACCIÓN, NO ESPECIFICADO
+T2	Abbreviation 61 65	DMIR
+T3	Disease 61 63	DM
+T5	Abbreviation 93 96	INS
+T7	Abbreviation 98 101	NPH
+T8	Abbreviation 105 107	ui
+T9	Abbreviation 108 109	c
+T10	Abbreviation 115 119	metf
+T14	Abbreviation 144 146	mg
+T4	Medication 93 101	INS. NPH
+T6	Medication 115 119	metf
+T11	Medication 131 141	famotidina
+T12	Abbreviation 123 125	mg

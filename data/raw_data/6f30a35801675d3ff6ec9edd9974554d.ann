@@ -1,0 +1,6 @@
+T1	Abbreviation 0 4	Pcte
+T2	Disease 5 44	desdentada parcial maxilar y mandibular
+T4	Clinical_Finding 136 179	protesis metalica mandibular en buen estado
+T5	Therapeutic_Procedure 207 232	protesis maxilar acrilica
+A1	Pending T5
+T3	Sign_or_Symptom 45 121	portadora d eprotesis parcial acrílica en mal estado, antigua, faltan piezas

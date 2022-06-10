@@ -1,0 +1,9 @@
+T1	Body_Part 19 32	femur derecho
+T4	Body_Part 118 127	periostio
+T5	Body_Part 152 164	femur distal
+T6	Abbreviation 185 188	1er
+T2	Body_Part 185 227	1er ortejo pie derecho metatarso-falangico
+T3	Disease 0 32	fractura distal de femur derecho
+T7	Therapeutic_Procedure 41 71	operada con placas y tornillos
+T8	Laboratory_or_Test_Result 83 227	Tornillo desplazado callo oseo con periostio "inflado" o periostitis femur distal derecha subluzacion 1er ortejo pie derecho metatarso-falangico
+T9	Disease 173 227	subluzacion 1er ortejo pie derecho metatarso-falangico

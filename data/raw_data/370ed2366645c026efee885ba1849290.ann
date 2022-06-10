@@ -1,0 +1,5 @@
+T1	Disease 0 38	DESDENTADA PARCIAL SUPERIOR E INFERIOR
+T2	Therapeutic_Procedure 50 59	EXODONCIA
+A1	Pending T2
+T3	Therapeutic_Procedure 71 83	EXTRACCIONES
+A2	Pending T3

@@ -1,0 +1,10 @@
+T1	Body_Part 0 7	Pieza 1
+T2	Clinical_Finding 0 19	Pieza 1 erupcionada
+T3	Sign_or_Symptom 21 97	zona de impacto alimentario y dificil acceso para higiene (foco periodontal)
+T4	Body_Part 97 105	Pieza 17
+T5	Disease 110 127	caries penetrante
+T6	Laboratory_or_Test_Result 97 127	Pieza 17 con caries penetrante
+T7	Therapeutic_Procedure 157 166	exodoncia
+A1	Pending T7
+T8	Body_Part 170 183	piezas 1 y 17
+T9	Disease 194 207	CARIES DENTAL

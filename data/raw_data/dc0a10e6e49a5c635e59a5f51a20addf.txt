@@ -1,0 +1,2 @@
+Paciente mornorrena, tiene funcion renal nromal. Llama la atencion peso y talla con z score -1.9.
+se solicita evaluacion

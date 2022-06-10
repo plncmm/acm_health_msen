@@ -1,0 +1,17 @@
+T2	Disease 44 76	periodontitis apical sintomatica
+T1	Disease 2 44	ENFERMEDAD DEL PERIODONTO, NO ESPECIFICADA
+T3	Abbreviation 83 86	dte
+T4	Body_Part 83 90	dte 2.4
+T5	Disease 91 117	caries dentinaria profunda
+T6	Abbreviation 118 120	OM
+T7	Sign_or_Symptom 138 191	dolor a la percusion en sentido horizontal y vertical
+T8	Abbreviation 205 207	rx
+T9	Diagnostic_Procedure 205 218	rx periapical
+T10	Laboratory_or_Test_Result 231 260	esion radiolucida en el apice
+T11	Body_Part 255 260	apice
+R1	Has Arg1:T9 Arg2:T10	
+T12	Disease 267 299	Periodontitis apical sintomatica
+T13	Abbreviation 263 265	Dg
+T14	Therapeutic_Procedure 341 352	trepanacion
+T15	Clinical_Finding 414 420	fermin
+T16	Body_Part 17 27	PERIODONTO

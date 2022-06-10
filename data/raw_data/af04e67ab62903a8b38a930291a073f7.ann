@@ -1,0 +1,12 @@
+T1	Abbreviation 20 25	antec
+T2	Abbreviation 29 32	dm2
+T3	Abbreviation 34 37	hta
+T4	Abbreviation 39 42	dlp
+T6	Abbreviation 175 178	etc
+T9	Disease 29 32	dm2
+T10	Disease 34 37	hta
+T11	Disease 39 42	dlp
+T12	Abbreviation 0 4	pcte
+T5	Sign_or_Symptom 70 97	olvidos de cosas cotidianas
+T7	Sign_or_Symptom 193 200;210 216	olvidos diario
+T8	Sign_or_Symptom 256 266	desoriento

@@ -1,0 +1,14 @@
+T1	Abbreviation 74 77	APS
+T2	Family_Member 117 122	madre
+T3	Body_Part 162 169	piernas
+T4	Body_Part 175 183	rodillas
+T5	Body_Part 350 354	pies
+T6	Body_Part 46 50	PIES
+T7	Disease 2 50	OTRAS DEFORMIDADES VALGUS CONGÉNITAS DE LOS PIES
+T8	Sign_or_Symptom 127 144	caìdas constantes
+T9	Sign_or_Symptom 147 169	deformaciòn de piernas
+T10	Sign_or_Symptom 175 197	rodillas hacia adentro
+T11	Sign_or_Symptom 227 246	genuvalgo bilateral
+T12	Disease 306 354	Otras deformidades valgus congenitas de los pies
+T13	Clinical_Finding 252 267	otros hallazgos
+A1	Negated T13

@@ -1,0 +1,9 @@
+T1	Abbreviation 57 60	APS
+T2	Body_Part 102 108	HOMBRO
+T3	Body_Part 189 207	manguito rotatorio
+T4	Body_Part 15 33	MANGUITO ROTATORIO
+T5	Abbreviation 62 66	PCTE
+T6	Disease 2 33	SÍNDROME DEL MANGUITO ROTATORIO
+T7	Sign_or_Symptom 93 122	DOLOR DE HOMBRO DE LARGA DATA
+T8	Therapeutic_Procedure 161 175	KINESIOTERAPIA
+T9	Disease 176 207	Sindrome del manguito rotatorio

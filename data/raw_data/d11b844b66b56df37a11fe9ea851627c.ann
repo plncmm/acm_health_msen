@@ -1,0 +1,9 @@
+T1	Abbreviation 136 139	ANT
+T2	Family_Member 143 147	MAMÁ
+T3	Disease 0 4	D685
+T4	Disease 5 25	TROMBOFILIA PRIMARIA
+T5	Disease 153 163	TRMBOFILIA
+T6	Laboratory_Procedure 68 90	ESTUDIO DE TROMBOFILIA
+A1	Pending T6
+T7	Disease 79 90	TROMBOFILIA
+R1	Has Arg1:T2 Arg2:T5	

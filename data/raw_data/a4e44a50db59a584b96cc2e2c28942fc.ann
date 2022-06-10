@@ -1,0 +1,36 @@
+T1	Abbreviation 50 53	APS
+T2	Abbreviation 75 78	Ant
+T3	Abbreviation 106 109	FUR
+T4	Abbreviation 210 213	PAP
+T5	Abbreviation 274 277	FII
+T6	Abbreviation 361 364	BEG
+T7	Body_Part 385 392	ABdomen
+T8	Abbreviation 464 467	FII
+T9	Abbreviation 515 518	RHA
+T10	Abbreviation 589 592	eco
+T11	Body_Part 274 277	FII
+T12	Body_Part 450 461	hipogastrio
+T13	Body_Part 464 467	FII
+T14	Abbreviation 518 519	+
+T15	Sign_or_Symptom 2 26	DOLOR PÉLVICO Y PERINEAL
+T16	Disease 80 89	Epilepsia
+T17	Clinical_Finding 91 99	Alergias
+A1	Negated T17
+T18	Therapeutic_Procedure 179 183	cono
+T19	Diagnostic_Procedure 210 213	PAP
+T20	Laboratory_or_Test_Result 214 222	alterado
+R1	Has Arg1:T19 Arg2:T20	
+T21	Sign_or_Symptom 243 277	dolor hipogastrico irradiado a FII
+T22	Sign_or_Symptom 337 348	dispareunia
+T23	Clinical_Finding 361 364	BEG
+T24	Sign_or_Symptom 366 374	eupneica
+T25	Sign_or_Symptom 376 383	afebril
+T26	Sign_or_Symptom 394 467	globoso, blando, depresible, sensible a la palpaicon en hipogastrio y FII
+T27	Sign_or_Symptom 473 504	signos de irritaicon peritoenal
+A2	Negated T27
+T28	Sign_or_Symptom 508 513	masas
+A3	Negated T28
+T29	Sign_or_Symptom 515 519	RHA+
+T30	Diagnostic_Procedure 589 592	eco
+A4	Pending T30
+T31	Sign_or_Symptom 650 674	Dolor pelvico y perineal

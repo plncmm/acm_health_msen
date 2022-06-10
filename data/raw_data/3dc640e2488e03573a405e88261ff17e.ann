@@ -1,0 +1,7 @@
+T1	Body_Part 0 5	PZA 9
+T2	Disease 6 34	ABCESO DENTOALVEOLAR CRONICO
+T3	Therapeutic_Procedure 65 73	IMPLANTE
+A1	Pending T3
+T4	Therapeutic_Procedure 76 107	REHABILITACION EN PROTESIS FIJA
+A2	Pending T4
+T5	Abbreviation 0 3	PZA

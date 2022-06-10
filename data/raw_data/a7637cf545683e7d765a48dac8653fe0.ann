@@ -1,0 +1,12 @@
+T1	Disease 2 22	NECROSIS DE LA PULPA
+T2	Body_Part 17 22	PULPA
+T3	Abbreviation 46 49	APS
+T4	Therapeutic_Procedure 51 62	trepanacion
+T5	Body_Part 66 81	dientes 1.2-2.2
+T6	Disease 82 97	necrosis pulpar
+T7	Laboratory_or_Test_Result 98 111	lesion apical
+T8	Therapeutic_Procedure 113 116	pfp
+T9	Abbreviation 113 116	pfp
+T10	Clinical_Finding 113 127	pfp provisoria
+T11	Disease 171 191	Necrosis de la pulpa
+T12	Body_Part 186 191	pulpa

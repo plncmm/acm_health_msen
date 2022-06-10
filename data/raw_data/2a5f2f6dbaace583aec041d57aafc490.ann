@@ -1,0 +1,7 @@
+T2	Abbreviation 83 86	APS
+T1	Disease 2 59	DEFORMIDAD EN VARO, NO CLASIFICADA EN OTRA PARTEGENU VARO
+T3	Therapeutic_Procedure 97 110	TONSILECTOMIA
+T4	Diagnostic_Procedure 115 134	ESTUDIO RADIOLOGICO
+T5	Laboratory_or_Test_Result 146 155	GENU VARO
+R1	Has Arg1:T4 Arg2:T5	
+T6	Disease 180 228	Deformidad en varo, no clasificada en otra parte

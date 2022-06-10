@@ -1,0 +1,5 @@
+T1	Abbreviation 0 4	pcte
+T2	Disease 5 49	desdentado total superior y parcial inferior
+T3	Sign_or_Symptom 51 81	protesisi superior desajustada
+T4	Therapeutic_Procedure 98 132	rehabilitacion superior e inferior
+A1	Pending T4

@@ -1,0 +1,13 @@
+T1	Disease 2 20	SD. TUNEL CARPIANO
+T3	Abbreviation 2 4	SD
+#1	AnnotatorNotes T3	síndrome
+T4	Abbreviation 93 95	RX
+#2	AnnotatorNotes T4	radiografía
+T5	Abbreviation 118 119	+
+#3	AnnotatorNotes T5	positivo
+T6	Body_Part 6 20	TUNEL CARPIANO
+T7	Body_Part 55 67	MANO DERECHA
+T2	Sign_or_Symptom 32 43	PARISTESIAS
+T8	Sign_or_Symptom 46 67	DOLOR EN MANO DERECHA
+T9	Sign_or_Symptom 104 120	SIGNO PHALEN (+)
+T10	Sign_or_Symptom 121 132	SIGNO TUNEL

@@ -1,0 +1,9 @@
+T1	Abbreviation 0 3	Pza
+T2	Body_Part 0 6	Pza 11
+T3	Sign_or_Symptom 8 18	fracturada
+T4	Body_Part 33 37	raíz
+T5	Body_Part 41 45	boca
+T7	Abbreviation 114 117	tto
+T8	Therapeutic_Procedure 114 129	tto endodóntico
+A1	Pending T8
+T6	Clinical_Finding 23 74	mantendrá raíz en boca para mantener remanente óseo

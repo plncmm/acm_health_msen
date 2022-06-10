@@ -1,0 +1,12 @@
+T1	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T4	Disease 217 261	Trastornos de la articulacion temporomaxilar
+T5	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T6	Body_Part 119 136	condilo izquierdo
+T7	Body_Part 159 162	atm
+T8	Abbreviation 159 162	atm
+T9	Body_Part 234 261	articulacion temporomaxilar
+T2	Abbreviation 70 73	APS
+T11	Sign_or_Symptom 138 145	Click  
+T12	Sign_or_Symptom 147 163	dolor en al atm.
+T13	Sign_or_Symptom 165 213	Apertura normal en longitud , pero con deflexion
+T3	Disease 93 136	luxacion con reduccion de condilo izquierdo

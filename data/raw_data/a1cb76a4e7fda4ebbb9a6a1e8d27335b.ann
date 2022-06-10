@@ -1,0 +1,6 @@
+T1	Abbreviation 64 67	APS
+T2	Disease 2 40	ENFERMEDAD DEL REFLUJO GASTROESOFÁGICO
+T3	Sign_or_Symptom 121 130	dispepsia
+T4	Sign_or_Symptom 132 152	distension abdominal
+T5	Sign_or_Symptom 154 193	reflujo gastroesofagico acido frecuente
+T6	Disease 247 285	Enfermedad del reflujo gastroesofagico

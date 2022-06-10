@@ -1,0 +1,14 @@
+T1	Abbreviation 64 67	APS
+T2	Abbreviation 69 70	G
+T3	Abbreviation 71 72	A
+T4	Abbreviation 73 74	P
+T5	Abbreviation 75 76	V
+T6	Medication 130 138	INSULINA
+T7	Disease 2 40	SUPERVISIÓN DE EMBARAZO DE ALTO RIESGO
+T8	Clinical_Finding 69 71	G4
+T9	Clinical_Finding 71 73	A3
+T10	Clinical_Finding 73 75	P1
+T11	Clinical_Finding 96 104	EMBARAZO
+T12	Disease 118 138	RESISTENCIA INSULINA
+T13	Disease 139 177	Supervision de embarazo de alto riesgo
+T14	Disease 77 96	ABORTADORA HABITUAL

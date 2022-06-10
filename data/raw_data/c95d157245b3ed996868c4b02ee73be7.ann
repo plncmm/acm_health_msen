@@ -1,0 +1,10 @@
+T1	Abbreviation 43 46	APS
+T2	Body_Part 176 194	caninos superiores
+T3	Body_Part 268 283	arcos dentarios
+T4	Body_Part 206 211	molar
+T5	Sign_or_Symptom 2 19	MORDIDA INVERTIDA
+T6	Sign_or_Symptom 95 112	mordida invertida
+T7	Sign_or_Symptom 114 140	apiñamiento anterosuperior
+T8	Sign_or_Symptom 142 194	falta de espacio para erupcion de caninos superiores
+T9	Sign_or_Symptom 196 231	clase III molar derecha e izquierda
+T10	Disease 233 283	Anomalias de la relacion entre los arcos dentarios

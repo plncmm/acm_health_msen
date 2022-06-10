@@ -1,0 +1,8 @@
+T1	Clinical_Finding 33 37	SANO
+T2	Disease 70 91	ANOMALIA DENTOMAXILAR
+T3	Sign_or_Symptom 92 103	APINAMIENTO
+T4	Disease 170 184	TRAUMA OCLUSAL
+T5	Body_Part 154 166	PIEZAS E Y F
+T6	Sign_or_Symptom 117 151	MAXILAR INFERIOR MORDIDA VIS A VIS
+#1	AnnotatorNotes T6	whatt????????????
+T7	Abbreviation 114 116	MM

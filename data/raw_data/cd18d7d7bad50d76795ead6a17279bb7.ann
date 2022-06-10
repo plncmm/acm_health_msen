@@ -1,0 +1,11 @@
+T1	Abbreviation 41 44	APS
+T2	Body_Part 184 194	diente 3,8
+T3	Abbreviation 206 209	tto
+T4	Abbreviation 210 213	ATB
+T5	Medication 210 213	ATB
+T6	Medication 216 226	analgesico
+T7	Abbreviation 240 242	Rx
+T8	Disease 2 17	PERICORONARITIS
+T9	Disease 154 180	pericoronaritis supurativa
+T10	Diagnostic_Procedure 240 254	Rx panoramnica
+T11	Disease 256 271	Pericoronaritis

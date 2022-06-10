@@ -1,0 +1,14 @@
+T1	Abbreviation 32 35	APS
+T2	Abbreviation 41 46	antec
+T3	Abbreviation 109 112	alt
+T4	Abbreviation 205 209	ATTE
+T5	Disease 2 8	MIOPÍA
+T6	Clinical_Finding 41 55	antec morbidos
+A1	Negated T6
+T7	Disease 65 84	vicio de refraccion
+T8	Disease 98 104	Miopia
+T9	Sign_or_Symptom 109 133	alt de la oculomotilidad
+A2	Negated T9
+T10	Sign_or_Symptom 150 167	alteracion visual
+A3	Negated T10
+T11	Disease 210 216	Miopia

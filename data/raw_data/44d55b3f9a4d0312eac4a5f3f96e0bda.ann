@@ -1,0 +1,8 @@
+T1	Abbreviation 41 44	APS
+T2	Abbreviation 150 153	qca
+T3	Disease 2 17	HERNIA INGUINAL
+T4	Clinical_Finding 59 80	antecedentes morbidos
+A1	Negated T4
+T5	Disease 86 122	hernia ingunal derecha no complicada
+T6	Therapeutic_Procedure 139 153	resolucion qca
+T7	Disease 155 170	Hernia inguinal

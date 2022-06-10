@@ -1,0 +1,12 @@
+T1	Abbreviation 13 22	hiperbili
+T2	Abbreviation 104 107	APS
+T3	Abbreviation 112 114	sd
+T4	Laboratory_or_Test_Result 13 22	hiperbili
+T5	Laboratory_Procedure 32 39	directa
+T6	Laboratory_or_Test_Result 45 54	aumentada
+R1	Has Arg1:T5 Arg2:T6	
+T7	Laboratory_Procedure 62 79	pruebas hepáticas
+T8	Laboratory_or_Test_Result 80 88	normales
+R2	Has Arg1:T7 Arg2:T8	
+T9	Disease 112 125	sd metabolico
+T10	Laboratory_or_Test_Result 141 160	hiperbilirrubinemia

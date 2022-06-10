@@ -1,0 +1,8 @@
+T1	Body_Part 11 22	L3-L4 L4-L5
+T3	Body_Part 25 30	L5-S1
+T2	Body_Part 77 82	L4-L5
+T4	Body_Part 85 90	L5-S1
+T5	Laboratory_or_Test_Result 0 30	DISCOPATIA L3-L4 L4-L5 Y L5-S1
+T6	Laboratory_or_Test_Result 31 56	PROTUSION DISCAL MODERADA
+T7	Laboratory_or_Test_Result 57 90	RAQUITINOSIS LUMBAR L4-L5 Y L5-S1
+T8	Laboratory_or_Test_Result 91 110	ESPONDILISIS LUMBAR

@@ -1,0 +1,14 @@
+T1	Disease 33 42	ENF.RENAL
+T2	Disease 44 55	ENTEROPATIA
+T3	Disease 58 72	RETINOPA.DIAB.
+T5	Disease 88 91	ITU
+T7	Abbreviation 29 32	DER
+T8	Abbreviation 88 91	ITU
+T9	Abbreviation 67 71	DIAB
+T10	Abbreviation 33 36	ENF
+T11	Abbreviation 58 66	RETINOPA
+T4	Abbreviation 20 24	PARP
+T12	Abbreviation 80 86	SECUND
+T13	Sign_or_Symptom 0 32	LESION SOLEVANTGADA PARP.OJO DER
+T14	Disease 73 86	ANEMIA SECUND
+T6	Body_Part 20 32	PARP.OJO DER

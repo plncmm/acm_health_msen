@@ -1,0 +1,24 @@
+T1	Body_Part 79 88	testículo
+T2	Body_Part 201 218	escroto izquierdo
+T3	Abbreviation 164 165	-
+T4	Body_Part 255 268	meato uretral
+T5	Disease 2 20	VÁRICES ESCROTALES
+T6	Sign_or_Symptom 46 88	aumento de volumen localizado en testículo
+T7	Sign_or_Symptom 94 101	prúrito
+A1	Negated T7
+T8	Sign_or_Symptom 114 119	dolor
+T9	Sign_or_Symptom 125 132	disuria
+A2	Negated T9
+T10	Sign_or_Symptom 138 150	baja de peso
+A3	Negated T10
+T11	Sign_or_Symptom 152 162	sudoración
+A4	Negated T11
+T12	Sign_or_Symptom 169 218	Aumento de volumen en región de escroto izquierdo
+T13	Sign_or_Symptom 224 235	adenopatías
+A5	Negated T13
+T14	Sign_or_Symptom 241 268	secreción por meato uretral
+A6	Negated T14
+T15	Diagnostic_Procedure 282 291	ecografía
+T16	Laboratory_or_Test_Result 304 324	varicocele izquierdo
+R1	Has Arg1:T15 Arg2:T16	
+T17	Disease 304 314	varicocele

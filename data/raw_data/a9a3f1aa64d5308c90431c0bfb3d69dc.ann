@@ -1,0 +1,12 @@
+T1	Abbreviation 4 7	EST
+T2	Abbreviation 25 28	OBS
+T3	Abbreviation 70 73	INF
+T4	Abbreviation 84 87	UPC
+T5	Abbreviation 67 69	FN
+T6	Abbreviation 53 57	PAPA
+T7	Abbreviation 1 2	M
+T8	Clinical_Finding 1 2	M
+T9	Therapeutic_Procedure 4 18	EST.QUIRURGICA
+T10	Disease 29 52	CERVICOPATIA SOSPECHOSA
+T11	Diagnostic_Procedure 53 56	PAP
+T12	Laboratory_or_Test_Result 92 109	LESION SOSPECHOSA

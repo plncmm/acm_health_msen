@@ -1,0 +1,7 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Abbreviation 74 77	APS
+T3	Sign_or_Symptom 92 115	morida abierta anterior
+T4	Sign_or_Symptom 132 147	succión digital
+T5	Sign_or_Symptom 149 163	Paladar ojival
+T6	Body_Part 149 156	Paladar
+T7	Disease 165 213	Anomalias dentofaciales (incluso la maloclusion)

@@ -1,0 +1,10 @@
+T1	Disease 0 74	PERDIDA DE DIENTES DEBIDA A ACCIDENTE, EXTRACCION O ENF. PERIODONTAL LOCAL
+T2	Therapeutic_Procedure 39 49	EXTRACCION
+T3	Disease 77 116	desdentado parcial maxilar y mandibular
+T4	Therapeutic_Procedure 122 124	PR
+T5	Abbreviation 122 124	PR
+A1	Pending T4
+T6	Sign_or_Symptom 130 153	dificultad masticatoria
+T7	Abbreviation 186 190	atte
+T8	Abbreviation 52 55	ENF
+T9	Body_Part 11 18	DIENTES

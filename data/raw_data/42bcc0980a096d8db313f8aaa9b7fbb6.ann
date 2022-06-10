@@ -1,0 +1,8 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Abbreviation 74 77	APS
+T3	Sign_or_Symptom 97 158	caninos superiores fuera del arco dentairo (vestibularizados)
+T4	Body_Part 97 115	caninos superiores
+T5	Sign_or_Symptom 162 204	diente 4.5 en mal posicion vestibularizado
+T6	Body_Part 162 172	diente 4.5
+T7	Disease 206 254	Anomalias dentofaciales (incluso la maloclusion)
+T8	Body_Part 126 139	arco dentairo

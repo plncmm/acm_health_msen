@@ -1,0 +1,5 @@
+T1	Disease 13 41	insuficiencia renal terminal
+T2	Therapeutic_Procedure 44 71	terapia con inmunosupresion
+T3	Therapeutic_Procedure 83 100	transplante renal
+A1	Pending T3
+T4	Disease 101 106	Lupus

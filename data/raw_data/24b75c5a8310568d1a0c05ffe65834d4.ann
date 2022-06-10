@@ -1,0 +1,16 @@
+T1	Body_Part 2 9	DIENTES
+T2	Abbreviation 56 59	APS
+T3	Body_Part 108 124	piezas 3.8 y 4.8
+T4	Body_Part 160 173	cavidad bucal
+T5	Body_Part 322 331	pieza 1.8
+T6	Body_Part 342 349	Dientes
+T7	Disease 2 33	DIENTES INCLUIDOS E IMPACTADOS/
+T8	Clinical_Finding 74 97	antecedentes sistémicos
+A1	Negated T8
+T9	Clinical_Finding 108 136	piezas 3.8 y 4.8 en erupción
+T10	Sign_or_Symptom 213 242	dolor esporádico pero intenso
+T11	Therapeutic_Procedure 257 266	exodoncia
+A2	Pending T11
+T12	Therapeutic_Procedure 309 318	exodoncia
+A3	Pending T12
+T13	Disease 342 372	Dientes incluidos e impactados

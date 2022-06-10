@@ -1,0 +1,12 @@
+T1	Body_Part 0 6	DTE 20
+T2	Abbreviation 0 3	DTE
+T3	Abbreviation 26 29	DTE
+T4	Body_Part 26 32	DTE 15
+T5	Abbreviation 99 102	TTO
+T6	Body_Part 135 140	ENCIA
+T8	Disease 8 24	GRANULOMA APICAL
+T7	Laboratory_or_Test_Result 0 24	DTE 20. GRANULOMA APICAL
+T9	Disease 34 75	CARIES RECIDIVANTE OCLUSO DISTAL PROFUNDA
+T10	Therapeutic_Procedure 99 115	TTO. ENDODONTICO
+A1	Pending T10
+T11	Sign_or_Symptom 123 140	MARGEN BAJO ENCIA

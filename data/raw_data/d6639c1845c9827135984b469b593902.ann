@@ -1,0 +1,21 @@
+T1	Body_Part 15 29	TÚNEL CARPIANO
+T2	Abbreviation 53 56	APS
+T3	Body_Part 108 135	extremidad superior derecha
+T4	Abbreviation 152 156	EEII
+T5	Body_Part 183 205	nervio mediano derecho
+T6	Body_Part 218 233	tunel del carpo
+T7	Body_Part 282 288	hombro
+T8	Body_Part 291 305	muñeca derecha
+T9	Body_Part 411 425	tunel carpiano
+T10	Abbreviation 337 341	kine
+T11	Body_Part 152 156	EEII
+T12	Disease 2 29	SÍNDROME DEL TÚNEL CARPIANO
+T13	Sign_or_Symptom 85 96	parestesias
+T14	Sign_or_Symptom 99 135	dolor en extremidad superior derecha
+T15	Diagnostic_Procedure 135 156	electromiografia EEII
+T16	Laboratory_or_Test_Result 157 266	signos de atrapamiento de nervio mediano derecho a nivel del tunel del carpo, elctricamente de grado moderado
+R1	Has Arg1:T15 Arg2:T16	
+T17	Therapeutic_Procedure 266 305	infiltracion en hombro y muñeca derecha
+T18	Therapeutic_Procedure 337 348	kine motora
+T19	Sign_or_Symptom 392 397	dolor
+T20	Disease 398 425	Sindrome del tunel carpiano

@@ -1,0 +1,12 @@
+T1	Abbreviation 53 56	ANA
+T2	Abbreviation 59 61	FR
+T3	Medication 78 95	HIDROXICLOROQUINA
+T4	Abbreviation 100 102	MG
+T5	Disease 0 4	M350
+T6	Disease 5 28	SINDROME SECO (SJÖGREN)
+T7	Disease 44 51	SJOGREN
+T8	Laboratory_Procedure 53 56	ANA
+T9	Laboratory_Procedure 59 61	FR
+T10	Laboratory_or_Test_Result 62 70	POSITIVO
+R1	Has Arg1:T8 Arg2:T10	
+R2	Has Arg1:T9 Arg2:T10	

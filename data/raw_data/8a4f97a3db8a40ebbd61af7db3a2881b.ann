@@ -1,0 +1,19 @@
+T1	Abbreviation 76 79	APS
+T2	Abbreviation 81 82	P
+T3	Abbreviation 108 111	Obs
+T4	Abbreviation 112 116	RCIU
+T5	Abbreviation 124 126	LA
+T6	Abbreviation 159 162	ECO
+T7	Abbreviation 209 212	grs
+T8	Abbreviation 219 221	LA
+T9	Abbreviation 248 251	ARO
+T10	Disease 23 52	DÉFICIT DEL CRECIMIENTO FETAL
+T11	Clinical_Finding 84 92	embarazo
+T12	Disease 112 123	RCIU severo
+T13	Laboratory_or_Test_Result 124 137	LA aumentado.
+T14	Diagnostic_Procedure 159 162	ECO
+T16	Disease 388 417	deficit del crecimiento fetal
+T15	Laboratory_or_Test_Result 171 201	feto creciendo en percentil <5
+T17	Laboratory_or_Test_Result 219 231	LA aumentado
+R1	Has Arg1:T14 Arg2:T17	
+R2	Has Arg1:T14 Arg2:T15	

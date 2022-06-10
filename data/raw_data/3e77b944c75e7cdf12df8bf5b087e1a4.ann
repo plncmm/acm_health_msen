@@ -1,0 +1,23 @@
+T1	Body_Part 277 320	borde superior izquierdo del labio superior
+T2	Body_Part 519 562	borde  del labio superior ( zona izquierda)
+T3	Abbreviation 138 141	APS
+T4	Abbreviation 332 337	aprox
+T5	Abbreviation 567 572	aprox
+T6	Abbreviation 575 577	cm
+T7	Disease 2 113	OTROS TRASTORNOS DE LOS TEJIDOS BLANDOS, NO CLASIFICADOS EN OTRA PARTE,(OTROS TRASTORNOS DE LOS TEJIDOS BLANDOS
+T8	Clinical_Finding 168 213	antecedentes de enfermedades cardiovasculares
+A1	Negated T8
+T9	Sign_or_Symptom 254 320	aparicion de lesion en borde superior izquierdo del labio superior
+T10	Sign_or_Symptom 353 391	lesion que e provoca molestias y dolor
+T11	Sign_or_Symptom 422 450	leve incremento en el tamaño
+T12	Sign_or_Symptom 500 561	Lesion indurada en borde  del labio superior ( zona izquierda
+T13	Sign_or_Symptom 589 651	lesion redonda con bordes regulares que impresiona No adherido
+T14	Sign_or_Symptom 653 683	lesion dolorosa a la palpacion
+T15	Sign_or_Symptom 688 697	sangrante
+A2	Negated T15
+T16	Sign_or_Symptom 709 720	eritematosa
+T17	Sign_or_Symptom 726 751	aumento de la temperatura
+A3	Negated T17
+T18	Sign_or_Symptom 758 777	salida de contenido
+A4	Negated T18
+T19	Disease 862 973	Otros trastornos de los tejidos blandos, no clasificados en otra parte,(otros trastornos de los tejidos blandos

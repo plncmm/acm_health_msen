@@ -1,0 +1,10 @@
+T1	Disease 124 135	cardiopatia
+T2	Abbreviation 32 37	Antec
+T3	Abbreviation 80 85	Antec
+T4	Family_Member 97 101	hijo
+R1	Has Arg1:T4 Arg2:T1	
+T5	Clinical_Finding 0 20	Eventos paroxisticos
+T6	Sign_or_Symptom 52 64	Precordalgia
+T7	Sign_or_Symptom 67 80	taquicardia  
+T8	Sign_or_Symptom 44 52	palida  
+T9	Disease 38 43	apnea

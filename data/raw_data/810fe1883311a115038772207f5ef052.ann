@@ -1,0 +1,7 @@
+T1	Body_Part 8 12	OIDO
+T2	Therapeutic_Procedure 3 12	LAVO OIDO
+T3	Disease 17 33	TAPON DE CERUMEN
+T5	Disease 89 94	TAPON
+T6	Sign_or_Symptom 96 103	OTALGIA
+T7	Disease 104 114	HIPOACUSIA
+T8	Medication 129 143	ANTIBIOTERAPIA

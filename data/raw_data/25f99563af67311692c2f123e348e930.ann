@@ -1,0 +1,48 @@
+T1	Disease 2 32	NEUMOCONIOSIS, NO ESPECIFICADA
+T2	Disease 36 127	TUMOR DE COMPORTAMIENTO INCIERTO O DESCONOCIDO DE LA TRAQUEA, DE LOS BRONQUIOS Y DEL PULMÓN
+T3	Body_Part 89 96	TRAQUEA
+T4	Body_Part 105 114	BRONQUIOS
+T5	Body_Part 121 127	PULMÓN
+T6	Abbreviation 151 154	APS
+T7	Disease 156 169	NEUMOCONIOSIS
+T8	Disease 172 186	HIPOTIROIDISMO
+T9	Abbreviation 190 193	TTO
+T10	Medication 198 207	BREXOTIDE
+T11	Medication 210 220	SALBUTAMOL
+T12	Medication 223 235	LEVOTIROXINA
+T13	Abbreviation 240 243	MUG
+T14	Sign_or_Symptom 252 266	REGULAR ESTADO
+T15	Sign_or_Symptom 311 318	DISNEFA
+T16	Clinical_Finding 319 325	CF III
+T17	Sign_or_Symptom 401 414	cuadro gripal
+T18	Disease 415 425	TABAQUISMO
+T19	Sign_or_Symptom 493 497	MP +
+T20	Abbreviation 493 495	MP
+T21	Abbreviation 496 497	+
+T22	Sign_or_Symptom 498 519	ESPIRACION PROLONGADA
+T23	Sign_or_Symptom 524 549	AUSCULTO RUIDOS AGREGADOS
+A1	Negated T23
+T24	Abbreviation 550 557	RR2T SS
+T25	Sign_or_Symptom 550 557	RR2T SS
+T26	Diagnostic_Procedure 570 582	ESPIROMETRIA
+T27	Laboratory_or_Test_Result 610 635	PATRON OBSTRUCTIVO SEVERO
+R1	Has Arg1:T26 Arg2:T27	
+T28	Diagnostic_Procedure 655 666	RX DE TORAX
+T29	Laboratory_or_Test_Result 690 730	COMPOMISO INTERSTICIAL DE PULMON DERECHO
+R2	Has Arg1:T28 Arg2:T29	
+T30	Body_Part 661 666	TORAX
+T31	Body_Part 716 730	PULMON DERECHO
+T32	Laboratory_or_Test_Result 748 796	OPACIDAD EN LOBULO SUPERIOR  DE PULMON IZQUIERDO
+R3	Has Arg1:T28 Arg2:T32	
+T33	Body_Part 780 796	PULMON IZQUIERDO
+T34	Laboratory_or_Test_Result 798 805	DERRAME
+T35	Laboratory_or_Test_Result 807 818	ATELECTASIA
+T36	Laboratory_or_Test_Result 820 825	TUMOR
+T37	Disease 857 948	Tumor de comportamiento incierto o desconocido de la traquea, de los bronquios y del pulmon
+T38	Body_Part 910 917	traquea
+T39	Body_Part 926 935	bronquios
+T40	Body_Part 942 948	pulmon
+T41	Abbreviation 319 321	CF
+R4	Has Arg1:T28 Arg2:T34	
+R5	Has Arg1:T28 Arg2:T35	
+R6	Has Arg1:T28 Arg2:T36	

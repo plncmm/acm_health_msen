@@ -1,0 +1,10 @@
+T1	Abbreviation 44 47	APS
+T2	Body_Part 98 104	piezas
+T3	Body_Part 116 123	grupo V
+T4	Body_Part 167 173	piezas
+T5	Body_Part 232 239	dientes
+T6	Disease 2 20	DESDENTADO PARCIAL
+T7	Disease 49 96	paciente desdentado parcial superior e inferior
+T8	Sign_or_Symptom 98 156	piezas remanentes grupo V cariadas y con movilidad grado 3
+T9	Sign_or_Symptom 158 191	resto de piezas movilidad grado 2
+T10	Disease 194 270	Otras afecciones especificadas de los dientes y de sus estructuras de sosten

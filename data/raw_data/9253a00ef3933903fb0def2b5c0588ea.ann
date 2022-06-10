@@ -1,0 +1,5 @@
+T1	Sign_or_Symptom 0 28	calculo dentario subgingival
+T2	Sign_or_Symptom 75 95	calculos subgingival
+T3	Body_Part 97 105	pieza 31
+T4	Laboratory_or_Test_Result 110 146	perdida osea moderada a nivel mesial
+T5	Laboratory_or_Test_Result 153 184	ligamento periodonal. inflamado

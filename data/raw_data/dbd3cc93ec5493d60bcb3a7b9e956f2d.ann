@@ -1,0 +1,7 @@
+T1	Laboratory_or_Test_Result 53 75	INCLUSION DIENTE 8 Y 9
+T2	Sign_or_Symptom 78 93	MORDIDA ABIERTA
+T3	Disease 94 139	Anomalias del tamaño y de la forma del diente
+T4	Abbreviation 20 23	CMF
+#1	AnnotatorNotes T4	cirugía maxilofacial
+T5	Body_Part 63 75	DIENTE 8 Y 9
+T6	Body_Part 133 139	diente

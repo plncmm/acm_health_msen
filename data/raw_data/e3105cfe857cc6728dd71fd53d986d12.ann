@@ -1,0 +1,11 @@
+T1	Body_Part 0 8	PIEZA 12
+T2	Body_Part 77 85	PIEZA 13
+T3	Abbreviation 73 75	DG
+T4	Abbreviation 118 120	EX
+T5	Abbreviation 131 133	RX
+T6	Body_Part 145 153	PIEZA 13
+T7	Disease 0 30	PIEZA 12 PULPITIS IRREVERSIBLE
+T8	Therapeutic_Procedure 30 39	TREPANADA
+T9	Therapeutic_Procedure 86 95	TREPANADA
+T10	Disease 96 117	PULPITIS IRREVERSIBLE
+T11	Diagnostic_Procedure 131 144	RX PERIAPICAL

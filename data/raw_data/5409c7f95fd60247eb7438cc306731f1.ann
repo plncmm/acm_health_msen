@@ -1,0 +1,52 @@
+T1	Abbreviation 180 183	APS
+T2	Abbreviation 201 204	ANT
+T3	Abbreviation 206 209	HTA
+T4	Abbreviation 252 255	HPB
+T5	Abbreviation 321 324	VFG
+T6	Abbreviation 489 491	GB
+T7	Abbreviation 498 500	HB
+T8	Abbreviation 524 527	RAC
+T10	Abbreviation 532 535	VHS
+T11	Abbreviation 600 603	DIC
+T12	Abbreviation 606 609	FEB
+T14	Abbreviation 634 636	ML
+T15	Abbreviation 698 700	IC
+T16	Abbreviation 747 750	ERC
+T9	Abbreviation 594 595	.
+T13	Abbreviation 625 630	VFG E
+T17	Abbreviation 623 624	>
+T18	Abbreviation 637 640	MIN
+T19	Abbreviation 655 657	SU
+T20	Disease 2 32	ANEMIA DE TIPO NO ESPECIFICADO
+T21	Disease 36 67	TROMBOCITOPENIA NO ESPECIFICADA
+T22	Disease 71 120	SÍNDROME MIELODISPLÁSICO, SIN OTRA ESPECIFICACIÓN
+T23	Disease 124 156	ENFERMEDAD RENAL CRÓNICA ETAPA 3
+T24	Disease 206 209	HTA
+T25	Clinical_Finding 211 219	ALERGIAS
+A1	Negated T25
+T26	Therapeutic_Procedure 235 250	COLECISTECTOMIA
+T27	Disease 252 255	HPB
+T28	Therapeutic_Procedure 252 263	HPB OPERADA
+T29	Disease 306 318	PANCITOPENIA
+T30	Laboratory_or_Test_Result 306 318	PANCITOPENIA
+T31	Laboratory_Procedure 321 324	VFG
+T32	Laboratory_or_Test_Result 325 336	ENLENTECIDA
+R1	Has Arg1:T31 Arg2:T32	
+T33	Laboratory_or_Test_Result 346 368	TROMBOCITOPENIA SEVERA
+T34	Disease 346 361	TROMBOCITOPENIA
+T35	Sign_or_Symptom 376 435	SANGRADO GASTRONITESTINAL, GENITOURINARIO, O DE OTROS FOCOS
+A2	Negated T35
+T36	Sign_or_Symptom 440 457	MAREOS OCAIONALES
+T37	Sign_or_Symptom 467 476	EQUIMOSIS
+T38	Laboratory_Procedure 478 487	HEMOGRAMA
+T39	Laboratory_Procedure 489 491	GB
+T40	Laboratory_Procedure 506 515	PLAQUETAS
+T41	Laboratory_Procedure 524 527	RAC
+T42	Laboratory_Procedure 532 535	VHS
+T43	Laboratory_or_Test_Result 538 579	LINFOCITOS PEQUEÑOS CON ESCASO CITOPLASMA
+T44	Laboratory_or_Test_Result 581 592	ANISOCRMOIA
+T45	Laboratory_Procedure 595 599	CREA
+T46	Laboratory_Procedure 625 628	VFG
+T47	Disease 673 685	PANCITOPENIA
+T48	Laboratory_or_Test_Result 673 685	PANCITOPENIA
+T49	Disease 751 800	Sindrome mielodisplasico, sin otra especificacion

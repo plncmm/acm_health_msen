@@ -1,0 +1,9 @@
+T2	Abbreviation 56 59	APS
+T1	Body_Part 2 9	DIENTES
+T3	Body_Part 61 68	pza 3.8
+T4	Body_Part 80 87	Dientes
+T5	Abbreviation 61 64	pza
+T6	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T7	Laboratory_or_Test_Result 61 78	pza 3.8 impactada
+T8	Disease 69 78	impactada
+T9	Disease 80 110	Dientes incluidos e impactados

@@ -1,0 +1,14 @@
+T1	Disease 2 18	DESDENTADO TOTAL
+T3	Sign_or_Symptom 67 109	aumento de volumen en zona maxilar derecha
+T4	Clinical_Finding 111 138	actualmente sin inflamacion
+T5	Body_Part 89 109	zona maxilar derecha
+T6	Disease 140 176	desdentada total superior e inferior
+T7	Sign_or_Symptom 191 232	protesis desajustadas superior e inferior
+T8	Diagnostic_Procedure 260 263	TAC
+T9	Abbreviation 260 263	TAC
+T10	Body_Part 267 274	maxilar
+T11	Clinical_Finding 280 289	patologia
+A1	Negated T11
+T12	Sign_or_Symptom 306 340	protesis que usa le provocan dolor
+T13	Therapeutic_Procedure 357 375	protesis removible
+A2	Pending T13

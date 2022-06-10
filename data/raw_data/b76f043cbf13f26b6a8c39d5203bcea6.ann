@@ -1,0 +1,8 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Abbreviation 44 47	APS
+T3	Disease 58 96	DESDENTADO PARCIAL SUPERIOR E INFERIOR
+T4	Sign_or_Symptom 99 144	ATRICION EN GRUPO DENTARIO ANTERIOR  MODERADO
+T5	Body_Part 111 134	GRUPO DENTARIO ANTERIOR
+T6	Disease 99 107	ATRICION
+T7	Disease 147 223	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T8	Body_Part 185 192	dientes

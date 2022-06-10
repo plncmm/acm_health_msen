@@ -1,0 +1,12 @@
+T1	Body_Part 16 31	VESÍCULA BILIAR
+T2	Abbreviation 72 75	APS
+T3	Body_Part 124 143	hipocondrio derecho
+T4	Body_Part 197 212	vesícula biliar
+T5	Abbreviation 252 254	cm
+T6	Body_Part 322 337	vesicula biliar
+T7	Disease 2 48	CÁLCULO DE LA VESÍCULA BILIAR SIN COLECISTITIS
+T8	Sign_or_Symptom 115 164	dolor en hipocondrio derecho de fuerte intensidad
+T9	Diagnostic_Procedure 176 184	ecografá
+T10	Laboratory_or_Test_Result 197 254	vesícula biliar con cálculo en su interior que mide 2.7cm
+R1	Has Arg1:T9 Arg2:T10	
+T11	Disease 308 354	Calculo de la vesicula biliar sin colecistitis

@@ -1,0 +1,8 @@
+T1	Disease 0 38	desdentada parcial superior e inferior
+T2	Body_Part 40 49	pieza 8-9
+T3	Abbreviation 54 59	P.F.U
+T4	Therapeutic_Procedure 54 59	P.F.U
+T5	Disease 63 69	caries
+T6	Therapeutic_Procedure 159 167	protesis
+A1	Pending T6
+T7	Body_Part 131 136	pieza

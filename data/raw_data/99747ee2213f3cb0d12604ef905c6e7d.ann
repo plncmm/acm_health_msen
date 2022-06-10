@@ -1,0 +1,8 @@
+T1	Disease 2 18	FIMOSIS PULMONAR
+#1	AnnotatorNotes T1	whatt????????????fibrosis
+T2	Therapeutic_Procedure 39 54	O2 DOMICILIARIO
+T3	Disease 57 90	ENFERMEDAD RENAL CRONICO ETAPA IV
+T4	Disease 93 103	ANEMIA N-N
+T5	Abbreviation 100 101	N
+T6	Abbreviation 102 103	N
+T7	Abbreviation 39 41	O2

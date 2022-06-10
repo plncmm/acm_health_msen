@@ -1,0 +1,12 @@
+T1	Abbreviation 28 31	ECO
+T2	Abbreviation 0 1	M
+T3	Abbreviation 26 27	X
+T4	Clinical_Finding 0 2	M1
+T5	Laboratory_or_Test_Result 4 25	EMBARAZO 18+3 SEMANAS
+T6	Diagnostic_Procedure 28 31	ECO
+R1	Has Arg1:T6 Arg2:T5	
+T7	Disease 32 57	RESISTENCIA A LA INSULINA
+T8	Clinical_Finding 92 108	ANTERIOR CESARIA
+T9	Therapeutic_Procedure 101 108	CESARIA
+T10	Disease 113 124	PRECLAMPSIA
+T11	Clinical_Finding 81 89	EMBARAZO

@@ -1,0 +1,10 @@
+T1	Abbreviation 72 75	FUR
+T2	Abbreviation 83 86	LCF
+T3	Abbreviation 93 95	c/
+T4	Abbreviation 91 92	x
+T5	Clinical_Finding 0 11	Multípara 1
+T7	Clinical_Finding 34 50	Cesarea anterior
+T8	Disease 51 62	Anemia leve
+T9	Disease 63 71	Obesidad
+T6	Diagnostic_Procedure 95 102	doppler
+T10	Clinical_Finding 12 20	Embarazo

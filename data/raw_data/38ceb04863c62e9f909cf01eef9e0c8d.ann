@@ -1,0 +1,7 @@
+T1	Body_Part 0 9	Pieza 3.5
+T2	Therapeutic_Procedure 10 34	tratada endodonticamente
+T4	Therapeutic_Procedure 96 109	retratamiento
+T5	Therapeutic_Procedure 122 154	rehabilitación con protesis fija
+A1	Pending T4
+A2	Pending T5
+T3	Sign_or_Symptom 0 58	Pieza 3.5 tratada endodonticamente con exposición al medio

@@ -1,0 +1,12 @@
+T1	Body_Part 0 11	PZA 17 - 32
+T2	Abbreviation 0 3	PZA
+T3	Disease 12 26	PERIOCORONITIS
+T4	Sign_or_Symptom 28 48	APINAMIENTO INFERIOR
+T5	Abbreviation 82 85	PZA
+T6	Body_Part 82 88	PZA 17
+T7	Laboratory_or_Test_Result 82 102	PZA 17  SEMIRETENIDA
+T8	Sign_or_Symptom 63 80	FUERA DE POSICION
+T9	Sign_or_Symptom 105 106	O
+T10	Sign_or_Symptom 124 131	ALITOSO
+A1	Negated T9
+T11	Sign_or_Symptom 112 123	INFLAMACION

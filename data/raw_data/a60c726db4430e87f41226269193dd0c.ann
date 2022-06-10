@@ -1,0 +1,10 @@
+T1	Body_Part 20 24	UÑAS
+T2	Body_Part 64 76	ortejo mayor
+T3	Medication 279 290	antibiotico
+T4	Disease 2 24	TRASTORNOS DE LAS UÑAS
+T5	Therapeutic_Procedure 52 76	onicectomia ortejo mayor
+T6	Disease 81 95	onicocriptosis
+T7	Disease 150 164	onicocriptosis
+T8	Therapeutic_Procedure 194 213	onicectomia parcial
+A1	Pending T8
+T9	Therapeutic_Procedure 293 303	curaciones

@@ -1,0 +1,8 @@
+T1	Abbreviation 282 285	Eco
+T2	Disease 2 74	TUMOR DE COMPORTAMIENTO INCIERTO O DESCONOCIDO, DE SITIO NO ESPECIFICADO
+T3	Disease 118 132	hipotiroidismo
+T4	Sign_or_Symptom 155 197	masa en zona para vertebral lumbar derecha
+T5	Sign_or_Symptom 263 268	dolor
+T6	Diagnostic_Procedure 282 303	Eco de partes blandas
+A1	Pending T6
+T7	Body_Part 163 197	zona para vertebral lumbar derecha

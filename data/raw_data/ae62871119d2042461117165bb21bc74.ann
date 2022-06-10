@@ -1,0 +1,8 @@
+T1	Body_Part 20 28	Pieza 16
+T2	Sign_or_Symptom 20 72	Pieza 16 erupcionada con caries con comromiso pulpar
+T3	Disease 45 51	caries
+T4	Diagnostic_Procedure 76 95	examen radiográfico
+T5	Laboratory_or_Test_Result 107 136	raiz curva en forma de garfio
+R1	Has Arg1:T4 Arg2:T5	
+T6	Body_Part 107 111	raiz
+T7	Clinical_Finding 174 202	riesgo de fractura radicular

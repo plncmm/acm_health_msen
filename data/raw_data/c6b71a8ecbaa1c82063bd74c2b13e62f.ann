@@ -1,0 +1,12 @@
+T2	Clinical_Finding 6 28	caries mesial profunda
+T3	Body_Part 0 5	dte 1
+T4	Abbreviation 0 3	dte
+T5	Body_Part 49 55	dte 16
+T6	Abbreviation 49 52	dte
+T7	Body_Part 70 76	dte 32
+T8	Abbreviation 70 73	dte
+T9	Body_Part 100 119	raices convergentes
+T1	Laboratory_or_Test_Result 31 47	raices fusionada
+T10	Clinical_Finding 49 67	dte 16 en posicion
+T11	Sign_or_Symptom 70 97	dte 32 cavidad oclusodistal
+T12	Laboratory_or_Test_Result 100 129	raices convergentes en apical

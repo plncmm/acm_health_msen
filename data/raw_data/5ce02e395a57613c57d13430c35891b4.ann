@@ -1,0 +1,5 @@
+T1	Body_Part 0 8	diente 3
+T2	Body_Part 93 99	diente
+T3	Disease 0 30	diente 3 pulpitis irreversible
+T5	Therapeutic_Procedure 55 73	acceso endodontico
+T4	Sign_or_Symptom 9 42	pulpitis irreversible sintomatica

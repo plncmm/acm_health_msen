@@ -1,0 +1,7 @@
+T1	Disease 2 39	ABSCESO DENTO ALVEOLAR CRÓNICO (ADAC)
+T2	Body_Part 46 56	diente 1.6
+T3	Sign_or_Symptom 66 84	fístula vestibular
+T4	Body_Part 86 92	diente
+T6	Therapeutic_Procedure 117 132	prótesis dental
+A1	Pending T6
+T7	Abbreviation 34 38	ADAC

@@ -1,0 +1,12 @@
+T1	Abbreviation 17 20	HTA
+T2	Abbreviation 21 24	ANT
+T3	Abbreviation 26 29	AUV
+T4	Medication 33 59	TRATAMIENTO ANTICOAGULANTE
+T5	Body_Part 82 87	MANOS
+T6	Abbreviation 135 138	TTO
+T7	Abbreviation 152 155	TAC
+T8	Sign_or_Symptom 61 87	PARESTESIAS DE AMBAS MANOS
+T9	Sign_or_Symptom 90 99	DORSALGIA
+T10	Diagnostic_Procedure 152 155	TAC
+T11	Disease 17 20	HTA
+T12	Disease 26 29	AUV

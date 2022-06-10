@@ -1,0 +1,7 @@
+T4	Abbreviation 67 69	MM
+T6	Abbreviation 111 113	GR
+#1	AnnotatorNotes T6	globulo rojos
+T1	Diagnostic_Procedure 5 18	ECO ABDOMINAL
+T2	Laboratory_or_Test_Result 81 107	MICHOHEMATURIA PERSISTENTE
+T3	Laboratory_or_Test_Result 38 60	QUISTE RENAL SOLITARIO
+R1	Has Arg1:T1 Arg2:T3	

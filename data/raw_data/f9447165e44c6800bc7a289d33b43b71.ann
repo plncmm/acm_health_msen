@@ -1,0 +1,13 @@
+T1	Disease 0 4	K010
+T2	Disease 5 22	DIENTES INCLUIDOS
+T3	Abbreviation 23 26	PZA
+T4	Body_Part 23 34	PZA 17 Y 32
+T5	Laboratory_or_Test_Result 35 76	INCLUIDOS CON IMPACTACION EN PZAS 18 Y 31
+T6	Abbreviation 64 68	PZAS
+T7	Body_Part 64 76	PZAS 18 Y 31
+T8	Disease 49 60	IMPACTACION
+T9	Body_Part 5 12	DIENTES
+T10	Therapeutic_Procedure 90 100	DESINCLUIR
+A1	Pending T10
+T11	Abbreviation 102 105	PZA
+T12	Body_Part 102 113	PZA 17 Y 32

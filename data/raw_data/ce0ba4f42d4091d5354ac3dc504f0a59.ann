@@ -1,0 +1,8 @@
+T1	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T2	Abbreviation 54 57	APS
+T3	Body_Part 59 75	Cuernos pulpares
+T4	Sign_or_Symptom 59 99	Cuernos pulpares perforados de pieza 1.6
+T5	Body_Part 90 99	pieza 1.6
+T6	Disease 101 114	Dentada total
+T7	Disease 137 155	Caries del cemento
+T8	Body_Part 148 155	cemento

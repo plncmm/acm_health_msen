@@ -1,0 +1,7 @@
+T1	Body_Part 20 26	diente
+T2	Laboratory_or_Test_Result 20 77	diente supernumerario semiincluido entre piezas 1.4 y 1.5
+T3	Body_Part 61 77	piezas 1.4 y 1.5
+T4	Disease 20 41	diente supernumerario
+T5	Body_Part 97 103	diente
+T6	Body_Part 119 135	piezas 2.4 y 2.5
+T7	Laboratory_or_Test_Result 97 135	diente incluido entre piezas 2.4 y 2.5

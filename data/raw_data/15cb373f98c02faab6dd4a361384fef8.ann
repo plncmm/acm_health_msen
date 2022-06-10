@@ -1,0 +1,34 @@
+T1	Abbreviation 269 272	APS
+T2	Abbreviation 421 424	VFG
+T3	Abbreviation 437 440	DM2
+T4	Abbreviation 473 476	RAC
+T5	Abbreviation 482 487	CERAT
+T6	Abbreviation 494 497	VFG
+T7	Abbreviation 522 528	TRIGLI
+T8	Abbreviation 545 549	HA1C
+T9	Laboratory_or_Test_Result 2 28	ANORMALIDAD DE LA ALBÚMINA
+T10	Laboratory_or_Test_Result 32 51	PROTEINURIA AISLADA
+T11	Disease 32 51	PROTEINURIA AISLADA
+T12	Disease 55 128	OTRAS ANORMALIDADES DE LA MARCHA Y DE LA MOVILIDAD Y LAS NO ESPECIFICADAS
+T13	Disease 132 163	HIPERTENSIÓN ESENCIAL (PRIMARIA
+T14	Disease 168 185	DIABETES MELLITUS
+T15	Disease 212 245	INSUFICIENCIA CARDÍACA CONGESTIVA
+T16	Laboratory_or_Test_Result 388 404	MICROALBUMINURIA
+T17	Disease 388 404	MICROALBUMINURIA
+T18	Laboratory_Procedure 421 424	VFG
+T19	Laboratory_or_Test_Result 425 435	CONSERVADA
+R1	Has Arg1:T18 Arg2:T19	
+T20	Disease 437 440	DM2
+T21	Laboratory_or_Test_Result 452 468	MICROALBUMINURIA
+T22	Disease 452 468	MICROALBUMINURIA
+T23	Laboratory_Procedure 473 476	RAC
+T24	Laboratory_Procedure 482 487	CERAT
+T25	Laboratory_Procedure 494 497	VFG
+T26	Laboratory_Procedure 501 517	COLESTEROL TOTAL
+T27	Laboratory_Procedure 533 541	GLICEMIA
+T28	Laboratory_Procedure 522 528	TRIGLI
+T29	Laboratory_Procedure 545 549	HA1C
+T30	Laboratory_or_Test_Result 554 565	PROTEINURIA
+T31	Disease 554 565	PROTEINURIA
+T32	Laboratory_or_Test_Result 576 595	Proteinuria aislada
+T33	Disease 576 595	Proteinuria aislada

@@ -1,0 +1,5 @@
+T1	Sign_or_Symptom 0 46	protesis total superior e inferior desajustada
+T2	Therapeutic_Procedure 66 74	implante
+T3	Body_Part 75 87	piezas 22-27
+T4	Therapeutic_Procedure 108 123	nuevas protesis
+A1	Pending T4

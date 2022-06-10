@@ -1,0 +1,10 @@
+T1	Abbreviation 3 5	US
+T2	Abbreviation 50 53	OBS
+T3	Abbreviation 94 97	ECO
+T4	Abbreviation 98 102	GINE
+T5	Abbreviation 0 1	M
+T7	Disease 54 71	MENOPAUSIA PRECOZ
+T8	Sign_or_Symptom 72 81	AMENORREA
+T9	Diagnostic_Procedure 94 102	ECO GINE
+T6	Laboratory_or_Test_Result 17 49	QUISTE BILOBULADO SIMPLE DERECHA
+T10	Clinical_Finding 0 2	M2

@@ -1,0 +1,12 @@
+T1	Abbreviation 0 2	CA
+T2	Disease 0 13	CA COLORECTAL
+T4	Laboratory_or_Test_Result 46 96	RECIDIVA LOCAL OBSTRUCTIVA URINARIA (HUN BILATERAL
+T5	Abbreviation 83 86	HUN
+T6	Therapeutic_Procedure 97 118	NEFROSTOMIA BILATERAL
+T7	Abbreviation 14 16	OP
+T8	Abbreviation 17 18	+
+T9	Abbreviation 19 22	QMT
+T10	Disease 83 86	HUN
+#1	AnnotatorNotes T5	Hidrouretronefrosis
+T3	Therapeutic_Procedure 0 22	CA COLORECTAL OP + QMT
+T11	Therapeutic_Procedure 22 46	COLOSTOMIA RECONSTITUIDA

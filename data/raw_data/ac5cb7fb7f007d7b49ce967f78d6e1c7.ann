@@ -1,0 +1,6 @@
+T1	Sign_or_Symptom 0 21	perdida osea avanzada
+T2	Sign_or_Symptom 60 70	supuracion
+T3	Clinical_Finding 86 112	Sindrome de Guillain-Barre
+T4	Abbreviation 141 144	tto
+T5	Sign_or_Symptom 27 58	factores locales predisponentes
+A1	Negated T5

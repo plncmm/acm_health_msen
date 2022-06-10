@@ -1,0 +1,10 @@
+T1	Family_Member 59 64	madre
+T3	Abbreviation 344 346	RX
+T4	Body_Part 361 378	columna vertebral
+T2	Body_Part 227 265	columna vertebral a nivel dorso-lumbar
+T5	Disease 2 31	ESCOLIOSIS IDIOPÁTICA JUVENIL
+T6	Disease 81 91	escoliosis
+T7	Sign_or_Symptom 212 315	deformacion de columna vertebral a nivel dorso-lumbar con formacion de concavidad hacia el lado derecho
+T8	Sign_or_Symptom 321 342	dificulta a la marcha
+A1	Negated T8
+T9	Diagnostic_Procedure 344 378	RX panoramica de columna vertebral

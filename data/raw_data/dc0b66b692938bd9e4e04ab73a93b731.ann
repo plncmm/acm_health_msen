@@ -1,0 +1,17 @@
+T1	Body_Part 6 23	Diente Permanente
+T2	Body_Part 37 42	Pza 6
+T3	Body_Part 48 65	Diente Permanente
+T4	Body_Part 76 82	Pza 10
+T5	Body_Part 89 106	Diente Permanente
+T6	Abbreviation 0 5	T.D.A
+T7	Abbreviation 37 40	Pza
+T8	Abbreviation 42 47	t.D.A
+T9	Abbreviation 76 79	Pza
+T10	Abbreviation 82 88	t.D.A.
+T11	Abbreviation 117 120	Pza
+T12	Disease 0 5	T.D.A
+T13	Disease 6 36	Diente Permanente Sub-luxacion
+T14	Disease 37 47	Pza 6t.D.A
+T15	Disease 48 75	Diente Permanente Concusion
+T16	Disease 76 87	Pza 10t.D.A
+T17	Disease 89 120	Diente Permanente Concusion Pza

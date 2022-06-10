@@ -1,0 +1,76 @@
+T1	Disease 0 35	PURPURA TROMBOCITOPENICA IDEOPATICA
+T3	Disease 212 215	PTI
+T4	Sign_or_Symptom 410 417	ANSIOSO
+T2	Abbreviation 60 63	ANT
+#1	AnnotatorNotes T2	antecedente
+T5	Abbreviation 64 66	QX
+#2	AnnotatorNotes T5	quirúrgico
+T6	Abbreviation 89 93	MEDs
+#3	AnnotatorNotes T6	fármacos
+T7	Abbreviation 110 112	MG
+#4	AnnotatorNotes T7	miligramos
+T8	Abbreviation 137 139	MG
+#5	AnnotatorNotes T8	miligramos
+T9	Abbreviation 212 215	PTI
+#6	AnnotatorNotes T9	púrpura trombocitopénica idiopática
+T10	Abbreviation 260 262	MG
+#7	AnnotatorNotes T10	miligramos
+T11	Abbreviation 287 289	MG
+#8	AnnotatorNotes T11	miligramos
+T12	Abbreviation 347 349	MG
+#9	AnnotatorNotes T12	miligramos
+T13	Abbreviation 424 427	HCT
+#10	AnnotatorNotes T13	hematocrito
+T14	Abbreviation 433 435	HB
+#11	AnnotatorNotes T14	hemoglobina
+T15	Abbreviation 439 442	GDL
+T16	Abbreviation 443 445	GB
+#12	AnnotatorNotes T16	glóbulos blancos
+T17	Abbreviation 481 484	INR
+#13	AnnotatorNotes T17	índice reticulocitario
+T18	Abbreviation 473 475	TP
+#14	AnnotatorNotes T18	tiempo de protrombina
+T19	Abbreviation 464 466	TP
+#15	AnnotatorNotes T19	tiempo de protrombina
+T20	Abbreviation 453 456	PLT
+T21	Abbreviation 490 494	TTPK
+#16	AnnotatorNotes T21	tiempo parcial de tromboplastina
+T22	Abbreviation 506 509	HCT
+#17	AnnotatorNotes T22	hematocrito
+T23	Abbreviation 516 518	HB
+#18	AnnotatorNotes T23	hemoglobina
+T24	Abbreviation 524 527	GDL
+T25	Abbreviation 528 530	GB
+#19	AnnotatorNotes T25	glóbulos blancos
+T26	Abbreviation 536 539	PLT
+T27	Abbreviation 547 550	VHS
+#20	AnnotatorNotes T27	velocidad horaria de sedimentación
+T28	Abbreviation 553 556	SEG
+#21	AnnotatorNotes T28	segundos
+#22	AnnotatorNotes T20	plaquetas
+#23	AnnotatorNotes T26	plaquetas
+#24	AnnotatorNotes T24	gramos por decilitro
+#25	AnnotatorNotes T15	gramos por decilitro
+T29	Medication 78 88	NIMESULIDA
+T30	Medication 94 105	AZATIOPRINA
+T31	Medication 122 132	PREDNISONA
+T32	Medication 244 255	AZATIOPRINA
+T33	Medication 272 282	PREDNISONA
+T34	Clinical_Finding 70 77	ALERGIA
+A1	Negated T34
+T35	Laboratory_Procedure 424 427	HCT
+T36	Laboratory_Procedure 433 435	HB
+T37	Laboratory_Procedure 443 445	GB
+T38	Laboratory_Procedure 453 456	PLT
+T39	Laboratory_Procedure 464 466	TP
+T40	Laboratory_Procedure 473 475	TP
+T41	Laboratory_Procedure 481 484	INR
+T42	Laboratory_Procedure 490 494	TTPK
+T43	Laboratory_Procedure 506 509	HCT
+T44	Laboratory_Procedure 516 518	HB
+T45	Laboratory_Procedure 528 530	GB
+T46	Laboratory_Procedure 536 539	PLT
+T47	Laboratory_Procedure 547 550	VHS
+T48	Laboratory_Procedure 553 556	SEG
+T49	Laboratory_Procedure 562 565	RAL
+T50	Abbreviation 46 49	ANT

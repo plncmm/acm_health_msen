@@ -1,0 +1,13 @@
+T1	Abbreviation 34 37	ACV
+T2	Abbreviation 81 84	APS
+T3	Abbreviation 105 108	ACV
+T4	Abbreviation 124 128	POLI
+T5	Abbreviation 129 133	TACO
+T6	Medication 129 133	TACO
+T7	Abbreviation 189 193	POLI
+T8	Abbreviation 194 198	TACO
+T9	Medication 194 198	TACO
+T10	Disease 2 34	HIPERTENSIÓN ESENCIAL (PRIMARIA)
+T11	Disease 34 37	ACV
+T12	Disease 48 57	ALZHEIMER
+T13	Disease 105 108	ACV

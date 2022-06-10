@@ -1,0 +1,12 @@
+T1	Disease 2 17	RESTO RADICULAR
+T2	Abbreviation 41 44	APS
+T3	Body_Part 46 56	Diente 3.4
+T4	Therapeutic_Procedure 57 66	Exodoncia
+T5	Sign_or_Symptom 79 114	fractura radicular de tercio apical
+T6	Clinical_Finding 127 133	sutura
+T7	Medication 149 160	analgesicos
+T8	Medication 163 175	antibioticos
+T9	Abbreviation 186 188	IC
+T10	Abbreviation 233 235	Dr
+T11	Therapeutic_Procedure 265 274	exodoncia
+A1	Pending T11

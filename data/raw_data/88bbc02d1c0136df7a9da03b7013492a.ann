@@ -1,0 +1,6 @@
+T1	Abbreviation 16 19	TAC
+T2	Body_Part 23 28	tórax
+T3	Body_Part 85 101	traquea proximal
+T4	Diagnostic_Procedure 16 28	TAC de tórax
+T5	Laboratory_or_Test_Result 41 101	nódulo tiroideo heterogeneo que comprime la traquea proximal
+R1	Has Arg1:T4 Arg2:T5	

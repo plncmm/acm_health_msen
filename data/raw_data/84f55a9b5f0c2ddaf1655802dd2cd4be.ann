@@ -1,0 +1,17 @@
+T1	Abbreviation 2 3	G
+T2	Abbreviation 5 6	P
+T3	Abbreviation 8 9	A
+T4	Abbreviation 12 14	CA
+T5	Abbreviation 30 33	EMB
+T6	Abbreviation 37 40	SEM
+T7	Abbreviation 64 65	S
+T8	Abbreviation 66 69	TTO
+T9	Abbreviation 73 78	ANTEC
+T10	Clinical_Finding 2 4	G2
+T11	Clinical_Finding 5 7	P1
+T12	Clinical_Finding 8 10	AO
+T13	Therapeutic_Procedure 12 26	CA DE URGENCIA
+T14	Clinical_Finding 30 33	EMB
+T15	Disease 44 63	INSULINORESISTENCIA
+T16	Disease 101 109	OBESIDAD
+T17	Disease 82 98	TROMBOSIS VENOSA

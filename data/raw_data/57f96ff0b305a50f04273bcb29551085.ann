@@ -1,0 +1,17 @@
+T1	Abbreviation 102 105	tto
+T2	Abbreviation 119 122	DM2
+T3	Medication 140 147	eutirox
+T4	Abbreviation 49 52	dte
+T6	Body_Part 65 72	dte 2.1
+T5	Abbreviation 65 68	dte
+T7	Abbreviation 0 4	Pcte
+T8	Abbreviation 24 27	sup
+T9	Body_Part 49 52	dte
+T10	Disease 5 38	desdentada parcial sup e inferior
+T11	Therapeutic_Procedure 102 117	tto periodontal
+T12	Disease 119 122	DM2
+T13	Disease 124 138	hipotiroidismo
+T14	Disease 170 178	artrosis
+T15	Disease 180 193	hernia lumbar
+T16	Clinical_Finding 49 61	dte acrilico
+T17	Therapeutic_Procedure 65 97	dte 2.1 ferulizado con movilidad

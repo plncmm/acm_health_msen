@@ -1,0 +1,7 @@
+T1	Disease 0 21	periodontitis cronica
+T2	Abbreviation 59 61	mm
+T3	Sign_or_Symptom 64 81	movilidad grado 2
+T4	Body_Part 85 105	piezas 4.1, 4.2, 1.8
+T5	Therapeutic_Procedure 125 151	destartrajes boca completa
+T6	Therapeutic_Procedure 154 174	tecnica de cepillado
+T7	Body_Part 138 142	boca

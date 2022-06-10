@@ -1,0 +1,9 @@
+T1	Body_Part 2 9	DIENTES
+T2	Body_Part 110 117	Dientes
+T3	Body_Part 61 64	3.8
+T4	Abbreviation 56 59	APS
+T5	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T6	Therapeutic_Procedure 84 93	exodoncia
+A1	Pending T6
+T7	Disease 110 140	Dientes incluidos e impactados
+T8	Disease 61 74	3.8 impactada

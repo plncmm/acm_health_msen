@@ -1,0 +1,16 @@
+T1	Medication 132 138	pellet
+T2	Abbreviation 34 37	APS
+T3	Abbreviation 39 43	pcte
+T4	Abbreviation 124 127	tto
+T5	Abbreviation 142 145	HTA
+T6	Abbreviation 271 273	+-
+T7	Disease 2 10	DISFAGIA
+T8	Disease 142 145	HTA
+T9	Disease 147 161	hipotiroidismo
+T10	Disease 163 175	dislipidemia
+T11	Disease 178 196	depresion moderada
+T12	Disease 251 259	disfagia
+T13	Sign_or_Symptom 283 305	evolucion desfavorable
+T14	Diagnostic_Procedure 331 341	endoscopia
+A1	Pending T14
+T15	Disease 361 369	Disfagia

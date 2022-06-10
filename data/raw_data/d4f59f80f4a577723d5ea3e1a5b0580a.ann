@@ -1,0 +1,5 @@
+T1	Body_Part 86 137	5.4  -  5.5  -  6.4  -  7.4  -  7.5  -  8.4  -  8.5
+T2	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T3	Sign_or_Symptom 35 137	caries multiples en relacion a las piezas dentales 5.4  -  5.5  -  6.4  -  7.4  -  7.5  -  8.4  -  8.5
+T4	Disease 35 41	caries
+T5	Body_Part 70 85	piezas dentales

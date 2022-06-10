@@ -1,0 +1,9 @@
+T1	Body_Part 2 9	DIENTES
+T2	Body_Part 61 77	terceros molares
+T3	Body_Part 78 85	molares
+T4	Body_Part 86 89	3.8
+T5	Body_Part 92 95	4.8
+T6	Disease 2 19	DIENTES INCLUIDOS
+T7	Sign_or_Symptom 61 109	terceros molares molares 3.8 y 4.8 semiincluidos
+T8	Clinical_Finding 36 59	antecedentes sistémicos
+A1	Negated T8

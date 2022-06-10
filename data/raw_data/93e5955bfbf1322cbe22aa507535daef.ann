@@ -1,0 +1,9 @@
+T2	Abbreviation 53 56	APS
+T4	Disease 2 29	COLESTEATOMA DEL OÍDO MEDIO
+T5	Sign_or_Symptom 69 86	otalgia izquierda
+T6	Sign_or_Symptom 88 107	perdida de audicion
+T7	Disease 149 155	otitis
+T8	Disease 185 201	rotura timpanica
+T9	Disease 241 268	Colesteatoma del oido medio
+T1	Body_Part 19 29	OÍDO MEDIO
+T3	Body_Part 258 268	oido medio

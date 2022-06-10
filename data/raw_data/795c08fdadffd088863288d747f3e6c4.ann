@@ -1,0 +1,9 @@
+T1	Body_Part 21 33	PIEZAS 24-25
+T2	Therapeutic_Procedure 52 61	EXODONCIA
+A1	Pending T2
+T3	Disease 129 135	CARIES
+A2	Negated T3
+T4	Clinical_Finding 138 156	PERIODONTO ESTABLE
+T5	Therapeutic_Procedure 215 228	PROTESIS FIJA
+A3	Pending T5
+T6	Body_Part 138 148	PERIODONTO

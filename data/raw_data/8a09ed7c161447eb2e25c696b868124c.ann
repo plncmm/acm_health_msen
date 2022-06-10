@@ -1,0 +1,8 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Abbreviation 44 47	APS
+T3	Disease 58 85	DESDENTADO PARCIAL SUPERIOR
+T4	Abbreviation 87 90	PZA
+T5	Body_Part 87 98	PZA# 11, 12
+T6	Disease 108 184	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T7	Body_Part 146 153	dientes
+T8	Sign_or_Symptom 87 106	PZA# 11, 12 AUSENTE

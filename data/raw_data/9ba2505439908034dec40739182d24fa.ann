@@ -1,0 +1,31 @@
+T1	Body_Part 40 60	DISCO INTERVERTEBRAL
+T2	Abbreviation 64 68	Pcte
+T3	Abbreviation 147 148	S
+T4	Abbreviation 253 256	TMT
+T5	Abbreviation 265 267	Dr
+T6	Abbreviation 258 264	partic
+T7	Abbreviation 309 312	TMT
+T8	Abbreviation 313 316	HPH
+T9	Abbreviation 350 352	RM
+T10	Body_Part 398 403	L4-L5
+T11	Body_Part 486 489	SCO
+T12	Abbreviation 486 489	SCO
+T13	Abbreviation 524 526	ex
+T14	Abbreviation 527 530	fco
+T15	Abbreviation 541 542	+
+T16	Abbreviation 569 571	ok
+T17	Disease 2 60	OTRAS DEGENERACIONES ESPECIFICADAS DE DISCO INTERVERTEBRAL
+T18	Sign_or_Symptom 73 96	dolor lumbar larga data
+T19	Therapeutic_Procedure 200 213	kinesiterapia
+T20	Sign_or_Symptom 231 236	dolor
+T21	Diagnostic_Procedure 350 352	RM
+T23	Disease 371 403	DISCOPATIA DEGENERATIVA EN L4-L5
+T24	Disease 495 515	SINOVITIS FASCETARIA
+T25	Sign_or_Symptom 532 559	lasegue (+) mayor a derecha
+T26	Sign_or_Symptom 560 571	reflejos ok
+T22	Laboratory_or_Test_Result 371 435	DISCOPATIA DEGENERATIVA EN L4-L5 CON REDUCCION DE ALTURA Y SEÑAL
+R1	Has Arg1:T21 Arg2:T22	
+T27	Laboratory_or_Test_Result 438 490	HERNIA POSTERIOR DE BASE ANCHA  QUE DESPLAZA EL SCO"
+T28	Laboratory_or_Test_Result 495 515	SINOVITIS FASCETARIA
+R2	Has Arg1:T21 Arg2:T28	
+R3	Has Arg1:T21 Arg2:T27	

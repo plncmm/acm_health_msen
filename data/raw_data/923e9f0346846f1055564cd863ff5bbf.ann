@@ -1,0 +1,10 @@
+T1	Abbreviation 127 130	sem
+T2	Disease 2 57	CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCIÓN
+T3	Therapeutic_Procedure 57 79	Esterilización tubaria
+T4	Clinical_Finding 84 95	Multípara 1
+A1	Pending T3
+T5	Therapeutic_Procedure 138 160	ESTERILIZACIÓN TUBARIA
+A2	Pending T5
+T6	Clinical_Finding 97 113	Cesárea Anterior
+T7	Therapeutic_Procedure 96 104	 Cesárea
+T8	Clinical_Finding 115 123	Embarazo

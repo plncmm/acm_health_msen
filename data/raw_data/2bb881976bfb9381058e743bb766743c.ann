@@ -1,0 +1,20 @@
+T1	Abbreviation 47 50	APS
+T2	Abbreviation 74 77	HTA
+T3	Abbreviation 78 81	ERC
+T4	Abbreviation 82 85	DM2
+T5	Abbreviation 178 180	Dr
+T6	Abbreviation 263 265	OI
+T7	Abbreviation 300 303	HRC
+T8	Body_Part 263 265	OI
+T9	Abbreviation 392 396	Atte
+T10	Abbreviation 399 401	ud
+T11	Disease 2 23	RETINOPATÍA DIABÉTICA
+T12	Disease 74 77	HTA
+T13	Disease 78 81	ERC
+T15	Disease 137 158	retinopatia diabetica
+T16	Disease 192 213	retinopatia diabetica
+T17	Therapeutic_Procedure 218 236	panfotocoagulacion
+T18	Clinical_Finding 239 262	maculopatia cicatricial
+T19	Laboratory_or_Test_Result 320 349	disminucion de agudeza visual
+T20	Disease 403 424	Retinopatia diabetica
+T14	Disease 82 85	DM2

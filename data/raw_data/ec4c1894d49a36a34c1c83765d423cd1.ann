@@ -1,0 +1,9 @@
+T1	Abbreviation 15 18	PTI
+T2	Abbreviation 55 58	TTO
+T3	Abbreviation 69 73	PLAQ
+T4	Disease 0 4	R040
+T5	Disease 5 14	EPISTAXIS
+T6	Disease 15 20	PTI  
+T7	Therapeutic_Procedure 20 33	ESPLENECTOMIA
+T8	Laboratory_Procedure 69 73	PLAQ
+T9	Disease 105 114	EPISTAXIS

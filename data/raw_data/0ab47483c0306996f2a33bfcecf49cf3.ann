@@ -1,0 +1,17 @@
+T1	Abbreviation 64 67	APS
+T2	Abbreviation 82 87	antec
+T3	Abbreviation 116 119	tto
+T4	Medication 124 133	Brexotide
+T5	Medication 136 143	Bromuro
+T6	Abbreviation 146 149	SBT
+T7	Medication 146 149	SBT
+T8	Abbreviation 150 155	s.o.s
+T9	Abbreviation 180 182	Dr
+T10	Abbreviation 144 145	+
+T11	Abbreviation 178 179	x
+T12	Disease 2 40	NEUMOCONIOSIS DEBIDA A POLVO DE SÍLICE
+T13	Disease 92 101	Silicosis
+T14	Sign_or_Symptom 205 225	sibilancias audibles
+T15	Sign_or_Symptom 227 244	respiración bucal
+T16	Clinical_Finding 250 255	tiraj
+A1	Negated T16

@@ -1,0 +1,18 @@
+T1	Abbreviation 48 51	IOE
+T2	Abbreviation 81 85	TRAT
+T3	Abbreviation 108 112	POST
+T4	Abbreviation 174 177	IMC
+T5	Abbreviation 215 218	TOT
+T7	Abbreviation 0 1	G
+T8	Abbreviation 3 4	P
+T6	Abbreviation 7 8	A
+T9	Body_Part 124 145	FONDO DE SACO DERECHO
+T10	Clinical_Finding 0 2	G3
+T11	Clinical_Finding 3 5	P3
+T12	Clinical_Finding 7 9	AO
+T14	Disease 52 77	RESISTENCIA A LA INSULINA
+T15	Sign_or_Symptom 87 145	SANGRADO PERSISTENTE POST CIRUGIA EN FONDO DE SACO DERECHO
+T16	Therapeutic_Procedure 113 145	CIRUGIA EN FONDO DE SACO DERECHO
+T17	Therapeutic_Procedure 198 218	PLASTIA VAGINAL  TOT
+T13	Therapeutic_Procedure 26 47	HISTERECTOMIA VAGINAL
+T18	Disease 48 51	IOE

@@ -1,0 +1,19 @@
+T1	Body_Part 23 27	OÍDO
+T2	Abbreviation 95 98	APS
+T3	Abbreviation 109 112	HTA
+T4	Abbreviation 316 318	MP
+T5	Body_Part 350 354	oido
+T6	Abbreviation 319 322	SRA
+T7	Abbreviation 322 326	RR2T
+T8	Abbreviation 326 328	SS
+T9	Disease 2 71	OTROS TRASTORNOS DEL OÍDO, EN ENFERMEDADES CLASIFICADAS EN OTRA PARTE
+T10	Disease 109 112	HTA
+T11	Disease 114 126	DISLIPIDEMIA
+T12	Sign_or_Symptom 152 157	MAREO
+T13	Sign_or_Symptom 169 176	TINITUS
+T14	Sign_or_Symptom 187 210	MUY ANSIOSO POR TINITUS
+T15	Clinical_Finding 282 298	OTOSCOPIA NORMAL
+T16	Clinical_Finding 298 316	NEUROLOGICO NORMAL
+T17	Clinical_Finding 316 319	MP+
+T18	Clinical_Finding 322 328	RR2TSS
+T19	Disease 329 398	Otros trastornos del oido, en enfermedades clasificadas en otra parte

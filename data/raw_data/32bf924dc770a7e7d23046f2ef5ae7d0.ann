@@ -1,0 +1,8 @@
+T1	Abbreviation 47 50	APS
+T2	Medication 244 255	clorhexidin
+T3	Disease 2 23	PERIODONTITIS CRÓNICA
+T4	Sign_or_Symptom 70 131	cálculo dentario supra y subgingival abundante y generalizado
+T5	Sign_or_Symptom 133 154	recesiones gingivales
+T6	Sign_or_Symptom 156 176	apiñamiento dentario
+T7	Disease 179 200	periodontitis crónica
+T8	Therapeutic_Procedure 214 225	destartraje

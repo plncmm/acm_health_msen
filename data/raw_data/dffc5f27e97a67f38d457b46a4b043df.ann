@@ -1,0 +1,24 @@
+T1	Abbreviation 84 87	ITU
+T2	Abbreviation 96 99	ECO
+T3	Abbreviation 102 105	UCG
+T4	Abbreviation 137 141	DMSA
+T5	Abbreviation 151 153	SD
+T6	Abbreviation 243 246	BCG
+T7	Abbreviation 182 187	APROX
+T8	Disease 0 3	A09
+T9	Disease 4 59	DIARREA Y GASTROENTERITIS DE PRESUNTO ORIGEN INFECCIOSO
+T10	Disease 84 87	ITU
+T11	Sign_or_Symptom 88 94	FEBRIL
+T12	Diagnostic_Procedure 96 99	ECO
+T13	Laboratory_Procedure 102 105	UCG
+T14	Laboratory_or_Test_Result 106 114	NORMALES
+R1	Has Arg1:T13 Arg2:T14	
+R2	Has Arg1:T12 Arg2:T14	
+T15	Diagnostic_Procedure 126 141	CINTIGRAMA DMSA
+A1	Pending T15
+T16	Disease 151 174	SD DIARREICO PROLONGADO
+T17	Sign_or_Symptom 202 223	ELEMENTOS PATOLÓGICOS
+A2	Negated T17
+T18	Sign_or_Symptom 229 241	BAJA DE PESO
+A3	Negated T18
+T19	Clinical_Finding 243 246	BCG

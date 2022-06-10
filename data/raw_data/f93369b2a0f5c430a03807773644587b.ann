@@ -1,0 +1,8 @@
+T1	Abbreviation 27 31	PCTE
+T2	Abbreviation 41 43	MP
+T3	Abbreviation 65 69	PCTE
+T4	Disease 0 3	I50
+T5	Disease 4 26	INSUFICIENCIA CARDIACA
+T6	Therapeutic_Procedure 41 43	MP
+T7	Sign_or_Symptom 87 96	CANCANCIO
+T8	Sign_or_Symptom 109 115	DISNEA

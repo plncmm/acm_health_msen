@@ -1,0 +1,16 @@
+T2	Disease 77 86	DM tipo 2
+T1	Disease 51 75	Cardiopatía hipertensiva
+T5	Abbreviation 77 79	DM
+T3	Disease 89 105	Obesidad Morbida
+T4	Abbreviation 106 109	IMC
+T6	Abbreviation 173 176	tto
+T7	Abbreviation 230 231	+
+T8	Abbreviation 306 309	imc
+T10	Disease 141 157	colicos biliares
+T11	Therapeutic_Procedure 212 229	cirugia bariatica
+T12	Therapeutic_Procedure 232 247	colecistectomia
+T13	Therapeutic_Procedure 294 301	cirugia
+T14	Therapeutic_Procedure 334 352	cirugia bariatrica
+A1	Pending T11
+A2	Pending T12
+A3	Pending T14

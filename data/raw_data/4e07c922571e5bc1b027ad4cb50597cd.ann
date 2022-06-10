@@ -1,0 +1,17 @@
+T1	Abbreviation 32 34	AM
+T2	Abbreviation 40 43	Acx
+T4	Body_Part 176 190	pierna derecha
+T5	Abbreviation 196 199	tto
+T6	Abbreviation 216 219	tto
+T7	Abbreviation 220 223	KNT
+T8	Abbreviation 228 230	EF
+T9	Clinical_Finding 32 34	AM
+A1	Negated T9
+T10	Clinical_Finding 49 57	alergias
+A2	Negated T10
+T11	Sign_or_Symptom 127 190	dolor lumbar de 5 meses de duracion, irradiado a pierna derecha
+T12	Therapeutic_Procedure 220 223	KNT
+T13	Sign_or_Symptom 236 260	dolor palpacion muscular
+A3	Negated T13
+T14	Disease 2 21	LUMBAGO CON CIÁTICA
+T3	Medication 200 210	analgesico

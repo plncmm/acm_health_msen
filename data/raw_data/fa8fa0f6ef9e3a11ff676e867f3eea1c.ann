@@ -1,0 +1,19 @@
+T1	Abbreviation 38 41	APS
+T2	Abbreviation 58 61	HTA
+T3	Body_Part 225 240	aorta abdominal
+T4	Disease 2 14	COLELITIASIS
+T5	Disease 58 61	HTA
+T6	Diagnostic_Procedure 79 101	ecografias abdominales
+T7	Disease 114 126	colelitiasis
+T8	Laboratory_or_Test_Result 114 126	colelitiasis
+R1	Has Arg1:T6 Arg2:T8	
+T9	Laboratory_or_Test_Result 166 188	quiste hepatico simple
+T10	Disease 190 207	colecistolitiasis
+T11	Laboratory_or_Test_Result 190 207	colecistolitiasis
+T12	Laboratory_or_Test_Result 209 240	ateromatosis de aorta abdominal
+T13	Disease 209 240	ateromatosis de aorta abdominal
+T14	Disease 241 253	Colelitiasis
+R2	Has Arg1:T6 Arg2:T12	
+R3	Has Arg1:T6 Arg2:T11	
+R4	Has Arg1:T6 Arg2:T9	
+T15	Disease 166 188	quiste hepatico simple

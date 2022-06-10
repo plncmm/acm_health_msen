@@ -1,0 +1,14 @@
+T1	Body_Part 38 44	CADERA
+T2	Body_Part 59 66	CADERAS
+T3	Body_Part 83 97	CUELLO FEMORAL
+T4	Abbreviation 151 154	APS
+T5	Body_Part 226 232	pelvis
+T6	Body_Part 259 273	cadera derecha
+T7	Body_Part 377 383	cadera
+T8	Body_Part 398 405	caderas
+T9	Body_Part 422 436	Cuello Femoral
+T10	Disease 2 126	OTRAS DEFORMIDADES CONGÉNITAS DE LA CADERA (DISPLASIA DE CADERAS ANTEVERSIÓN DEL CUELLO FEMORAL COXA CONGÉNITA: VARA O VALGA
+T11	Diagnostic_Procedure 215 232	rayos x de pelvis
+T12	Laboratory_or_Test_Result 259 340	cadera derecha lìmite presenta tecgo acetabular derecho de 30º y izquierdo de 28º
+R1	Has Arg1:T11 Arg2:T12	
+T13	Disease 341 465	Otras deformidades congenitas de la cadera (Displasia de caderas Anteversion del Cuello Femoral Coxa Congenita: Vara o Valga

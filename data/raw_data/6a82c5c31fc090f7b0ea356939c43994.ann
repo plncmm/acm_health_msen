@@ -1,0 +1,11 @@
+T1	Abbreviation 52 55	APS
+T2	Body_Part 118 127	pieza 2.8
+T3	Clinical_Finding 2 28	CARIES DENTINARIA PROFUNDA
+T4	Clinical_Finding 70 93	antecedentes sistémicos
+A1	Negated T4
+T5	Clinical_Finding 99 107	alergias
+A2	Negated T5
+T6	Clinical_Finding 132 158	caries dentinaria profunda
+T7	Therapeutic_Procedure 170 179	exodoncia
+T8	Clinical_Finding 181 201	Caries de la dentina
+A3	Pending T7

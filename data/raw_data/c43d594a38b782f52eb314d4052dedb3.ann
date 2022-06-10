@@ -1,0 +1,7 @@
+T1	Abbreviation 52 55	APS
+T2	Body_Part 57 66	Pieza 2.7
+T3	Body_Part 125 132	cemento
+T4	Laboratory_or_Test_Result 0 28	CARIES DENTINARIA PENETRANTE
+T5	Sign_or_Symptom 71 92	pulpitis irreversible
+T6	Therapeutic_Procedure 104 113	TREPANADA
+T7	Clinical_Finding 114 132	Caries del cemento

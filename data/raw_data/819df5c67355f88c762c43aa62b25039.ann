@@ -1,0 +1,9 @@
+T1	Body_Part 72 84	oido derecho
+T2	Disease 0 10	HIPOACUSIA
+T3	Disease 18 28	HIPOACUSIA
+T4	Sign_or_Symptom 54 84	hipoacusia severa oido derecho
+T5	Disease 54 64	hipoacusia
+T6	Disease 84 94	Hipoacusia
+T7	Sign_or_Symptom 84 99	Hipoacusia leve
+T8	Sign_or_Symptom 101 108	tinitus
+T9	Sign_or_Symptom 110 127	otalgia izquierda

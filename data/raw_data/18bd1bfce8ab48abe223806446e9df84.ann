@@ -1,0 +1,15 @@
+T1	Abbreviation 3 6	EMB
+T2	Abbreviation 12 15	SEM
+T3	Abbreviation 0 1	M
+T4	Abbreviation 16 19	CCA
+T5	Abbreviation 24 27	STA
+T6	Abbreviation 38 40	RN
+T7	Abbreviation 46 48	GM
+T8	Medication 99 109	SERTRALINA
+T9	Abbreviation 113 115	MG
+T10	Clinical_Finding 0 2	M2
+T11	Clinical_Finding 3 6	EMB
+T12	Therapeutic_Procedure 16 19	CCA
+T13	Disease 24 27	STA
+T14	Therapeutic_Procedure 30 37	FORCEPS
+T15	Disease 65 74	DEPRESIÒN

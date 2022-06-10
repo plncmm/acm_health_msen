@@ -1,0 +1,7 @@
+T1	Abbreviation 84 87	PAP
+T2	Abbreviation 0 2	M4
+T3	Clinical_Finding 0 2	M4
+T4	Diagnostic_Procedure 84 87	PAP
+T5	Laboratory_or_Test_Result 88 96	alterado
+R1	Has Arg1:T4 Arg2:T5	
+T6	Therapeutic_Procedure 114 127	conos con asa

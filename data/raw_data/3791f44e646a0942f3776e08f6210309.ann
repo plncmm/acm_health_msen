@@ -1,0 +1,8 @@
+T1	Abbreviation 0 3	HTA
+T2	Abbreviation 18 21	ACV
+T3	Abbreviation 103 106	EXT
+T4	Abbreviation 108 111	SUP
+T5	Body_Part 103 120	EXT. SUP. DERECHA
+T6	Disease 0 3	HTA
+T7	Disease 18 31	ACV ISQUEMICO
+T8	Sign_or_Symptom 59 87	HEMIPARESIA DERECHA MODERADA

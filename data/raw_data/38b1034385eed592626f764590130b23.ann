@@ -1,0 +1,13 @@
+T1	Body_Part 19 31	OÍDO EXTERNO
+T2	Abbreviation 55 58	APS
+T3	Abbreviation 180 182	EF
+T4	Abbreviation 203 206	OBS
+T5	Body_Part 289 301	oido externo
+T6	Disease 2 31	COLESTEATOMA DEL OÍDO EXTERNO
+T7	Sign_or_Symptom 91 108	OTALGIA BILATERAL
+T8	Sign_or_Symptom 132 153	OTORREA INTERMITENTES
+T9	Sign_or_Symptom 163 180	TINITUS OCASIONAL
+T10	Sign_or_Symptom 207 230	COLESTEATOMA  IZQUIERDA
+T11	Sign_or_Symptom 231 252	PERFORACION TIMPANICA
+T12	Sign_or_Symptom 255 269	OTORREA SEROSA
+T13	Disease 272 301	Colesteatoma del oido externo

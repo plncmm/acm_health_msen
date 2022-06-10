@@ -1,0 +1,13 @@
+T1	Abbreviation 61 64	APS
+T4	Body_Part 234 257	piezas anteroinferiores
+T2	Body_Part 154 161	paladar
+T3	Body_Part 213 228	arcada superior
+T5	Disease 2 37	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T6	Clinical_Finding 79 102	antecedentes sistémicos
+A1	Negated T6
+T7	Clinical_Finding 104 127	clase I molar izquierda
+T8	Sign_or_Symptom 129 152	clase III molar derecha
+T9	Sign_or_Symptom 154 168	paladar ojival
+T10	Sign_or_Symptom 170 187	overjet aumentado
+T11	Sign_or_Symptom 189 257	apiñamiento dentario en arcada superior y en piezas anteroinferiores
+T12	Disease 259 294	Maloclusion de tipo no especificado

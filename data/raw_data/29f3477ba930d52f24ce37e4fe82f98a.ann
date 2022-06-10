@@ -1,0 +1,18 @@
+T1	Abbreviation 0 4	PCTE
+T2	Abbreviation 10 13	APP
+T3	Disease 17 30	HERNIA HIATAL
+T4	Disease 33 58	GASTRITIS EROSIVA CRONICA
+T5	Disease 61 69	ARTRITIS
+T7	Sign_or_Symptom 142 155	EPIGASTRALGIA
+T8	Abbreviation 158 161	RGE
+T9	Disease 158 161	RGE
+T10	Sign_or_Symptom 164 183	DOLOR TIPO QUEMANTE
+T11	Sign_or_Symptom 184 191	PIROSIS
+T12	Disease 218 224	ANEMIA
+T14	Abbreviation 73 76	TTO
+T16	Abbreviation 81 86	AINES
+T15	Abbreviation 250 255	NEGAT
+T13	Laboratory_Procedure 225 249	EXAMENES DE ANGRE OCULTA
+T17	Laboratory_or_Test_Result 250 255	NEGAT
+R1	Has Arg1:T13 Arg2:T17	
+T6	Medication 81 86	AINES

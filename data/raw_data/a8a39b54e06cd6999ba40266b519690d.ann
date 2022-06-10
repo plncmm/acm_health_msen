@@ -1,0 +1,23 @@
+T1	Body_Part 20 25	COLON
+T2	Body_Part 35 53	ÓRGANOS DIGESTIVOS
+T3	Body_Part 175 185	recto alto
+T4	Abbreviation 264 266	BP
+T5	Body_Part 425 430	RECTO
+T6	Body_Part 351 362	descendente
+T7	Disease 2 53	TUMOR MALIGNO DEL COLON, (DE LOS ÓRGANOS DIGESTIVOS
+T8	Sign_or_Symptom 87 97	dolor anal
+T9	Sign_or_Symptom 115 126	rectorragia
+T10	Diagnostic_Procedure 139 163	videorectosigmoidoscopia
+T12	Diagnostic_Procedure 264 266	BP
+T13	Diagnostic_Procedure 292 304	colonoscopia
+T15	Laboratory_or_Test_Result 388 412	NEOPLASI RECTAL AVANZADA
+R3	Has Arg1:T10 Arg2:T15	
+T16	Diagnostic_Procedure 414 423	BIOPSIA  
+T17	Disease 388 412	NEOPLASI RECTAL AVANZADA
+T14	Laboratory_or_Test_Result 317 362	solo es posible explorar hasta el descendente
+T18	Laboratory_or_Test_Result 367 375	lesiones
+A1	Negated T18
+R2	Has Arg1:T13 Arg2:T14	
+R4	Has Arg1:T13 Arg2:T18	
+T11	Laboratory_or_Test_Result 186 256	extensa lesion proliferativa dura nodular circuferencial sin estenosis
+R1	Has Arg1:T10 Arg2:T11	

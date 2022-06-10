@@ -1,0 +1,9 @@
+T1	Disease 2 8	MIOPÍA
+T2	Disease 12 21	PRESBICIA
+T3	Sign_or_Symptom 63 95	disminucion de la agudeza visual
+T5	Disease 190 196	Miopia
+T4	Sign_or_Symptom 105 130	dificultades para manejar
+T6	Abbreviation 45 48	APS
+#1	AnnotatorNotes T6	atención primaria de salud
+T7	Clinical_Finding 152 189	Rojo pupilar conservado en ambos ojos
+T8	Body_Part 185 189	ojos

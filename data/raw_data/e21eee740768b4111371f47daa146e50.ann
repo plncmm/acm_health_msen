@@ -1,0 +1,8 @@
+T1	Abbreviation 45 49	SOSP
+#1	AnnotatorNotes T1	sospecha
+T2	Abbreviation 75 78	IGA
+#2	AnnotatorNotes T2	inmunoglobulina a
+T3	Abbreviation 29 32	SBO
+#3	AnnotatorNotes T3	síndrome bronquial obstructivo
+T4	Disease 29 43	SBO RECURRENTE
+T5	Disease 53 78	INMUNODEFICIENCIA POR IGA

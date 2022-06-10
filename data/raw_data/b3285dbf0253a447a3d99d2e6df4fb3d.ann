@@ -1,0 +1,14 @@
+T1	Disease 0 34	Periodontitis cronica generalizada
+T2	Therapeutic_Procedure 47 56	exodoncia
+T3	Body_Part 57 71	dientes 9 y 10
+T4	Abbreviation 88 91	ppr
+T5	Therapeutic_Procedure 88 112	ppr inmediata de trabajo
+T6	Abbreviation 115 119	Pcte
+T7	Abbreviation 139 142	pfp
+T8	Therapeutic_Procedure 139 142	pfp
+A1	Pending T8
+T9	Body_Part 146 165	dientees 7-8-9 y 10
+T10	Therapeutic_Procedure 172 181	implantes
+A2	Pending T10
+T11	Disease 224 245	PERIODONTITIS CRONICA
+T12	Abbreviation 71 72	+

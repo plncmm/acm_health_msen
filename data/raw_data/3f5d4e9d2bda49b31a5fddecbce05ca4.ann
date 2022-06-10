@@ -1,0 +1,9 @@
+T1	Abbreviation 39 42	APS
+T2	Body_Part 114 135	piezas 1.8, 2.8 y 3.8
+T3	Disease 2 15	CARIES DENTAL
+T4	Clinical_Finding 80 103	antecedentes sistémicos
+A1	Negated T4
+T5	Disease 140 146	caries
+T6	Disease 169 182	Caries dental
+T7	Therapeutic_Procedure 158 167	exodoncia
+A2	Pending T7

@@ -1,0 +1,7 @@
+T1	Disease 2 23	PERIODONTITIS CRÓNICA
+T2	Abbreviation 47 50	APS
+T3	Clinical_Finding 75 84	gestación
+T4	Disease 89 102	periodontitis
+T5	Sign_or_Symptom 89 123	periodontitis de moderada a severa
+T6	Sign_or_Symptom 125 162	gran cantidad de calculo generalizado
+T7	Disease 164 185	Periodontitis cronica

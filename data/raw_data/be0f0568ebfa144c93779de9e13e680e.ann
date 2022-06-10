@@ -1,0 +1,16 @@
+T1	Disease 2 37	NÓDULO TIROIDEO SOLITARIO NO TÓXICO
+T2	Abbreviation 61 64	APS
+T3	Sign_or_Symptom 113 147	nodulo en region cervical anterior
+T6	Body_Part 222 240	tiroides a derecha
+T8	Laboratory_or_Test_Result 274 301	funcion tiroidea conservada
+T11	Abbreviation 306 309	tsh
+T12	Abbreviation 317 319	t4
+T13	Abbreviation 328 332	nmol
+T4	Body_Part 123 147	region cervical anterior
+T14	Laboratory_Procedure 306 309	tsh
+T15	Laboratory_Procedure 317 319	t4
+T5	Laboratory_or_Test_Result 185 272	nodulo solido con areas quisticas en tiroides a derecha, con vascularizacion periferica
+R1	Has Arg1:T14 Arg2:T8	
+R2	Has Arg1:T15 Arg2:T8	
+T7	Diagnostic_Procedure 160 168	estudios
+R3	Has Arg1:T7 Arg2:T5	

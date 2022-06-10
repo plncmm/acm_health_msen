@@ -1,0 +1,7 @@
+T1	Clinical_Finding 12 33	portadora de protesis
+A1	Negated T1
+T2	Disease 34 61	desdentada parcial supe inf
+T3	Abbreviation 53 56	sup
+T4	Abbreviation 58 61	inf
+T5	Therapeutic_Procedure 97 105	protesis
+A2	Pending T5

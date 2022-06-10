@@ -1,0 +1,6 @@
+T1	Abbreviation 57 60	ADM
+T2	Body_Part 62 71	denticion
+T3	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T4	Disease 57 60	ADM
+T5	Clinical_Finding 62 91	denticion permanente completa
+T6	Sign_or_Symptom 93 109	apiñamiento leve

@@ -1,0 +1,12 @@
+T1	Abbreviation 51 54	APS
+T2	Abbreviation 69 72	HTA
+T3	Abbreviation 110 113	VFG
+T4	Abbreviation 120 122	ml
+T5	Abbreviation 123 126	min
+T6	Abbreviation 159 161	mg
+T7	Disease 2 27	INSUFICIENCIA RENAL AGUDA
+T8	Disease 69 72	HTA
+T9	Clinical_Finding 86 98	asintomatica
+T10	Laboratory_Procedure 110 113	VFG
+T11	Laboratory_Procedure 132 152	cratinina plasmatica
+T12	Disease 163 188	Insuficiencia renal aguda

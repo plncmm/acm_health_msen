@@ -1,0 +1,9 @@
+T1	Disease 2 23	PERIODONTITIS CRÓNICA
+T2	Abbreviation 47 50	APS
+T5	Sign_or_Symptom 124 139	depositos duros
+T6	Sign_or_Symptom 140 168	 mal control de higiene oral
+T7	Disease 170 191	Periodontitis cronica
+T8	Body_Part 52 58	encias
+T9	Body_Part 105 112	grupo V
+T3	Sign_or_Symptom 52 82	encias edematosas , sangrantes
+T4	Sign_or_Symptom 83 112	movilidad dentaria en grupo V

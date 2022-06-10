@@ -1,0 +1,9 @@
+T1	Abbreviation 91 94	APS
+#1	AnnotatorNotes T1	atención primaria de salud
+T2	Abbreviation 253 255	CC
+#2	AnnotatorNotes T2	circunferencia cefálica
+T3	Family_Member 124 128	MAMA
+T4	Family_Member 200 207	HERMANA
+T5	Disease 2 67	TRASTORNO DEL DESARROLLO DEL HABLA Y DEL LENGUAJE NO ESPECIFICADO
+T6	Sign_or_Symptom 233 243	PESO: 3280
+T7	Sign_or_Symptom 244 252	TALLA:50

@@ -1,0 +1,8 @@
+T1	Abbreviation 0 2	PD
+T2	Body_Part 0 6	PD 1.3
+T3	Disease 26 47	PULPITIS IRREVERSIBLE
+T4	Therapeutic_Procedure 59 70	TREPANACION
+T5	Body_Part 77 82	PIEZA
+T6	Medication 99 102	PMC
+T7	Abbreviation 99 102	PMC
+T8	Abbreviation 103 105	AF

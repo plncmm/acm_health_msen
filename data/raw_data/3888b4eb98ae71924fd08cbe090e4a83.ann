@@ -1,0 +1,9 @@
+T1	Abbreviation 8 11	pac
+T2	Abbreviation 42 46	cron
+T3	Abbreviation 52 56	ptos
+T4	Abbreviation 97 102	dgtco
+T5	Disease 16 27	cervicalgia
+T6	Disease 29 46	dorsolumbago cron
+T7	Sign_or_Symptom 52 66	ptos dolorosos
+A1	Negated T7
+T8	Disease 70 83	fibromialgias

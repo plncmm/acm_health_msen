@@ -1,0 +1,30 @@
+T1	Disease 21 30	Diabetica
+T2	Disease 33 45	dislipidemia
+T7	Abbreviation 108 111	ant
+T10	Abbreviation 159 162	Ant
+T11	Disease 175 184	alzheimer
+T12	Family_Member 187 192	padre
+T14	Abbreviation 248 253	aprox
+R1	Has Arg1:T12 Arg2:T11	
+T19	Abbreviation 600 605	aprox
+T21	Sign_or_Symptom 758 780	parten de forma brusca
+T24	Abbreviation 809 812	etc
+T25	Abbreviation 815 817	Ex
+T26	Sign_or_Symptom 815 845	Ex neurologico general  normal
+T6	Clinical_Finding 94 102	alergias
+A1	Negated T6
+T8	Clinical_Finding 108 121	ant de caidas
+A2	Negated T8
+T9	Clinical_Finding 127 152	Hospitalizaciones previas
+A3	Negated T9
+T3	Abbreviation 104 105	-
+T4	Abbreviation 123 124	-
+T5	Abbreviation 154 155	-
+T20	Sign_or_Symptom 787 793	mareos
+A8	Negated T20
+T22	Sign_or_Symptom 799 806	cefalea
+A9	Negated T22
+T18	Sign_or_Symptom 715 755	tiene sintomas previos a estos episodios
+A7	Negated T18
+T13	Sign_or_Symptom 269 320	olvidos frecuentes en actividades de la vdia diaria
+T15	Sign_or_Symptom 418 435	olvidos de riesgo

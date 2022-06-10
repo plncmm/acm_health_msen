@@ -1,0 +1,8 @@
+T1	Abbreviation 57 61	ADM:
+T2	Abbreviation 120 123	Izq
+T4	Abbreviation 126 129	Dte
+T5	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T6	Sign_or_Symptom 62 87	Mordida Cruzada Izquierda
+T7	Sign_or_Symptom 89 123	Compresión Transversal Maxilar Izq
+T8	Sign_or_Symptom 126 149	Dte R mordida Invertida
+T3	Body_Part 126 131	Dte R

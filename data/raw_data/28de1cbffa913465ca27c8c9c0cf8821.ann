@@ -1,0 +1,11 @@
+T1	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T2	Abbreviation 56 59	APS
+T3	Abbreviation 76 79	dte
+T4	Body_Part 76 84	dte. 4.8
+T6	Disease 162 192	Dientes incluidos e impactados
+T7	Body_Part 162 169	Dientes
+T8	Body_Part 2 9	DIENTES
+T5	Sign_or_Symptom 76 100	dte. 4.8 semierupcionado
+T9	Sign_or_Symptom 102 111	impactado
+T10	Sign_or_Symptom 113 123	horizontal
+T11	Sign_or_Symptom 124 159	clase II posición B (pell y gregory

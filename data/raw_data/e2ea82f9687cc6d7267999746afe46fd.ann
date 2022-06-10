@@ -1,0 +1,15 @@
+T1	Abbreviation 86 87	M
+T2	Abbreviation 90 93	FUR
+T3	Clinical_Finding 86 88	M2
+T4	Abbreviation 107 110	DIU
+T5	Sign_or_Symptom 107 121	DIU DESPLAZADO
+T6	Abbreviation 123 126	OBS
+T7	Disease 129 162	SINDROME  DE  OVARIO POLIQUISTICO
+T8	Abbreviation 164 167	ECO
+T9	Abbreviation 185 188	OBS
+T11	Abbreviation 219 222	DIU
+T12	Body_Part 143 149	OVARIO
+T13	Diagnostic_Procedure 164 167	ECO
+T10	Therapeutic_Procedure 204 222	EXTRACCION DE  DIU
+T14	Laboratory_or_Test_Result 129 162	SINDROME  DE  OVARIO POLIQUISTICO
+R1	Has Arg1:T13 Arg2:T14	

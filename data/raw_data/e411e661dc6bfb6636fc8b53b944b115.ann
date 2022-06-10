@@ -1,0 +1,6 @@
+T1	Body_Part 13 37	pzas 18, 23, 28, 30 y 31
+T2	Abbreviation 13 17	pzas
+T3	Abbreviation 102 104	tb
+T4	Sign_or_Symptom 13 68	pzas 18, 23, 28, 30 y 31 con mal pronóstico periodontal
+T5	Therapeutic_Procedure 91 100	inmediata
+A1	Pending T5

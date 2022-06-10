@@ -1,0 +1,18 @@
+T1	Body_Part 133 138	UTERO
+T2	Body_Part 98 101	FID
+T3	Abbreviation 98 101	FID
+T4	Abbreviation 12 14	DA
+T5	Abbreviation 17 19	HE
+T6	Clinical_Finding 0 2	M3
+T7	Abbreviation 6 9	CCA
+T8	Therapeutic_Procedure 6 9	CCA
+T9	Disease 12 14	DA
+T10	Disease 17 19	HE
+T11	Sign_or_Symptom 32 57	SONTOMATOLOGIA CLIMATERIA
+T12	Sign_or_Symptom 69 82	ALGIA PELVICA
+T13	Disease 103 114	METRORRAGIA
+T14	Sign_or_Symptom 133 156	UTERO AUMENTO D ETAMAÑO
+T15	Sign_or_Symptom 158 175	CONSISTENCIA DURA
+T16	Sign_or_Symptom 177 200	DOLOR A LA MOVILIZACION
+T17	Abbreviation 10 11	x
+T18	Abbreviation 15 16	+

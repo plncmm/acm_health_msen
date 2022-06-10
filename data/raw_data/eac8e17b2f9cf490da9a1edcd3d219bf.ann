@@ -1,0 +1,8 @@
+T2	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T3	Sign_or_Symptom 66 86	Clase III esqueletal
+T4	Sign_or_Symptom 88 106	Clase III de angle
+T5	Sign_or_Symptom 108 126	overbite invertido
+T6	Sign_or_Symptom 127 144	overjet aumentado
+T7	Sign_or_Symptom 146 183	Desgaste de 5.1 y 6.1 por maloclusión
+T8	Disease 172 183	maloclusión
+T1	Body_Part 158 167	5.1 y 6.1

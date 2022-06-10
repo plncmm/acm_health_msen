@@ -1,0 +1,7 @@
+T1	Body_Part 0 9	diente1.3
+T2	Medication 55 67	clorhexidina
+T3	Abbreviation 153 156	tto
+T4	Therapeutic_Procedure 21 39	acceso endodontico
+T5	Therapeutic_Procedure 101 131	estauracion de vidrio ionomero
+T6	Therapeutic_Procedure 153 169	tto. endodontico
+A1	Pending T6

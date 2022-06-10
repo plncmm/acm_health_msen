@@ -1,0 +1,40 @@
+T1	Abbreviation 97 100	HTA
+T2	Body_Part 198 204	CUELLO
+T3	Body_Part 210 233	EXTREMIDADES SUPERIORES
+T4	Abbreviation 235 238	ECG
+T5	Abbreviation 289 291	TP
+T6	Abbreviation 428 433	CREAT
+T7	Abbreviation 440 443	OCE
+T8	Abbreviation 297 301	TTPK
+T9	Abbreviation 308 311	PSA
+T10	Abbreviation 318 322	HCTO
+T11	Abbreviation 357 360	VHS
+T12	Abbreviation 329 332	WBC
+T13	Disease 2 33	SOPLO CARDÍACO, NO ESPECIFICADO
+T14	Disease 37 68	HIPERTENSIÓN ESENCIAL (PRIMARIA
+T15	Disease 97 100	HTA
+T16	Sign_or_Symptom 135 170	SPLO SISTOLICO EN FOCO MITRAL  3/VI
+T17	Disease 135 149	SPLO SISTOLICO
+T18	Sign_or_Symptom 180 233	LATIDO VISIBLE EN CUELLO Y EN EXTREMIDADES SUPERIORES
+T19	Diagnostic_Procedure 235 238	ECG
+T20	Laboratory_or_Test_Result 248 276	RITMO SINUSAL TRAZADO NORMAL
+R1	Has Arg1:T19 Arg2:T20	
+T21	Laboratory_Procedure 289 291	TP
+T22	Laboratory_Procedure 297 301	TTPK
+T23	Laboratory_Procedure 308 311	PSA
+T24	Laboratory_Procedure 318 322	HCTO
+T25	Laboratory_Procedure 329 332	WBC
+T26	Laboratory_Procedure 339 348	PLAQUETAS
+T27	Laboratory_Procedure 357 360	VHS
+T29	Laboratory_or_Test_Result 394 413	GRUPO O IV POSITIVO
+T30	Laboratory_Procedure 415 423	GLICEMIA
+T31	Laboratory_Procedure 428 433	CREAT
+T32	Laboratory_Procedure 440 443	OCE
+T33	Laboratory_or_Test_Result 444 450	NORMAL
+R2	Has Arg1:T32 Arg2:T33	
+T34	Laboratory_Procedure 453 463	UROCULTIVO
+T35	Laboratory_or_Test_Result 464 476	NEGATIVO    
+R3	Has Arg1:T34 Arg2:T35	
+T28	Laboratory_or_Test_Result 365 381	CELULAS NORMALES
+T36	Laboratory_Procedure 385 391	FROTIS
+R4	Has Arg1:T36 Arg2:T28	

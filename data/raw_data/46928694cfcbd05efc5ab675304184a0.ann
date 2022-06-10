@@ -1,0 +1,9 @@
+T1	Abbreviation 82 85	TSH
+T2	Abbreviation 92 95	T4L
+T3	Abbreviation 102 104	T3
+T4	Abbreviation 124 128	atte
+T5	Disease 41 48	migraña
+T6	Laboratory_Procedure 82 85	TSH
+T7	Laboratory_Procedure 92 95	T4L
+T8	Laboratory_Procedure 102 104	T3
+T9	Disease 129 143	HIPOTIROIDISMO

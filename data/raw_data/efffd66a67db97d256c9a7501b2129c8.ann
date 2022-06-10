@@ -1,0 +1,9 @@
+T1	Therapeutic_Procedure 33 58	TRATAMIENTO DE ENDODONCIA
+A1	Pending T1
+T2	Abbreviation 59 60	P
+T3	Body_Part 59 62	P.3
+T4	Clinical_Finding 63 72	TREPANADA
+T5	Clinical_Finding 77 114	DTE. CON TERAPIA PREVIAMENTE INICIADA
+T6	Abbreviation 74 76	DG
+T7	Abbreviation 77 80	DTE
+T8	Body_Part 77 80	DTE

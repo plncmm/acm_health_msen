@@ -1,0 +1,11 @@
+T2	Disease 17 30	HIPERTRICOSIS
+T1	Abbreviation 71 74	ant
+T3	Abbreviation 104 107	HRC
+T4	Family_Member 122 127	madre
+T5	Abbreviation 368 371	ant
+T6	Clinical_Finding 384 394	hirsutismo
+A1	Negated T6
+A2	Implicit_Family_Background T6
+T7	Disease 2 12	HIRSUTISMO
+T8	Disease 78 88	hirsutismo
+T9	Sign_or_Symptom 268 344	aumento de vello generalizados, respetando area genital y areas androgenicas

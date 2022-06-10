@@ -1,0 +1,8 @@
+T1	Abbreviation 12 15	TTO
+T2	Abbreviation 28 31	PZA
+T3	Body_Part 28 34	PZA 29
+T4	Abbreviation 51 54	TTO
+T5	Therapeutic_Procedure 51 66	TTO ENDODONTICO
+A1	Pending T5
+T6	Abbreviation 69 71	DG
+T7	Disease 72 114	PERIODONTITIS APICAL CRONICA  ASINTOMATICA

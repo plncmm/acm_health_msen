@@ -1,0 +1,13 @@
+T1	Disease 2 47	HEMORROIDES EXTERNAS CON OTRAS COMPLICACIONES
+T2	Sign_or_Symptom 105 128	sangrado en region anal
+T3	Abbreviation 180 183	hta
+T4	Disease 184 229	Hemorroides externas con otras complicaciones
+T6	Abbreviation 71 74	APS
+#1	AnnotatorNotes T6	atención primaria de salud
+T7	Abbreviation 76 80	pcte
+#2	AnnotatorNotes T7	paciente
+T8	Abbreviation 175 178	app
+#3	AnnotatorNotes T8	aproximadamente
+#4	AnnotatorNotes T3	hipertensión arterial
+T9	Body_Part 117 128	region anal
+T5	Sign_or_Symptom 156 174	sangrado abundante

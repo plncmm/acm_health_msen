@@ -1,0 +1,16 @@
+T1	Abbreviation 119 122	APS
+T2	Abbreviation 185 188	UIP
+T3	Abbreviation 250 255	mmrc4
+T4	Abbreviation 261 264	tto
+T5	Medication 269 280	montelukast
+T6	Abbreviation 283 285	mg
+T7	Medication 291 311	salbutamol-ipatropio
+T8	Abbreviation 312 315	sos
+T9	Medication 317 339	fluticasona-salmeterol
+T11	Abbreviation 358 361	sos
+T12	Disease 2 33	HIPERTENSIÓN ESENCIAL (PRIMARIA
+T13	Disease 38 95	OTRAS ENFERMEDADES PULMONARES INTERSTICIALES CON FIBROSIS
+T14	Disease 153 188	enfermedad pulmonar difusa tipo UIP
+T15	Sign_or_Symptom 190 233	deterioro progresivo de capacidad funcional
+T16	Disease 480 537	Otras enfermedades pulmonares intersticiales con fibrosis
+T10	Medication 350 357	codeina

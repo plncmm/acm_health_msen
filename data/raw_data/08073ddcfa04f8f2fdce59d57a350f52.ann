@@ -1,0 +1,11 @@
+T1	Body_Part 13 27	columna lumbar
+T2	Abbreviation 29 31	ca
+T3	Abbreviation 32 34	cu
+T4	Body_Part 97 111	COLUMNA LUMBAR
+T5	Disease 0 12	osteoporosis
+T7	Diagnostic_Procedure 67 85	DESINTOMETRIA OSEA
+T8	Laboratory_or_Test_Result 86 95	ALTYERADA
+R1	Has Arg1:T7 Arg2:T8	
+T6	Disease 29 45	ca cu estapa III
+T10	Laboratory_or_Test_Result 97 122	COLUMNA LUMBAR ZS - 2 . 8
+R2	Has Arg1:T7 Arg2:T10	

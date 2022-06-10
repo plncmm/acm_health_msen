@@ -1,0 +1,9 @@
+T1	Abbreviation 79 82	APS
+T2	Body_Part 166 171	torax
+T3	Body_Part 269 273	boca
+T4	Medication 315 324	omeprazol
+T5	Disease 2 55	ENFERMEDAD DEL REFLUJO GASTROESOFÁGICO CON ESOFAGITIS
+T6	Sign_or_Symptom 135 254	dolor epigastrico irradiado al torax urente, persistente, episodios nocturnos, que ceden parcialmente con los alimentos
+T7	Sign_or_Symptom 256 280	sensacion de boca amarga
+T8	Therapeutic_Procedure 364 374	endoscopia
+A1	Pending T8

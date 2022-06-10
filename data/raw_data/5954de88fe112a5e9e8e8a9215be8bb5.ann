@@ -1,0 +1,8 @@
+T1	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T2	Body_Part 31 37	DIENTE
+T3	Abbreviation 61 64	APS
+T6	Disease 192 227	Anomalias de la posicion del diente
+T7	Body_Part 221 227	diente
+T4	Sign_or_Symptom 75 92	DIASTEMA SUPERIOR
+T5	Sign_or_Symptom 95 129	PROTRUSION DE ZONA ANETRO SUPERIOS
+T8	Sign_or_Symptom 135 147	SOBREMORDIDA

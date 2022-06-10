@@ -1,0 +1,10 @@
+T1	Disease 9 12	DM2
+T2	Laboratory_Procedure 13 18	Hba1c
+T3	Diagnostic_Procedure 24 36	Fondo de Ojo
+T4	Disease 51 75	RD no proliferativa leve
+T5	Laboratory_or_Test_Result 51 75	RD no proliferativa leve
+R1	Has Arg1:T3 Arg2:T5	
+T6	Abbreviation 9 12	DM2
+T7	Abbreviation 13 18	Hba1c
+T8	Abbreviation 51 53	RD
+T9	Body_Part 33 36	Ojo

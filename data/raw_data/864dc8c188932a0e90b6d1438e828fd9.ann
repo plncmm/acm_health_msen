@@ -1,0 +1,10 @@
+T1	Abbreviation 12 15	ERC
+T2	Abbreviation 20 22	HD
+T3	Abbreviation 107 108	H
+T4	Disease 0 9	GASTRITIS
+T5	Disease 12 15	ERC
+T6	Therapeutic_Procedure 20 22	HD
+A1	Pending T6
+T7	Diagnostic_Procedure 97 115	DETECCION H.PYLORI
+A2	Pending T7
+T8	Sign_or_Symptom 46 65	PESO NO CORRESPONDE

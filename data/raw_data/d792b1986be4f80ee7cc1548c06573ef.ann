@@ -1,0 +1,9 @@
+T1	Disease 18 26	Pulpitis
+T2	Abbreviation 30 31	p
+T3	Body_Part 30 34	p. 1
+T4	Disease 36 53	Caries penetrante
+T5	Laboratory_or_Test_Result 36 53	Caries penetrante
+T6	Therapeutic_Procedure 67 76	exodoncia
+A1	Pending T6
+T7	Diagnostic_Procedure 106 108	Rx
+R1	Has Arg1:T7 Arg2:T5	

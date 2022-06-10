@@ -1,0 +1,10 @@
+T1	Abbreviation 13 16	DIU
+T2	Abbreviation 17 20	OBS
+T3	Body_Part 44 56	MAMA DERECHA
+T4	Abbreviation 1 2	M
+T5	Clinical_Finding 1 3	M1
+T6	Therapeutic_Procedure 13 16	DIU
+T7	Sign_or_Symptom 23 56	PROCESO INFLAMATORIO MAMA DERECHA
+T8	Disease 58 73	MASTALGUA AGUDA
+T9	Disease 75 91	MASTITIS INICIAL
+T10	Sign_or_Symptom 93 101	HEMATOMA

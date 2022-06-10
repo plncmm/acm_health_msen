@@ -1,0 +1,8 @@
+T1	Disease 13 30	CARIES PENETRANTE
+T2	Laboratory_or_Test_Result 13 37	CARIES PENETRANTE PZA 13
+T3	Abbreviation 31 34	PZA
+T4	Therapeutic_Procedure 50 61	TREPANACIÓN
+T5	Therapeutic_Procedure 97 120	TRATAMIENTO ENDODÓNTICO
+A1	Pending T5
+T6	Abbreviation 121 124	PZA
+T7	Body_Part 121 127	PZA 13

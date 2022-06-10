@@ -1,0 +1,17 @@
+T1	Abbreviation 92 97	ANTEC
+#1	AnnotatorNotes T1	antecedente
+T2	Abbreviation 132 135	ACV
+#2	AnnotatorNotes T2	accidente cerebrovascular
+T3	Abbreviation 136 139	CPM
+#3	AnnotatorNotes T3	compromiso
+T4	Body_Part 19 25	DEDO(S
+T5	Body_Part 19 23	DEDO
+T6	Body_Part 33 37	MANO
+T7	Body_Part 53 60	FALANGE
+T8	Disease 0 4	M200
+T9	Disease 5 37	DEFORMIDAD DE DEDO(S) DE LA MANO
+T10	Sign_or_Symptom 38 60	NODULO BASE DE FALANGE
+T11	Sign_or_Symptom 66 91	RESTRICCION DE MOVIMIETNO
+T12	Disease 101 122	CARDIOPATIA CONGENITA
+T13	Disease 132 135	ACV
+T14	Sign_or_Symptom 140 161	HEMIPARESIA IZQUIERDA

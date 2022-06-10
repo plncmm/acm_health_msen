@@ -1,0 +1,16 @@
+T1	Body_Part 18 58	TENDÓN DEL MANGUITO ROTATORIO DEL HOMBRO
+T2	Abbreviation 82 85	APS
+T3	Body_Part 108 122	hombro derecho
+T4	Body_Part 169 189	tendon supraespinoso
+T5	Body_Part 208 240	tendon largo del biceps braquial
+T6	Body_Part 268 282	cabeza humeral
+T7	Body_Part 300 340	tendon del manguito rotatorio del hombro
+T8	Disease 2 58	TRAUMATISMO DEL TENDÓN DEL MANGUITO ROTATORIO DEL HOMBRO
+T9	Diagnostic_Procedure 94 122	Ecotomografia hombro derecho
+T11	Disease 284 340	Traumatismo del tendon del manguito rotatorio del hombro
+T10	Laboratory_or_Test_Result 134 189	Signos de desgarro inveterado  del tendon supraespinoso
+T12	Laboratory_or_Test_Result 190 240	Tenosinovitis del tendon largo del biceps braquial
+T13	Laboratory_or_Test_Result 241 282	Fenomenos degenerativos de cabeza humeral
+R1	Has Arg1:T9 Arg2:T10	
+R2	Has Arg1:T9 Arg2:T12	
+R3	Has Arg1:T9 Arg2:T13	

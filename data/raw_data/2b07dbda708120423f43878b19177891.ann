@@ -1,0 +1,8 @@
+T1	Disease 2 23	PERIODONTITIS CRÓNICA
+T2	Abbreviation 47 50	APS
+T3	Clinical_Finding 83 104	antecedentes mórbidos
+A1	Negated T3
+T4	Sign_or_Symptom 133 170	movilidad y desplazamiento de dientes
+T5	Body_Part 163 170	dientes
+T6	Sign_or_Symptom 200 217	abundante tártaro
+T7	Therapeutic_Procedure 230 255	destartraje supragingival

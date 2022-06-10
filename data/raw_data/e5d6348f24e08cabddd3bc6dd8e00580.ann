@@ -1,0 +1,5 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Abbreviation 74 77	APS
+T4	Sign_or_Symptom 112 147	Presenta mordida invertida anterior
+T5	Disease 150 198	Anomalias dentofaciales (incluso la maloclusion)
+T6	Body_Part 92 110	dentición temporal

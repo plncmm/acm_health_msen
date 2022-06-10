@@ -1,0 +1,8 @@
+T1	Abbreviation 81 84	APS
+T2	Abbreviation 86 89	HTA
+T3	Abbreviation 91 94	AVE
+T4	Disease 2 57	HIPOACUSIA MIXTA CONDUCTIVA Y NEUROSENSORIAL, BILATERAL
+T5	Disease 86 89	HTA
+T6	Disease 91 106	AVE hemorragico
+T7	Laboratory_or_Test_Result 91 125	AVE hemorragico operdo a izquierda
+T8	Disease 131 162	hipoacusia bilateral progresiva

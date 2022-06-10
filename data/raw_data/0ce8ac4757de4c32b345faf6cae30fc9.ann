@@ -1,0 +1,5 @@
+T1	Therapeutic_Procedure 32 40	IMPLANTE
+A1	Pending T1
+T2	Body_Part 84 93	PZAS 7-10
+T3	Abbreviation 84 88	PZAS
+T4	Body_Part 49 50	9

@@ -1,0 +1,10 @@
+T1	Abbreviation 38 41	ACM
+T2	Abbreviation 148 151	ACI
+T4	Body_Part 54 78	talamocapsular izquierdo
+T3	Body_Part 20 51	rama posterior de ACM izquierda
+T5	Body_Part 148 161	ACI izquierda
+T6	Abbreviation 162 167	aprox
+T7	Disease 0 78	Infarto cerebral de rama posterior de ACM izquierda y talamocapsular izquierdo
+T8	Disease 125 147	Ateromatosis carotidea
+T9	Disease 148 161	ACI izquierda
+T10	Sign_or_Symptom 171 182	sintomática

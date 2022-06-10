@@ -1,0 +1,13 @@
+T1	Abbreviation 33 36	APS
+T2	Abbreviation 218 221	EVA
+T3	Abbreviation 227 229	EX
+T4	Disease 2 9	CEFALEA
+T5	Sign_or_Symptom 46 114	CEFALEA. (+) DURANTE TOD EL DÍA. HOLOCRANEANA. COSNTANTE NO PULSATIL
+T6	Sign_or_Symptom 119 126	NASUEAS
+A1	Negated T6
+T7	Sign_or_Symptom 130 137	VOMITOS
+A2	Negated T7
+T8	Sign_or_Symptom 142 151	FOTOFOBIA
+A3	Negated T8
+T9	Clinical_Finding 227 248	EX NEUROLOGICO NORMAL
+T10	Disease 251 258	Cefalea

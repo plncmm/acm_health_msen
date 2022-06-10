@@ -1,0 +1,13 @@
+T1	Abbreviation 0 3	pza
+T2	Body_Part 0 7	pza 2.4
+T3	Disease 8 23	caries profunda
+T4	Therapeutic_Procedure 36 48	restauración
+T5	Disease 86 103	absceso submucoso
+T6	Therapeutic_Procedure 116 127	trepanación
+T7	Medication 153 157	PMCF
+T8	Abbreviation 153 157	PMCF
+T9	Clinical_Finding 160 166	fermin
+T10	Therapeutic_Procedure 180 201	tratamiento radicular
+A1	Pending T10
+T11	Abbreviation 205 208	pza
+T12	Body_Part 205 212	pza 2.4

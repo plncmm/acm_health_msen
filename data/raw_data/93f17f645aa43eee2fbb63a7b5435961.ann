@@ -1,0 +1,5 @@
+T1	Body_Part 0 11	pieza 7 y 8
+T2	Therapeutic_Procedure 12 37	tratadas endodonticamente
+T3	Sign_or_Symptom 44 61	perdida coronaria
+T4	Therapeutic_Procedure 80 100	restauracion directa
+A1	Negated T4

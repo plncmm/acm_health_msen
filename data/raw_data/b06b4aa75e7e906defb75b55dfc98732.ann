@@ -1,0 +1,10 @@
+T1	Abbreviation 39 41	HD
+T2	Body_Part 170 177	caderas
+T3	Body_Part 179 187	rodillas
+T4	Body_Part 191 198	hombros
+T5	Disease 0 38	Insuficiencia renal crónica estadio G5
+T6	Therapeutic_Procedure 39 41	HD
+T7	Therapeutic_Procedure 83 100	Paratiroidectomía
+T8	Therapeutic_Procedure 107 115	implante
+T10	Disease 158 198	artrosis de caderas, rodillas  y hombros
+T11	Disease 201 213	Osteoporosis

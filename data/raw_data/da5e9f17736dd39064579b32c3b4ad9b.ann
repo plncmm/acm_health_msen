@@ -1,0 +1,16 @@
+T1	Body_Part 15 29	VÍAS URINARIAS
+T2	Abbreviation 76 79	APS
+T3	Abbreviation 94 99	antec
+T4	Abbreviation 117 119	op
+T5	Abbreviation 131 133	ha
+T6	Abbreviation 158 161	itu
+T7	Abbreviation 190 196	e coli
+T8	Medication 273 288	nitrofurantoina
+T9	Medication 291 305	ciprofloxacino
+T10	Disease 2 52	INFECCIÓN DE VÍAS URINARIAS, SITIO NO ESPECIFICADO
+T11	Disease 101 114	calculo renal
+T12	Therapeutic_Procedure 117 130	op prostatica
+T13	Disease 158 161	itu
+T14	Laboratory_Procedure 178 188	urocultivo
+T15	Laboratory_or_Test_Result 190 209	e coli mutisensible
+R1	Has Arg1:T14 Arg2:T15	

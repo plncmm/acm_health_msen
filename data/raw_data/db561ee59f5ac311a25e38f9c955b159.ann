@@ -1,0 +1,14 @@
+T1	Body_Part 15 29	TÚNEL CARPIANO
+T2	Abbreviation 53 56	APS
+T3	Abbreviation 58 62	PCTE
+T4	Abbreviation 72 75	HTA
+T5	Abbreviation 77 80	DLP
+T6	Abbreviation 94 97	INS
+T7	Body_Part 131 145	MANO IZQUIERDA
+T8	Body_Part 203 217	tunel carpiano
+T9	Disease 2 29	SÍNDROME DEL TÚNEL CARPIANO
+T10	Disease 72 75	HTA
+T11	Disease 77 80	DLP
+T12	Disease 82 97	RESISTENCIA INS
+T13	Sign_or_Symptom 120 145	PARESTESIA MANO IZQUIERDA
+T14	Disease 190 217	Sindrome del tunel carpiano

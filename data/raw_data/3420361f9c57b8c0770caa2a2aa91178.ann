@@ -1,0 +1,11 @@
+T1	Abbreviation 12 15	TAC
+T2	Body_Part 19 26	cerebro
+T3	Abbreviation 134 136	RM
+T4	Body_Part 140 147	cerebro
+T5	Abbreviation 232 237	aprox
+T6	Body_Part 82 100	espacio de Virchow
+T7	Diagnostic_Procedure 12 26	TAC de cerebro
+T8	Laboratory_or_Test_Result 28 109	Lesión temporal derecha que pudiese corresponder a un espacio de Virchow dilatado
+T9	Diagnostic_Procedure 134 147	RM de cerebro
+T10	Disease 197 215	episodio psicótico
+R1	Has Arg1:T7 Arg2:T8	

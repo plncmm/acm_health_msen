@@ -1,0 +1,25 @@
+T1	Disease 2 45	BLOQUEO AURICULOVENTRICULAR DE PRIMER GRADO
+T2	Abbreviation 69 72	APS
+T3	Disease 111 114	HTA
+T4	Abbreviation 111 114	HTA
+T5	Disease 136 139	ACV
+T6	Disease 140 143	IAM
+A1	Negated T6
+A2	Negated T5
+T7	Abbreviation 164 168	PSCV
+T8	Diagnostic_Procedure 188 191	EKG
+T9	Disease 192 218	BLOQUEO AV DE PRIMER GRADO
+T10	Laboratory_or_Test_Result 231 257	BLOQUEO IZQUIERDO ANTERIOR
+T11	Laboratory_or_Test_Result 192 218	BLOQUEO AV DE PRIMER GRADO
+T12	Laboratory_or_Test_Result 260 293	HIPERTROFIA VENTRICULAR IZQUIERDA
+T13	Disease 231 257	BLOQUEO IZQUIERDO ANTERIOR
+T14	Disease 260 293	HIPERTROFIA VENTRICULAR IZQUIERDA
+T15	Abbreviation 303 305	mV
+T16	Sign_or_Symptom 317 329	asintomatico
+T17	Abbreviation 375 379	atte
+T18	Laboratory_or_Test_Result 381 424	Bloqueo auriculoventricular de primer grado
+T19	Disease 381 424	Bloqueo auriculoventricular de primer grado
+T20	Abbreviation 136 139	ACV
+T21	Abbreviation 140 143	IAM
+T22	Abbreviation 188 191	EKG
+T23	Abbreviation 200 202	AV

@@ -1,0 +1,15 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Abbreviation 44 47	APS
+T3	Abbreviation 64 67	PFP
+T4	Therapeutic_Procedure 64 67	PFP
+T5	Sign_or_Symptom 64 81	PFP en mal estado
+T6	Body_Part 97 106	2.1 y 2.3
+T7	Sign_or_Symptom 118 170	protesis parciales superior e inferior en mal estado
+T8	Therapeutic_Procedure 181 228	protesis parcial removibles superior e inferior
+A1	Pending T8
+T9	Therapeutic_Procedure 281 284	pfp
+T10	Abbreviation 281 284	pfp
+T12	Body_Part 369 376	dientes
+T11	Disease 331 407	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T13	Therapeutic_Procedure 321 329	protesis
+A2	Pending T13

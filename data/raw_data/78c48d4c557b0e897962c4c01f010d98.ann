@@ -1,0 +1,8 @@
+T1	Body_Part 0 10	diente 1.1
+T2	Abbreviation 23 26	PFU
+T3	Body_Part 114 120	diente
+T4	Therapeutic_Procedure 23 26	PFU
+T5	Sign_or_Symptom 11 26	desalojo de PFU
+T7	Therapeutic_Procedure 90 98	implante
+A1	Pending T7
+T6	Disease 31 58	fractura vertical radicular

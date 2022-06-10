@@ -1,0 +1,11 @@
+T1	Body_Part 53 74	SECTOR ANTEROSUPERIOR
+T2	Abbreviation 116 118	DR
+T3	Disease 0 4	K053
+T4	Disease 5 26	PERIODONTITIS CRONICA
+T5	Clinical_Finding 82 100	TENSION PROVISORIA
+T6	Therapeutic_Procedure 143 173	CORRECCION ESTETICA DEL SECTOR
+A1	Pending T6
+T7	Therapeutic_Procedure 175 193	CIERRE DE DIASTEMA
+T8	Therapeutic_Procedure 196 202	FERULA
+A2	Pending T7
+A3	Pending T8

@@ -1,0 +1,12 @@
+T1	Disease 0 15	restos dentales
+T2	Therapeutic_Procedure 17 28	desfocacion
+T3	Laboratory_Procedure 34 43	hemograma
+T4	Laboratory_or_Test_Result 44 53	aceptable
+R1	Has Arg1:T3 Arg2:T4	
+T5	Laboratory_or_Test_Result 60 71	leve anemia
+R2	Has Arg1:T3 Arg2:T5	
+T6	Laboratory_or_Test_Result 73 90	plaquets normales
+R3	Has Arg1:T3 Arg2:T6	
+T7	Therapeutic_Procedure 117 129	extracciones
+A1	Pending T7
+A2	Pending T2

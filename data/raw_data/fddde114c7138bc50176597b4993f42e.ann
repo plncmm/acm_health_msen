@@ -1,0 +1,10 @@
+T1	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T2	Abbreviation 56 59	APS
+T3	Abbreviation 71 75	pzas
+T4	Body_Part 71 91	pzas 1.8-2.8-3.8-4.8
+T5	Sign_or_Symptom 92 101	cariiadas
+T6	Sign_or_Symptom 104 117	semiincluidas
+T7	Disease 118 148	Dientes incluidos e impactados
+T8	Body_Part 118 125	Dientes
+T9	Body_Part 2 9	DIENTES
+T10	Abbreviation 61 66	pacte

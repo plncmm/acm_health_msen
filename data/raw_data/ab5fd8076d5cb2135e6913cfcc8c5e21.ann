@@ -1,0 +1,5 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Disease 36 61	desdentado total superior
+T3	Disease 64 91	desdentado parcial inferior
+T4	Sign_or_Symptom 92 124	clasificacion de kennedy clase I
+T5	Sign_or_Symptom 132 163	prtoesis total superior antigua

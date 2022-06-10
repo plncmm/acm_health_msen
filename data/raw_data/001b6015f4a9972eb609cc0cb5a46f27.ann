@@ -1,0 +1,9 @@
+T1	Abbreviation 39 43	BCRI
+T2	Abbreviation 45 48	DM2
+T3	Abbreviation 108 111	IZQ
+T4	Disease 0 20	ENFERMEDAD CORONARIA
+T5	Therapeutic_Procedure 24 37	ANGIOPLASTIAS
+T6	Laboratory_or_Test_Result 39 43	BCRI
+T7	Disease 39 43	BCRI
+T8	Disease 45 48	DM2
+T9	Disease 64 104	INSUFICIENCIA VENOSA CRONICA SUPERFICIAL

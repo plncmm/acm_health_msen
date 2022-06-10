@@ -1,0 +1,16 @@
+T1	Body_Part 30 37	RODILLA
+T2	Abbreviation 61 64	APS
+T3	Body_Part 94 97	pie
+T4	Body_Part 196 213	rodilla izquierda
+T5	Abbreviation 265 267	EF
+T6	Body_Part 309 326	rodilla izquierda
+T7	Body_Part 402 409	rodilla
+T8	Abbreviation 372 373	+
+T9	Disease 2 37	INESTABILIDAD CRÓNICA DE LA RODILLA
+T10	Disease 94 110	pie plano rigido
+T11	Sign_or_Symptom 144 149	dolor
+T12	Sign_or_Symptom 151 169	aumento de volumen
+T13	Sign_or_Symptom 172 213	limitacion funcional de rodilla izquierda
+T14	Sign_or_Symptom 235 264	exacerba con actividad fisica
+T15	Sign_or_Symptom 282 371	dolor a la movilizacion de rodilla izquierda, sin cambios de coloracion, choque rotuliano
+T16	Disease 374 409	Inestabilidad cronica de la rodilla

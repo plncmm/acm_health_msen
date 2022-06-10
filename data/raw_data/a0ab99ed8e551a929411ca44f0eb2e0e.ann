@@ -1,0 +1,14 @@
+T1	Abbreviation 8 12	ERC3
+T2	Abbreviation 13 16	AAT
+T3	Disease 13 16	AAT
+T4	Abbreviation 17 19	op
+T6	Disease 34 45	prostatismo
+T8	Abbreviation 86 93	re-eval
+T9	Disease 95 127	Enfermedad renal cronica Etapa 3
+T10	Disease 8 12	ERC3
+#1	AnnotatorNotes T2	Alpha-1-antitrypsin
+#2	AnnotatorNotes T1	Enfermedad renal crónica etapa 3
+T11	Abbreviation 20 26	DM2NIR
+#3	AnnotatorNotes T11	Diabetes mellitus tipo 2 no insulino requirente
+T7	Medication 61 72	tamsulosina
+T5	Disease 20 23	DM2

@@ -1,0 +1,13 @@
+T1	Abbreviation 0 3	HTA
+T2	Abbreviation 24 27	OBS
+T3	Abbreviation 28 31	NES
+T4	Abbreviation 91 93	PA
+T5	Abbreviation 101 104	TTO
+T6	Abbreviation 119 122	ECG
+T7	Disease 0 3	HTA
+T8	Sign_or_Symptom 0 23	HTA CON DESCOMPENSACION
+T9	Sign_or_Symptom 74 93	MAL CONTROLES DE PA
+T10	Diagnostic_Procedure 119 122	ECG
+T11	Laboratory_or_Test_Result 127 140	EXTRESISTALES
+R1	Has Arg1:T10 Arg2:T11	
+T12	Laboratory_or_Test_Result 32 60	EXTRESISTALES... VENTRICULAR

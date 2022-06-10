@@ -1,24 +1,26 @@
 import codecs 
 import math 
 import spacy 
+import time 
+from tqdm import tqdm
 from entities import get_nested_entities, get_flat_entities
 from tokenizer import tokenize_with_spacy
-import time 
 
 
-def convert_to_conll(referrals, annotations, entity_types, tokenizer_type, lower_tokens, no_accent_marks, include_path, output_path):
+def convert_to_conll(referrals, annotations, entity_types, output_path):
     """ 
     Function used to create conll file format from ann-txt annotations.
     """
     output_file = codecs.open(output_path, 'w', 'UTF-8')
-    if tokenizer_type =='spacy': tokenizer = spacy.load('es_core_news_lg', disable = ['ner', 'tagger'])
-    for k, (referral, annotation) in enumerate(zip(referrals, annotations)):
-        if include_path: output_file.write(referral[0]+'\n')
+
+    tokenizer = spacy.load('es_core_news_lg', disable = ['ner', 'tagger'])
+
+    for k, (referral, annotation) in tqdm(enumerate(zip(referrals, annotations))):
         nested_entities = get_nested_entities(annotation[1], referral, entity_types)
         nested_entities = sorted(nested_entities, key = lambda entity: entity["start_idx"])
         flat_entities = get_flat_entities(nested_entities, referral)
         flat_entities = sorted(flat_entities, key = lambda entity: entity["start_idx"])
-        if tokenizer_type == 'spacy': sentences = tokenize_with_spacy(referral[1], flat_entities, tokenizer, lower_tokens, no_accent_marks, referral_name= referral[0])
+        sentences = tokenize_with_spacy(referral[1], flat_entities, tokenizer)
 
         for sentence in sentences:
             inside_entity = {}
@@ -109,7 +111,7 @@ def create_single_entity_data(path):
     
     for entity in entities:
         start = time.time()
-        f_out = codecs.open(f'../wl_files/{entity}/{entity}.conll', 'w', 'utf-8')
+        f_out = codecs.open(f'wl_files/{entity}/{entity}.conll', 'w', 'utf-8')
         lines = text.split('\n')
         for i, line in enumerate(lines):
             if line!='':
@@ -124,4 +126,4 @@ def create_single_entity_data(path):
             else:
                 if i!=len(lines)-1: f_out.write(line+'\n')
         f_out.close()
-        create_partitions(f'../wl_files/{entity}/{entity}.conll', f'../wl_files/{entity}/{entity}_train.conll', f'../wl_files/{entity}/{entity}_dev.conll', f'../wl_files/{entity}/{entity}_test.conll')
+        create_partitions(f'wl_files/{entity}/{entity}.conll', f'wl_files/{entity}/{entity}_train.conll', f'wl_files/{entity}/{entity}_dev.conll', f'wl_files/{entity}/{entity}_test.conll')

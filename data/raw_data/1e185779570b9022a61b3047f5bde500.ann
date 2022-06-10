@@ -1,0 +1,4 @@
+T1	Disease 2 45	TRASTORNO DE LA REFRACCIÓN, NO ESPECIFICADO
+T2	Disease 67 73	miopía
+T3	Therapeutic_Procedure 75 80	láser
+T4	Sign_or_Symptom 98 114	cansancio visual

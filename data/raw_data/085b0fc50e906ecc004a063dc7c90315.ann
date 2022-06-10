@@ -1,0 +1,6 @@
+T1	Disease 2 37	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T2	Clinical_Finding 61 64	APS
+T3	Sign_or_Symptom 75 83	clase II
+T4	Disease 133 168	Maloclusion de tipo no especificado
+T5	Therapeutic_Procedure 105 130	tratamiento de ortodoncia
+A1	Pending T5

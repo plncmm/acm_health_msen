@@ -1,0 +1,8 @@
+T1	Body_Part 2 7	PIEZA
+T2	Abbreviation 56 59	APS
+T3	Body_Part 61 78	Dientes 1.3 y 2.5
+T4	Body_Part 148 153	Pieza
+T5	Clinical_Finding 2 32	PIEZA TRATADA ENDODÓNTICAMENTE
+T6	Clinical_Finding 61 104	Dientes 1.3 y 2.5 tratados endodonticamente
+T7	Sign_or_Symptom 128 145	lesion periapical
+T8	Clinical_Finding 148 178	Pieza Tratada Endodonticamente

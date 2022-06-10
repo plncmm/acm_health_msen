@@ -1,0 +1,12 @@
+T1	Abbreviation 62 65	APS
+T2	Abbreviation 162 165	RPR
+T3	Medication 382 402	penicilina benzatina
+T4	Abbreviation 471 474	vih
+T5	Disease 2 38	OTRAS SÍFILIS Y LAS NO ESPECIFICADAS
+T6	Sign_or_Symptom 112 119	cefalea
+T7	Laboratory_Procedure 162 165	RPR
+T8	Laboratory_or_Test_Result 166 174	reactivo
+R1	Has Arg1:T7 Arg2:T8	
+T9	Sign_or_Symptom 305 354	lesion genital que desaparece de manea espontanea
+T10	Laboratory_Procedure 471 474	vih
+T11	Disease 476 512	Otras sifilis y las no especificadas

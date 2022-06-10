@@ -1,0 +1,7 @@
+T1	Abbreviation 0 1	M
+T2	Abbreviation 38 41	ECO
+T3	Clinical_Finding 0 2	M1
+T4	Clinical_Finding 3 11	EMBARAZO
+T5	Diagnostic_Procedure 38 41	ECO
+T6	Therapeutic_Procedure 58 62	CONO
+T7	Therapeutic_Procedure 84 102	CIRUGIA BARIATRICA

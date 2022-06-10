@@ -1,0 +1,5 @@
+T1	Abbreviation 103 105	nq
+T2	Disease 13 29	obesidad morbida
+T3	Sign_or_Symptom 63 70	lumbago
+T4	Diagnostic_Procedure 123 155	evaluacion de cirugia bariatrica
+A1	Pending T4

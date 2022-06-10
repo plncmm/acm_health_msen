@@ -1,0 +1,6 @@
+T1	Body_Part 46 50	piel
+T2	Family_Member 87 92	madre
+T3	Sign_or_Symptom 30 50	sangrado por la piel
+T4	Sign_or_Symptom 57 62	dolor
+A1	Negated T4
+T5	Sign_or_Symptom 112 134	lesion presentaba PORO

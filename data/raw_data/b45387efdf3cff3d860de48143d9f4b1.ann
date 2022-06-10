@@ -1,0 +1,14 @@
+T1	Disease 2 68	TUMOR BENIGNO LIPOMATOSO DE PIEL Y DE TEJIDO SUBCUTÁNEO DEL TRONCO
+T2	Sign_or_Symptom 110 200	lipoma de larga data con crecimiento progresivo ultimo tiempo en regiuoo escapular derecha
+T3	Sign_or_Symptom 217 222	dolor
+T4	Sign_or_Symptom 225 278	dificultad para movilizar extremidad superior derecha
+T5	Abbreviation 92 95	APS
+#1	AnnotatorNotes T5	atención primaria de la salud
+T6	Abbreviation 206 207	x
+#2	AnnotatorNotes T6	por
+T7	Abbreviation 210 212	cm
+#3	AnnotatorNotes T7	centímetros
+T8	Body_Part 30 34	PIEL
+T9	Body_Part 40 68	TEJIDO SUBCUTÁNEO DEL TRONCO
+T10	Body_Part 175 200	regiuoo escapular derecha
+T11	Body_Part 251 278	extremidad superior derecha

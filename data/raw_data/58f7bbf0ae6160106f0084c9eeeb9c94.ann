@@ -1,0 +1,11 @@
+T1	Abbreviation 57 60	APS
+T2	Abbreviation 189 192	EKG
+T3	Abbreviation 228 230	IC
+T4	Abbreviation 62 66	pcte
+T5	Disease 2 33	CARDIOMIOPATÍA, NO ESPECIFICADA
+T6	Sign_or_Symptom 133 146	palpitaciones
+T7	Sign_or_Symptom 174 180	mareos
+T8	Diagnostic_Procedure 189 192	EKG
+T9	Laboratory_or_Test_Result 193 203	patológico
+R1	Has Arg1:T8 Arg2:T9	
+T10	Disease 264 295	Cardiomiopatia, no especificada

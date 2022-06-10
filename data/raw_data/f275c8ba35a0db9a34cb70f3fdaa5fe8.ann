@@ -1,0 +1,18 @@
+T1	Body_Part 13 21	ESTOMAGO
+T2	Body_Part 28 35	DUODENO
+T3	Abbreviation 59 62	APS
+T4	Abbreviation 340 343	EDA
+T5	Body_Part 439 447	Estomago
+T6	Body_Part 454 461	Duodeno
+T7	Disease 2 35	POLIPO DEL ESTOMAGO Y DEL DUODENO
+T8	Clinical_Finding 77 98	anatecedentes previos
+A1	Negated T8
+T9	Sign_or_Symptom 156 190	aumento progresivo de la intesidad
+T10	Sign_or_Symptom 221 234	epigastralgia
+T11	Sign_or_Symptom 236 261	dolor urente asenecedente
+T12	Sign_or_Symptom 302 322	sensacion de reflujo
+T13	Diagnostic_Procedure 340 343	EDA
+T14	Laboratory_or_Test_Result 366 384	polipos duodenales
+T15	Disease 366 384	polipos duodenales
+R1	Has Arg1:T13 Arg2:T14	
+T16	Disease 428 461	Polipo del Estomago y del Duodeno

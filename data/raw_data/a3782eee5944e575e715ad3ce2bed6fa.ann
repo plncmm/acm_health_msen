@@ -1,0 +1,11 @@
+T1	Abbreviation 104 107	HTA
+T2	Abbreviation 110 112	DM
+T3	Abbreviation 212 216	gine
+T4	Abbreviation 225 228	pap
+T5	Abbreviation 194 195	+
+T6	Disease 2 47	ESTADOS MENOPÁUSICOS Y CLIMATÉRICOS FEMENINOS
+T7	Disease 104 107	HTA
+T8	Disease 110 112	DM
+T9	Sign_or_Symptom 132 151	sudoración excesiva
+T10	Sign_or_Symptom 172 192	síntomas vasomotores
+T11	Diagnostic_Procedure 225 228	pap

@@ -1,0 +1,18 @@
+T1	Medication 52 56	TACO
+T3	Disease 41 44	HTA
+T4	Disease 45 47	FA
+T5	Disease 78 81	DM2
+T6	Abbreviation 52 56	TACO
+T7	Abbreviation 45 47	FA
+T8	Abbreviation 41 44	HTA
+T9	Abbreviation 78 81	DM2
+T2	Disease 0 33	INSUFICIENCIA CARDIACA CONGESTIVA
+T10	Abbreviation 34 36	CF
+T11	Abbreviation 111 114	ECO
+T12	Clinical_Finding 34 40	CF III
+T14	Laboratory_or_Test_Result 82 106	MALA FUNCION VENTRICULAR
+T15	Diagnostic_Procedure 111 114	ECO
+R1	Has Arg1:T15 Arg2:T14	
+T16	Abbreviation 115 117	FE
+T13	Abbreviation 57 67	CHADS VASC
+T17	Diagnostic_Procedure 57 67	CHADS VASC

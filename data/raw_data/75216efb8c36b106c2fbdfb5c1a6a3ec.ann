@@ -1,0 +1,5 @@
+T3	Disease 62 76	cancer de mama
+T4	Body_Part 72 76	mama
+T1	Sign_or_Symptom 35 47	baja de peso
+T5	Clinical_Finding 101 117	protesis antigua
+T2	Clinical_Finding 11 29	protesis removible

@@ -1,0 +1,9 @@
+T1	Body_Part 45 59	CUELLO UTERINO
+T2	Abbreviation 83 86	APS
+T3	Abbreviation 88 91	PAP
+T4	Body_Part 144 158	cuello uterino
+T6	Diagnostic_Procedure 88 91	PAP
+T7	Laboratory_or_Test_Result 92 99	ATIPICO
+R1	Has Arg1:T6 Arg2:T7	
+T5	Disease 35 59	TUMOR DEL CUELLO UTERINO
+T8	Disease 134 158	tumor del cuello uterino

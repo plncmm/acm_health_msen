@@ -1,0 +1,32 @@
+T1	Disease 2 42	OCLUSIÓN Y ESTENOSIS DE ARTERIA CARÓTIDA
+T2	Disease 104 107	HTA
+T3	Abbreviation 104 107	HTA
+T4	Disease 110 116	DM NIR
+T6	Abbreviation 156 159	NPH
+T7	Medication 156 159	NPH
+T8	Laboratory_or_Test_Result 163 174	proteinuria
+T9	Disease 177 180	DLP
+T10	Abbreviation 177 180	DLP
+T11	Abbreviation 183 186	ERC
+T12	Disease 183 196	ERC etapa III
+T13	Abbreviation 218 221	LST
+T14	Abbreviation 226 229	AAS
+T15	Abbreviation 230 233	MTF
+T16	Abbreviation 246 249	GBC
+T17	Abbreviation 258 261	ATV
+T18	Abbreviation 264 268	FURO
+T21	Disease 363 403	Oclusion y estenosis de arteria carotida
+T22	Clinical_Finding 329 349	EXAMEN FISICO NORMAL
+T24	Medication 226 229	AAS
+T30	Abbreviation 66 69	APS
+T32	Body_Part 26 42	ARTERIA CARÓTIDA
+T33	Abbreviation 113 116	NIR
+T5	Abbreviation 110 112	DM
+T31	Body_Part 387 403	arteria carotida
+T19	Sign_or_Symptom 293 318	SOPLO CAROTIDEO A DERECHA
+T20	Medication 218 221	LST
+T23	Medication 230 233	MTF
+T25	Medication 246 249	GBC
+T26	Medication 258 261	ATV
+T27	Medication 264 268	FURO
+T28	Clinical_Finding 350 362	ASINTOMATICA

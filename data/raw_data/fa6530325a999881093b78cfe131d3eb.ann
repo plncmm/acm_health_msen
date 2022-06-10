@@ -1,0 +1,12 @@
+T1	Abbreviation 0 2	pd
+T2	Body_Part 0 7	pd. 2.6
+T3	Disease 8 23	necrosis pulpar
+T4	Therapeutic_Procedure 42 43	a
+T5	Therapeutic_Procedure 49 77	irrigación suero fisiológico
+T6	Medication 60 77	suero fisiológico
+T7	Therapeutic_Procedure 79 95	medicación PMCFA
+T8	Abbreviation 90 95	PMCFA
+T9	Medication 90 95	PMCFA
+T10	Therapeutic_Procedure 98 115	obturación con VI
+T11	Abbreviation 113 115	VI
+T12	Clinical_Finding 113 115	VI

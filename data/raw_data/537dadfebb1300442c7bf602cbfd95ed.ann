@@ -1,0 +1,44 @@
+T1	Abbreviation 62 65	APS
+T2	Medication 301 307	viadil
+T3	Abbreviation 310 315	AINES
+T4	Medication 310 315	AINES
+T5	Abbreviation 519 522	GGT
+T6	Abbreviation 529 531	FA
+T7	Abbreviation 536 539	GOT
+T8	Abbreviation 544 547	GPT
+T9	Abbreviation 656 659	TAC
+T10	Body_Part 663 670	abdomen
+T11	Abbreviation 773 776	abd
+T12	Body_Part 773 776	abd
+T13	Body_Part 822 832	epigastrio
+T14	Abbreviation 552 556	bili
+T15	Disease 2 37	DOLOR ABDOMINAL Y PÉLVICOen estudio
+T16	Sign_or_Symptom 109 131	dolor abdominal colico
+T17	Sign_or_Symptom 134 144	meteorismo
+T18	Sign_or_Symptom 150 157	vomitos
+A1	Negated T18
+T19	Sign_or_Symptom 161 168	diarrea
+A2	Negated T19
+T20	Sign_or_Symptom 195 315	exacerbacion de dolor a la ingesta de alimentos sin caracteristicas especificas que cede parcialmente con viadil y AINES
+T21	Diagnostic_Procedure 338 348	endoscopia
+T22	Diagnostic_Procedure 351 363	colonoscopia
+T23	Laboratory_or_Test_Result 364 389	sin hallazgos patologicos
+R1	Has Arg1:T21 Arg2:T23	
+R2	Has Arg1:T22 Arg2:T23	
+T24	Sign_or_Symptom 405 447	defecaciones de consistencia mas bien dura
+T25	Laboratory_Procedure 519 522	GGT
+T26	Laboratory_Procedure 529 531	FA
+T27	Laboratory_Procedure 536 539	GOT
+T28	Laboratory_Procedure 544 547	GPT
+T29	Laboratory_Procedure 552 562	bili total
+T30	Disease 615 624	hepatitis
+T31	Diagnostic_Procedure 656 670	TAC de abdomen
+T32	Laboratory_or_Test_Result 675 704	descarta patologia quirurgica
+R3	Has Arg1:T31 Arg2:T32	
+T33	Clinical_Finding 714 723	hidratada
+T34	Clinical_Finding 725 731	rosada
+T35	Clinical_Finding 733 757	llene capilar conservado
+T36	Sign_or_Symptom 763 772	ictericia
+A3	Negated T36
+T37	Sign_or_Symptom 773 832	abd: blando, depresible, sensible a palpacion de epigastrio
+T38	Disease 833 858	Dolor abdominal y pelvico

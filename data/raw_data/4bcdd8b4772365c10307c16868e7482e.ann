@@ -1,0 +1,10 @@
+T1	Abbreviation 48 51	hta
+T2	Abbreviation 53 55	ca
+T3	Body_Part 56 63	tiroide
+T4	Clinical_Finding 12 31	patologias cronicas
+T5	Disease 48 51	hta
+T6	Disease 53 63	ca tiroide
+T7	Disease 66 86	artritis reumatoidea
+T8	Disease 88 131	periodontitis cronica generalizada moderada
+T9	Disease 133 158	desdentada total superior
+T10	Disease 159 186	desdentada parcail inferior

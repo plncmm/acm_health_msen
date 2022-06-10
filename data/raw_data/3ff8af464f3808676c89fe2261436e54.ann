@@ -1,0 +1,4 @@
+T1	Body_Part 25 39	valvula mitral
+T2	Disease 0 39	otras enfermedades de la valvula mitral
+T3	Disease 39 69	fibrilacion y aleteo auricular
+T4	Disease 69 100	insuficiencia cardiaca congenit

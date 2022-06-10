@@ -1,0 +1,6 @@
+T1	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T2	Body_Part 31 37	DIENTE
+T3	Abbreviation 61 64	APS
+T4	Sign_or_Symptom 101 126	mordida cruzada bilateral
+T5	Sign_or_Symptom 129 155	apiñamiento anteroinferior
+T6	Disease 129 140	apiñamiento

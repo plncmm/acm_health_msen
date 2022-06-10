@@ -1,0 +1,9 @@
+T1	Sign_or_Symptom 2 32	FRENILLO LABIAL SUPERIOR CORTO
+T2	Body_Part 75 99	frenillo labial superior
+T9	Body_Part 119 134	papila incisiva
+T10	Abbreviation 56 59	APS
+T12	Body_Part 2 26	FRENILLO LABIAL SUPERIOR
+T11	Sign_or_Symptom 75 134	frenillo labial superior fibroso inserto en papila incisiva
+T3	Abbreviation 136 137	p
+T5	Sign_or_Symptom 149 190	erupcionando con giroversión hacia distal
+T4	Body_Part 136 148	p. 1.1 y 2.1

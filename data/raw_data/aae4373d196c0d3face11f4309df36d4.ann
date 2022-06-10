@@ -1,0 +1,8 @@
+T1	Abbreviation 56 59	APS
+T2	Body_Part 61 70	Pieza 1.1
+T3	Body_Part 169 175	diente
+T4	Disease 2 32	ABSCESO PERIAPICAL CON FÍSTULA
+T5	Laboratory_or_Test_Result 61 88	Pieza 1.1 con lesión apical
+T6	Sign_or_Symptom 91 98	fístula
+T7	Family_Member 160 165	nieta
+T8	Disease 177 207	Absceso periapical con fistula

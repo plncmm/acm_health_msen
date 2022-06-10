@@ -1,0 +1,12 @@
+T1	Abbreviation 0 3	PZA
+T2	Body_Part 0 6	PZA 22
+T3	Disease 7 21	CARIES EXTENSA
+T4	Sign_or_Symptom 37 51	SINTOMATOLOGIA
+A1	Negated T4
+T5	Therapeutic_Procedure 64 75	TREPANACION
+T6	Abbreviation 82 85	PZA
+T7	Body_Part 82 85	PZA
+T8	Therapeutic_Procedure 88 123	RECONSTRUCCION CON RESINA COMPUESTA
+T9	Abbreviation 125 128	PZA
+T10	Body_Part 125 128	PZA
+T11	Clinical_Finding 125 138	PZA TREPANADA

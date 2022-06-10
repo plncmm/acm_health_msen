@@ -1,0 +1,9 @@
+T1	Disease 2 32	ABSCESO DENTO ALVEOLAR CRÓNICO
+T2	Disease 34 38	ADAC
+T3	Abbreviation 34 38	ADAC
+T4	Abbreviation 63 66	APS
+T6	Abbreviation 73 74	p
+T7	Disease 79 106	Celulitis y absceso de boca
+T9	Abbreviation 68 72	adac
+T5	Body_Part 73 78	p 2.5
+T8	Body_Part 102 106	boca

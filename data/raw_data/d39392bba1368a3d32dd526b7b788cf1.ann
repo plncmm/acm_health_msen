@@ -1,0 +1,5 @@
+T1	Body_Part 58 73	nivel radicular
+T2	Sign_or_Symptom 35 73	presencia de calculo a nivel radicular
+T3	Therapeutic_Procedure 83 106	tratamiento periodontal
+T4	Disease 13 30	problema gingival
+A1	Pending T3

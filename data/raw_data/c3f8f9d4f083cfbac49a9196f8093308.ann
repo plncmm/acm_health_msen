@@ -1,0 +1,14 @@
+T1	Abbreviation 0 1	G
+T2	Abbreviation 2 3	P
+T3	Abbreviation 4 5	A
+T4	Abbreviation 8 11	CCA
+T5	Abbreviation 65 68	FUR
+T6	Abbreviation 92 95	LCF
+T7	Abbreviation 100 103	RYT
+T8	Clinical_Finding 0 2	G5
+T9	Clinical_Finding 2 4	P3
+T10	Clinical_Finding 4 6	A1
+T11	Therapeutic_Procedure 8 11	CCA
+T12	Clinical_Finding 12 20	EMBARAZO
+T13	Disease 32 52	DIABETES GESTACIONAL
+T14	Disease 53 59	MIOPIA

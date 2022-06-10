@@ -1,0 +1,10 @@
+T1	Abbreviation 93 96	APS
+T2	Abbreviation 132 135	APS
+T3	Disease 2 29	TRASTORNO COGNOSCITIVO LEVE
+T4	Disease 29 48	deterioro cognitivo
+T5	Disease 52 69	DISFASIA Y AFASIA
+T6	Disease 107 117	hipertenso
+T7	Clinical_Finding 137 185	independiente en sus actividades diarias basicas
+T8	Sign_or_Symptom 188 218	compromiso auditivo progresivo
+T9	Sign_or_Symptom 304 333	afasia nominativa transitoria
+T10	Disease 527 554	Trastorno cognoscitivo leve

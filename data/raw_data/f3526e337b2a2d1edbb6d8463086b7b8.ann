@@ -1,0 +1,16 @@
+T1	Disease 0 23	ENFERMEDAD DEL COLAGENO
+T2	Disease 44 58	CIFOESCOLIOSIS
+T3	Disease 83 87	EITC
+T4	Disease 165 172	ROSACEA
+A1	Implicit_Family_Background T4
+T5	Sign_or_Symptom 213 228	FOTOSENSIBLIDAD
+T6	Sign_or_Symptom 232 255	LESIONES ERITEMATODESCA
+T7	Abbreviation 38 40	DX
+#1	AnnotatorNotes T7	diagnóstico
+T8	Abbreviation 83 87	EITC
+#2	AnnotatorNotes T8	enfermedad indiferenciada del tejido conectivo
+T9	Abbreviation 92 95	ANA
+#3	AnnotatorNotes T9	anticuerpo antinuclear
+T10	Laboratory_Procedure 92 95	ANA
+T11	Laboratory_or_Test_Result 127 136	NEGATIVOS
+R1	Has Arg1:T10 Arg2:T11	

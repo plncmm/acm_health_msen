@@ -1,0 +1,14 @@
+T1	Abbreviation 14 17	OBS
+T2	Abbreviation 43 46	TTO
+T3	Abbreviation 66 69	ACV
+T4	Abbreviation 78 81	PAP
+T5	Abbreviation 100 103	FUR
+T6	Abbreviation 115 120	ANTEC
+T7	Abbreviation 122 125	NIE
+T8	Clinical_Finding 0 9	MULTIPARE
+T9	Disease 19 32	MIOMA UTERINO
+T10	Disease 33 39	ANEMIA
+T11	Disease 58 69	SECUELA ACV
+T12	Diagnostic_Procedure 78 81	PAP
+T13	Disease 122 129	NIE III
+T14	Laboratory_or_Test_Result 122 129	NIE III

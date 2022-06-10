@@ -1,0 +1,8 @@
+T1	Disease 2 20	GINGIVITIS CRÓNICA
+T2	Abbreviation 44 47	APS
+T3	Therapeutic_Procedure 72 95	tratamiento endodontico
+A1	Pending T3
+T4	Body_Part 96 106	diente 1.5
+T5	Clinical_Finding 107 115	trepando
+T6	Disease 121 147	caries dentinaria profunda
+T7	Disease 162 180	Gingivitis cronica

@@ -1,0 +1,10 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Abbreviation 44 47	APS
+T3	Disease 49 67	Desdentado parcial
+T5	Body_Part 68 75	maxilar
+T7	Abbreviation 132 134	IC
+T8	Disease 152 228	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T4	Sign_or_Symptom 49 131	Desdentado parcial maxilar y mandibular Maxilar II.1 Kennedy Mandibula I.1 Kennedy
+T9	Body_Part 110 119	Mandibula
+T10	Body_Part 190 197	dientes
+T6	Body_Part 89 96	Maxilar

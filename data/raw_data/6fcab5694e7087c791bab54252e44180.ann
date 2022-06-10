@@ -1,0 +1,13 @@
+T2	Abbreviation 124 126	IC
+T3	Abbreviation 164 167	DLN
+T5	Abbreviation 48 49	-
+T6	Abbreviation 128 131	DOC
+T1	Abbreviation 22 24	AM
+T4	Disease 2 18	HERNIA UMBILICAL
+T7	Clinical_Finding 38 46	ALERGIAS
+A1	Negated T7
+T8	Laboratory_or_Test_Result 64 113	PEQUEÑA HERNIA  UMBILICAL  DE  CONTENIDO  ADIPOSO
+T9	Body_Part 172 177	MANOS
+T10	Disease 72 89	HERNIA  UMBILICAL
+T11	Clinical_Finding 22 24	AM
+A2	Negated T11

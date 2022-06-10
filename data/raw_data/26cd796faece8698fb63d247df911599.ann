@@ -1,0 +1,9 @@
+T1	Body_Part 37 47	diente 1.2
+T2	Abbreviation 101 104	OZE
+T3	Medication 101 104	OZE
+T4	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T5	Disease 37 69	diente 1.2 con caries penetrante
+T6	Sign_or_Symptom 71 80	trepanado
+T7	Therapeutic_Procedure 87 104	provisorio de OZE
+T8	Laboratory_or_Test_Result 2 30	CARIES DENTINARIA PENETRANTE
+T9	Laboratory_or_Test_Result 37 69	diente 1.2 con caries penetrante

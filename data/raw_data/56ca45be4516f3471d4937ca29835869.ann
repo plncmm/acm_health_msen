@@ -1,0 +1,5 @@
+T1	Body_Part 0 13	PIEZA 17 Y 32
+T2	Laboratory_or_Test_Result 0 41	PIEZA 17 Y 32 SEMIEMPOSIONADA E IMPACTADA
+T3	Therapeutic_Procedure 90 99	EXODENCIA
+A1	Pending T3
+T4	Body_Part 109 115	PIEZAS

@@ -1,0 +1,9 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Abbreviation 74 77	APS
+T3	Abbreviation 100 107	ANTECED
+T4	Clinical_Finding 100 115	ANTECED MEDICOS
+A1	Negated T4
+T5	Sign_or_Symptom 128 169	APARATOS FIJOS CON TRATAMIENTO INCONCLUSO
+T6	Therapeutic_Procedure 266 294	EXTRACCION DE APARATOS FIJOS
+A2	Pending T6
+T7	Disease 295 343	Anomalias dentofaciales (incluso la maloclusion)

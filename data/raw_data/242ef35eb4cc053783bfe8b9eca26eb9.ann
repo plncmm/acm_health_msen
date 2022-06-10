@@ -1,0 +1,9 @@
+T1	Disease 2 45	TRASTORNO DE LA REFRACCIÓN, NO ESPECIFICADO
+T2	Abbreviation 69 72	APS
+T3	Abbreviation 74 78	PCTE
+T4	Abbreviation 88 91	HTA
+T5	Abbreviation 93 95	DM
+T6	Disease 88 91	HTA
+T7	Disease 93 95	DM
+T8	Disease 97 113	VICIO REFRACCION
+T9	Therapeutic_Procedure 165 171	LENTES

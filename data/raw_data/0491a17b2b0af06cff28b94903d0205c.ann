@@ -1,0 +1,8 @@
+T1	Abbreviation 54 57	APS
+T2	Body_Part 59 68	pieza 2.5
+T3	Medication 105 123	paramonoclorofenol
+T4	Body_Part 136 143	cemento
+T5	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T6	Clinical_Finding 59 78	pieza 2.5 trepanada
+T7	Therapeutic_Procedure 80 123	medicacion intraconducto paramonoclorofenol
+T8	Disease 125 143	Caries del cemento

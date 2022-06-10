@@ -1,0 +1,8 @@
+T1	Body_Part 16 21	COLON
+T2	Abbreviation 65 71	COLONO
+T3	Abbreviation 87 93	COLONO
+T4	Disease 0 4	K635
+T5	Disease 5 35	POLIPO DEL COLON PEUTZ JEGHERS
+T7	Diagnostic_Procedure 65 71	COLONO
+T8	Diagnostic_Procedure 87 93	COLONO
+T6	Sign_or_Symptom 41 56	DOLOR ABDOMINAL

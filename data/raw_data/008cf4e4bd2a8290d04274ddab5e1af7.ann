@@ -1,0 +1,13 @@
+T1	Body_Part 16 22	ovario
+T2	Abbreviation 190 193	Obs
+T3	Abbreviation 0 5	Antec
+T4	Disease 6 22	Cáncer de ovario
+T5	Sign_or_Symptom 41 59	signos de recidiva
+A1	Negated T5
+T6	Diagnostic_Procedure 72 82	Cintigrama
+T7	Sign_or_Symptom 87 97	artralgias
+T8	Laboratory_or_Test_Result 117 144	cambios degeneratovis óseos
+R1	Has Arg1:T6 Arg2:T8	
+T9	Sign_or_Symptom 160 168	coxalgia
+T10	Sign_or_Symptom 171 188	gonalgia derechas
+T11	Disease 194 202	Artrosis

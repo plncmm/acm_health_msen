@@ -1,0 +1,12 @@
+T1	Abbreviation 107 110	APS
+T2	Body_Part 168 174	CUELLO
+T3	Abbreviation 248 250	MM
+T4	Body_Part 22 34	REGIÓN BUCAL
+T5	Body_Part 374 386	region bucal
+T6	Disease 2 82	OTROS QUISTES DE LA REGIÓN BUCAL, NO CLASIFICADOS EN OTRA PARTEQUISTE COLOIDALES
+T7	Diagnostic_Procedure 155 174	ECOGRAFIA DE CUELLO
+T8	Laboratory_or_Test_Result 175 234	NODULACIONES HIPOECOGENICAS PROBABLEMENTE QUISTE COLOIDALES
+R1	Has Arg1:T7 Arg2:T8	
+T9	Sign_or_Symptom 337 342	DOLOR
+T10	Sign_or_Symptom 343 352	MOLESTIAS
+T11	Disease 354 417	Otros quistes de la region bucal, no clasificados en otra parte

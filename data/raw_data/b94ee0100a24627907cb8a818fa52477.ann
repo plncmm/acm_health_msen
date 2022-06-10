@@ -1,0 +1,10 @@
+T1	Abbreviation 44 47	APS
+T2	Body_Part 103 112	pieza 1.3
+T3	Body_Part 117 121	raiz
+T4	Body_Part 412 419	dientes
+T5	Disease 2 20	DESDENTADO PARCIAL
+T6	Sign_or_Symptom 67 112	corona de sustitución desalojada de pieza 1.3
+T7	Sign_or_Symptom 117 138	raiz está subgingival
+T8	Therapeutic_Procedure 197 204	coronas
+T9	Disease 374 450	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T10	Body_Part 225 232	dientes

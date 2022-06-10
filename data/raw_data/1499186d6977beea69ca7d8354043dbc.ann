@@ -1,0 +1,7 @@
+T1	Body_Part 0 7	Pieza 6
+T2	Sign_or_Symptom 0 15	Pieza 6 ausente
+T3	Body_Part 27 36	pieza 5.3
+T4	Sign_or_Symptom 17 36	presencia pieza 5.3
+T5	Body_Part 70 77	pieza 6
+T6	Therapeutic_Procedure 58 110	rehabilitar pieza 6 mediante implante oseo integrado
+A1	Pending T6

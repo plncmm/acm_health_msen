@@ -1,0 +1,28 @@
+T1	Body_Part 14 19	PECHO
+T2	Abbreviation 20 23	HTA
+T3	Abbreviation 40 43	ANT
+T4	Abbreviation 58 60	CC
+T5	Abbreviation 98 101	INT
+T6	Abbreviation 131 133	SX
+T7	Abbreviation 137 139	IC
+T8	Abbreviation 165 168	ECG
+T10	Abbreviation 219 221	DR
+T9	Abbreviation 189 193	TROP
+T11	Disease 0 3	I20
+T12	Disease 4 19	ANGINA DE PECHO
+T13	Disease 20 23	HTA
+T14	Clinical_Finding 58 60	CC
+A1	Implicit_Family_Background T14
+T15	Sign_or_Symptom 71 75	DREO
+T16	Disease 137 139	IC
+T17	Disease 141 147	DISNEA
+T18	Disease 148 156	ORTOPNEA
+T19	Disease 159 164	EDEMA
+T20	Diagnostic_Procedure 165 168	ECG
+T21	Laboratory_or_Test_Result 173 187	ONDA Q EN D II
+R1	Has Arg1:T20 Arg2:T21	
+T22	Laboratory_Procedure 189 193	TROP
+T23	Laboratory_or_Test_Result 194 202	NEGATIVA
+R2	Has Arg1:T22 Arg2:T23	
+T24	Diagnostic_Procedure 251 275	ESTUDIO CORONARIOGRAFICO
+T25	Abbreviation 71 75	DREO

@@ -1,0 +1,12 @@
+T1	Abbreviation 34 37	LES
+T2	Medication 101 118	Hidroxicloroquina
+T4	Medication 129 139	prednisona
+T3	Medication 149 157	Aspirina
+T5	Abbreviation 122 124	mg
+T6	Abbreviation 125 127	OD
+T7	Abbreviation 142 144	mg
+T8	Abbreviation 145 147	OD
+T9	Disease 34 37	LES
+T12	Sign_or_Symptom 167 181	visión borrosa
+T13	Disease 206 233	LUPUS ERITEMATOSO SISTEMICO
+T10	Laboratory_or_Test_Result 39 80	portadora de anticuerpos antifosfolipidos

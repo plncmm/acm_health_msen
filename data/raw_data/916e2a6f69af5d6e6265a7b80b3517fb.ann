@@ -1,0 +1,11 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 245 248	eco
+T3	Disease 2 50	OTROS DOLORES ABDOMINALES Y LOS NO ESPECIFICADOS
+T4	Sign_or_Symptom 129 185	dolor abdominal tipo colico que cede con regimen liviano
+T5	Laboratory_Procedure 218 225	exmanes
+T6	Laboratory_or_Test_Result 226 234	normales
+R1	Has Arg1:T5 Arg2:T6	
+T7	Diagnostic_Procedure 245 258	eco abdominal
+T8	Laboratory_or_Test_Result 266 274	normales
+R2	Has Arg1:T7 Arg2:T8	
+T9	Sign_or_Symptom 277 306	deposisiones normales diarias

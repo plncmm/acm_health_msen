@@ -1,0 +1,9 @@
+T1	Body_Part 0 9	Pieza 4.7
+T2	Disease 14 43	absceso dentoalveolar crónico
+T3	Therapeutic_Procedure 56 67	trepanación
+T4	Body_Part 77 82	pieza
+T5	Abbreviation 108 113	PMCFA
+T6	Medication 108 113	PMCFA
+T7	Therapeutic_Procedure 92 113	mediacación con PMCFA
+T8	Medication 123 131	eugenato
+T9	Clinical_Finding 137 153	cemento temporal

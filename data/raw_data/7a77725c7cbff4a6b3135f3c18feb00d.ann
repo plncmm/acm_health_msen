@@ -1,0 +1,10 @@
+T1	Disease 2 23	PERIODONTITIS CRÓNICA
+T2	Abbreviation 47 50	APS
+T3	Sign_or_Symptom 52 82	bolsas periodontales evidentes
+T4	Sign_or_Symptom 84 118	encias edematosas y muy sangrantes
+T5	Body_Part 84 90	encias
+T6	Sign_or_Symptom 120 176	excesivo acumulo de calculo dentario supra y subgingival
+T7	Sign_or_Symptom 178 201	higiene oral deficiente
+T8	Body_Part 203 209	piezas
+T9	Sign_or_Symptom 225 242	movilidad grado 1
+T10	Disease 244 265	Periodontitis cronica

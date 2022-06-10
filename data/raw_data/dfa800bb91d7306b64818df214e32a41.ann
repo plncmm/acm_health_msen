@@ -1,0 +1,8 @@
+T1	Disease 2 12	QUERATOSIS
+T2	Disease 13 53	QUERATODERMIA PALMAR Y PLANTAR ADQUIRIDA
+T3	Sign_or_Symptom 104 176	engrosamiento de piel plantar bilatera con fisuras dolorosas ante marcha
+T4	Abbreviation 77 80	APS
+#1	AnnotatorNotes T4	atención primaria de salud
+T5	Abbreviation 234 238	atte
+#2	AnnotatorNotes T5	atentamente
+T6	Body_Part 121 142	piel plantar bilatera

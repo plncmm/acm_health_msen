@@ -1,0 +1,27 @@
+T1	Disease 2 41	RUPTURA TRAUMÁTICA DEL TÍMPANO DEL OÍDO
+T2	Body_Part 25 41	TÍMPANO DEL OÍDO
+T3	Disease 45 74	OTITIS MEDIA SUPURATIVA AGUDA
+T4	Abbreviation 78 80	AM
+T5	Abbreviation 85 87	AQ
+T6	Abbreviation 82 83	-
+T7	Abbreviation 89 90	-
+T8	Abbreviation 101 102	-
+T9	Abbreviation 104 106	MC
+T13	Sign_or_Symptom 130 144	DOLRO OIDO DER
+T14	Body_Part 136 144	OIDO DER
+T15	Abbreviation 141 144	DER
+T16	Sign_or_Symptom 147 164	SENSAIONC DE AGUA
+T17	Abbreviation 168 174	EMXNEA
+T18	Abbreviation 176 179	CAE
+T19	Body_Part 176 179	CAE
+T20	Sign_or_Symptom 176 188	CAE INFLMADO
+T21	Body_Part 190 197	TIMPANO
+T22	Sign_or_Symptom 190 219	TIMPANO TENSO CON PERFORACION
+T23	Sign_or_Symptom 225 236	ERITEMATOSO
+T24	Sign_or_Symptom 239 246;258 271	EXUDADO SEROPURULENTO
+T10	Clinical_Finding 78 80	AM
+A1	Negated T10
+T11	Clinical_Finding 85 87	AQ
+A2	Negated T11
+T12	Clinical_Finding 92 99	ALERGIA
+A3	Negated T12

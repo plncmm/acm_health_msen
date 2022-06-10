@@ -1,0 +1,23 @@
+T1	Abbreviation 49 51	OH
+T2	Abbreviation 116 119	APS
+T3	Abbreviation 122 126	Pact
+T4	Abbreviation 147 150	AVE
+T5	Abbreviation 172 175	ECO
+T6	Abbreviation 203 206	DHC
+T7	Body_Part 242 269	lobulo izquierdo del higado
+T8	Abbreviation 334 337	TTo
+T9	Medication 342 353	tonsulosina
+T10	Abbreviation 358 361	HPb
+T11	Disease 2 34	CIRROSIS BILIAR, NO ESPECIFICADA
+T12	Disease 147 150	AVE
+T13	Diagnostic_Procedure 172 185	ECO Abdominal
+T14	Laboratory_or_Test_Result 203 206	DHC
+T15	Laboratory_or_Test_Result 212 225	ligera acitis
+T16	Laboratory_or_Test_Result 228 269	compromiso de lobulo izquierdo del higado
+R1	Has Arg1:T13 Arg2:T14	
+R2	Has Arg1:T13 Arg2:T15	
+R3	Has Arg1:T13 Arg2:T16	
+T17	Laboratory_Procedure 386 401	perfil hepatico
+T18	Laboratory_Procedure 404 426	pruebas de coagulacion
+T19	Disease 444 476	Cirrosis biliar, no especificada
+T20	Disease 358 361	HPb

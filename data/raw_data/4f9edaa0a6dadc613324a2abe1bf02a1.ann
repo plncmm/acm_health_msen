@@ -1,0 +1,7 @@
+T1	Abbreviation 55 57	mm
+T2	Body_Part 48 51	P/7
+T3	Body_Part 101 104	P/7
+T4	Body_Part 119 138	MARGENES GINGIVALES
+T5	Sign_or_Symptom 13 51	PERDIDA DE INSERCION EN RELACION A P/7
+T6	Disease 79 97	ABCESOS SUBMUCOSOS
+T7	Therapeutic_Procedure 109 114	DRENÓ

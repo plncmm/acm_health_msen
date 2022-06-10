@@ -1,0 +1,16 @@
+T1	Abbreviation 2 5	OBS
+T2	Abbreviation 7 10	ACV
+T3	Disease 7 20	ACV SECUELADO
+T4	Abbreviation 32 35	OBS
+T5	Abbreviation 37 40	TIA
+T6	Disease 37 40	TIA
+T7	Abbreviation 73 76	OBS
+T8	Disease 78 95	DEMENCIA VASCULAR
+T9	Abbreviation 97 100	HTA
+T10	Disease 97 100	HTA
+T11	Disease 102 105	DLP
+T12	Abbreviation 102 105	DLP
+T13	Abbreviation 106 107	+
+T14	Disease 108 114	ANEMIA
+#1	AnnotatorNotes T5	Ataque isquemico transitorio
+T15	Sign_or_Symptom 50 71	COMPROMISO CONCIENCIA

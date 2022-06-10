@@ -1,0 +1,14 @@
+T1	Body_Part 12 17	RIÑÓN
+T2	Body_Part 72 89	region lumbar izq
+T3	Abbreviation 86 89	izq
+T4	Abbreviation 136 139	eco
+T5	Abbreviation 132 133	+
+T6	Abbreviation 183 186	izq
+T7	Abbreviation 195 197	cm
+T8	Abbreviation 204 206	cm
+T9	Disease 2 28	QUISTE DE RIÑÓN, ADQUIRIDO
+T10	Sign_or_Symptom 54 89	dolor punzante en region lumbar izq
+T11	Sign_or_Symptom 126 131	dolor
+T12	Diagnostic_Procedure 136 145	eco renal
+T13	Laboratory_or_Test_Result 167 187	2 quistes renal izq.
+R1	Has Arg1:T12 Arg2:T13	

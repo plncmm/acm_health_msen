@@ -1,0 +1,12 @@
+T1	Body_Part 0 3	3.6
+T2	Disease 4 10	Caries
+T3	Laboratory_or_Test_Result 33 49	granuloma apical
+T4	Body_Part 51 68	Raíz accesoria DL
+T5	Abbreviation 66 68	DL
+T6	Therapeutic_Procedure 79 88	trepanada
+T7	Therapeutic_Procedure 90 121	medicada intraconducto con PMCF
+T8	Medication 117 121	PMCF
+T9	Abbreviation 117 121	PMCF
+T10	Therapeutic_Procedure 122 150	obturada con vidrio ionomero
+T11	Clinical_Finding 135 150	vidrio ionomero
+T12	Laboratory_or_Test_Result 4 32	Caries o extensa, penetrante

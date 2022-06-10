@@ -1,0 +1,7 @@
+T1	Sign_or_Symptom 18 44	mordida invertida anterior
+T2	Sign_or_Symptom 46 98	falta de espacio para erupción de caninos superiores
+T3	Body_Part 80 98	caninos superiores
+T4	Clinical_Finding 100 123	Clase I molar bilateral
+T5	Abbreviation 152 155	tto
+T6	Therapeutic_Procedure 152 170	tto. de ortodoncia
+A1	Pending T6

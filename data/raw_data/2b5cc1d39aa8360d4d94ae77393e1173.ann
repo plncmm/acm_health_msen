@@ -1,0 +1,5 @@
+T1	Abbreviation 26 30	VMIP
+T2	Body_Part 0 8	PIEZAS 8
+T3	Sign_or_Symptom 0 30	PIEZAS 8 OBTURACION CARAS VMIP
+T4	Therapeutic_Procedure 31 51	ENDODONCIA REALIZADA
+T5	Sign_or_Symptom 99 109	COLORACION

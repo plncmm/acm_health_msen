@@ -1,0 +1,10 @@
+T1	Body_Part 21 30	ADENOIDES
+T2	Abbreviation 54 57	APS
+T3	Family_Member 135 140	madre
+T4	Body_Part 344 353	adenoides
+T5	Disease 2 30	HIPERTROFIA DE LAS ADENOIDES
+T6	Disease 163 174	amigdalitis
+T7	Sign_or_Symptom 216 224	ronquera
+T8	Sign_or_Symptom 225 233	disfonia
+T10	Disease 325 353	Hipertrofia de las adenoides
+T9	Sign_or_Symptom 237 253	respirador bucal

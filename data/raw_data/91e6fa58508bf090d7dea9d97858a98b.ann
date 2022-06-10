@@ -1,0 +1,33 @@
+T1	Body_Part 15 28	CAVIDAD NASAL
+T2	Abbreviation 52 55	APS
+T3	Abbreviation 170 174	APRX
+T4	Abbreviation 177 179	AM
+T5	Abbreviation 181 184	HTA
+T6	Abbreviation 216 221	MEDIC
+T7	Medication 223 231	LOSARTAN
+T8	Medication 233 250	HIDROCLOROTIAZIDA
+T9	Medication 252 259	EUTIROX
+T10	Medication 262 275	ATORVASTATINA
+T11	Abbreviation 289 292	AQX
+T12	Abbreviation 312 314	EX
+T13	Body_Part 316 323	TABIQUE
+T14	Body_Part 429 442	cavidad nasal
+T15	Disease 2 28	PÓLIPO DE LA CAVIDAD NASAL
+T16	Sign_or_Symptom 72 96	MOLESTIA NASAL IZQUIERDA
+T17	Therapeutic_Procedure 122 142	OPERACION POR POLIPO
+T18	Disease 181 184	HTA
+T19	Disease 186 200	HIPOTIROIDISMO
+T20	Disease 202 214	DISLIPIDEMIA
+T21	Clinical_Finding 277 284	ALERGIA
+A1	Negated T21
+T22	Disease 294 306	POLIPO NASAL
+T23	Sign_or_Symptom 347 356	EPISTAXIS
+A2	Negated T23
+T24	Sign_or_Symptom 402 413	ADENOPATIAS
+A3	Negated T24
+T25	Sign_or_Symptom 370 392	ALTERACIONES EVIDENTES
+A4	Negated T25
+T26	Sign_or_Symptom 333 341	LESIONES
+A5	Negated T26
+T27	Sign_or_Symptom 316 328	TABIQUE SANO
+T28	Disease 416 442	Polipo de la cavidad nasal

@@ -1,0 +1,5 @@
+T1	Abbreviation 69 72	APS
+T2	Disease 2 45	TRASTORNO DE LA REFRACCIÓN, NO ESPECIFICADO
+T3	Sign_or_Symptom 87 103	vicio refraccion
+T4	Therapeutic_Procedure 114 120	lentes
+A1	Pending T4

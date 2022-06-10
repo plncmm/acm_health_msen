@@ -1,0 +1,8 @@
+T1	Disease 2 17	RESTO RADICULAR
+T2	Clinical_Finding 67 93	antecedentes de morbilidad
+A1	Negated T2
+T3	Clinical_Finding 97 105	alergias
+A2	Negated T3
+T4	Sign_or_Symptom 127 155	restos radiculares multiples
+T5	Therapeutic_Procedure 199 217	desfocación dental
+A3	Pending T5

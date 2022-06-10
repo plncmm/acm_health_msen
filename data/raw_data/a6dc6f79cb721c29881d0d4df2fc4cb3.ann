@@ -1,0 +1,7 @@
+T1	Body_Part 30 36	PIERNA
+T2	Abbreviation 60 63	APS
+T3	Abbreviation 83 88	ceafm
+T4	Body_Part 119 133	pierna derecha
+T5	Disease 2 36	AMPUTACIÓN TRAUMÁTICA DE LA PIERNA
+T6	Therapeutic_Procedure 93 133	cambio de protisis  de la pierna derecha
+A1	Pending T6

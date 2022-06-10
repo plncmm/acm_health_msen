@@ -1,0 +1,7 @@
+T1	Body_Part 31 48	CAVIDAD ABDOMINAL
+T3	Body_Part 286 303	cavidad abdominal
+T4	Abbreviation 72 75	APS
+T5	Abbreviation 175 177	cm
+T6	Disease 2 48	HERNIA NO ESPECIFICADA DE LA CAVIDAD ABDOMINAL
+T10	Disease 257 302	Hernia no especificada de la cavidad abdomina
+T2	Sign_or_Symptom 134 216	hernia de linea alba, subra umbilical, 1 cm de diametro, reductible, no complicada

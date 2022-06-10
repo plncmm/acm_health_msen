@@ -1,0 +1,9 @@
+T1	Disease 2 19	DIABETES MELLITUS
+T2	Disease 43 70	INSUFICIENCIA RENAL CRÓNICA
+T3	Abbreviation 94 97	APS
+T4	Abbreviation 99 103	pcte
+T5	Abbreviation 104 105	q
+T6	Medication 167 181	isulina rapida
+T7	Medication 200 212	insulina NPH
+T8	Clinical_Finding 225 254	orientado en tiempo y espacio
+T9	Abbreviation 209 212	NPH

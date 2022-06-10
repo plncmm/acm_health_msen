@@ -1,0 +1,11 @@
+T1	Disease 2 19	DIENTES INCLUIDOS
+T2	Abbreviation 43 46	APS
+T3	Therapeutic_Procedure 57 66	exodoncia
+A1	Pending T3
+T4	Body_Part 70 73	2.8
+T5	Body_Part 76 79	2.8
+T6	Disease 80 89	incluidos
+T7	Laboratory_or_Test_Result 76 107	2.8 incluidos y en mal posición
+T8	Disease 108 125	Dientes incluidos
+T9	Body_Part 108 115	Dientes
+T10	Body_Part 2 9	DIENTES

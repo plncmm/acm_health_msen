@@ -1,0 +1,6 @@
+T1	Disease 0 17	crisis convulsiva
+T2	Abbreviation 18 22	pcte
+T3	Sign_or_Symptom 70 90	perdida de concencia
+T4	Sign_or_Symptom 107 127	desviacion de mirada
+T5	Sign_or_Symptom 148 166	lenta recuperacion
+T6	Abbreviation 98 101	min

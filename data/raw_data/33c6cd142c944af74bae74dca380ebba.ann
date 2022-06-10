@@ -1,0 +1,13 @@
+T1	Abbreviation 34 37	ALL
+T2	Abbreviation 40 43	LLA
+T3	Abbreviation 44 47	OBS
+T4	Abbreviation 81 84	LLA
+T5	Disease 0 4	C910
+T6	Disease 5 33	LEUCEMIA LINFOBLASTICA AGUDA
+T7	Disease 34 37	ALL
+T8	Disease 40 43	LLA
+T9	Disease 48 64	VICIO REFRACCIÒN
+T10	Disease 81 86	LLA  
+T11	Therapeutic_Procedure 107 120	QUIMIOTERAPIA
+T12	Sign_or_Symptom 131 160	DISMINUCIÒN DE AGUREZA VISUAL
+T13	Sign_or_Symptom 163 172	FOTOFOBIA

@@ -1,0 +1,9 @@
+T1	Body_Part 70 78	PIEZA 16
+T2	Abbreviation 160 162	RX
+T3	Disease 83 100	CARIES PENETRANTE
+T4	Laboratory_or_Test_Result 83 100	CARIES PENETRANTE
+T5	Sign_or_Symptom 108 129	DESTRUCCIÓN CORONARIA
+T6	Therapeutic_Procedure 140 150	EXTRACCIÓN
+A1	Pending T6
+T7	Clinical_Finding 25 59	ANTECEDENTES MÉDICOS DE RELEVANCIA
+A2	Negated T7

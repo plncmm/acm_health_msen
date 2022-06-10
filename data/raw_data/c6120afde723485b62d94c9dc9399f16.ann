@@ -1,0 +1,10 @@
+T1	Abbreviation 3 4	m
+T2	Abbreviation 9 12	emb
+T3	Abbreviation 17 20	sem
+T4	Abbreviation 25 28	hta
+T5	Clinical_Finding 3 5	m2
+T6	Clinical_Finding 9 12	emb
+T7	Disease 25 36	hta cronica
+T8	Disease 40 48	obesidad
+T9	Disease 52 74	intolerancia a glucosa
+T10	Therapeutic_Procedure 78 91	colestectomia

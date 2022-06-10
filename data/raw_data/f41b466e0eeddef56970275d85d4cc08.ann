@@ -1,0 +1,7 @@
+T1	Abbreviation 0 3	PZA
+T2	Body_Part 0 5	PZA 4
+T4	Abbreviation 24 29	FRACT
+T5	Sign_or_Symptom 0 39	PZA 4 AL ESTADO DE RAIZ FRACT CORONARIA
+T6	Disease 73 80	INFARTO
+T7	Abbreviation 112 116	HOSP
+T8	Body_Part 19 23	RAIZ

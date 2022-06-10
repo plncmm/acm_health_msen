@@ -1,0 +1,6 @@
+T1	Disease 2 15	CARIES DENTAL
+T2	Abbreviation 39 42	APS
+T3	Body_Part 62 76	diente con 2.2
+T4	Clinical_Finding 77 86	trepanado
+T5	Therapeutic_Procedure 109 132	tratamiento endodontico
+A1	Pending T5

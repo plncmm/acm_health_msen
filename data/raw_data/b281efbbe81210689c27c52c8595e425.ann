@@ -1,0 +1,9 @@
+T1	Body_Part 0 10	Diente 1.8
+T2	Body_Part 44 54	Diente 4.8
+T3	Body_Part 87 97	Diente 3.8
+T4	Body_Part 121 131	diente 3.7
+T5	Sign_or_Symptom 0 42	Diente 1.8 erupcionado vestíbulo inclinada
+T6	Sign_or_Symptom 44 85	Diente 4.8 semierupcionada, distoincluida
+T7	Laboratory_or_Test_Result 87 143	Diente 3.8 impactada en distal de diente 3.7, horizontal
+T8	Therapeutic_Procedure 169 189	exodoncia quirúrgica
+A1	Pending T8

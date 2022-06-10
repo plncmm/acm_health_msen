@@ -1,0 +1,11 @@
+T1	Abbreviation 0 2	PD
+T2	Body_Part 0 13	PD. 2.3 Y 3.4
+T3	Sign_or_Symptom 14 43	DESTRUCCION CORONARIA EXTENSA
+T4	Therapeutic_Procedure 63 73	TREPANADAS
+A1	Negated T4
+T5	Therapeutic_Procedure 108 133	RESTAURACIONES INDIRECTAS
+T6	Body_Part 214 217	2.3
+T7	Therapeutic_Procedure 222 245	RESTAURACIONES DIRECTAS
+A2	Negated T7
+A3	Pending T5
+T8	Body_Part 162 178	PIEZAS DENTARIAS

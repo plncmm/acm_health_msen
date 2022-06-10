@@ -1,0 +1,7 @@
+T1	Therapeutic_Procedure 41 51	Endodoncia
+A1	Pending T1
+T2	Abbreviation 52 53	P
+T3	Body_Part 52 58	P. 2.1
+T4	Abbreviation 79 82	Tda
+T5	Disease 79 82	Tda
+T6	Sign_or_Symptom 63 82	Antecedentes De Tda

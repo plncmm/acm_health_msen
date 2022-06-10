@@ -1,0 +1,9 @@
+T1	Body_Part 0 10	diente 4.4
+T3	Disease 11 28	caries penetrante
+T2	Diagnostic_Procedure 33 35	RX
+A1	Negated T2
+T4	Clinical_Finding 48 66	ACCESO ENDODONTICO
+T5	Clinical_Finding 80 93	DOBLE SELLADO
+T6	Abbreviation 155 159	DIAG
+T7	Clinical_Finding 167 210	DIENTE CON TRATAMIENTO PREVIAMENTE INICIADO
+T8	Body_Part 167 173	DIENTE

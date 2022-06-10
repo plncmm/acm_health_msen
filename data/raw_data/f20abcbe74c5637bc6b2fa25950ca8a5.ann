@@ -1,0 +1,23 @@
+T1	Body_Part 127 132	carpo
+T2	Abbreviation 13 14	p
+T3	Abbreviation 64 66	cm
+T4	Abbreviation 79 81	cm
+T5	Abbreviation 83 86	TSH
+T6	Abbreviation 87 88	N
+T7	Abbreviation 102 104	Ac
+T8	Abbreviation 120 121	-
+T9	Abbreviation 124 126	Rx
+T10	Abbreviation 190 192	Kg
+T11	Family_Member 53 58	Madre
+T12	Family_Member 68 73	padre
+T13	Sign_or_Symptom 4 16	talla en p 5
+T14	Sign_or_Symptom 18 44	desarrollo puberal inicial
+T15	Disease 46 51	Obeso
+T16	Laboratory_Procedure 83 86	TSH
+T17	Laboratory_or_Test_Result 87 88	N
+R1	Has Arg1:T16 Arg2:T17	
+T18	Laboratory_Procedure 102 118	Ac antitiroídeos
+T19	Laboratory_or_Test_Result 120 121	-
+R2	Has Arg1:T18 Arg2:T19	
+T20	Diagnostic_Procedure 124 132	Rx carpo
+T21	Sign_or_Symptom 193 208	TALLA BAJA LEVE

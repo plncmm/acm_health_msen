@@ -1,0 +1,21 @@
+T1	Abbreviation 136 139	APS
+T2	Medication 291 301	risperidon
+T3	Abbreviation 305 307	mg
+T4	Family_Member 316 321	Madre
+T5	Abbreviation 369 371	EF
+T6	Abbreviation 422 424	MP
+T7	Abbreviation 426 429	SRA
+T8	Abbreviation 430 434	RR2t
+T9	Abbreviation 435 437	ss
+T10	Abbreviation 424 425	+
+T11	Disease 2 112	OTROS TIPOS DE RETRASO MENTAL, DETERIORO DEL COMPORTAMIENTO SIGNIFICATIVO, QUE REQUIERE ATENCIÓN O TRATAMIENTO
+T12	Disease 183 208	trastornos del desarrollo
+T13	Disease 214 237	retraso mental moderado
+T14	Disease 240 270	trastorno del espectro autista
+T15	Sign_or_Symptom 330 351	agitacion psicomotriz
+T16	Clinical_Finding 398 407	tranquilo
+T17	Sign_or_Symptom 422 425	MP+
+T18	Sign_or_Symptom 426 429	SRA
+T19	Sign_or_Symptom 430 434	RR2t
+T20	Sign_or_Symptom 435 437	ss
+T21	Disease 487 597	Otros tipos de retraso mental, deterioro del comportamiento significativo, que requiere atencion o tratamiento

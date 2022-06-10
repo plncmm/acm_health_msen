@@ -1,0 +1,12 @@
+T1	Abbreviation 35 38	APS
+T2	Abbreviation 81 84	HTA
+T3	Abbreviation 86 89	IGO
+T4	Body_Part 134 149	cuero cabelludo
+T5	Body_Part 151 156	codos
+T6	Disease 2 11	PSORIASIS
+T7	Disease 81 84	HTA
+T8	Disease 86 89	IGO
+T9	Disease 91 102	Gonartrosis
+T10	Sign_or_Symptom 122 258	lesiones en cuero cabelludo, codos y pliegue suprapubico, de aspecto descamativo, color rosado pálido, pruriginosas, y de bordes gruesos
+T11	Disease 390 399	Psoriasis
+T12	Body_Part 159 178	pliegue suprapubico

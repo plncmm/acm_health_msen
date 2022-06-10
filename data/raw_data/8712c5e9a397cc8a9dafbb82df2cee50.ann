@@ -1,0 +1,8 @@
+T1	Disease 0 3	AIJ
+T2	Abbreviation 0 3	AIJ
+T3	Abbreviation 23 26	MTX
+T4	Medication 23 26	MTX
+T5	Medication 29 35	ENBREL
+T6	Body_Part 61 64	ATM
+T7	Abbreviation 61 64	ATM
+T8	Abbreviation 179 183	ATTE

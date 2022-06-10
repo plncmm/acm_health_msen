@@ -1,0 +1,10 @@
+T1	Abbreviation 0 3	Pza
+T2	Body_Part 0 7	Pza 1.4
+T3	Disease 8 25	caries penetrante
+T4	Clinical_Finding 27 38	Trepanación
+T5	Abbreviation 60 64	PMCF
+T6	Medication 60 64	PMCF
+T7	Clinical_Finding 67 73	fermin
+T8	Abbreviation 87 90	tto
+T9	Therapeutic_Procedure 88 102	to endodontico
+A1	Pending T9

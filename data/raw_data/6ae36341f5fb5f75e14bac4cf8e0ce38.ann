@@ -1,0 +1,6 @@
+T1	Clinical_Finding 0 30	destincion permanente completa
+T2	Clinical_Finding 31 55	neutrooclusion vilateral
+T3	Sign_or_Symptom 65 97	erupcion eclopica de pieza 22y27
+T4	Body_Part 86 97	pieza 22y27
+T5	Sign_or_Symptom 100 131	leve apiñamiento de grupo 2 y 5
+T6	Body_Part 120 131	grupo 2 y 5

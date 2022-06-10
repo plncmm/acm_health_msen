@@ -1,0 +1,12 @@
+T1	Abbreviation 34 37	ANT
+T2	Family_Member 41 45	HIJO
+T3	Abbreviation 50 54	DIAG
+T4	Abbreviation 58 61	EVW
+T5	Abbreviation 89 92	ANT
+T6	Abbreviation 152 155	ACO
+T7	Medication 152 155	ACO
+T8	Disease 0 4	D680
+T9	Disease 5 33	ENFERMEDAD DE VON WILLEBRAND
+T10	Disease 58 69	EVW  TIPO 1
+T11	Disease 96 108	METRORRAGIAS
+T12	Sign_or_Symptom 120 132	ASINTOMATICA

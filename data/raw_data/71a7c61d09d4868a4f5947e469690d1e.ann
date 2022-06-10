@@ -1,0 +1,6 @@
+T1	Body_Part 121 129	pieza 12
+T2	Disease 9 47	desdentado parcial superior e inferior
+T3	Therapeutic_Procedure 66 103	rehabilitacion con protesis removible
+T4	Therapeutic_Procedure 173 181	implante
+A1	Pending T4
+T5	Sign_or_Symptom 115 129	falta pieza 12

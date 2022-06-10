@@ -1,0 +1,15 @@
+T1	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T2	Body_Part 31 37	DIENTE
+T3	Abbreviation 61 64	APS
+T4	Clinical_Finding 66 84	Clase I esqueletal
+T5	Clinical_Finding 85 123	Neutroclusion molar y canina bilateral
+T6	Sign_or_Symptom 124 141	Resalte aumentado
+T7	Sign_or_Symptom 144 168	Mordida abierta anterior
+T8	Body_Part 169 179	diente 2.1
+T9	Sign_or_Symptom 180 213	Mordida borde a borde 2.2 con 3.2
+T10	Body_Part 202 205	2.2
+T11	Body_Part 210 213	3.2
+T12	Therapeutic_Procedure 227 251	rehabilitacion protesica
+A1	Pending T12
+T13	Disease 252 287	Anomalias de la posicion del diente
+T14	Body_Part 281 287	diente

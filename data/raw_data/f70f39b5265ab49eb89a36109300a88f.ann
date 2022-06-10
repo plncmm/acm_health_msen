@@ -1,0 +1,6 @@
+T1	Abbreviation 96 98	OI
+T2	Body_Part 96 98	OI
+T3	Abbreviation 104 106	OD
+T4	Body_Part 104 106	OD
+T5	Disease 2 45	TRASTORNO DE LA REFRACCIÓN, NO ESPECIFICADO
+T6	Sign_or_Symptom 69 88	disminucion agudeza

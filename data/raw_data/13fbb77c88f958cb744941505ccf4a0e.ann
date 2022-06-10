@@ -1,0 +1,23 @@
+T1	Abbreviation 57 60	APS
+T2	Abbreviation 78 80	mq
+T3	Body_Part 185 190	oidos
+T4	Body_Part 461 468	timpano
+T5	Abbreviation 472 475	cae
+T6	Body_Part 472 485	cae izquierdo
+T7	Abbreviation 500 503	cae
+T8	Body_Part 500 511	cae derecho
+T9	Disease 2 33	HIPOACUSIA CONDUCTIVA BILATERAL
+T10	Clinical_Finding 86 95	alergia  
+A1	Negated T10
+T11	Clinical_Finding 66 80	antecedente mq
+A2	Negated T11
+T12	Disease 111 121	hipoacusia
+T13	Clinical_Finding 166 190	audifonos en ambos oidos
+T14	Sign_or_Symptom 281 330	agudeza auditiva a disminuido de forma importante
+T15	Sign_or_Symptom 388 409	focalidad neurologica
+A3	Negated T15
+T16	Sign_or_Symptom 414 430	signos meningeos
+A4	Negated T16
+T17	Sign_or_Symptom 461 494	timpano en cae izquierdo retraido
+T18	Sign_or_Symptom 500 528	cae derecho tapon de serumen
+T19	Disease 550 581	Hipoacusia conductiva bilateral

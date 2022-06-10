@@ -1,0 +1,10 @@
+T1	Disease 0 28	ESGUINCE EXTERNO DEL TOBILLO
+T2	Body_Part 21 28	TOBILLO
+T3	Abbreviation 31 34	OBS
+T4	Disease 35 73	ESGUINCE SUBAGUDO GRADO 1 TOBILLO DER.
+T5	Body_Part 61 72	TOBILLO DER
+T6	Abbreviation 69 72	DER
+T7	Disease 78 112	Esguinces y torceduras del tobillo
+T8	Body_Part 105 112	tobillo
+T9	Disease 113 132	VICIO DE REFRACCION
+T10	Disease 135 178	Trastorno de la refracción, no especificado

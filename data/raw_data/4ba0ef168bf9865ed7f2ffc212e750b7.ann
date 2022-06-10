@@ -1,0 +1,25 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Abbreviation 44 47	APS
+T3	Clinical_Finding 62 84	antecdentes sistémicos
+A1	Negated T3
+T4	Clinical_Finding 90 108	alergias conocidas
+A2	Negated T4
+T7	Disease 366 404	desdentada parcial superior e inferior
+T8	Disease 415 449	periodontitis crónica generalizada
+T9	Body_Part 459 465	piezas
+T10	Sign_or_Symptom 470 479	movilidad
+T11	Body_Part 482 491	pieza 1.1
+T12	Sign_or_Symptom 499 525	ha dolirdo esporádicamente
+T13	Sign_or_Symptom 533 559	se le ha hinchado la encía
+T14	Body_Part 570 575	pieza
+T15	Body_Part 554 559	encía
+T16	Disease 582 597	caries profunda
+T17	Sign_or_Symptom 601 602	o
+T18	Therapeutic_Procedure 630 640	extracción
+T19	Therapeutic_Procedure 676 684	protesis
+A5	Pending T19
+A6	Pending T18
+T22	Disease 893 969	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T23	Therapeutic_Procedure 879 891	extracciones
+A8	Pending T23
+T24	Body_Part 931 938	dientes

@@ -1,0 +1,5 @@
+T1	Body_Part 13 18	aorta
+T2	Abbreviation 122 124	DR
+T3	Disease 0 25	diseccion de aorta tipo b
+T4	Disease 28 49	hipertension arterial
+T5	Sign_or_Symptom 50 70	bradicardia sinusual

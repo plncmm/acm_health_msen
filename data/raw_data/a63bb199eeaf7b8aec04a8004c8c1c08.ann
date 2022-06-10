@@ -1,0 +1,17 @@
+T1	Disease 2 59	TRASTORNOS DEL DESARROLLO Y DE LA ERUPCIÓN DE LOS DIENTES
+T2	Body_Part 52 59	DIENTES
+T3	Disease 63 98	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T4	Body_Part 92 98	DIENTE
+T5	Abbreviation 122 125	APS
+T6	Clinical_Finding 127 145	Clase I Esqueletal
+T7	Clinical_Finding 146 174	Mesioclusion molar bilateral
+T8	Sign_or_Symptom 175 202	Relacion canina inexistente
+T9	Laboratory_or_Test_Result 204 225	Agenesia de 4.3 y 3.3
+T10	Disease 204 212	Agenesia
+T11	Sign_or_Symptom 226 258	1.3 y 2.3 erupcion fuera de arco
+T12	Body_Part 226 235	1.3 y 2.3
+T13	Body_Part 216 225	4.3 y 3.3
+T14	Sign_or_Symptom 260 294	multiples giroversiones en Grupo 2
+T15	Body_Part 287 294	Grupo 2
+T16	Disease 295 330	Anomalias de la posicion del diente
+T17	Body_Part 324 330	diente

@@ -1,0 +1,7 @@
+T1	Disease 2 32	CÁLCULO DENTARIO SUPRAGINGIVAL
+T2	Disease 36 78	ENFERMEDAD DEL PERIODONTO, NO ESPECIFICADA
+T3	Body_Part 51 61	PERIODONTO
+T4	Abbreviation 102 105	APS
+T5	Disease 125 151	gigivitis asociada a placa
+T6	Sign_or_Symptom 153 176	sangramiento espontáneo
+T7	Sign_or_Symptom 179 208	calculo subgingival abundante

@@ -1,0 +1,10 @@
+T2	Abbreviation 0 3	Dte
+T3	Abbreviation 6 12	Period
+T4	Body_Part 0 5	Dte 7
+T1	Disease 6 29	Period crónica avanzada
+T5	Abbreviation 34 38	comp
+T6	Disease 34 54	comp endoperiodontal
+T7	Abbreviation 56 60	Pcte
+T8	Abbreviation 68 71	pza
+T9	Abbreviation 130 133	tpo
+T10	Body_Part 68 80	pza anterior

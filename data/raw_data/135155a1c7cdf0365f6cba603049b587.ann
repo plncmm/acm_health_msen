@@ -1,0 +1,36 @@
+T1	Abbreviation 0 10	POLI NEFRO
+T2	Abbreviation 11 16	ANTEC
+T3	Abbreviation 20 25	ENFER
+T4	Abbreviation 42 45	HTA
+T5	Abbreviation 49 52	APS
+T6	Abbreviation 54 57	ECG
+T7	Abbreviation 64 69	CREAT
+T8	Abbreviation 85 88	TSH
+T9	Abbreviation 107 110	LDL
+T10	Medication 179 190	TAMSULOSINA
+T11	Abbreviation 191 196	PDETE
+T12	Abbreviation 197 200	ECO
+T13	Abbreviation 203 206	PSA
+T14	Abbreviation 104 107	BUN
+T15	Abbreviation 118 120	EX
+T16	Abbreviation 127 130	ITU
+T17	Abbreviation 131 133	DM
+T18	Abbreviation 113 115	HO
+T19	Disease 20 39	ENFER RENAL ETAPA 4
+T20	Disease 42 45	HTA
+T21	Diagnostic_Procedure 54 57	ECG
+T22	Laboratory_or_Test_Result 58 64	NORMAL
+R1	Has Arg1:T21 Arg2:T22	
+T23	Laboratory_Procedure 64 69	CREAT
+T24	Laboratory_Procedure 73 82	CLEARENCE
+T25	Laboratory_Procedure 85 88	TSH
+T26	Laboratory_Procedure 92 99	POTASIO
+T27	Laboratory_Procedure 104 107	BUN
+T28	Laboratory_Procedure 107 110	LDL
+T29	Laboratory_Procedure 118 126	EX ORINA
+T30	Disease 127 130	ITU
+T31	Disease 131 133	DM
+T32	Diagnostic_Procedure 197 200	ECO
+A1	Pending T32
+T33	Laboratory_Procedure 203 206	PSA
+A2	Pending T33

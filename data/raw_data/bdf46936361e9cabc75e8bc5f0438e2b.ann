@@ -1,0 +1,8 @@
+T1	Body_Part 0 9	Pieza 2.4
+T2	Disease 10 36	caries dentinaria profunda
+T3	Laboratory_or_Test_Result 38 63	inmediata a cámara pulpar
+T4	Body_Part 50 63	cámara pulpar
+T5	Disease 80 86	caries
+T6	Therapeutic_Procedure 88 116	Recubrimiento pulpar directo
+T7	Clinical_Finding 118 133	Vidrio ionómero
+T8	Abbreviation 134 136	OD

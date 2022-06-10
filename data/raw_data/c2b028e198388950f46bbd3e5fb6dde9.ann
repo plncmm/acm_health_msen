@@ -1,0 +1,8 @@
+T1	Disease 2 78	HIPOACUSIA NEUROSENSORIAL, UNILATERAL CON AUDICIÓN IRRESTRICTA CONTRALATERAL
+T2	Sign_or_Symptom 206 250	DISMINUCION DE LA AGUDEZA AUDITIVA BILATERAL
+T3	Sign_or_Symptom 252 258	MAREOS
+T4	Sign_or_Symptom 272 279	TINITUS
+T5	Abbreviation 102 105	APS
+#1	AnnotatorNotes T5	atención primaria de la salud
+T6	Abbreviation 155 158	+/-
+#2	AnnotatorNotes T6	más o menos

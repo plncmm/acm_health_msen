@@ -1,0 +1,10 @@
+T1	Abbreviation 41 43	cm
+T2	Body_Part 59 80	labio mayor izquierdo
+T3	Abbreviation 36 39	+o-
+T4	Abbreviation 104 107	+o-
+T5	Abbreviation 128 129	-
+T6	Abbreviation 135 136	+
+T8	Sign_or_Symptom 121 128	Prurito
+A1	Negated T8
+T9	Sign_or_Symptom 130 134	ardo
+T7	Sign_or_Symptom 17 35	masa indeterminada

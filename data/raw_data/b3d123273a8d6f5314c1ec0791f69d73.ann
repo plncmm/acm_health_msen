@@ -1,0 +1,14 @@
+T1	Abbreviation 0 1	G
+T2	Abbreviation 3 4	P
+T3	Abbreviation 6 7	A
+T4	Abbreviation 89 92	FUR
+T5	Abbreviation 105 106	X
+T6	Abbreviation 107 110	ECO
+T7	Abbreviation 118 121	FPP
+T8	Clinical_Finding 0 2	G2
+T9	Clinical_Finding 3 5	Po
+T10	Clinical_Finding 6 8	A1
+T11	Clinical_Finding 9 17	EMBARAZO
+T12	Disease 37 58	CONDILOMATOSIS VULVAR
+T13	Disease 59 73	VULVOVAGINITIS
+T14	Diagnostic_Procedure 107 110	ECO

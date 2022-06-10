@@ -1,0 +1,9 @@
+T1	Body_Part 19 23	PIEL
+T2	Abbreviation 47 50	APS
+T3	Abbreviation 83 86	ave
+T4	Body_Part 132 144	mano derecha
+T5	Disease 2 23	PARESTESIA DE LA PIEL
+T6	Disease 61 71	hipertenso
+T7	Disease 83 86	ave
+T8	Sign_or_Symptom 97 115	debilidad muscular
+T9	Sign_or_Symptom 120 144	hormigeo en mano derecha

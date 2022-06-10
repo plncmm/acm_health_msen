@@ -1,0 +1,8 @@
+T1	Abbreviation 0 3	Pte
+T2	Abbreviation 42 45	HTA
+T3	Abbreviation 46 47	+
+T4	Disease 42 45	HTA
+T5	Disease 48 60	Dislipidemia
+T6	Sign_or_Symptom 86 116	cambios de habito evacuatorios
+T7	Sign_or_Symptom 153 172	incontinencia fecal
+T8	Sign_or_Symptom 174 189	dolor abdominal

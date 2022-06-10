@@ -1,0 +1,5 @@
+T1	Therapeutic_Procedure 14 37	quimioterapia adyuvante
+T2	Medication 60 71	fluvorazilo
+T3	Medication 74 85	leucoparina
+T4	Abbreviation 72 73	+
+#1	AnnotatorNotes T1	Aqui quizas sea interesante unirlos a esos compuesto, que dejare como medicamentos , eventual discusion

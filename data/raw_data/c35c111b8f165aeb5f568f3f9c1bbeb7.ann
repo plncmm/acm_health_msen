@@ -1,0 +1,29 @@
+T1	Body_Part 37 43	HOMBRO
+T2	Body_Part 57 63	hombro
+T3	Body_Part 107 115	MMSS Izq
+T4	Abbreviation 107 111	MMSS
+T5	Abbreviation 112 115	Izq
+T6	Abbreviation 146 149	Eco
+T7	Abbreviation 150 152	PB
+T8	Abbreviation 160 163	izq
+T9	Body_Part 153 163	hombro izq
+T10	Body_Part 204 244	tendon supraespinoso e infraespinoso Izq
+T11	Abbreviation 241 244	Izq
+T12	Abbreviation 369 372	tto
+T13	Abbreviation 377 381	AINE
+T14	Medication 377 381	AINE
+T15	Abbreviation 429 431	IC
+T16	Abbreviation 452 455	TMT
+T17	Abbreviation 466 469	tto
+T18	Disease 2 43	SÍNDROME DE ABDUCCIÓN DOLOROSA DEL HOMBRO
+T19	Disease 45 80	síndrome de hombro doloroso derecho
+T20	Diagnostic_Procedure 146 163	Eco PB hombro izq
+T21	Laboratory_or_Test_Result 182 244	desgarro completo del tendon supraespinoso e infraespinoso Izq
+T22	Laboratory_or_Test_Result 246 278	Moderada tendinosis subescapular
+T23	Laboratory_or_Test_Result 279 320	cambios degenerativos acromioclaviculares
+T24	Disease 182 244	desgarro completo del tendon supraespinoso e infraespinoso Izq
+R1	Has Arg1:T20 Arg2:T21	
+R2	Has Arg1:T20 Arg2:T22	
+R3	Has Arg1:T20 Arg2:T23	
+T25	Disease 255 278	tendinosis subescapular
+T26	Therapeutic_Procedure 384 398	kinesioterapia

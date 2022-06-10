@@ -1,0 +1,10 @@
+T1	Disease 15 33	INFECCION CONNATAL
+T2	Disease 41 73	Insuficiencia Respiratoria Aguda
+T3	Disease 83 96	bronquiolitis
+T4	Abbreviation 101 104	vrs
+T5	Abbreviation 135 137	sx
+T6	Disease 135 148	sx convulsivo
+T7	Abbreviation 161 165	RNPT
+T8	Disease 161 165	RNPT
+T9	Disease 177 180	PEG
+T10	Abbreviation 177 180	PEG

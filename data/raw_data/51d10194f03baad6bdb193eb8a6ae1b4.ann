@@ -1,0 +1,11 @@
+T1	Abbreviation 74 77	APS
+T2	Body_Part 158 176	caninos superiores
+T3	Abbreviation 212 215	tto
+T5	Clinical_Finding 92 114	antecdentes ssitemicos
+A1	Negated T5
+T7	Sign_or_Symptom 158 185	caninos superiores elevados
+T9	Disease 231 278	Anomalias dentofaciales (incluso la maloclusion
+T6	Sign_or_Symptom 126 155	apiñamiento dentario anterior
+T4	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T8	Therapeutic_Procedure 212 229	tto de ortodoncia
+A2	Pending T8

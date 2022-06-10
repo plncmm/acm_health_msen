@@ -1,0 +1,10 @@
+T1	Body_Part 34 38	P#30
+T2	Abbreviation 34 35	P
+T3	Medication 62 73	AMOXICILINA
+T4	Abbreviation 77 79	MG
+T5	Abbreviation 81 83	C/
+T6	Laboratory_or_Test_Result 13 38	CARIES PENETRANTE EN P#30
+T7	Sign_or_Symptom 40 51	SINTOMATICA
+T8	Therapeutic_Procedure 112 123	TREPANACION
+T9	Therapeutic_Procedure 134 157	TRATAMIENTO DE CONDUCTO
+A1	Pending T9

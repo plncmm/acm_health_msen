@@ -1,0 +1,6 @@
+T1	Disease 0 50	- ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Abbreviation 74 77	APS
+T3	Sign_or_Symptom 79 98	Desarmonía dentaria
+T4	Sign_or_Symptom 109 124	clase III molar
+T5	Sign_or_Symptom 126 152	mordida invertida anterior
+T6	Disease 154 202	Anomalias dentofaciales (incluso la maloclusion)

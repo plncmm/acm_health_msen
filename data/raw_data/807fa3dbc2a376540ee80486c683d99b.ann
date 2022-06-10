@@ -1,0 +1,9 @@
+T1	Body_Part 2 9	PIEZA 6
+T2	Body_Part 35 40	PIEZA
+T3	Clinical_Finding 68 74	FERMIN
+T4	Disease 12 33	PULPITIS IRREVERSIBLE
+T5	Therapeutic_Procedure 41 50	TREPANADA
+T6	Clinical_Finding 56 66	MEDICACION
+A1	Negated T6
+T7	Therapeutic_Procedure 102 112	ENDODONCIA
+A2	Pending T7

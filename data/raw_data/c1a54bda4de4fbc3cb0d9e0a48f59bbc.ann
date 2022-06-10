@@ -1,0 +1,8 @@
+T1	Disease 2 30	PERIODONTITIS APICAL CRÓNICA
+T2	Body_Part 37 43	Dte2.5
+T3	Abbreviation 37 40	Dte
+T4	Medication 82 85	Chx
+T5	Therapeutic_Procedure 55 66	trepanacion
+T6	Therapeutic_Procedure 68 110	se irriga con Chx, se deja motita y fermin
+T7	Abbreviation 82 85	Chx
+T8	Clinical_Finding 104 110	fermin

@@ -1,0 +1,8 @@
+T1	Disease 2 20	ABSCESO PERIODONTA
+T2	Therapeutic_Procedure 46 69	tratamiento periodontal
+A1	Pending T2
+T3	Sign_or_Symptom 84 127	sacos periodontales mayor a 10mm en grupo 2
+T5	Abbreviation 114 116	mm
+T6	Clinical_Finding 130 176	historial de abscesos periodontales recurentes
+T7	Disease 143 165	abscesos periodontales
+T4	Body_Part 120 127	grupo 2

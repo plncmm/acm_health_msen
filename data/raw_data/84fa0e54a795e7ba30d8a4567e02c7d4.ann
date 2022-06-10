@@ -1,0 +1,7 @@
+T1	Body_Part 0 13	Pieza 4 (1.5)
+T2	Sign_or_Symptom 14 32	fractura coronaria
+T3	Therapeutic_Procedure 55 73	operatoria directa
+T4	Therapeutic_Procedure 137 150	protésis fija
+A1	Pending T4
+T5	Therapeutic_Procedure 95 105	endodoncia
+A2	Pending T5

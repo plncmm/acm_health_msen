@@ -1,0 +1,15 @@
+T1	Body_Part 21 30	AMÍGDALAS
+T2	Abbreviation 79 84	antec
+T3	Abbreviation 248 250	RX
+T4	Body_Part 254 259	cavum
+T5	Body_Part 283 302	amigdalas palatinas
+T6	Disease 2 30	HIPERTROFIA DE LAS AMÍGDALAS
+T7	Disease 34 53	AMIGDALITIS CRÓNICA
+T8	Disease 88 111	hipertrofia amigadalina
+T9	Disease 193 210	amigdalitis aguda
+T10	Diagnostic_Procedure 248 259	RX de cavum
+T11	Laboratory_or_Test_Result 261 302	Aumento de volumen de amigdalas palatinas
+R1	Has Arg1:T10 Arg2:T11	
+T12	Disease 340 351	amigdalitis
+T13	Sign_or_Symptom 141 157	respirador bucal
+T14	Sign_or_Symptom 113 121	Roncador

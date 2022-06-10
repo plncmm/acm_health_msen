@@ -1,0 +1,24 @@
+T1	Abbreviation 56 59	HTA
+T2	Abbreviation 114 117	aas
+T3	Medication 114 117	aas
+T4	Abbreviation 122 124	mg
+T5	Medication 124 136	gembifrozilo
+T6	Abbreviation 140 142	mg
+T7	Medication 146 163	hidroclorotiazida
+T8	Abbreviation 167 169	mg
+T9	Medication 173 181	losartan
+T10	Abbreviation 185 187	mg
+T11	Abbreviation 191 194	lvt
+T12	Medication 191 194	lvt
+T13	Medication 201 211	metformina
+T14	Abbreviation 215 217	mg
+T15	Abbreviation 255 258	ECO
+T16	Abbreviation 306 308	cm
+T17	Abbreviation 198 201	mcg
+T18	Disease 2 14	COLELITIASIS
+T19	Disease 56 59	HTA
+T20	Disease 63 88	intolerancia a la glucosa
+T21	Disease 92 106	hipotiroidismo
+T22	Diagnostic_Procedure 255 268	ECO abdominal
+T23	Laboratory_or_Test_Result 281 298	calculo vesicular
+R1	Has Arg1:T22 Arg2:T23	

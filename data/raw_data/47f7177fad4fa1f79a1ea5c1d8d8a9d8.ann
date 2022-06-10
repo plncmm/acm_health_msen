@@ -1,0 +1,22 @@
+T1	Body_Part 99 102	APS
+T2	Abbreviation 357 359	ex
+T3	Body_Part 368 372	pene
+T4	Body_Part 375 381	glande
+T5	Abbreviation 481 485	Atte
+T6	Body_Part 522 526	pene
+T7	Family_Member 174 180	señora
+T8	Body_Part 37 41	PENE
+T9	Abbreviation 68 71	NIE
+T10	Abbreviation 220 223	NIE
+T11	Disease 2 41	OTROS TRASTORNOS ESPECIFICADOS DEL PENE
+T13	Therapeutic_Procedure 55 63	CONIZADA
+T14	Disease 68 75	NIE III
+T12	Family_Member 41 54	PAREJA SEXUAL
+R1	Has Arg1:T12 Arg2:T14	
+T15	Therapeutic_Procedure 196 215	conizacion cervical
+T16	Disease 220 227	NIE III
+R2	Has Arg1:T7 Arg2:T16	
+T17	Sign_or_Symptom 271 286	contagio sexual
+T18	Disease 310 329	LESIONES VERRUCOSAS
+T19	Sign_or_Symptom 368 395	pene y glande  sin lesiones
+T20	Disease 487 526	Otros trastornos especificados del pene

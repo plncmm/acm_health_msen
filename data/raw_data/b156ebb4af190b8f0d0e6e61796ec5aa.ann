@@ -1,0 +1,24 @@
+T1	Body_Part 26 32	HÍGADO
+T2	Abbreviation 56 59	APS
+T3	Abbreviation 176 179	eco
+T4	Abbreviation 205 208	mms
+T5	Abbreviation 298 301	mmn
+T6	Body_Part 557 563	higado
+T7	Abbreviation 61 65	Pcte
+T8	Body_Part 263 273	segmento 8
+T9	Body_Part 320 330	segmento 6
+T10	Body_Part 364 371	organos
+T11	Disease 2 32	ENFERMEDAD QUÍSTICA DEL HÍGADO
+T12	Disease 113 125	Dislipidemia
+T13	Diagnostic_Procedure 176 189	eco abdominal
+T14	Laboratory_or_Test_Result 192 273	Lesion de 44 mms de diametro mayor situada subcapsular posterior en el segmento 8
+T15	Laboratory_or_Test_Result 336 371	otras afectaciones de otros organos
+A1	Negated T15
+R1	Has Arg1:T13 Arg2:T15	
+R2	Has Arg1:T13 Arg2:T14	
+T16	Sign_or_Symptom 378 416	signos y  sintomas de colico abdominal
+T17	Disease 400 416	colico abdominal
+T18	Sign_or_Symptom 418 427	nauseas  
+T19	Sign_or_Symptom 429 436	vomitos
+T20	Sign_or_Symptom 446 467	calambres abdominales
+T21	Disease 533 563	Enfermedad quistica del higado

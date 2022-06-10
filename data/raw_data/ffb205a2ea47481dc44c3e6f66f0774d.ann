@@ -1,0 +1,9 @@
+T1	Disease 2 30	PERIODONTITIS APICAL CRÓNICA
+T2	Abbreviation 54 57	APS
+T3	Body_Part 59 62	1.6
+T4	Clinical_Finding 59 91	1.6 terapia previamente iniciada
+T5	Sign_or_Symptom 92 111	Test de percusion +
+T6	Abbreviation 110 111	+
+T7	Laboratory_or_Test_Result 113 138	lesion radiolucida apical
+T8	Sign_or_Symptom 141 167	dolor a estimulos termicos
+T9	Disease 170 198	Periodontitis apical cronica

@@ -1,0 +1,13 @@
+T1	Body_Part 24 49	VÍAS URINARIAS INFERIORES
+T2	Abbreviation 73 76	APS
+T3	Abbreviation 78 82	pcte
+T4	Body_Part 105 123	fosa ilica derecho
+T5	Abbreviation 132 135	hrs
+T6	Abbreviation 230 233	app
+T7	Body_Part 268 293	vias urinarias inferiores
+T8	Abbreviation 158 159	q
+T9	Medication 219 229	analgesico
+T10	Disease 2 49	OTROS CÁLCULOS DE LAS VÍAS URINARIAS INFERIORES
+T11	Sign_or_Symptom 96 123	dolor en fosa ilica derecho
+T12	Sign_or_Symptom 163 197	dolor es persistente tipo pulsatil
+T13	Disease 246 293	Otros calculos de las vias urinarias inferiores

@@ -1,0 +1,10 @@
+T1	Abbreviation 73 76	APS
+T2	Body_Part 157 175	region epighastrio
+T3	Disease 2 24	GASTRITIS Y DUODENITIS
+T4	Disease 24 49	enfermedad ulcero peptica
+T5	Clinical_Finding 91 111	antecdentes morbidos
+A1	Negated T5
+T6	Sign_or_Symptom 148 186	dolor en region epighastrio tipo ardor
+T7	Sign_or_Symptom 219 253	deposisiones con sangre (melenas )
+T8	Diagnostic_Procedure 266 291	endoscopia digestiva alta
+A2	Pending T8

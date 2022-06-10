@@ -1,0 +1,21 @@
+T1	Disease 2 40	ENFERMEDAD ATEROSCLERÓTICA DEL CORAZÓN
+T2	Body_Part 33 40	CORAZÓN
+T3	Abbreviation 64 67	APS
+T4	Sign_or_Symptom 104 154	dolor toracico anterior, irradiado a brazo DERECHO
+T5	Body_Part 141 154	brazo DERECHO
+T6	Abbreviation 180 182	Dr
+T9	Abbreviation 374 379	SPECT
+T10	Disease 405 443	Enfermedad aterosclerotica del corazon
+T11	Disease 314 339	valvulopatia degenerativa
+T12	Body_Part 436 443	corazon
+T7	Diagnostic_Procedure 213 229	Test de esfuerzo
+T13	Laboratory_or_Test_Result 244 262	isquemia corovaria
+R1	Has Arg1:T7 Arg2:T13	
+T8	Diagnostic_Procedure 266 280	Ecocardiograma
+T15	Therapeutic_Procedure 374 403	SPECT de perfusion miocardica
+A1	Pending T15
+T16	Disease 244 262	isquemia corovaria
+T14	Laboratory_or_Test_Result 285 311	disfuncion diastolica leve
+T17	Laboratory_or_Test_Result 314 344	valvulopatia degenerativa leve
+R2	Has Arg1:T8 Arg2:T14	
+R3	Has Arg1:T8 Arg2:T17	

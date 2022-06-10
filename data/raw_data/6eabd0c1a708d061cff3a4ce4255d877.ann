@@ -1,0 +1,19 @@
+T1	Body_Part 19 27	ENCÉFALO
+T2	Body_Part 33 50	NERVIOS CRANEALES
+T3	Body_Part 70 113	NERVIOS Y MÉDULA ESPINAL A NIVEL DEL CUELLO
+T4	Body_Part 168 174	CABEZA
+T5	Abbreviation 198 201	APS
+T6	Abbreviation 233 236	TEC
+T7	Abbreviation 224 229	antec
+T8	Family_Member 380 386	esposa
+T9	Abbreviation 527 528	+
+T10	Body_Part 624 632	encefalo
+T11	Body_Part 638 655	nervios craneales
+T12	Body_Part 675 718	nervios y medula espinal a nivel del cuello
+T13	Disease 2 113	TRAUMATISMOS DEL ENCÉFALO Y DE NERVIOS CRANEALES CON TRAUMATISMO DE NERVIOS Y MÉDULA ESPINAL A NIVEL DEL CUELLO
+T14	Disease 117 174	SECUELAS DE OTROS TRAUMATISMOS ESPECIFICADOS DE LA CABEZA
+T15	Disease 233 242	TEC Grave
+T16	Disease 259 276	hematoma subdural
+T17	Sign_or_Symptom 514 528	demabulacion +
+T18	Disease 607 718	Traumatismos del encefalo y de nervios craneales con traumatismo de nervios y medula espinal a nivel del cuello
+T19	Clinical_Finding 530 540	glasgow 15

@@ -1,0 +1,10 @@
+T1	Body_Part 20 28	PRÓSTATA
+T2	Abbreviation 52 55	APS
+T3	Abbreviation 113 116	APE
+T4	Body_Part 140 148	prostata
+T5	Disease 2 28	HIPERPLASIA DE LA PRÓSTATA
+T6	Disease 61 80	SINDROME PROSTATICO
+T7	Sign_or_Symptom 82 90	NICTURIA
+T8	Sign_or_Symptom 92 111	GOTEO POSTMICCIONAL
+T9	Laboratory_or_Test_Result 113 116	APE
+T10	Disease 122 148	Hiperplasia de la prostata

@@ -1,0 +1,6 @@
+T1	Clinical_Finding 0 10	PRIMIGESTA
+T2	Abbreviation 11 14	EMB
+T3	Clinical_Finding 11 14	EMB
+T4	Abbreviation 20 23	SEM
+T5	Disease 24 40	MIASTENIA GRAVIS
+T6	Disease 84 102	DIABETES GESTIANAL

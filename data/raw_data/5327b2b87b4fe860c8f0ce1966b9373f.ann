@@ -1,0 +1,16 @@
+T1	Disease 2 29	SÍNDROME DEL TÚNEL CARPIANO
+T2	Body_Part 15 29	TÚNEL CARPIANO
+T3	Abbreviation 53 56	APS
+T5	Body_Part 80 109	extremidad superior bilateral
+T7	Abbreviation 171 174	STC
+T8	Disease 171 174	STC
+T10	Medication 212 217	AINES
+T11	Disease 286 313	Sindrome del tunel carpiano
+T12	Body_Part 299 313	tunel carpiano
+T4	Sign_or_Symptom 71 109	algia de extremidad superior bilateral
+T6	Diagnostic_Procedure 139 155	electromiografía
+T13	Laboratory_or_Test_Result 171 174	STC
+R1	Has Arg1:T6 Arg2:T13	
+T9	Therapeutic_Procedure 179 193	terapia fisica
+T14	Therapeutic_Procedure 264 285	resolución quirurgica
+A1	Pending T14

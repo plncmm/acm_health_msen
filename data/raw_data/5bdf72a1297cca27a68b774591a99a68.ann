@@ -1,0 +1,11 @@
+T1	Abbreviation 54 57	APS
+T2	Abbreviation 87 90	HTA
+T3	Abbreviation 148 151	EKG
+T4	Disease 2 30	BRADICARDIA, NO ESPECIFICADA
+T5	Disease 87 90	HTA
+T6	Diagnostic_Procedure 148 151	EKG
+T7	Laboratory_or_Test_Result 156 167	bradicardia
+T8	Laboratory_or_Test_Result 170 186	signo de bloqueo
+T9	Sign_or_Symptom 243 249	fatiga
+R1	Has Arg1:T6 Arg2:T7	
+R2	Has Arg1:T6 Arg2:T8	

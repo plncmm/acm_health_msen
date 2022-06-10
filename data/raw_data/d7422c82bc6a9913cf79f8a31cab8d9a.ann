@@ -1,0 +1,19 @@
+T1	Disease 0 4	Q627
+T2	Disease 5 43	REFLUJO VESICO-URETERO-RENAL CONGENITO
+T3	Disease 44 64	UROSEPSIS PERIODO RN
+T4	Laboratory_or_Test_Result 66 82	RVU GRADO IV A V
+T6	Disease 106 116	ITU FEBRIL
+T7	Abbreviation 84 88	DMSA
+#1	AnnotatorNotes T7	ácido dimercapto succínico
+T8	Abbreviation 62 64	RN
+#2	AnnotatorNotes T8	recién nacido
+T9	Abbreviation 106 109	ITU
+#3	AnnotatorNotes T9	infección del tracto urinario
+T10	Abbreviation 66 69	RVU
+#4	AnnotatorNotes T10	reflujo vesicoureteral
+T11	Abbreviation 103 105	2ª
+#5	AnnotatorNotes T11	segunda
+T12	Disease 66 69	RVU
+T5	Diagnostic_Procedure 84 88	DMSA
+T13	Laboratory_or_Test_Result 89 105	SIN DAÑO RENAL2ª
+R1	Has Arg1:T5 Arg2:T13	

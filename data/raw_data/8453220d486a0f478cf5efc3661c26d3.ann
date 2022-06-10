@@ -1,0 +1,17 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Sign_or_Symptom 50 86	espicula osea asociada a espacio 3.6
+T3	Sign_or_Symptom 89 129	frenillo vestibular asociado a 4.3 corto
+T4	Body_Part 75 86	espacio 3.6
+T5	Body_Part 89 108	frenillo vestibular
+T6	Body_Part 120 123	4.3
+T7	Abbreviation 153 156	APS
+T8	Sign_or_Symptom 158 215	espicula osea asociada a espacio de 3.6-3.4 en vestibular
+T9	Body_Part 183 201	espacio de 3.6-3.4
+T10	Sign_or_Symptom 219 304	frenillo labial corto asociado a 4.3 que dificultarian la elaboracion de una protesis
+T11	Therapeutic_Procedure 296 304	protesis
+A1	Pending T11
+T12	Body_Part 252 255	4.3
+T13	Body_Part 219 234	frenillo labial
+T14	Therapeutic_Procedure 332 353	cirugia pre-protesica
+A2	Pending T14
+T15	Disease 354 402	Anomalias dentofaciales (incluso la maloclusion)

@@ -1,0 +1,11 @@
+T1	Abbreviation 40 44	dtes
+T2	Body_Part 40 59	dtes 4,5,12,14 y 15
+T3	Laboratory_or_Test_Result 40 77	dtes 4,5,12,14 y 15 con lesión apical
+T4	Abbreviation 80 84	dtes
+T5	Body_Part 80 95	dtes 7, 24 y 26
+T6	Abbreviation 100 102	LP
+T7	Laboratory_or_Test_Result 80 112	dtes 7, 24 y 26 con LP engrosado
+T8	Abbreviation 131 132	a
+T9	Therapeutic_Procedure 139 148	exodoncia
+A1	Pending T9
+T10	Body_Part 129 133	pzas

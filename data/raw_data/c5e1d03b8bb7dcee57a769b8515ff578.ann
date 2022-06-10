@@ -1,0 +1,11 @@
+T1	Body_Part 0 9	diente 24
+T2	Diagnostic_Procedure 13 32	examen radiografico
+T3	Disease 42 74	periodontitis apical sintomatica
+T4	Clinical_Finding 77 123	historia de diente con supuracion por conducto
+T5	Disease 143 168	traumatismo dentoalveolar
+T6	Disease 189 209	absceso apical agudo
+T7	Laboratory_or_Test_Result 42 74	periodontitis apical sintomatica
+R1	Has Arg1:T2 Arg2:T7	
+T8	Therapeutic_Procedure 229 239	endodoncia
+A1	Pending T8
+T9	Body_Part 89 95	diente

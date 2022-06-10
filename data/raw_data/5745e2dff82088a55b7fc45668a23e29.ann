@@ -1,0 +1,14 @@
+T1	Body_Part 2 6	MANO
+T2	Body_Part 9 12	PIE
+T3	Body_Part 36 39	PIE
+T4	Abbreviation 93 96	APS
+T5	Body_Part 98 105	PIE IZQ
+T6	Abbreviation 102 105	IZQ
+T7	Body_Part 118 122	Mano
+T8	Body_Part 125 128	pie
+T9	Body_Part 152 155	pie
+T10	Disease 2 34	MANO O PIE EN GARRA O EN TALIPES
+T11	Disease 36 69	PIE EQUINOVARO O ZAMBO ADQUIRIDOS
+T12	Disease 98 117	PIE IZQ EQUINO VARO
+T13	Disease 118 150	Mano o pie en garra o en talipes
+T14	Disease 152 185	pie equinovaro o zambo adquiridos

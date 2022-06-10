@@ -1,0 +1,21 @@
+T1	Body_Part 37 43	HOMBRO
+T2	Abbreviation 67 70	APS
+T3	Abbreviation 113 116	DM2
+T4	Abbreviation 118 121	HTA
+T5	Abbreviation 124 127	DLP
+T6	Body_Part 190 196	hombro
+T7	Abbreviation 393 395	EV
+T8	Abbreviation 425 428	RNM
+T9	Body_Part 468 474	hombro
+T10	Abbreviation 247 250	+/-
+T11	Abbreviation 198 200	Dº
+T12	Disease 2 43	SÍNDROME DE ABDUCCIÓN DOLOROSA DEL HOMBRO
+T13	Disease 113 116	DM2
+T14	Disease 118 121	HTA
+T15	Disease 124 127	DLP
+T16	Sign_or_Symptom 184 200	dolor hombrop Dº
+T17	Sign_or_Symptom 206 236	disminucion de rango articular
+T18	Therapeutic_Procedure 262 283	kinesioterapia motora
+T19	Sign_or_Symptom 349 376	dolor invalidante ocasional
+T20	Diagnostic_Procedure 425 428	RNM
+T21	Disease 433 474	Sindrome de abduccion dolorosa del hombro

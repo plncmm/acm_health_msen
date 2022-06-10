@@ -1,0 +1,13 @@
+T1	Body_Part 21 30	ADENOIDES
+T2	Abbreviation 208 210	rx
+T3	Body_Part 211 216	cavum
+T4	Body_Part 273 284	rinofaringe
+T5	Body_Part 236 252	tejido adenoideo
+T6	Disease 2 30	HIPERTROFIA DE LAS ADENOIDES
+T7	Therapeutic_Procedure 77 91	amigdalectomia
+T8	Therapeutic_Procedure 94 108	adenoidectomia
+T9	Sign_or_Symptom 159 168	ronquidos
+T10	Sign_or_Symptom 171 177	apneas
+T11	Diagnostic_Procedure 208 216	rx cavum
+T12	Laboratory_or_Test_Result 236 337	tejido adenoideo presente a nivel de rinofaringe determinando estrechamiento moderado de la via aerea
+R1	Has Arg1:T11 Arg2:T12	

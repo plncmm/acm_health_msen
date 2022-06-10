@@ -1,0 +1,14 @@
+T1	Abbreviation 50 53	LIM
+T2	Abbreviation 60 63	TSH
+T3	Abbreviation 68 72	SIND
+T4	Abbreviation 73 77	OPIT
+T5	Abbreviation 78 83	GBBBA
+T6	Body_Part 102 113	LIENA MEDIA
+T7	Disease 0 4	Q543
+T8	Disease 5 39	HIPOSPADIAS PERINEAL N HIPERTONICA
+T9	Laboratory_Procedure 41 49	GLICEMIA
+T10	Laboratory_Procedure 60 63	TSH
+T11	Sign_or_Symptom 94 113	DEFECTO LIENA MEDIA
+T12	Laboratory_or_Test_Result 50 58	LIM BAJO
+R1	Has Arg1:T9 Arg2:T12	
+T13	Disease 68 83	SIND OPIT GBBBA

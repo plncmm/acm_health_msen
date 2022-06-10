@@ -1,0 +1,12 @@
+T1	Abbreviation 31 33	KG
+T2	Abbreviation 68 70	EX
+T3	Abbreviation 80 82	DM
+T4	Abbreviation 84 87	HTA
+T5	Disease 0 6	ANEMIA
+T6	Sign_or_Symptom 8 27	DISMINUCION DE PESO
+T7	Laboratory_Procedure 45 64	HEMORRAGIAS OCULTAS
+T8	Clinical_Finding 68 77	EX FISICO
+A1	Negated T8
+T9	Disease 80 82	DM
+T11	Disease 89 101	DISLIPIDEMIA
+T10	Disease 84 87	HTA

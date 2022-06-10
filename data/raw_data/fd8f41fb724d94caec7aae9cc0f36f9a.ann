@@ -1,0 +1,17 @@
+T1	Body_Part 54 70	MIEMBRO SUPERIOR
+T2	Abbreviation 94 97	APS
+T3	Abbreviation 131 134	ant
+T4	Body_Part 151 165	mano izquierda
+T5	Abbreviation 245 250	aprox
+T6	Abbreviation 283 288	aprox
+T7	Body_Part 359 364	dedos
+T8	Body_Part 396 400	piel
+T9	Body_Part 531 547	miembro superior
+T10	Disease 2 70	SECUELAS DE QUEMADURA, CORROSIÓN Y CONGELAMIENTO DE MIEMBRO SUPERIOR
+T11	Disease 138 165	quemadura en mano izquierda
+T12	Therapeutic_Procedure 196 203	injerto
+T13	Therapeutic_Procedure 216 230	kinesioterapia
+T14	Sign_or_Symptom 330 335	dolor
+T15	Sign_or_Symptom 359 378	dedos en garra leve
+T16	Therapeutic_Procedure 456 470	kinesioterapia
+T17	Disease 479 547	Secuelas de quemadura, corrosion y congelamiento de miembro superior

@@ -1,0 +1,11 @@
+T1	Abbreviation 0 2	ev
+T2	Abbreviation 3 7	dtes
+T3	Body_Part 3 21	dtes 4,12,13,21,28
+T4	Disease 27 42	caries profunda
+T6	Abbreviation 73 77	Pcte
+T7	Clinical_Finding 83 94	pase dental
+T8	Medication 105 117	bifosfonatos
+T9	Disease 122 129	Linfoma
+T10	Abbreviation 54 57	obs
+T11	Abbreviation 47 50	dte
+T5	Laboratory_or_Test_Result 47 71	dte 15 obs lesion apical

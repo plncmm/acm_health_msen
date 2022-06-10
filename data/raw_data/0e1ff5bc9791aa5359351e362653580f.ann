@@ -1,0 +1,27 @@
+T1	Abbreviation 0 2	Pd
+T2	Body_Part 0 7	Pd. 1.6
+T3	Clinical_Finding 8 17	Trepanada
+T4	Laboratory_or_Test_Result 19 36	caries penetrante
+T5	Disease 19 36	caries penetrante
+T6	Disease 38 53	necrosis pacial
+T7	Clinical_Finding 65 73	eugenato
+T8	Abbreviation 76 81	pmnca
+T9	Medication 76 81	pmnca
+T10	Abbreviation 82 84	pd
+T11	Body_Part 82 89	pd. 1.2
+T12	Clinical_Finding 90 99	Trepanada
+T13	Laboratory_or_Test_Result 101 123	caries bajo obturacion
+T14	Disease 101 107	caries
+T15	Disease 125 140	necrosis pulpar
+T16	Clinical_Finding 152 160	eugenato
+T17	Medication 163 168	pmnca
+T18	Abbreviation 163 168	pmnca
+T19	Body_Part 170 177	pd. 2.1
+T20	Abbreviation 170 172	pd
+T21	Clinical_Finding 178 187	Trepanada
+T22	Laboratory_or_Test_Result 189 211	caries bajo obturacion
+T23	Disease 189 195	caries
+T24	Disease 213 228	necrosis pulpar
+T25	Clinical_Finding 240 248	eugenato
+T26	Medication 251 255	pmnc
+T27	Abbreviation 251 255	pmnc

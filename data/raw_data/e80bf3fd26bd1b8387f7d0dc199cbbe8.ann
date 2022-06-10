@@ -1,0 +1,10 @@
+T1	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T2	Sign_or_Symptom 66 99	APIÑAMIENTO DENTARIO GRUPO II Y V
+T3	Sign_or_Symptom 117 140	FRENILLO SUPERIOR LARGO
+T4	Disease 141 176	Anomalias de la posicion del diente
+T5	Abbreviation 61 64	APS
+#1	AnnotatorNotes T5	atención primaria de salud
+T6	Body_Part 31 37	DIENTE
+T7	Body_Part 170 176	diente
+T8	Body_Part 87 99	GRUPO II Y V
+T9	Body_Part 117 134	FRENILLO SUPERIOR

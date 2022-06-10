@@ -1,0 +1,9 @@
+T1	Disease 2 21	RETRACCIÓN GINGIVAL
+T2	Abbreviation 45 48	APS
+T3	Disease 79 87	bruxismo
+T4	Disease 90 109	retracción gingival
+T5	Body_Part 113 123	diente 3.7
+T6	Body_Part 134 137	3.7
+T7	Sign_or_Symptom 139 156	movilidad grado I
+T8	Sign_or_Symptom 158 181	sensibilidad dentinaria
+T9	Disease 183 202	Retraccion gingival

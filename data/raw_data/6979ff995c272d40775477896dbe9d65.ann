@@ -1,0 +1,8 @@
+T1	Body_Part 25 29	MAMA
+T2	Body_Part 75 95	zona mamaria derecha
+T3	Disease 2 29	OTROS TRASTORNOS DE LA MAMA
+T4	Disease 155 163	obesidad
+A1	Negated T4
+T5	Disease 169 186	consumo de drogas
+A2	Negated T5
+T6	Sign_or_Symptom 51 95	aumento e induración en zona mamaria derecha

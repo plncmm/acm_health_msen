@@ -1,0 +1,6 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Abbreviation 74 77	APS
+T3	Body_Part 79 82	1.2
+T4	Sign_or_Symptom 79 138	1.2 erupcion por distal de 1.1 falta de espacio de erupcion
+T5	Body_Part 106 109	1.1
+T6	Disease 139 187	Anomalias dentofaciales (incluso la maloclusion)

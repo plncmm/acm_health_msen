@@ -1,0 +1,6 @@
+T1	Laboratory_or_Test_Result 0 30	OSTEITIS PERI Y PARARRADICULAR
+T3	Abbreviation 31 34	PZA
+T2	Body_Part 31 38	PZA. 10
+T4	Laboratory_or_Test_Result 39 68	DEFECTO OSEO VERTICAL, DISTAL
+T5	Therapeutic_Procedure 84 94	ENDODONCIA
+A1	Pending T5

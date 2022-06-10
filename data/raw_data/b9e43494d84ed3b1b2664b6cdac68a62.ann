@@ -1,0 +1,25 @@
+T1	Body_Part 25 32	SINOVIA
+T2	Body_Part 39 45	TENDÓN
+T3	Body_Part 65 73	TENDONES
+T4	Body_Part 82 89	SINOVIA
+T5	Body_Part 113 129	tendón Rotuliano
+T6	Abbreviation 135 137	mm
+T7	Body_Part 142 149	MENISCO
+T8	Abbreviation 183 185	mm
+T9	Body_Part 190 212	menisco medial derecho
+T10	Abbreviation 236 239	APS
+T11	Body_Part 271 286	rodilla derecha
+T12	Abbreviation 293 296	+/-
+T13	Body_Part 329 336	sinovia
+T14	Body_Part 343 349	tendon
+T15	Body_Part 369 377	tendones
+T16	Body_Part 386 393	sinovia
+T17	Disease 2 45	OTROS TRASTORNOS DE LA SINOVIA Y DEL TENDÓN
+T18	Disease 47 89	TRASTORNOS DE LOS TENDONES Y DE LA SINOVIA
+T19	Disease 91 129	Quiste peritendinosos tendón Rotuliano
+T23	Sign_or_Symptom 241 259	aumento de volumen
+T24	Sign_or_Symptom 262 286	dolor de rodilla derecha
+T25	Disease 306 349	Otros trastornos de la sinovia y del tendon
+T26	Disease 351 393	trastornos de los tendones y de la sinovia
+T21	Disease 158 212	Quiste parameniscal (9.6 mm)del menisco medial derecho
+T20	Disease 142 158	MENISCO QUÍSTICO

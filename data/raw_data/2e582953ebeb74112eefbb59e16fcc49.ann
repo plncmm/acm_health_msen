@@ -1,0 +1,28 @@
+T1	Abbreviation 58 61	APS
+T2	Abbreviation 182 185	RAC
+T3	Abbreviation 196 198	mg
+T4	Abbreviation 199 201	gr
+T5	Abbreviation 228 230	mg
+T6	Abbreviation 231 232	L
+T7	Abbreviation 233 236	VFG
+T8	Abbreviation 244 246	ml
+T9	Abbreviation 247 250	min
+T10	Abbreviation 255 257	m2
+T11	Abbreviation 279 281	mg
+T12	Abbreviation 282 284	dL
+T13	Abbreviation 297 299	mg
+T14	Abbreviation 300 302	dL
+T15	Abbreviation 327 329	mg
+T16	Abbreviation 330 332	dL
+T17	Disease 2 34	ENFERMEDAD RENAL CRÓNICA ETAPA 3
+T18	Disease 76 97	hipertension arterial
+T19	Clinical_Finding 136 145	monorrena
+T20	Laboratory_Procedure 171 179	examenes
+T21	Laboratory_Procedure 182 185	RAC
+T22	Laboratory_or_Test_Result 202 218	MICROALBUMINURIA
+T23	Laboratory_Procedure 233 236	VFG
+T24	Laboratory_Procedure 259 269	Creatinina
+T25	Laboratory_Procedure 285 289	UREA
+T26	Laboratory_Procedure 303 319	Nitrógeno Ureico
+T27	Disease 371 403	Enfermedad renal cronica Etapa 3
+R1	Has Arg1:T20 Arg2:T22	

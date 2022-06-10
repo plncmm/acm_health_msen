@@ -1,0 +1,6 @@
+T1	Disease 2 23	PERIODONTITIS CRÓNICA
+T2	Abbreviation 47 50	APS
+T3	Sign_or_Symptom 52 71	Sacos periodontales
+T4	Sign_or_Symptom 73 91	movilidad dentaria
+T5	Sign_or_Symptom 93 110	recesión gingival
+T6	Disease 111 132	Periodontitis cronica

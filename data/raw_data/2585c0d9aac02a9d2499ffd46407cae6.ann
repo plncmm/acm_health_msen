@@ -1,0 +1,9 @@
+T1	Body_Part 17 22	PULPA
+T2	Abbreviation 46 49	APS
+T3	Abbreviation 70 73	TDA
+T4	Body_Part 89 105	diente 1.1 y 2.1
+T5	Body_Part 194 199	pulpa
+T6	Disease 2 22	NECROSIS DE LA PULPA
+T7	Sign_or_Symptom 114 140	dolor y movilidad dentaria
+T8	Disease 179 199	Necrosis de la pulpa
+T9	Sign_or_Symptom 70 73	TDA

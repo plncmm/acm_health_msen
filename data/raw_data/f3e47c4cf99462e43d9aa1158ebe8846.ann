@@ -1,0 +1,9 @@
+T1	Body_Part 0 5	PZA 6
+T2	Abbreviation 0 3	PZA
+T4	Abbreviation 92 95	ATB
+T3	Abbreviation 141 144	TTO
+T6	Abbreviation 146 148	RX
+T7	Therapeutic_Procedure 6 15	TREPANADA
+T8	Disease 17 48	PLPITI, IRREVERSIBLE SINTOMATIA
+T5	Medication 84 114	TERAPIA ATB Y ANTIINFLAMATORIA
+T9	Diagnostic_Procedure 146 148	RX

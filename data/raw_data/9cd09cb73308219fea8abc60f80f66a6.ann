@@ -1,0 +1,9 @@
+T1	Body_Part 21 30	AMÍGDALAS
+T2	Abbreviation 54 57	APS
+T3	Abbreviation 183 185	ex
+T4	Body_Part 217 226	amigdalas
+T5	Disease 2 30	HIPERTROFIA DE LAS AMÍGDALAS
+T6	Disease 105 122	amigdalitis aguda
+T7	Sign_or_Symptom 151 159	roncador
+T8	Sign_or_Symptom 162 178	respirador bucal
+T9	Disease 202 226	hipertrofia de amigdalas

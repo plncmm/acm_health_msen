@@ -1,0 +1,4 @@
+T1	Body_Part 50 68	organos digestivos
+T2	Disease 0 68	tumor de comportamiento incierto o desconocido de organos digestivos
+T3	Disease 69 124	ulcera gastrica, cronica sin hemorragias ni perforacion
+T4	Laboratory_or_Test_Result 69 124	ulcera gastrica, cronica sin hemorragias ni perforacion

@@ -1,0 +1,5 @@
+T1	Disease 0 38	desdentada parcial superior e inferior
+T2	Sign_or_Symptom 39 93	arcada superior  clase iii de kennedy  modificacion  4
+T3	Sign_or_Symptom 94 145	aracada inferior clase ii de kennedy modificacion 4
+T4	Body_Part 39 54	arcada superior
+T5	Body_Part 94 110	aracada inferior

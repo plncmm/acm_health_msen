@@ -1,0 +1,6 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Abbreviation 74 77	APS
+T3	Clinical_Finding 95 108	clase I molar
+T4	Sign_or_Symptom 110 163	discrepancia dentomandibular negativa con apiñamiento
+T5	Disease 152 163	apiñamiento
+T6	Disease 166 214	Anomalias dentofaciales (incluso la maloclusion)

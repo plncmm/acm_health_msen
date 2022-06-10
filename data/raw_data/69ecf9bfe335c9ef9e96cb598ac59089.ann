@@ -1,0 +1,11 @@
+T1	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T2	Body_Part 31 37	DIENTE
+T3	Abbreviation 61 64	APS
+T4	Body_Part 66 83	Dientes 1.8 y 2.8
+T5	Clinical_Finding 66 117	Dientes 1.8 y 2.8 erupcionados en posicion vertical
+T6	Body_Part 118 135	Dientes 3.8 y 4.8
+T7	Sign_or_Symptom 118 181	Dientes 3.8 y 4.8 semierupcionados, posicion IIA Pell y gregory
+T8	Therapeutic_Procedure 194 203	exodoncia
+A1	Pending T8
+T9	Body_Part 233 239	diente
+T10	Disease 204 239	Anomalias de la posicion del diente

@@ -1,0 +1,8 @@
+T1	Body_Part 2 9	DIENTES
+T2	Abbreviation 43 46	APS
+T3	Body_Part 48 64	TERCEROS MOLARES
+T4	Body_Part 77 112	PIEZAS DENTALES  1.8  -  3.8  - 4.8
+T5	Body_Part 113 120	Dientes
+T6	Disease 2 19	DIENTES INCLUIDOS
+T7	Laboratory_or_Test_Result 48 74	TERCEROS MOLARES INCLUIDOS
+T8	Disease 113 130	Dientes incluidos

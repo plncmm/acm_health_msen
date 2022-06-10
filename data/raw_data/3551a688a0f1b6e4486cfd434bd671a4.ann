@@ -1,0 +1,22 @@
+T1	Body_Part 12 17	PECHO
+T2	Abbreviation 41 44	APS
+T3	Abbreviation 55 58	Ant
+T4	Abbreviation 60 62	DL
+T5	Abbreviation 64 67	Obs
+T6	Abbreviation 68 70	AR
+T7	Abbreviation 136 141	aprox
+T8	Abbreviation 275 278	ECG
+T9	Abbreviation 315 317	av
+T10	Body_Part 337 342	pecho
+T11	Disease 2 17	ANGINA DE PECHO
+T12	Disease 60 62	DL
+T13	Disease 68 70	AR
+T14	Disease 109 124	angina estabnle
+T15	Clinical_Finding 171 187	Test de esfuerzo
+A1	Pending T15
+T16	Diagnostic_Procedure 275 278	ECG
+T17	Laboratory_or_Test_Result 280 324	ritmo regular, sinusal, conudccion av normal
+R1	Has Arg1:T16 Arg2:T17	
+T18	Disease 327 342	Angina de pecho
+T19	Clinical_Finding 72 80	Alergias
+A2	Negated T19

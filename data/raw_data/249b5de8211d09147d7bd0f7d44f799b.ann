@@ -1,0 +1,15 @@
+T2	Disease 35 43	OBESIDAD
+T1	Abbreviation 0 1	G
+T3	Abbreviation 3 4	P
+T4	Abbreviation 6 7	A
+T5	Abbreviation 44 47	FUR
+T6	Abbreviation 48 50	OP
+T7	Abbreviation 62 65	FPP
+T8	Clinical_Finding 11 18	EMBARZO
+T9	Disease 26 32	MIOMAS
+T10	Diagnostic_Procedure 78 87	ECOGRAFIA
+T11	Laboratory_or_Test_Result 103 109	MIOMAS
+R1	Has Arg1:T10 Arg2:T11	
+T12	Clinical_Finding 0 1	G
+T13	Clinical_Finding 3 4	P
+T14	Clinical_Finding 6 7	A

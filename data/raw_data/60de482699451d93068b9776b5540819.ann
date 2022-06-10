@@ -1,0 +1,4 @@
+T1	Disease 9 48	desdentado parcial maxilar y mandibular
+T2	Clinical_Finding 65 73	prótesis
+T3	Therapeutic_Procedure 96 145	prótesis removibles parciales superior e inferior
+A1	Pending T3

@@ -1,0 +1,12 @@
+T1	Medication 79 87	c obalto
+T2	Body_Part 32 43	silla turca
+T3	Disease 117 126	epilepsia
+T4	Disease 143 147	ERGE
+T5	Abbreviation 143 147	ERGE
+T6	Disease 149 159	esofagitis
+T7	Abbreviation 0 4	pcte
+T8	Abbreviation 66 69	tto
+T10	Therapeutic_Procedure 54 63	reseccion
+T11	Disease 127 141	 hernia hiatal
+T9	Therapeutic_Procedure 9 25	reseccion  tumor
+T12	Disease 20 43	tumor de la silla turca

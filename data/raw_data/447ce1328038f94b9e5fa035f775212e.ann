@@ -1,0 +1,12 @@
+T1	Sign_or_Symptom 0 28	Dolor intenso en ATM derecha
+T2	Sign_or_Symptom 30 56	Dolor en apretura y cierre
+T3	Abbreviation 17 20	ATM
+T4	Body_Part 17 28	ATM derecha
+T5	Sign_or_Symptom 69 76	crépito
+T6	Abbreviation 80 83	atm
+T7	Body_Part 80 91	atm derecha
+T9	Body_Part 119 135	musculo masetero
+T10	Body_Part 174 185	atm derecha
+T11	Abbreviation 174 177	atm
+T12	Sign_or_Symptom 165 185	golpe en atm derecha
+T8	Sign_or_Symptom 95 135	dolor a la palpación de musculo masetero

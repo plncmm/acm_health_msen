@@ -1,0 +1,12 @@
+T1	Abbreviation 47 50	APS
+T2	Abbreviation 52 55	pct
+T3	Abbreviation 73 74	x
+T4	Body_Part 146 153	coronas
+T5	Body_Part 169 185	piezas 1.6 y 2.6
+T6	Body_Part 217 223	piezas
+T7	Disease 2 23	ABSCESO SUBPERIÓSTICO
+T8	Disease 87 107	abceso subperiostico
+T9	Disease 110 126	caries profundas
+T10	Therapeutic_Procedure 197 207	exodoncias
+A1	Pending T10
+T11	Sign_or_Symptom 131 153	destruccion de coronas

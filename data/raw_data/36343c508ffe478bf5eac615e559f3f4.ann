@@ -1,0 +1,10 @@
+T1	Disease 2 17	RESTO RADICULAR
+T2	Abbreviation 41 44	APS
+T4	Body_Part 87 103	encía vestibular
+T5	Disease 118 133	resto radicular
+T6	Body_Part 138 147	pieza 1.1
+T3	Sign_or_Symptom 57 189	aumento de volumen ubicado en encía vestibular en relación a resto radicular de  pieza 1.1.,  de color rosado con zonas blanquecinas
+T7	Sign_or_Symptom 253 284	desajuste de prótesis removible
+T8	Disease 326 341	resto radicular
+T9	Body_Part 345 354	pieza 1.1
+T10	Abbreviation 199 201	cm

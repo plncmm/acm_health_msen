@@ -1,0 +1,15 @@
+T1	Abbreviation 54 57	APS
+T2	Abbreviation 118 119	G
+T3	Abbreviation 120 121	P
+T4	Abbreviation 122 123	A
+T5	Abbreviation 124 125	V
+T6	Abbreviation 126 129	MAC
+T7	Abbreviation 130 131	-
+T8	Abbreviation 132 135	PAP
+T9	Clinical_Finding 118 120	G3
+T10	Clinical_Finding 120 122	P2
+T11	Clinical_Finding 122 124	A1
+T12	Clinical_Finding 124 126	V2
+T13	Diagnostic_Procedure 132 135	PAP
+T14	Laboratory_or_Test_Result 147 154	I G8 J1
+R1	Has Arg1:T13 Arg2:T14	

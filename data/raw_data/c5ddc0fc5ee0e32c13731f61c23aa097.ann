@@ -1,0 +1,9 @@
+T1	Abbreviation 36 39	ACO
+T2	Abbreviation 57 60	OBS
+T3	Medication 40 47	PROGEST
+T4	Clinical_Finding 0 9	NULIGESTA
+T5	Disease 10 24	HIPOTIROIDISMO
+T6	Disease 48 56	OBESIDAD
+T7	Sign_or_Symptom 61 87	NODULOS BILATERAL MAMARIOS
+T8	Sign_or_Symptom 88 108	ADENOPATIAS AXILARES
+T9	Medication 36 39	ACO

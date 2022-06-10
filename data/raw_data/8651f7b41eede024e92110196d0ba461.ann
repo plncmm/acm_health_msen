@@ -1,0 +1,15 @@
+T1	Abbreviation 31 35	PCTE
+T2	Abbreviation 36 39	HTA
+T3	Abbreviation 40 43	TTO
+T4	Medication 44 53	ENALAPRIL
+T5	Abbreviation 61 63	DM
+T6	Abbreviation 71 73	mg
+T7	Medication 74 84	METFORMINA
+T8	Abbreviation 95 98	HBG
+T9	Abbreviation 111 114	AAS
+T10	Medication 111 114	AAS
+T11	Abbreviation 120 122	mg
+T12	Disease 0 30	HIPERPLASIA PROSTATICA BENIGNA
+T13	Disease 36 39	HTA
+T14	Disease 61 66	DM II
+T15	Laboratory_Procedure 95 98	HBG

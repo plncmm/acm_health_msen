@@ -1,0 +1,39 @@
+T1	Body_Part 22 47	PIEL DEL MIEMBRO INFERIOR
+T2	Body_Part 61 67	CADERA
+T3	Abbreviation 67 70	obs
+T4	Body_Part 81 92	rodilla izq
+T5	Abbreviation 89 92	izq
+T6	Abbreviation 103 105	am
+T7	Family_Member 147 152	Madre
+T8	Abbreviation 143 145	MC
+T9	Body_Part 182 193	rodilla izq
+T10	Abbreviation 190 193	izq
+T11	Abbreviation 247 249	ef
+T13	Abbreviation 298 301	izq
+T14	Body_Part 384 388	piel
+T15	Abbreviation 394 396	dg
+T16	Abbreviation 398 401	obs
+T17	Abbreviation 499 501	cx
+T18	Abbreviation 508 511	APS
+T19	Abbreviation 121 124	acx
+T20	Abbreviation 236 241	aprox
+T12	Body_Part 278 301	cara medial rodilla izq
+T21	Disease 2 67	TUMOR BENIGNO DE LA PIEL DEL MIEMBRO INFERIOR, INCLUIDA LA CADERA
+T22	Disease 71 92	granuloma rodilla izq
+T23	Clinical_Finding 103 105	am
+A1	Negated T23
+T24	Clinical_Finding 111 119	alergias
+A2	Negated T24
+T25	Therapeutic_Procedure 126 139	toncilectomia
+T26	Sign_or_Symptom 161 193	lesion subcutanea en rodilla izq
+T27	Sign_or_Symptom 203 218	aumento volumen
+T28	Sign_or_Symptom 260 301	lesion nodular en cara medial rodilla izq
+T29	Sign_or_Symptom 303 311	indoloro
+T30	Sign_or_Symptom 313 332	duro a la palpacion
+T31	Sign_or_Symptom 337 364	adherido a planos profundos
+A3	Negated T31
+T32	Sign_or_Symptom 370 388	alteracion en piel
+A4	Negated T32
+T33	Disease 402 411	granuloma
+T34	Therapeutic_Procedure 467 478	extirpacion
+T35	Therapeutic_Procedure 499 507	cx menor

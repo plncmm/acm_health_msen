@@ -1,0 +1,13 @@
+T1	Disease 0 31	QUISTES MAMARIOS MAMA IZQUIERDA
+T2	Disease 86 110	QUISTE MAMARIO IZQUIERDO
+T3	Abbreviation 111 117	BIRADS
+#1	AnnotatorNotes T3	sistema de datos y reportes de mamografias
+T4	Body_Part 17 31	MAMA IZQUIERDA
+T5	Body_Part 58 63	MAMAS
+T6	Diagnostic_Procedure 34 56	ECOTOMOGRAFIA MAMARIAS
+T7	Laboratory_or_Test_Result 58 84	MAMAS DE ALTA ECOPERICIDAD
+T8	Laboratory_or_Test_Result 86 110	QUISTE MAMARIO IZQUIERDO
+T9	Laboratory_or_Test_Result 111 120	BIRADS II
+R1	Has Arg1:T6 Arg2:T7	
+R2	Has Arg1:T6 Arg2:T8	
+R3	Has Arg1:T6 Arg2:T9	

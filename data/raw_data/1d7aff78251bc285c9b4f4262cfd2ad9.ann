@@ -1,0 +1,14 @@
+T1	Disease 2 30	PERIODONTITIS APICAL CRÓNICA
+T2	Abbreviation 54 57	APS
+T3	Abbreviation 104 105	p
+T4	Body_Part 104 110	p. 2.1
+T5	Abbreviation 123 125	vm
+T6	Disease 116 122	caries
+T7	Abbreviation 138 140	Rx
+T8	Laboratory_or_Test_Result 141 173	lesion perirradicular por mesial
+T9	Diagnostic_Procedure 138 140	Rx
+R1	Has Arg1:T9 Arg2:T8	
+T10	Therapeutic_Procedure 203 213	endodoncia
+A1	Pending T10
+T11	Disease 215 243	Periodontitis apical cronica
+T12	Therapeutic_Procedure 89 100	trepanacion

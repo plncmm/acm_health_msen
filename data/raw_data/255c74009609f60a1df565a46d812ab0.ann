@@ -1,0 +1,9 @@
+T1	Abbreviation 57 60	PZA
+T2	Body_Part 57 64	PZA. 10
+T3	Disease 48 64	FRACTURA PZA. 10
+T4	Therapeutic_Procedure 82 97	GENGIVO PLASTIA
+A1	Pending T4
+T5	Therapeutic_Procedure 100 110	ENDODONCIA
+A2	Pending T5
+T6	Therapeutic_Procedure 113 119	CARONA
+A3	Pending T6

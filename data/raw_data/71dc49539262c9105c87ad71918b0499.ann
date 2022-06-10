@@ -1,0 +1,14 @@
+T1	Abbreviation 51 54	APS
+T2	Abbreviation 92 94	SU
+T3	Abbreviation 98 101	HRC
+T4	Abbreviation 102 103	x
+T5	Body_Part 118 136	parpado  izquierdo
+T6	Abbreviation 208 212	SOME
+T7	Abbreviation 233 234	x
+T8	Disease 2 27	ALTERACIONES DE LA VISIÓN
+T9	Sign_or_Symptom 104 136	hematoma leve parpado  izquierdo
+T10	Sign_or_Symptom 268 273	dolor
+A1	Negated T10
+T11	Clinical_Finding 275 302	movilidad ocular conservada
+T12	Clinical_Finding 340 366	usuarioa de lentes opticos
+T13	Disease 367 392	Alteraciones de la vision

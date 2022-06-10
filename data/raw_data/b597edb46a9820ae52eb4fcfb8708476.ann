@@ -1,0 +1,6 @@
+T1	Abbreviation 54 57	APS
+T2	Disease 2 30	PERIODONTITIS APICAL CRÓNICA
+T3	Therapeutic_Procedure 80 99	plano de relajación
+A1	Pending T3
+T4	Disease 116 124	bruxismo
+T5	Disease 126 154	Periodontitis apical cronica

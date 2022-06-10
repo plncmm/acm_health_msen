@@ -1,0 +1,10 @@
+T1	Body_Part 31 37	DIENTE
+T2	Abbreviation 61 64	APS
+T3	Abbreviation 107 111	pzas
+T4	Body_Part 170 176	diente
+T5	Body_Part 107 120	pzas 1.1, 2.1
+T6	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T7	Clinical_Finding 75 96	clasificacion I molar
+T8	Sign_or_Symptom 98 120	rotacion pzas 1.1, 2.1
+T9	Sign_or_Symptom 122 140	giroversion mesial
+T10	Disease 141 176	Anomalias de la posicion del diente

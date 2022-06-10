@@ -1,0 +1,10 @@
+T1	Clinical_Finding 0 9	multípara
+T2	Clinical_Finding 15 23	embarazo
+T3	Therapeutic_Procedure 34 37	cca
+T4	Disease 42 58	macrosomia fetal
+T5	Disease 85 95	macrosomia
+T6	Abbreviation 74 76	gr
+T7	Abbreviation 62 64	cm
+T8	Abbreviation 78 81	obs
+T10	Abbreviation 30 33	sem
+T11	Abbreviation 34 37	cca

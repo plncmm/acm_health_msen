@@ -1,0 +1,8 @@
+T1	Disease 2 21	RETRACCIÓN GINGIVAL
+T2	Abbreviation 45 48	APS
+T3	Sign_or_Symptom 78 103	dolor muscular maseterino
+T4	Sign_or_Symptom 105 138	dificultad para la apertura bucal
+T5	Sign_or_Symptom 141 167	hipersensibilidad cervical
+T6	Sign_or_Symptom 169 190	recesiones gingivales
+T7	Sign_or_Symptom 193 219	abfracciones generalizadas
+T8	Disease 221 240	Retraccion gingival

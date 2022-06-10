@@ -1,0 +1,10 @@
+T1	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T2	Disease 34 65	OTRAS PULPITIS, SIN ESPECIFICAR
+T3	Abbreviation 89 92	APS
+T4	Abbreviation 109 112	dte
+T5	Body_Part 109 117	dte. 4.5
+T6	Disease 122 139	caries penetrante
+T7	Disease 142 176	pulpìtis irreversible asintomática
+T8	Disease 207 225	Caries del cemento
+T9	Body_Part 218 225	cemento
+T10	Therapeutic_Procedure 178 187	trepanada

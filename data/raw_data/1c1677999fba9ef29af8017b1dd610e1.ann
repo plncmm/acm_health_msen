@@ -1,0 +1,22 @@
+T1	Body_Part 20 26	HÍGADO
+T2	Abbreviation 26 29	OBS
+T3	Abbreviation 71 74	APS
+T5	Abbreviation 222 225	eco
+T6	Body_Part 257 263	HIgado
+T7	Abbreviation 438 440	mm
+T9	Body_Part 542 550	Vesicula
+T8	Body_Part 493 525	Via biliar intra y extrahepatica
+T4	Abbreviation 133 137	ntec
+T10	Disease 2 26	TUMOR BENIGNO DEL HÍGADO
+T11	Disease 30 47	QUISTE HIDATIDICO
+T12	Disease 141 156	quiste hepatico
+T13	Diagnostic_Procedure 222 235	eco abdominal
+T14	Laboratory_or_Test_Result 257 326	HIgado de tamaño normal y estructura de pàrenquima homogenea, regular
+R1	Has Arg1:T13 Arg2:T14	
+T15	Laboratory_or_Test_Result 328 491	CEntral en lobulo derecho, cnfluencias de segmento, una imagen de caracter quistico suavemente lobulada de 30 mm de diametro mayor, contenido anecogenico homogeneo
+R2	Has Arg1:T13 Arg2:T15	
+T16	Laboratory_or_Test_Result 493 540	Via biliar intra y extrahepatica calibre normal
+T17	Laboratory_or_Test_Result 542 561	Vesicula pared fina
+R3	Has Arg1:T13 Arg2:T16	
+R4	Has Arg1:T13 Arg2:T17	
+T18	Laboratory_or_Test_Result 642 659	quiste hidatidico

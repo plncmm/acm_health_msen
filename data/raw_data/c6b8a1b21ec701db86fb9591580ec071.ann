@@ -1,0 +1,37 @@
+T1	Disease 2 19	DIABETES MELLITUS
+T3	Disease 46 77	HIPERTENSIÓN ESENCIAL (PRIMARIA
+T4	Disease 82 90	OBESIDAD
+T5	Disease 94 124	FIBRILACIÓN Y ALETEO AURICULAR
+T6	Disease 128 194	TUMOR MALIGNO DE LOS BRONQUIOS O DEL PULMÓN, PARTE NO ESPECIFICADA
+T7	Body_Part 149 158	BRONQUIOS
+T8	Body_Part 165 171	PULMÓN
+T9	Disease 198 212	HIPOTIROIDISMO
+T10	Abbreviation 236 239	APS
+T11	Disease 269 290	hipertension arterial
+T12	Disease 292 309	diabetes mellitus
+T14	Disease 334 348	hipotiroidismo
+T15	Disease 350 383	insuficiencia cardiaca congestiva
+T17	Abbreviation 384 386	cf
+T18	Disease 391 407	obesidad morbida
+T20	Abbreviation 420 421	+
+T22	Abbreviation 475 481	cesfam
+T23	Abbreviation 544 547	ECG
+T25	Disease 575 596	Fibrilacion auricular
+T27	Abbreviation 703 704	+
+T28	Abbreviation 728 730	rx
+T30	Disease 757 770	cardiomegalia
+T31	Abbreviation 810 812	mm
+T33	Disease 843 873	Fibrilacion y aleteo auricular
+T19	Disease 409 419	tabaquismo
+T34	Abbreviation 598 600	ex
+T2	Sign_or_Symptom 384 389	cf II
+T13	Sign_or_Symptom 445 451	activo
+T16	Diagnostic_Procedure 544 547	ECG
+T21	Laboratory_or_Test_Result 575 596	Fibrilacion auricular
+R1	Has Arg1:T16 Arg2:T21	
+T24	Sign_or_Symptom 609 635	ritmo irregular sin soplos
+T26	Clinical_Finding 638 673	cumple criterios de anticoagulacion
+T32	Medication 658 673	anticoagulacion
+T35	Diagnostic_Procedure 728 739	rx de torax
+T29	Laboratory_or_Test_Result 757 799	cardiomegalia y se observa nodulo pulmonar
+R2	Has Arg1:T35 Arg2:T29	

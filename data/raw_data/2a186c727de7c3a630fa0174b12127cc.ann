@@ -1,0 +1,28 @@
+T1	Abbreviation 34 38	LCFA
+T2	Abbreviation 63 66	APS
+T3	Abbreviation 68 72	PCTE
+T4	Abbreviation 82 85	HTA
+T5	Abbreviation 87 92	DMNIR
+T6	Abbreviation 140 142	BD
+T8	Abbreviation 193 196	TBC
+T9	Abbreviation 218 220	RX
+T10	Abbreviation 221 223	TX
+T11	Body_Part 226 234	PULMONES
+T12	Abbreviation 310 314	LCFA
+T7	Abbreviation 146 148	CC
+T13	Body_Part 221 223	TX
+T14	Disease 2 38	LIMITACION CRONICA FLUJO AEREO (LCFA
+T15	Disease 82 85	HTA
+T16	Disease 87 89	DM
+T17	Disease 102 123	BRONQUITIS RECURRENTE
+T18	Medication 140 142	BD
+T19	Medication 146 148	CC
+T20	Disease 148 163	FUMADORA PASIVA
+T21	Laboratory_Procedure 185 196	ESTUDIO TBC
+A1	Pending T21
+T22	Diagnostic_Procedure 206 218	ESPIROMETRIA
+A2	Pending T22
+T23	Diagnostic_Procedure 218 223	RX TX
+T24	Laboratory_or_Test_Result 226 277	PULMONES ALARGADOS, AUMENTO INFILTRADO INTERSTICIAL
+R1	Has Arg1:T23 Arg2:T24	
+T25	Disease 278 314	Limitacion cronica flujo aereo (LCFA

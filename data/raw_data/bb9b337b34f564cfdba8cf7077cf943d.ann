@@ -1,0 +1,15 @@
+T1	Body_Part 32 40	PRÓSTATA
+T2	Abbreviation 81 84	APS
+T3	Abbreviation 86 90	Pact
+T4	Abbreviation 222 224	ng
+T5	Abbreviation 225 227	ml
+T6	Body_Part 292 300	prostata
+T7	Disease 2 57	ENFERMEDAD INFLAMATORIA DE LA PRÓSTATA, NO ESPECIFICADA
+T8	Sign_or_Symptom 104 153	tenesmo vesical sobre todo cuando ingiere alcohol
+T9	Laboratory_Procedure 196 215	antigeno prostatico
+T10	Sign_or_Symptom 251 260	hematuria
+A1	Negated T10
+T11	Disease 262 317	Enfermedad inflamatoria de la prostata, no especificada
+T12	Laboratory_Procedure 162 180	examenes de sangre
+T13	Laboratory_or_Test_Result 181 189	normales
+R1	Has Arg1:T12 Arg2:T13	

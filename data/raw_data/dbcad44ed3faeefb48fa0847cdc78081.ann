@@ -1,0 +1,8 @@
+T1	Abbreviation 14 17	ECO
+T2	Abbreviation 18 20	TV
+T3	Body_Part 47 61	OVARIO DERECHO
+T4	Body_Part 62 69	OVARIOS
+T5	Clinical_Finding 2 11	NULIGESTA
+T6	Diagnostic_Procedure 14 20	ECO TV
+T7	Laboratory_or_Test_Result 22 84	TUMOR QUISTICO FUNCIONAL OVARIO DERECHO OVARIOS MULTIFOLICULAR
+R1	Has Arg1:T6 Arg2:T7	

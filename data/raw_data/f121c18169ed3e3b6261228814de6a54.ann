@@ -1,0 +1,6 @@
+T1	Disease 0 35	Periodontitis marginal generalizada
+T2	Sign_or_Symptom 40 89	historia de proceso infeccioso palatino bilateral
+T3	Medication 99 116	Amoxi+Clavulámico
+T4	Abbreviation 104 105	+
+T5	Disease 119 127	Diabetes
+T6	Abbreviation 99 104	Amoxi

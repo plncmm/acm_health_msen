@@ -1,0 +1,9 @@
+T1	Abbreviation 21 24	HTA
+T2	Abbreviation 25 27	DM
+T3	Abbreviation 31 33	IR
+T4	Disease 0 20	NEFROPATIA DIABETICA
+T5	Disease 21 24	HTA
+T6	Disease 25 27	DM
+T7	Disease 34 52	RETENCION DE ORINA
+T8	Clinical_Finding 82 104	USUARIO DE SONDA FOLEY
+T9	Sign_or_Symptom 57 79	CRECIMIENTO PROSTATICO

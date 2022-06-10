@@ -1,0 +1,9 @@
+T1	Disease 2 22	NECROSIS DE LA PULPA
+T2	Body_Part 17 22	PULPA
+T3	Laboratory_or_Test_Result 27 55	CARIES DENTINARIA PENETRANTE
+T4	Disease 27 55	CARIES DENTINARIA PENETRANTE
+T5	Body_Part 62 70	Diente 6
+T6	Disease 71 88	caries penetrante
+T7	Laboratory_or_Test_Result 71 88	caries penetrante
+T8	Disease 90 105	necrosis pulpar
+T9	Sign_or_Symptom 107 130	Sintomatología dolorosa

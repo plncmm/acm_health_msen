@@ -1,0 +1,12 @@
+T1	Sign_or_Symptom 0 17	sector 1 codigo 3
+T2	Sign_or_Symptom 20 38	secotor 2 codigo 3
+T3	Sign_or_Symptom 41 58	sector 3 codigo 3
+T4	Sign_or_Symptom 61 78	sector 4 codigo 3
+T5	Sign_or_Symptom 81 98	sector 5 codigo 3
+T6	Sign_or_Symptom 101 118	sector 6 codigo 3
+T7	Body_Part 0 8	sector 1
+T8	Body_Part 20 29	secotor 2
+T9	Body_Part 41 49	sector 3
+T10	Body_Part 61 69	sector 4
+T11	Body_Part 81 89	sector 5
+T12	Body_Part 101 109	sector 6

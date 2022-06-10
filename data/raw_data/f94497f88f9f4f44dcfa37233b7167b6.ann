@@ -1,0 +1,19 @@
+T1	Body_Part 52 59	CORAZÓN
+T2	Abbreviation 113 116	APS
+T3	Abbreviation 127 132	antec
+T4	Abbreviation 136 139	HTA
+T5	Abbreviation 141 143	RI
+T6	Abbreviation 145 151	Dislip
+T7	Abbreviation 339 341	fx
+T8	Abbreviation 364 367	izq
+T9	Body_Part 473 480	corazon
+T10	Disease 2 89	HALLAZGOS ANORMALES EN DIAGNÓSTICO POR IMAGEN DEL CORAZÓN Y DE LA CIRCULACIÓN CORONARIA
+T11	Disease 136 139	HTA
+T12	Disease 141 143	RI
+T13	Disease 145 151	Dislip
+T14	Disease 152 160	Obesidad
+T15	Disease 209 228	isquemia miocardica
+T16	Diagnostic_Procedure 241 297	estudio de perfusón miocárdica con sestamibi-dipiridamol
+T17	Laboratory_or_Test_Result 313 367	leve iquemia apical., con fx sistólica ventricular izq
+R1	Has Arg1:T16 Arg2:T17	
+T18	Disease 423 510	Hallazgos anormales en diagnostico por imagen del corazon y de la circulacion coronaria

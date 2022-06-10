@@ -1,0 +1,9 @@
+T1	Abbreviation 2 3	G
+T2	Abbreviation 5 6	P
+T3	Abbreviation 8 9	A
+T4	Clinical_Finding 2 4	G2
+T5	Clinical_Finding 5 7	P2
+T6	Clinical_Finding 8 10	A0
+T7	Sign_or_Symptom 13 61	MASA UTERINA DE GRAN TAMAÑO DE CONSISTENCIA DURA
+T8	Disease 64 86	INCONTINENCIA URINARIA
+T9	Disease 89 111	METRORRAGIA EN ESTUDIO

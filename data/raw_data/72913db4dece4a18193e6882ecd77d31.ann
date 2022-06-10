@@ -1,0 +1,8 @@
+T1	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T2	Abbreviation 54 57	APS
+T3	Body_Part 59 62	1.5
+T4	Therapeutic_Procedure 64 73	trepanada
+T5	Therapeutic_Procedure 83 106	tratamiento endodontico
+A1	Pending T5
+T6	Disease 107 125	Caries del cemento
+T7	Body_Part 118 125	cemento

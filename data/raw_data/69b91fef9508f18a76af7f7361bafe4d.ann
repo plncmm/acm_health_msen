@@ -1,0 +1,6 @@
+T1	Body_Part 52 59	DIENTES
+T2	Body_Part 63 73	Diente 3.8
+T3	Disease 2 59	TRASTORNOS DEL DESARROLLO Y DE LA ERUPCIÓN DE LOS DIENTES
+T4	Sign_or_Symptom 63 90	Diente 3.8: Semierupcionado
+T5	Sign_or_Symptom 104 109	dolor
+T6	Disease 112 127	pericoronaritis

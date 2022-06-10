@@ -1,0 +1,4 @@
+T1	Body_Part 42 55	punta del pie
+T2	Sign_or_Symptom 0 23	alteracion de la pisada
+T3	Sign_or_Symptom 25 69	desviacion de la punta del pie hacia adentro
+T4	Clinical_Finding 94 120	examen neurolofgico normal

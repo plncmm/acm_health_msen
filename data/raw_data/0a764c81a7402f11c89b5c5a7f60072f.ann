@@ -1,0 +1,7 @@
+T1	Body_Part 38 51	tabique nasal
+T2	Abbreviation 93 97	TPTA
+T3	Disease 0 24	Trastorno de coagulación
+T4	Sign_or_Symptom 27 51	Desviación tabique nasal
+T5	Laboratory_Procedure 93 97	TPTA
+T6	Laboratory_or_Test_Result 98 108	prolongado
+R1	Has Arg1:T5 Arg2:T6	

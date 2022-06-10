@@ -1,0 +1,6 @@
+T1	Body_Part 20 36	Piezas 3.8 y 4.8
+T2	Body_Part 48 64	Piezas 1.8 y 2.8
+T3	Disease 20 46	Piezas 3.8 y 4.8 incluidas
+T4	Sign_or_Symptom 48 81	Piezas 1.8 y 2.8 Semierupcionadas
+T5	Therapeutic_Procedure 120 130	exodoncias
+A1	Pending T5

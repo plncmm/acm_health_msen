@@ -1,0 +1,11 @@
+T1	Disease 2 19	ABSCESO SUBMUCOSO
+T2	Abbreviation 43 46	APS
+T3	Disease 81 85	ADAC
+T4	Abbreviation 81 85	ADAC
+T5	Disease 106 121	Pericoronaritis
+T7	Body_Part 73 76	1.6
+T8	Body_Part 98 101	4.8
+T10	Sign_or_Symptom 81 92	ADAC activo
+T9	Therapeutic_Procedure 60 69	exodocnia
+A1	Pending T9
+T6	Sign_or_Symptom 98 162	4.8 con Pericoronaritis, semierupcionado, en posición horizontal

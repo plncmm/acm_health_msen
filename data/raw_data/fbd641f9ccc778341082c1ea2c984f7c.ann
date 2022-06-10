@@ -1,0 +1,12 @@
+T1	Laboratory_or_Test_Result 0 61	Tendinopatía imflamatoria de tendón de aquiles leve bilateral
+T2	Laboratory_or_Test_Result 63 120	Fascitis plantar bilateral leve izq y leve a modereda der
+T3	Disease 122 136	Hipotiroidismo
+T4	Disease 138 145	Pre Dm2
+T5	Abbreviation 95 98	izq
+#1	AnnotatorNotes T5	izquierda
+T6	Abbreviation 117 120	der
+#2	AnnotatorNotes T6	derecha
+T7	Abbreviation 142 144	Dm
+#3	AnnotatorNotes T7	diabetes mellitus
+T8	Body_Part 29 46	tendón de aquiles
+T9	Disease 63 79	Fascitis plantar

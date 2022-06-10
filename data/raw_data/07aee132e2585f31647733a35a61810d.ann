@@ -1,0 +1,21 @@
+T1	Body_Part 38 42	PIEL
+T2	Body_Part 49 66	TEJIDO SUBCUTANEO
+T3	Abbreviation 77 80	EMB
+T4	Abbreviation 84 87	SEM
+T5	Abbreviation 90 93	CCA
+T6	Abbreviation 114 117	OBS
+T7	Abbreviation 176 179	FUR
+T8	Abbreviation 68 69	G
+T9	Abbreviation 71 72	P
+T10	Abbreviation 74 75	A
+T11	Abbreviation 94 95	X
+T12	Disease 0 66	OTROS TRASTORNOS GLANULOMATOSOS DE LA PIEL Y DEL TEJIDO SUBCUTANEO
+T13	Clinical_Finding 68 70	G2
+T14	Clinical_Finding 71 73	P1
+T15	Clinical_Finding 74 76	A0
+T16	Clinical_Finding 77 80	EMB
+T17	Therapeutic_Procedure 90 93	CCA
+T18	Disease 96 113	BRADICARDIA FETAL
+T19	Disease 121 152	GRANULOM EN CICATRIZ DE CESAREA
+T20	Disease 163 175	ENDOMETRIOMA
+T21	Clinical_Finding 208 223	EMBARAZO NORMAL

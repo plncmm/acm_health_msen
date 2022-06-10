@@ -1,0 +1,6 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Abbreviation 74 77	APS
+T3	Sign_or_Symptom 80 106	Mordida invertida anterior
+T4	Sign_or_Symptom 108 143	Apiñamiento dentario anterosuperior
+T5	Disease 108 119	Apiñamiento
+T6	Disease 145 193	Anomalias dentofaciales (incluso la maloclusion)

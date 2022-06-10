@@ -1,0 +1,7 @@
+T1	Body_Part 2 9	DIENTES
+T2	Abbreviation 43 46	APS
+T3	Body_Part 75 81	PZA 32
+T4	Abbreviation 75 78	PZA
+T5	Disease 2 19	DIENTES INCLUIDOS
+T6	Clinical_Finding 57 65	GESTANTE
+T7	Sign_or_Symptom 75 94	PZA 32 SEMIINCLUIDA

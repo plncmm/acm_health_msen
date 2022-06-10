@@ -1,0 +1,11 @@
+T1	Abbreviation 46 49	tto
+T2	Abbreviation 61 63	cv
+T3	Abbreviation 103 106	tto
+T4	Abbreviation 24 27	id2
+T5	Abbreviation 31 35	tarv
+T6	Medication 31 35	tarv
+T7	Abbreviation 107 111	atte
+T8	Disease 0 23	condilomatosis perianal
+T9	Disease 24 27	id2
+T10	Laboratory_or_Test_Result 61 76	cv indetectable
+T11	Laboratory_or_Test_Result 51 54	cd4

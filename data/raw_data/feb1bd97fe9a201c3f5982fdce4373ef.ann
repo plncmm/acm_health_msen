@@ -1,0 +1,15 @@
+T1	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T2	Body_Part 34 42	Diente 4
+T3	Disease 43 60	caries penetrante
+T4	Laboratory_or_Test_Result 34 60	Diente 4 caries penetrante
+T5	Diagnostic_Procedure 62 64	RX
+T6	Abbreviation 62 64	RX
+T7	Laboratory_or_Test_Result 73 137	conducto esclerosado, con curvatura pronunciada en tercio apical
+R1	Has Arg1:T5 Arg2:T7	
+T8	Medication 221 226	PMCFA
+T9	Abbreviation 221 226	PMCFA
+T10	Clinical_Finding 228 244	Cemento temporal
+T11	Therapeutic_Procedure 149 170	eliminación de caries
+T12	Therapeutic_Procedure 173 191	acceso endodóntico
+T13	Therapeutic_Procedure 193 216	irrigación y medicación
+T14	Disease 164 170	caries

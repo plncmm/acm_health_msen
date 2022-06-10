@@ -1,0 +1,7 @@
+T1	Body_Part 2 9	DIENTES
+T2	Body_Part 39 48	pieza 1.8
+T3	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T4	Clinical_Finding 39 60	pieza 1.8 en erupcion
+T5	Sign_or_Symptom 83 88	dolor
+T6	Therapeutic_Procedure 120 129	exodoncia
+A1	Pending T6

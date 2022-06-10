@@ -1,0 +1,6 @@
+T1	Abbreviation 0 4	pcte
+T2	Disease 5 32	desdentado parcial superior
+T3	Sign_or_Symptom 37 67	prótesis removible desajustada
+T4	Abbreviation 96 99	ppr
+T5	Therapeutic_Procedure 81 133	rehabilitación ppr superior e inferior base acrílica
+A1	Pending T5

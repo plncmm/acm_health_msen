@@ -1,0 +1,12 @@
+T1	Abbreviation 22 26	PZAS
+T2	Body_Part 22 29	PZAS 25
+T3	Body_Part 30 32	26
+T4	Body_Part 33 35	27
+T5	Body_Part 38 40	10
+T6	Clinical_Finding 45 57	MOVILIDAD G3
+T7	Therapeutic_Procedure 72 82	EXTRACCIÓN
+A1	Pending T7
+T8	Disease 95 107	OSTEOPOROSIS
+T9	Disease 110 124	FIBROMIALGIA  
+T10	Abbreviation 140 144	FCOS
+T11	Abbreviation 55 56	G

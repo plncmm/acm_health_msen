@@ -1,0 +1,21 @@
+T1	Body_Part 2 9	ESÓFAGO
+T2	Abbreviation 21 24	EDA
+T3	Body_Part 112 119	ESOFAGO
+T4	Body_Part 78 87	EPITELIOS
+T5	Disease 2 20	ESÓFAGO DE BARRETT
+T6	Diagnostic_Procedure 21 24	EDA
+T7	Laboratory_or_Test_Result 48 87	ASCENSO DE LINEA DE CAMBIO DE EPITELIOS
+R1	Has Arg1:T6 Arg2:T7	
+T8	Laboratory_or_Test_Result 89 129	SIGNOS ENDOSCOPICOS DE ESOFAGO DE BARRET
+T9	Disease 112 129	ESOFAGO DE BARRET
+T10	Sign_or_Symptom 220 235	acidez gastrica
+T13	Laboratory_or_Test_Result 130 151	INCOMPETENCIA CARDIAL
+T14	Laboratory_or_Test_Result 152 182	GASTROPATIA ERITEMATOSA ANTRAL
+R2	Has Arg1:T6 Arg2:T8	
+R3	Has Arg1:T6 Arg2:T14	
+R4	Has Arg1:T6 Arg2:T13	
+T15	Disease 152 163	GASTROPATIA
+T12	Clinical_Finding 271 287	tabaco ocasional
+T11	Laboratory_Procedure 236 250	TEST DE UREASA
+T16	Laboratory_or_Test_Result 251 259	NEGATIVO
+R5	Has Arg1:T11 Arg2:T16	

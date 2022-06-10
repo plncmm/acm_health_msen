@@ -1,0 +1,6 @@
+T1	Abbreviation 18 21	PPR
+T2	Body_Part 51 54	P.D
+T3	Abbreviation 51 54	P.D
+T4	Therapeutic_Procedure 18 41	PPR SUPERIOR E INFERIOR
+A1	Pending T4
+T5	Disease 59 81	ENFERMEDAD PERIODONTAL

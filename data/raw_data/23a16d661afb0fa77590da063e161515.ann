@@ -1,0 +1,6 @@
+T1	Body_Part 24 40	hombro izquierdo
+T2	Body_Part 50 87	tendon supraespinoso hombro izquierdo
+T3	Body_Part 115 144	tendon supraespinoso anterior
+T4	Laboratory_or_Test_Result 0 40	impingement subacromial hombro izquierdo
+T5	Laboratory_or_Test_Result 41 87	desgarro tendon supraespinoso hombro izquierdo
+T6	Laboratory_or_Test_Result 89 144	rotura de fibras profidas tendon supraespinoso anterior

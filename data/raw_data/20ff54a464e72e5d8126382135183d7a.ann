@@ -1,0 +1,9 @@
+T1	Abbreviation 44 47	APS
+T2	Body_Part 13 20	CEMENTO
+T3	Body_Part 75 78	1.2
+T4	Body_Part 159 166	cemento
+T5	Clinical_Finding 2 20	CARIES DEL CEMENTO
+T6	Clinical_Finding 58 74	Caries radicular
+T7	Therapeutic_Procedure 123 132	exodoncia
+A1	Pending T7
+T8	Clinical_Finding 148 166	Caries del cemento

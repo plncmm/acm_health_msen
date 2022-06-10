@@ -1,0 +1,7 @@
+T1	Disease 2 16	CHANCRO BLANDO
+T2	Disease 63 81	Chancro sifilitico
+T3	Body_Part 94 105	zona vulvar
+T4	Abbreviation 59 62	Obs
+T5	Sign_or_Symptom 16 55	Multiples heridas planas en zona vulvar
+T6	Sign_or_Symptom 63 105	Chancro sifilitico multiple en zona vulvar
+T7	Body_Part 44 55	zona vulvar

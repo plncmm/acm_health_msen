@@ -1,0 +1,9 @@
+T1	Disease 2 21	LEIOMIOMA DEL ÚTERO
+T2	Body_Part 16 21	ÚTERO
+T3	Abbreviation 45 48	APS
+T5	Abbreviation 64 67	OBS
+T6	Disease 69 79	MIOMATOSIS
+T7	Abbreviation 82 85	DIV
+T8	Disease 133 152	Leiomioma del utero
+T10	Body_Part 147 152	utero
+T4	Clinical_Finding 50 59	MULTIPARA

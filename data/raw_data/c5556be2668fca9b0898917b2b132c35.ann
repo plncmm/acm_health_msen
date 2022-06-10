@@ -1,0 +1,13 @@
+T1	Body_Part 14 28	MOLAR DERECDHO
+T2	Body_Part 37 52	MOLAR IZQUIERDO
+T3	Body_Part 71 76	P 3.2
+T4	Abbreviation 71 72	P
+T5	Body_Part 79 85	4.2 P.
+T6	Abbreviation 83 84	P
+T7	Body_Part 86 89	3.3
+T8	Body_Part 92 95	4.3
+T9	Abbreviation 0 3	PTA
+T10	Sign_or_Symptom 53 70	MORDIDA INVERTIDA
+T11	Sign_or_Symptom 5 28	CLASE II MOLAR DERECDHO
+T12	Clinical_Finding 29 52	CLASE I MOLAR IZQUIERDO
+T13	Sign_or_Symptom 96 120	ERUPCION VESTIBULARIZADA

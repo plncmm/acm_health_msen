@@ -1,0 +1,13 @@
+T1	Disease 2 10	PULPITIS
+T2	Abbreviation 34 37	APS
+T3	Clinical_Finding 52 75	antecedentes sistémicos
+A1	Negated T3
+T4	Clinical_Finding 81 89	alergias
+A2	Negated T4
+T5	Disease 120 146	caries dentinaria profunda
+T6	Abbreviation 147 149	OM
+T7	Disease 152 160	pulpitis
+T8	Body_Part 164 173	pieza 4.4
+T9	Therapeutic_Procedure 186 200	biopulpectomía
+T10	Disease 227 235	Pulpitis
+T11	Clinical_Finding 101 109	fumadora

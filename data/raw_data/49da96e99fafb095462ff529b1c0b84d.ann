@@ -1,0 +1,5 @@
+T3	Disease 14 43	caries ocluso distal profunda
+T4	Therapeutic_Procedure 45 63	obturación oclusal
+T5	Laboratory_or_Test_Result 65 155	caries recidivante sobreproyectada en ´cámara pulpar, conductos finos, periapices normales
+T1	Body_Part 0 12	pieza 3 (1.6
+T2	Body_Part 104 117	cámara pulpar

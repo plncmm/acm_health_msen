@@ -1,0 +1,5 @@
+T1	Abbreviation 55 58	APS
+T2	Body_Part 86 94	2.1, 2.2
+T3	Body_Part 99 108	3.1 y 3.2
+T4	Sign_or_Symptom 61 108	Mordida cruzada anterior 2.1, 2.2 con 3.1 y 3.2
+T5	Clinical_Finding 110 123	Clase I molar

@@ -1,0 +1,11 @@
+T1	Abbreviation 0 3	Dte
+T2	Body_Part 0 6	Dte 32
+T3	Body_Part 26 32	diente
+T4	Abbreviation 89 92	ges
+T5	Body_Part 171 177	dte 32
+T6	Abbreviation 171 174	dte
+T7	Sign_or_Symptom 0 20	Dte 32 semi incluido
+T9	Clinical_Finding 78 88	embarazada
+T10	Therapeutic_Procedure 116 125	exodoncia
+A2	Pending T10
+T8	Clinical_Finding 22 44	sin diente antagonista

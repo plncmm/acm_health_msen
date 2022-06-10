@@ -1,0 +1,12 @@
+T1	Abbreviation 10 13	PZA
+T2	Body_Part 10 19	PZA.- 3.6
+T3	Clinical_Finding 20 29	TREPANADA
+T4	Abbreviation 39 42	PZA
+T5	Sign_or_Symptom 49 54	DOLOR
+T6	Disease 60 81	PULPITIS IRREVERSIBLE
+T7	Sign_or_Symptom 97 102	DOLOR
+T8	Disease 108 129	PULPITIS IRREVERSIBLE
+T9	Medication 142 153	FORMOCRESOL
+T10	Medication 155 163	EUGENATO
+T11	Body_Part 39 42	PZA
+T12	Abbreviation 153 154	+

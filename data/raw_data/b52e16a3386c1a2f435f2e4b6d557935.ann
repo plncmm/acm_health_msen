@@ -1,0 +1,9 @@
+T1	Abbreviation 96 99	pza
+T2	Body_Part 96 104	pza. 4.1
+T3	Abbreviation 127 130	pza
+T4	Body_Part 127 135	pza. 8.1
+T5	Disease 13 29	Sindrome de Down
+T6	Sign_or_Symptom 76 104	erupción lingual de pza. 4.1
+T7	Laboratory_or_Test_Result 107 153	permanencia en boca pza. 8.1 con raíz completa
+T8	Body_Part 140 144	raíz
+T9	Body_Part 122 126	boca

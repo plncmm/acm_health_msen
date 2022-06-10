@@ -1,0 +1,7 @@
+T1	Abbreviation 13 16	ATB
+T2	Medication 17 29	AMOPXICILINA
+T3	Therapeutic_Procedure 60 71	TREPANACION
+A1	Pending T3
+T4	Therapeutic_Procedure 109 127	ENDODONCIA MOLARES
+A2	Pending T4
+T5	Body_Part 120 127	MOLARES

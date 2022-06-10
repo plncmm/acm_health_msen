@@ -1,0 +1,43 @@
+T1	Abbreviation 13 22	telenefro
+T2	Abbreviation 62 64	Dr
+T3	Clinical_Finding 114 125	autovalente
+T4	Abbreviation 127 130	ERC
+T5	Disease 127 130;166 177	ERC etapa IV-A3
+T7	Disease 144 164	nefropatía diabética
+T9	Abbreviation 290 293	DM2
+T10	Disease 290 293	DM2
+T12	Abbreviation 313 318	Hba1C
+T17	Abbreviation 345 348	NPH
+T19	Abbreviation 379 381	mg
+T20	Abbreviation 382 384	gr
+T21	Abbreviation 412 414	mg
+T22	Laboratory_or_Test_Result 429 467	función renal se deteriora rápidamente
+T23	Abbreviation 486 488	ml
+T24	Abbreviation 489 492	min
+T25	Abbreviation 616 620	SOME
+T26	Abbreviation 769 773	Hcto
+T27	Abbreviation 774 776	HB
+T28	Abbreviation 830 832	Dr
+T29	Abbreviation 908 910	Dr
+T30	Disease 1097 1122	enfermedad renal terminal
+T31	Abbreviation 1153 1157	poli
+T32	Abbreviation 1158 1163	nefro
+T33	Abbreviation 1426 1429	PDF
+T34	Abbreviation 371 374	RAC
+#1	AnnotatorNotes T34	relación albumina creatinina
+T8	Medication 336 348	insulina NPH
+T11	Laboratory_or_Test_Result 358 369	albuminuria
+T13	Diagnostic_Procedure 371 374	RAC
+T14	Medication 400 409	Enalapril
+T35	Laboratory_Procedure 313 318	Hba1C
+T6	Laboratory_or_Test_Result 298 311	descompensada
+R1	Has Arg1:T35 Arg2:T6	
+R2	Has Arg1:T13 Arg2:T11	
+T16	Abbreviation 1183 1187	trak
+T15	Laboratory_Procedure 733 741	exámenes
+T18	Laboratory_Procedure 743 756	Creatininemia
+T36	Laboratory_Procedure 758 767	potasemia
+T37	Laboratory_Procedure 769 776	Hcto/HB
+T38	Laboratory_Procedure 778 786	Calcemia
+T39	Laboratory_Procedure 787 795	Fosfemia
+T40	Laboratory_Procedure 796 812	microalbuminuria

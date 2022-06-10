@@ -1,0 +1,14 @@
+T1	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T2	Abbreviation 52 55	APS
+T3	Abbreviation 57 61	PCTE
+T4	Clinical_Finding 73 93	ANTECEDENTES MEDICOS
+A1	Negated T4
+T5	Disease 103 118	CARIES PROFUNDA
+T6	Sign_or_Symptom 119 130	SINTOMATICA
+T7	Abbreviation 131 134	PZA
+T8	Body_Part 131 137	PZA 30
+T9	Therapeutic_Procedure 150 161	TREPANACION
+T11	Therapeutic_Procedure 226 249	TRATAMIENTO ENDODONTICO
+A2	Pending T11
+T10	Disease 250 270	Caries de la dentina
+T12	Body_Part 263 270	dentina

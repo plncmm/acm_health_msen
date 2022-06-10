@@ -1,0 +1,14 @@
+T1	Abbreviation 41 45	comb
+T2	Abbreviation 58 61	obs
+T3	Abbreviation 0 1	g
+T4	Abbreviation 3 4	p
+T5	Abbreviation 6 7	a
+T6	Medication 37 40	aco
+T7	Abbreviation 37 40	aco
+T8	Body_Part 83 105	genital (zonaharquial)
+T9	Clinical_Finding 0 2	g3
+T10	Clinical_Finding 3 5	p2
+T11	Clinical_Finding 6 8	a1
+T12	Laboratory_or_Test_Result 10 28	huevo anembrionado
+T13	Disease 10 28	huevo anembrionado
+T14	Disease 63 104	condiloma acuminado genital (zonaharquial

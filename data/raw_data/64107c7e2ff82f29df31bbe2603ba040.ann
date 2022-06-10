@@ -1,0 +1,7 @@
+T1	Abbreviation 0 5	INSUF
+T2	Abbreviation 52 56	eeii
+T3	Body_Part 52 56	eeii
+T4	Disease 0 36	INSUF. VENOSA (CRONICA) (PERIFERICA)
+T5	Sign_or_Symptom 43 56	dolor en eeii
+T6	Sign_or_Symptom 58 63	edema
+T7	Sign_or_Symptom 115 147	no puede caminar grandes trechos

@@ -1,0 +1,12 @@
+T1	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T2	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T3	Abbreviation 70 73	APS
+T4	Sign_or_Symptom 93 147	facetas de desgaste coincidentes con bruxismo centrico
+T5	Disease 130 147	bruxismo centrico
+T6	Sign_or_Symptom 149 197	abfraccion en premolares superiores e inferiores
+T7	Body_Part 163 197	premolares superiores e inferiores
+T8	Sign_or_Symptom 209 223	dolor muscular
+A1	Negated T8
+T9	Sign_or_Symptom 233 265	cansancio muscular  al despertar
+T10	Disease 268 312	Trastornos de la articulacion temporomaxilar
+T11	Body_Part 285 312	articulacion temporomaxilar

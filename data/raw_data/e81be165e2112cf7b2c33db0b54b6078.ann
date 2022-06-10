@@ -1,0 +1,5 @@
+T1	Disease 0 13	CARIES DENTAL
+T2	Clinical_Finding 34 46	PPR SUPERIOR
+T3	Body_Part 94 98	D 19
+T4	Abbreviation 94 95	D
+T5	Therapeutic_Procedure 147 159	PPR INFERIOR

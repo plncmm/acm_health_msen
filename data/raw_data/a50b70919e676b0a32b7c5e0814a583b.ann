@@ -1,0 +1,8 @@
+T1	Abbreviation 11 14	APP
+T2	Abbreviation 15 18	HTA
+T3	Body_Part 64 81	REGION COSTAL IZQ
+T4	Abbreviation 78 81	IZQ
+T5	Abbreviation 8 9	M
+T6	Disease 15 18	HTA
+T7	Sign_or_Symptom 44 81	NEVO CON RELIEVE EN REGION COSTAL IZQ
+T8	Sign_or_Symptom 115 122	PRURITO

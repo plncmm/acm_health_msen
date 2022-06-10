@@ -1,0 +1,6 @@
+T1	Abbreviation 0 4	pcte
+T3	Disease 37 46	neurocele
+T4	Body_Part 50 81	cara interna de mejilla derecha
+T2	Sign_or_Symptom 15 81	lesion compatible con neurocele en cara interna de mejilla derecha
+T5	Body_Part 93 104	borde labia
+T6	Clinical_Finding 130 142	asintomatico

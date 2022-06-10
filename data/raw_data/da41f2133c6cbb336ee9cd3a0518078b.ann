@@ -1,0 +1,11 @@
+T1	Abbreviation 33 36	PIO
+T2	Abbreviation 37 39	OI
+T3	Body_Part 37 39	OI
+T4	Medication 60 69	TIOF PLUS
+T5	Medication 86 92	BRIMOF
+T6	Medication 108 114	LOUTEN
+T7	Body_Part 121 123	OI
+T8	Abbreviation 121 123	OI
+T9	Disease 0 3	H40
+T10	Disease 4 12	GLAUCOMA
+T11	Diagnostic_Procedure 33 36	PIO

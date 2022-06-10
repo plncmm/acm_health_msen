@@ -1,0 +1,12 @@
+T1	Disease 2 21	ABSCESO PERIODONTAL
+T2	Abbreviation 45 48	APS
+T3	Disease 65 84	absceso periodontal
+T4	Sign_or_Symptom 86 91	dolor
+T5	Sign_or_Symptom 94 101	fistula
+T6	Disease 159 181	enfermedad periodontal
+T7	Disease 208 221	ABSCESO ENCIA
+T12	Therapeutic_Procedure 120 143	tratamiento de conducto
+T15	Body_Part 216 221	ENCIA
+T9	Body_Part 109 115;51 54;57 60	piezas 1.2 1.1
+T8	Body_Part 201 207	piezas
+T10	Body_Part 170 181	periodontal

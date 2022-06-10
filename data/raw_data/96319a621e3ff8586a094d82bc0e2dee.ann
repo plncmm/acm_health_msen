@@ -1,0 +1,21 @@
+T1	Body_Part 34 38	PIES
+T2	Body_Part 85 89	PIES
+T3	Abbreviation 113 116	APS
+T4	Body_Part 161 172	PIE DERECHO
+T5	Abbreviation 177 179	EX
+T6	Abbreviation 201 203	RX
+T7	Abbreviation 259 263	KINE
+T8	Abbreviation 323 325	RX
+T9	Body_Part 369 373	pies
+T10	Abbreviation 257 258	+
+T11	Disease 2 38	DEFORMACIONES CONGÉNITAS DE LOS PIES
+T12	Disease 42 89	OTRAS DEFORMIDADES VARUS CONGÉNITAS DE LOS PIES
+T13	Sign_or_Symptom 155 172	DOLOR PIE DERECHO
+T14	Sign_or_Symptom 195 199	VARO
+T15	Diagnostic_Procedure 201 203	RX
+T16	Laboratory_or_Test_Result 208 226	LESIONES TUMORALES
+A1	Negated T16
+R1	Has Arg1:T15 Arg2:T16	
+T17	Therapeutic_Procedure 259 263	KINE
+T18	Disease 337 373	Deformaciones congenitas de los pies
+T19	Diagnostic_Procedure 323 325	RX

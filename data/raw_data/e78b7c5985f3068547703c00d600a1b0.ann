@@ -1,0 +1,12 @@
+T1	Abbreviation 86 89	eao
+T2	Body_Part 91 114	extremidades inferiores
+T3	Abbreviation 120 123	hta
+T4	Abbreviation 124 127	irc
+T5	Abbreviation 115 119	dmir
+T6	Disease 0 35	neuroartropatia de charcot izquerda
+T7	Disease 36 75	neuropatia diabetica perisferica distal
+T8	Sign_or_Symptom 76 85	sensitiva
+T9	Disease 86 114	eao. extremidades inferiores
+T10	Disease 115 117	dm
+T11	Disease 120 123	hta
+T12	Disease 124 127	irc

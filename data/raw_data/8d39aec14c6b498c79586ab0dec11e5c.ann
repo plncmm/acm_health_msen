@@ -1,0 +1,9 @@
+T1	Body_Part 2 10	PREPUCIO
+T2	Abbreviation 68 71	APS
+T3	Body_Part 155 161	GLANDE
+T4	Body_Part 162 170	Prepucio
+T5	Body_Part 85 101	ANILLO PREPUCIAL
+T6	Disease 2 44	PREPUCIO REDUNDANTE, FIMOSIS Y PARAFIMOSIS
+T7	Sign_or_Symptom 73 115	FIMOSIS CON ANILLO PREPUCIAL  MUY ESTRECHO
+T8	Disease 73 80	FIMOSIS
+T9	Disease 162 204	Prepucio redundante, fimosis y parafimosis

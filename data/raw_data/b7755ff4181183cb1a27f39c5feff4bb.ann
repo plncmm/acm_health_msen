@@ -1,0 +1,23 @@
+T1	Body_Part 14 22	MENISCOS
+T2	Abbreviation 56 59	APS
+T3	Body_Part 141 152	rodilla izq
+T4	Abbreviation 149 152	izq
+T5	Abbreviation 161 165	evol
+T6	Abbreviation 168 171	RNM
+T7	Body_Part 172 183	rodilla izq
+T8	Abbreviation 180 183	izq
+T10	Body_Part 445 460	menisco externo
+T11	Body_Part 484 492	meniscos
+T9	Body_Part 321 346	menisco interno posterior
+T12	Disease 2 32	DESGARRO DE MENISCOS, PRESENTE
+T13	Disease 135 152	dolor rodilla izq
+T14	Diagnostic_Procedure 168 183	RNM rodilla izq
+T15	Laboratory_or_Test_Result 188 246	Signos de sinovitis cronica con elemento de exudado actual
+T16	Laboratory_or_Test_Result 249 346	complejo desgarro meniscal interno con un componente radial oblicuo del menisco interno posterior
+T17	Laboratory_or_Test_Result 349 400	componente horizonrtal posterior y postero corporal
+T18	Laboratory_or_Test_Result 402 469	desgarro horizontal margianl que afecta el menisco externo corporal
+T19	Disease 472 502	Desgarro de meniscos, presente
+R1	Has Arg1:T14 Arg2:T15	
+R2	Has Arg1:T14 Arg2:T16	
+R3	Has Arg1:T14 Arg2:T17	
+R4	Has Arg1:T14 Arg2:T18	

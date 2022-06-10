@@ -1,0 +1,6 @@
+T1	Abbreviation 0 2	pd
+T2	Body_Part 0 7	pd. 2.5
+T3	Laboratory_or_Test_Result 8 32	tratada endodónticamente
+T4	Clinical_Finding 38 55	perno muñon corto
+T5	Therapeutic_Procedure 103 125	Protesis fija unitaria
+A1	Pending T5

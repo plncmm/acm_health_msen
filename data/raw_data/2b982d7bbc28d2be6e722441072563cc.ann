@@ -1,0 +1,10 @@
+T1	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T2	Body_Part 31 37	DIENTE
+T3	Abbreviation 61 64	APS
+T4	Sign_or_Symptom 66 94	APIÑAMIENTO DENTARIO GRUPO 5
+T5	Body_Part 87 94	GRUPO 5
+T6	Sign_or_Symptom 96 110	FUSION PZA 5.2
+T7	Abbreviation 103 106	PZA
+T8	Body_Part 103 110	PZA 5.2
+T9	Disease 111 146	Anomalias de la posicion del diente
+T10	Body_Part 140 146	diente

@@ -1,0 +1,21 @@
+T1	Disease 2 22	NECROSIS DE LA PULPA
+T2	Body_Part 17 22	PULPA
+T3	Abbreviation 46 49	APS
+T4	Abbreviation 51 53	rx
+T5	Body_Part 57 60	2.6
+T6	Diagnostic_Procedure 51 53	rx
+T7	Laboratory_or_Test_Result 72 154	periodonto ensanchado en apical y tratamiento de conducto parcial y mal compactado
+R1	Has Arg1:T6 Arg2:T7	
+T8	Laboratory_or_Test_Result 189 213	raices y conducto rectos
+R2	Has Arg1:T6 Arg2:T8	
+T9	Body_Part 189 195	raices
+T10	Body_Part 198 206	conducto
+T11	Sign_or_Symptom 215 235	dolor a la percusion
+T12	Sign_or_Symptom 237 282	se abre camara pulpar y desprende fuerte olor
+T13	Disease 299 314	necrosis pulpar
+T14	Disease 533 553	Necrosis de la pulpa
+T15	Body_Part 548 553	pulpa
+T16	Therapeutic_Procedure 508 520	incrustaciòn
+T17	Therapeutic_Procedure 442 467	retratamiento de conducto
+A1	Pending T17
+T18	Body_Part 245 258	camara pulpar

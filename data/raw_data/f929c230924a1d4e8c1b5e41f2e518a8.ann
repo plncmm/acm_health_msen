@@ -1,0 +1,10 @@
+T1	Abbreviation 9 10	C
+T2	Disease 9 20	C.coronaria
+T5	Therapeutic_Procedure 29 47	angioplastia+stent
+T6	Abbreviation 41 42	+
+T7	Abbreviation 48 51	HTA
+T8	Abbreviation 52 54	FA
+T9	Disease 48 51	HTA
+T10	Disease 52 66	FA paroxistica
+T11	Disease 68 107	Insuficiencia cardiaca, no especificada
+T3	Abbreviation 21 23	op

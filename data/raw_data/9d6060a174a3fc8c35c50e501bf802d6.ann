@@ -1,0 +1,9 @@
+T1	Body_Part 15 33	MANGUITO ROTATORIO
+T2	Abbreviation 50 53	APP
+T3	Abbreviation 57 59	Sx
+T4	Body_Part 64 82	Manguito Rotatorio
+T5	Body_Part 255 261	hombro
+T6	Disease 2 33	SÍNDROME DEL MANGUITO ROTATORIO
+T7	Disease 57 82	Sx del Manguito Rotatorio
+T8	Laboratory_or_Test_Result 88 110	Diagnóstico Ecográfico
+T9	Sign_or_Symptom 197 261	mejoría de los síntomas y amplitud de los movimientos del hombro

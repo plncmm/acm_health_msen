@@ -1,0 +1,11 @@
+T1	Body_Part 2 9	DIENTES
+T2	Abbreviation 56 59	APS
+T3	Body_Part 79 95	terceros molares
+T4	Body_Part 171 192	piezas 2.8, 3.8 y 4.8
+T5	Body_Part 193 200	Dientes
+T6	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T7	Clinical_Finding 79 121	terceros molares incluidos y semiincluidos
+T8	Sign_or_Symptom 126 134	moletias
+T9	Therapeutic_Procedure 158 167	exodoncia
+A1	Pending T9
+T10	Disease 193 223	Dientes incluidos e impactados

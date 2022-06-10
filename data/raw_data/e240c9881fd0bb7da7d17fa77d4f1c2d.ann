@@ -1,0 +1,16 @@
+T1	Abbreviation 69 72	APS
+T2	Abbreviation 87 90	TVP
+T3	Abbreviation 140 143	HTA
+T4	Body_Part 179 199	extremidad izquierda
+T5	Abbreviation 331 334	TVP
+T6	Body_Part 99 115	iliaca izquierda
+T7	Disease 2 45	INSUFICIENCIA VENOSA (CRÓNICA) (PERIFÉRICA)
+T8	Disease 87 90	TVP
+T9	Disease 121 136	pie bot derecho
+T10	Disease 140 143	HTA
+T11	Sign_or_Symptom 170 255	dolor en extremidad izquierda recurrente en relacion a paquetes varicosos prominentes
+T12	Sign_or_Symptom 260 274	edema moderado
+T13	Disease 331 334	TVP
+T14	Disease 365 398	insuficiencia vascular periferica
+T15	Body_Part 121 124	pie
+A1	Negated T13

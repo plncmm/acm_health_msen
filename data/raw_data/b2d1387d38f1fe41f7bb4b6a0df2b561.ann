@@ -1,0 +1,10 @@
+T1	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T2	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T3	Abbreviation 70 73	APS
+T4	Sign_or_Symptom 114 137	dolor en ATM en función
+T5	Body_Part 123 126	ATM
+T6	Abbreviation 123 126	ATM
+T7	Sign_or_Symptom 139 169	facetas de desgaste en molares
+T8	Body_Part 162 169	molares
+T9	Disease 171 215	Trastornos de la articulacion temporomaxilar
+T10	Body_Part 188 215	articulacion temporomaxilar

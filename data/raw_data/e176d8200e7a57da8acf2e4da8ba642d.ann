@@ -1,0 +1,10 @@
+T1	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T2	Body_Part 31 37	DIENTE
+T3	Abbreviation 61 64	APS
+T4	Sign_or_Symptom 66 130	falta de espacio en el arco inferior y superior de los maxilares
+T5	Body_Part 89 130	arco inferior y superior de los maxilares
+T6	Abbreviation 143 146	max
+T7	Body_Part 143 155	max superior
+T8	Sign_or_Symptom 132 155	compresion max superior
+T9	Disease 157 192	Anomalias de la posicion del diente
+T10	Body_Part 186 192	diente

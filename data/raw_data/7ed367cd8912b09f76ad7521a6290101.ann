@@ -1,0 +1,9 @@
+T1	Disease 2 30	PERIODONTITIS CRÓNICA SEVERA
+T2	Abbreviation 54 57	APS
+T3	Body_Part 59 72	pieza 4,1 3,1
+T4	Disease 73 93	periodontitis severa
+T5	Body_Part 96 111	pieza 4,2 y 3,2
+T6	Disease 112 134	periodontitis moderada
+T7	Therapeutic_Procedure 160 180	tratamiento integral
+A1	Pending T7
+T8	Disease 182 203	Periodontitis cronica

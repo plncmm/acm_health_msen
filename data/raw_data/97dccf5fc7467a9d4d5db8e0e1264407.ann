@@ -1,0 +1,14 @@
+T1	Abbreviation 123 126	APS
+T2	Abbreviation 141 144	ant
+T3	Abbreviation 148 151	hta
+T4	Abbreviation 300 303	hrs
+T5	Abbreviation 322 324	ml
+T6	Abbreviation 325 328	min
+T7	Disease 2 34	ENFERMEDAD RENAL CRÓNICA ETAPA 3
+T8	Disease 38 63	RESISTENCIA A LA INSULINA
+T9	Disease 67 99	HIPERTENSIÓN ESENCIAL (PRIMARIA)
+T10	Disease 148 151	hta
+T11	Disease 153 178	resistencia a la insulina
+T12	Clinical_Finding 181 190	monorrena
+T13	Therapeutic_Procedure 192 203	nefrectomia
+T14	Laboratory_Procedure 260 282	clearece de creatinina

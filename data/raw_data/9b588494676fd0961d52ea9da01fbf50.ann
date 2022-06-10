@@ -1,0 +1,18 @@
+T1	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T2	Abbreviation 70 73	APS
+T3	Abbreviation 75 79	PCTE
+T4	Abbreviation 126 130	TENS
+T5	Abbreviation 134 137	APS
+T6	Abbreviation 138 144	CESFAM
+T7	Body_Part 189 195	CABEZA
+T8	Body_Part 237 244	DIENTES
+T9	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T10	Clinical_Finding 92 112	ANTECEDENTES MEDICOS
+A1	Negated T10
+T11	Sign_or_Symptom 163 178	FATIGA MUSCULAR
+T12	Sign_or_Symptom 180 207	DOLOR DE CABEZA Y ARTICULAR
+T13	Sign_or_Symptom 223 254	DURMIENDO CON DIENTES APRETADOS
+T14	Sign_or_Symptom 265 283	SIGNOS DE BRUXISMO
+T15	Disease 275 283	BRUXISMO
+T16	Disease 337 381	Trastornos de la articulacion temporomaxilar
+T17	Body_Part 354 381	articulacion temporomaxilar

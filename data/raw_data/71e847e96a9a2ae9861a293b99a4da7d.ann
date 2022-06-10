@@ -1,0 +1,9 @@
+T1	Medication 131 134	NPH
+T2	Medication 178 197	insulina cristalina
+T3	Abbreviation 60 63	APS
+T4	Abbreviation 125 127	UI
+T5	Abbreviation 131 134	NPH
+T6	Abbreviation 136 142	Hb A1C
+T7	Disease 2 36	DIABETES MELLITUS, NO ESPECIFICADA
+T8	Laboratory_or_Test_Result 78 110	mal control de cifras glicemicas
+T9	Laboratory_Procedure 136 142	Hb A1C

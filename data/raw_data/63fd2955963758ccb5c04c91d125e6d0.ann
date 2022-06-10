@@ -1,0 +1,18 @@
+T1	Abbreviation 90 93	APS
+T2	Abbreviation 95 97	sd
+T3	Abbreviation 115 119	evol
+T4	Abbreviation 122 125	RGE
+T5	Abbreviation 126 127	+
+T6	Abbreviation 137 138	-
+T7	Abbreviation 151 152	-
+T8	Abbreviation 166 167	+
+T9	Disease 2 40	ENFERMEDAD DEL REFLUJO GASTROESOFÁGICO
+T10	Disease 44 66	GASTRITIS Y DUODENITIS
+T11	Disease 95 106	sd ulceroso
+T12	Disease 122 125	RGE
+T13	Sign_or_Symptom 131 137	melena
+A1	Negated T13
+T14	Sign_or_Symptom 140 151	hematemesis
+A2	Negated T14
+T15	Sign_or_Symptom 154 166	tos cronic a
+T16	Disease 168 190	Gastritis y duodenitis

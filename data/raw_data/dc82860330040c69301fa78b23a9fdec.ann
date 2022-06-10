@@ -1,0 +1,8 @@
+T1	Body_Part 13 30	PIEZAS INFERIORES
+T2	Abbreviation 35 37	RX
+T3	Disease 42 54	PRIODONTITIS
+T4	Laboratory_or_Test_Result 59 79	PERDIDA DE INSERCION
+T5	Body_Part 80 89	PIEZA 3.1
+T6	Sign_or_Symptom 90 109	MOVILIDAD GRDAO III
+T7	Diagnostic_Procedure 35 37	RX
+R1	Has Arg1:T7 Arg2:T4	

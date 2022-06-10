@@ -1,0 +1,7 @@
+T1	Abbreviation 54 57	pnc
+T2	Body_Part 75 80	dorso
+T3	Disease 0 21	cardiopatia coronaria
+T4	Clinical_Finding 25 46	antecedentes morbisos
+A1	Negated T4
+T5	Disease 46 57	alergia pnc
+T6	Sign_or_Symptom 58 80	dolor iniciado a dorso

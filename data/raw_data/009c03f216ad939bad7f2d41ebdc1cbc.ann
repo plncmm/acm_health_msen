@@ -1,0 +1,11 @@
+T1	Body_Part 2 9	DIENTES
+T2	Abbreviation 49 52	APS
+T3	Body_Part 67 77	diente 2.1
+T4	Body_Part 177 187	diente 6.3
+T5	Body_Part 189 196	Dientes
+T6	Disease 2 25	DIENTES SUPERNUMERARIOS
+T7	Sign_or_Symptom 67 97	diente 2.1 rotado hacia mesial
+T8	Laboratory_or_Test_Result 104 123	mesiodens intraoseo
+T9	Disease 104 113	mesiodens
+T10	Disease 189 212	Dientes supernumerarios
+T11	Disease 148 162	supernumerario

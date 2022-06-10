@@ -1,0 +1,19 @@
+T1	Abbreviation 39 42	HTA
+T2	Abbreviation 47 50	tto
+T3	Medication 55 65	propanolol
+T4	Abbreviation 69 71	RI
+T5	Medication 283 288	AINES
+T6	Abbreviation 392 395	HDE
+T7	Disease 2 9	CEFALEA
+T8	Disease 39 42	HTA
+T9	Disease 69 71	RI
+T10	Disease 76 92	paralisis facial
+T11	Disease 133 149	paralisis facial
+T12	Sign_or_Symptom 181 229	cefalea occipital derecha de intensidad variable
+T13	Disease 263 272	vertigo  
+T14	Clinical_Finding 392 395	HDE
+T15	Clinical_Finding 397 424	Cardiopulmonar sin hallazgo
+T16	Sign_or_Symptom 430 451	focalidad neurologica
+A1	Negated T16
+T17	Sign_or_Symptom 457 473	Signos meningeos
+A2	Negated T17

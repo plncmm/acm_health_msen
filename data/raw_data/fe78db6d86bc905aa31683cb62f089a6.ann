@@ -1,0 +1,12 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Abbreviation 74 77	APS
+T3	Sign_or_Symptom 79 136	Clase I esqueletal Relacion molar: mesioclusion bilateral
+T4	Sign_or_Symptom 137 199	Relacion canina: Neotroclusion derecha, mesioclusion izquierda
+T5	Sign_or_Symptom 200 226	Mordida invertida anterior
+T6	Sign_or_Symptom 228 249	mordida borde a borde
+T7	Body_Part 256 265	2.1 y 4.1
+T8	Body_Part 267 277	Diente 2.2
+T9	Sign_or_Symptom 281 294	palatoversion
+T10	Sign_or_Symptom 295 328	Mordida cruzada posterior derecha
+T11	Body_Part 330 354	diente 1.4 con 4.4 y 4.5
+T12	Disease 356 404	Anomalias dentofaciales (incluso la maloclusion)

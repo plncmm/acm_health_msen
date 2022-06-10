@@ -1,0 +1,5 @@
+T1	Disease 0 18	Fibroma Irritativo
+T2	Body_Part 19 39	zona antero-inferior
+T3	Clinical_Finding 40 77	Portadora de Protesis total bimaxilar
+T4	Sign_or_Symptom 79 112	Reborde Negativo Maxilar Inferior
+T5	Body_Part 96 112	Maxilar Inferior

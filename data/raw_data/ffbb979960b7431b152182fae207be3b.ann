@@ -1,0 +1,11 @@
+T1	Abbreviation 47 50	APS
+T2	Abbreviation 52 56	PCTE
+T3	Abbreviation 66 70	DMIR
+T4	Abbreviation 75 78	ANT
+T5	Disease 2 23	RETINOPATÍA DIABÉTICA
+T6	Disease 66 68	DM
+T7	Disease 82 101	RETINOPATIA DERECHA
+T8	Therapeutic_Procedure 129 134	LASER
+T9	Sign_or_Symptom 184 211	AFECTACION VISION IZQUIERDA
+T10	Sign_or_Symptom 221 258	VISION MANCHAS DE MANERA INTERMITENTE
+T11	Disease 280 301	Retinopatia diabetica

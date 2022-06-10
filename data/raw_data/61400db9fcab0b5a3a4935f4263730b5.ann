@@ -1,0 +1,33 @@
+T1	Disease 2 31	OTROS TIPOS DE RETRASO MENTAL
+T2	Disease 153 163	MENINGITIS
+A1	Negated T2
+T3	Disease 179 187	NEUMONIA
+T4	Disease 221 254	RETRASO DEL DESARROLLO PSICOMOTOR
+T5	Disease 351 369	DEFICIT ATENCIONAL
+T6	Disease 416 428	HIDROCEFALIA
+A2	Implicit_Family_Background T6
+T7	Disease 433 451	AGENESIA DE MONROY
+A3	Implicit_Family_Background T7
+T8	Disease 453 464	RETINOPATIA
+A4	Implicit_Family_Background T8
+T9	Disease 466 491	REFLUJO DE VIAS URINARIAS
+A5	Implicit_Family_Background T9
+T10	Disease 531 551	PATOLOGIAS GENETICAS
+A6	Implicit_Family_Background T10
+T11	Disease 582 585	ERC
+T12	Disease 587 599	MICROCEFALIA
+T13	Disease 641 670	Otros tipos de retraso mental
+T14	Abbreviation 55 58	APS
+#1	AnnotatorNotes T14	atención primaria de salud
+T15	Abbreviation 582 585	ERC
+#2	AnnotatorNotes T15	enfermedad renal crónica
+T16	Family_Member 103 109	ABUELA
+T17	Family_Member 404 411	HERMANA
+T18	Body_Part 477 491	VIAS URINARIAS
+T19	Laboratory_or_Test_Result 114 132	PSICOMETRIA LIMITE
+T20	Clinical_Finding 606 615	ENDOGAMIA
+A9	Negated T20
+T21	Medication 318 332	FLORES DE BACH
+T22	Family_Member 553 559	PRIMOS
+R1	Has Arg1:T22 Arg2:T11	
+R2	Has Arg1:T22 Arg2:T12	

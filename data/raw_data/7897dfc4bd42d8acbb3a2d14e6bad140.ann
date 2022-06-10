@@ -1,0 +1,10 @@
+T1	Abbreviation 0 3	PZA
+T2	Body_Part 0 8	PZA. 2,5
+T3	Disease 9 15	CARIES
+T4	Abbreviation 17 18	D
+T5	Therapeutic_Procedure 53 75	OBTURACION DE AMALGAMA
+T6	Disease 78 84	CARIES
+T7	Therapeutic_Procedure 97 108	TREPANACIÓN
+T8	Medication 122 130	PARAMONO
+T9	Clinical_Finding 144 150	FERMIN
+T10	Abbreviation 122 130	PARAMONO

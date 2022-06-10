@@ -1,0 +1,8 @@
+T1	Disease 13 30	deficit cognitivo
+T2	Disease 32 41	epilepsia
+T3	Sign_or_Symptom 43 63	apiñamiento dentario
+T4	Clinical_Finding 65 71	caries
+T5	Sign_or_Symptom 73 80	tártaro
+T7	Abbreviation 90 92	rx
+T6	Diagnostic_Procedure 90 104	rx. panorámica
+A1	Pending T6

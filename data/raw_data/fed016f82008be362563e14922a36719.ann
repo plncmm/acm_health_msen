@@ -1,0 +1,6 @@
+T1	Body_Part 0 8	diente 1
+T2	Body_Part 96 104	16-17-32
+T4	Therapeutic_Procedure 77 87	extraccion
+A1	Pending T4
+T3	Disease 0 26	diente 1 caries dentinaria
+T5	Clinical_Finding 27 42	semierupcionada

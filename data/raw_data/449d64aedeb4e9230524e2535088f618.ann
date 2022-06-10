@@ -1,0 +1,8 @@
+T1	Abbreviation 0 3	Pte
+T2	Abbreviation 13 16	ECO
+T3	Abbreviation 17 19	TV
+T4	Diagnostic_Procedure 13 19	ECO TV
+T5	Laboratory_or_Test_Result 28 49	imagen hiperecogènica
+R1	Has Arg1:T4 Arg2:T5	
+T6	Disease 88 93	mioma
+T7	Disease 94 100	pólipo

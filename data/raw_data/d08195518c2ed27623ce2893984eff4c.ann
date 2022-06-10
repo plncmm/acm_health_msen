@@ -1,0 +1,16 @@
+T2	Sign_or_Symptom 8 28	dolor a la percusión
+T4	Medication 127 131	PMCF
+T5	Medication 134 140	fermin
+T6	Abbreviation 127 131	PMCF
+T7	Abbreviation 154 157	tto
+T1	Body_Part 0 7	pza 2.2
+T8	Body_Part 190 197	pza 2.2
+T9	Abbreviation 190 193	pza
+T10	Abbreviation 0 3	pza
+#1	AnnotatorNotes T6	paramonocronofenol
+T11	Diagnostic_Procedure 33 52	examen radiográfico
+T12	Therapeutic_Procedure 154 167	tto radicular
+T3	Laboratory_or_Test_Result 64 77	lesión apical
+R1	Has Arg1:T11 Arg2:T3	
+T13	Therapeutic_Procedure 90 101	trepanación
+A1	Pending T12

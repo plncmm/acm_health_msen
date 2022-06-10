@@ -1,0 +1,9 @@
+T1	Abbreviation 115 118	Obs
+T2	Body_Part 135 148	Anexo Derecho
+T3	Clinical_Finding 0 8	Nulipara
+T4	Sign_or_Symptom 9 22	Oligomenorrea
+T5	Clinical_Finding 23 38	Perimenopausica
+T6	Disease 40 74	Incontinencia Urinaria De Esfuerzo
+T7	Laboratory_or_Test_Result 75 114	Gran Lesion Quistica  Anexial Izquierda
+T8	Disease 119 131	Endometrioma
+T9	Disease 149 159	miomatosis

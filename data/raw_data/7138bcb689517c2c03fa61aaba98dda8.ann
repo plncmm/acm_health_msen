@@ -1,0 +1,12 @@
+T1	Body_Part 18 33	AORTA ABDOMINAL
+T2	Abbreviation 81 84	APS
+T3	Abbreviation 178 181	ant
+T4	Abbreviation 203 206	eda
+T5	Body_Part 225 240	aorta abdominal
+T6	Disease 2 57	ANEURISMA DE LA AORTA ABDOMINAL, SIN MENCIÓN DE RUPTURA
+T7	Diagnostic_Procedure 106 125	ecografia abdominal
+T8	Sign_or_Symptom 130 150	distension abdominal
+T9	Sign_or_Symptom 163 176	epigastralgia
+T10	Disease 183 202	gastritis pendiente
+T11	Diagnostic_Procedure 203 206	eda
+T12	Disease 209 264	Aneurisma de la aorta abdominal, sin mencion de ruptura

@@ -1,0 +1,10 @@
+T1	Abbreviation 42 45	APS
+T2	Abbreviation 90 93	ant
+T3	Abbreviation 98 101	hta
+T4	Disease 2 18	HERNIA UMBILICAL
+T5	Disease 98 110	hta esencial
+T6	Disease 129 154	intolerancia a la glucosa
+T7	Laboratory_or_Test_Result 156 191	quistes hepàticos de aspecto simple
+T8	Sign_or_Symptom 261 305	HERNIA UMBILICAL E INCISIONAL INFRAUMBILICAL
+T9	Disease 307 323	Hernia umbilical
+T10	Clinical_Finding 76 85	normopeso

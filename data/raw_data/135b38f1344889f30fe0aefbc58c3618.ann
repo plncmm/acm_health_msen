@@ -1,0 +1,10 @@
+T1	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T2	Abbreviation 56 59	APS
+T3	Body_Part 107 123	terceros molares
+T4	Therapeutic_Procedure 91 103	extracciones
+A1	Pending T4
+T5	Disease 124 146	incluidos e impactados
+T6	Laboratory_or_Test_Result 152 169	posición vertical
+T7	Laboratory_or_Test_Result 186 205	raices convergentes
+T8	Body_Part 2 9	DIENTES
+T9	Body_Part 186 192	raices

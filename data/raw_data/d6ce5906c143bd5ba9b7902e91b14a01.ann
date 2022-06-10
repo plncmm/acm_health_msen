@@ -1,0 +1,26 @@
+T1	Family_Member 103 108	madre
+T2	Family_Member 211 216	Madre
+T3	Abbreviation 304 306	AR
+T4	Family_Member 307 312	madre
+T5	Abbreviation 345 348	ECG
+T6	Abbreviation 430 433	ECG
+T7	Family_Member 497 502	Madre
+T8	Abbreviation 579 581	SU
+T9	Abbreviation 704 708	Atte
+T10	Disease 2 60	BLOQUEO DE RAMA IZQUIERDA DEL HAZ, SIN OTRA ESPECIFICACIÓN
+T11	Clinical_Finding 115 136	antecedentes mórbidos
+A1	Negated T11
+T12	Clinical_Finding 189 210	Inmunizaciones al día
+T13	Clinical_Finding 228 235	alergia
+A2	Negated T13
+T14	Disease 304 306	AR
+R1	Has Arg1:T4 Arg2:T14	
+T15	Disease 314 330	hipotiroidismo  
+R2	Has Arg1:T4 Arg2:T15	
+T16	Diagnostic_Procedure 345 348	ECG
+T17	Diagnostic_Procedure 430 433	ECG
+T18	Laboratory_or_Test_Result 455 492	Bloqueo fascicular anterior izquierdo
+R3	Has Arg1:T17 Arg2:T18	
+T19	Sign_or_Symptom 527 533	disnea
+T20	Sign_or_Symptom 536 549	palpitaciones
+T21	Body_Part 13 35	RAMA IZQUIERDA DEL HAZ

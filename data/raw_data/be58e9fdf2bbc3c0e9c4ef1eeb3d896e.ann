@@ -1,0 +1,39 @@
+T1	Abbreviation 90 93	APS
+T2	Abbreviation 95 99	PCTE
+T3	Abbreviation 154 157	BEG
+T4	Abbreviation 206 209	DIU
+T5	Abbreviation 214 217	FUR
+T7	Body_Part 341 344	OCE
+T8	Abbreviation 341 344	OCE
+T9	Abbreviation 380 383	DIU
+T10	Abbreviation 329 331	AP
+T11	Body_Part 445 448	OCE
+T12	Abbreviation 445 448	OCE
+T6	Abbreviation 119 122	DIU
+T13	Abbreviation 272 275	AMP
+T14	Abbreviation 277 280	N/E
+T15	Abbreviation 295 296	-
+T16	Abbreviation 298 299	G
+T17	Abbreviation 300 301	P
+T18	Abbreviation 302 303	A
+T19	Abbreviation 304 305	V
+T20	Body_Part 322 328	CUELLO
+T21	Disease 2 66	COMPLICACIÓN MECÁNICA DE DISPOSITIVO ANTICONCEPTIVO INTRAUTERINO
+T22	Therapeutic_Procedure 119 122	DIU
+T23	Clinical_Finding 154 157	BEG
+T24	Sign_or_Symptom 167 182	ALGIAS PELVICAS
+T25	Therapeutic_Procedure 192 209	EXTRACCION DE DIU
+T26	Clinical_Finding 248 264	REGULAR CANTIDAD
+T27	Clinical_Finding 272 275	AMP
+A1	Negated T27
+T28	Clinical_Finding 298 300	G5
+T29	Clinical_Finding 300 302	P2
+T30	Clinical_Finding 302 304	A3
+T31	Clinical_Finding 304 306	V2
+T32	Sign_or_Symptom 322 336	CUELLO AP SANO
+T33	Sign_or_Symptom 341 352	OCE CERRADO
+T34	Sign_or_Symptom 357 383	SE VISUALIZAN GUIAS DE DIU
+A2	Negated T34
+T35	Sign_or_Symptom 389 411	LEUCORREA BACTERIANANO
+T36	Sign_or_Symptom 445 456	OCE CERRADO
+T37	Disease 479 543	Complicacion mecanica de dispositivo anticonceptivo intrauterino

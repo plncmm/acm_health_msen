@@ -1,0 +1,15 @@
+T1	Disease 17 37	ARTRITIS REUMATOIDEA
+T2	Disease 39 42	HTA
+T3	Disease 44 47	DM2
+T4	Disease 49 53	EPOC
+T5	Sign_or_Symptom 70 90	HIPOACUSIA BILATERAL
+T6	Abbreviation 0 4	PCTE
+#1	AnnotatorNotes T6	paciente
+T7	Abbreviation 10 15	ANTEC
+#2	AnnotatorNotes T7	antecedente
+T8	Abbreviation 39 42	HTA
+#3	AnnotatorNotes T8	hipertensión arterial
+T9	Abbreviation 44 46	DM
+#4	AnnotatorNotes T9	diabetes mellitus
+T10	Abbreviation 49 53	EPOC
+#5	AnnotatorNotes T10	enfermedad pulmonar obstructiva crónica

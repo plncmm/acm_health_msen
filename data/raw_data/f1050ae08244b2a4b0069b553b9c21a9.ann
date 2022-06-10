@@ -1,0 +1,11 @@
+T1	Body_Part 153 165	extremidades
+T2	Abbreviation 350 353	eco
+T3	Body_Part 311 326	region cervical
+T4	Disease 2 45	INSUFICIENCIA VENOSA (CRÓNICA) (PERIFÉRICA)
+T5	Disease 50 100	TUMOR BENIGNO LIPOMATOSO, DE SITIO NO ESPECIFICADO
+T6	Sign_or_Symptom 144 165	edema de extremidades
+T7	Sign_or_Symptom 177 198	varices superficiales
+T8	Sign_or_Symptom 289 335	aumento de volumen en region cervical doloroso
+T9	Diagnostic_Procedure 350 368	eco partes blandas
+T10	Laboratory_or_Test_Result 380 386	lipoma
+R1	Has Arg1:T9 Arg2:T10	

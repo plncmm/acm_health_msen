@@ -1,0 +1,16 @@
+T1	Abbreviation 73 76	APS
+T2	Medication 796 806	Fluoxetina
+T3	Abbreviation 809 811	mg
+T4	Medication 818 828	sertralina
+T5	Abbreviation 832 834	mg
+T6	Family_Member 78 86	Familiar
+T9	Disease 2 29	EPISODIO DEPRESIVO MODERADO
+T10	Disease 33 49	BULIMIA NERVIOSA
+T11	Disease 134 141	bulimia
+T12	Sign_or_Symptom 403 409	palida
+T13	Sign_or_Symptom 412 419	mareada
+T7	Sign_or_Symptom 457 493	inducirse vomitos para bajar de peso
+A1	Negated T7
+T8	Sign_or_Symptom 525 534	atracones
+T14	Sign_or_Symptom 569 613	conductas compensatorias (ejercicio intenso)
+T15	Clinical_Finding 184 211	deporte de alto rendimiento

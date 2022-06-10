@@ -1,0 +1,8 @@
+T1	Abbreviation 112 115	APS
+T2	Abbreviation 155 159	evol
+T3	Disease 2 46	HEMORRAGIA GASTROINTESTINAL, NO ESPECIFICADA
+T4	Disease 62 87	hemorragia digestiva baja
+T5	Sign_or_Symptom 125 148	deposiciones con sangre
+T6	Sign_or_Symptom 161 172	hematemesis
+T7	Sign_or_Symptom 176 182	melena
+T8	Disease 186 197	hemorroides

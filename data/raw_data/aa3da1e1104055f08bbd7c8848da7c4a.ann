@@ -1,0 +1,30 @@
+T1	Abbreviation 380 384	Crea
+T2	Abbreviation 77 80	APS
+T3	Abbreviation 148 151	tto
+T4	Abbreviation 302 305	VHS
+T5	Abbreviation 337 340	GGT
+T6	Abbreviation 346 349	GOT
+T7	Abbreviation 350 353	GPT
+T8	Abbreviation 362 364	BT
+T9	Abbreviation 365 367	BD
+T10	Abbreviation 505 509	ATTE
+T11	Disease 2 27	RESISTENCIA A LA INSULINA
+T12	Disease 31 53	TROMBOCITOSIS ESENCIAL
+T13	Disease 122 144	resistencia a insulina
+T14	Disease 172 193	trombocitosis aislada
+T15	Laboratory_or_Test_Result 172 185	trombocitosis
+T16	Laboratory_or_Test_Result 31 44	TROMBOCITOSIS
+T17	Laboratory_Procedure 195 204	Plaquetas
+T18	Laboratory_Procedure 237 246	hemograma
+T19	Laboratory_Procedure 261 270	plaquetas
+T20	Laboratory_or_Test_Result 280 300	aumentadas al frotis
+R1	Has Arg1:T18 Arg2:T20	
+T21	Laboratory_Procedure 310 330	Fosfatasas Alcalinas
+T22	Laboratory_Procedure 337 340	GGT
+T24	Laboratory_Procedure 362 364	BT
+T25	Laboratory_Procedure 365 367	BD
+T23	Laboratory_Procedure 346 349	GOT
+T26	Laboratory_Procedure 350 353	GPT
+T27	Laboratory_Procedure 380 384	Crea
+T28	Sign_or_Symptom 424 446	hepatomegalia sensible
+T29	Disease 513 573	Otros trastornos de la absorcion intestinal de carbohidratos

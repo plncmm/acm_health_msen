@@ -1,0 +1,48 @@
+T1	Body_Part 20 33	VÍAS BILIARES
+T2	Body_Part 121 126	COLON
+T3	Body_Part 153 166	colon ascende
+T4	Body_Part 501 517	COLON ASCENDENTE
+T5	Body_Part 574 598	VIA BILIAR INTRAHEPATICA
+T6	Abbreviation 342 345	TAC
+T7	Abbreviation 360 362	SU
+T8	Abbreviation 363 366	HPH
+T9	Abbreviation 422 425	TAC
+T10	Abbreviation 764 765	-
+T11	Abbreviation 880 884	Atte
+T12	Disease 2 50	ENFERMEDAD DE LAS VÍAS BILIARES, NO ESPECIFICADA
+T13	Disease 54 66	COLELITIASIS
+T14	Disease 70 126	TUMOR DE COMPORTAMIENTO INCIERTO O DESCONOCIDO DEL COLON
+T15	Laboratory_or_Test_Result 126 190	Imagen densa en relacion a colon ascende de aspecto inespecifico
+T16	Disease 232 241	silicosis
+T17	Clinical_Finding 247 263	cirugias previas
+A1	Negated T17
+T18	Clinical_Finding 274 282	alergias
+A2	Negated T18
+T19	Diagnostic_Procedure 342 345	TAC
+T20	Sign_or_Symptom 379 402	dolor abdominal intenso
+T21	Sign_or_Symptom 404 411	nauseas
+T22	Sign_or_Symptom 413 420	vomitos
+T23	Diagnostic_Procedure 422 425	TAC
+T24	Disease 446 473	Quistes renales bilaterales
+T25	Laboratory_or_Test_Result 446 473	Quistes renales bilaterales
+R1	Has Arg1:T23 Arg2:T25	
+T26	Laboratory_or_Test_Result 474 541	IMAGEN DENSA EN RELACION A COLON ASCENDENTE DE ASPECTO INESPECIFICO
+R2	Has Arg1:T23 Arg2:T26	
+T27	Laboratory_or_Test_Result 542 554	Colelitiasis
+T28	Disease 542 554	Colelitiasis
+R3	Has Arg1:T23 Arg2:T27	
+T29	Laboratory_or_Test_Result 555 621	LEVE DILATACION DE VIA BILIAR INTRAHEPATICA SIN UNA CAUSA EVIDENTE
+R4	Has Arg1:T23 Arg2:T29	
+T30	Laboratory_or_Test_Result 622 647	Aumento tamaño prostatico
+R5	Has Arg1:T23 Arg2:T30	
+T31	Sign_or_Symptom 680 700	distencion abdominal
+T32	Sign_or_Symptom 706 718	hematoquezia
+A3	Negated T32
+T33	Sign_or_Symptom 722 733	rectorragia
+A4	Negated T33
+T34	Sign_or_Symptom 739 751	baja de peso
+A5	Negated T34
+T35	Sign_or_Symptom 753 762	ictericia
+A6	Negated T35
+T36	Clinical_Finding 768 810	Examen fisico sin hallazgos de importancia
+R6	Has Arg1:T19 Arg2:T15	

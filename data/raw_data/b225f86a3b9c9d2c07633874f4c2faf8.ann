@@ -1,0 +1,27 @@
+T1	Disease 102 116	HIPOTIROIDISMO
+T2	Disease 120 129	EPILEPSIA
+T3	Abbreviation 33 36	SEM
+#1	AnnotatorNotes T3	semanas
+T4	Abbreviation 39 42	FUR
+#2	AnnotatorNotes T4	fecha de la última regla
+T5	Abbreviation 47 50	SEM
+#3	AnnotatorNotes T5	semanas
+T6	Abbreviation 53 56	ECO
+#4	AnnotatorNotes T6	ecografía
+T7	Abbreviation 71 74	SEM
+#5	AnnotatorNotes T7	semanas
+T8	Abbreviation 97 101	OBS.
+#6	AnnotatorNotes T8	observaciones
+T9	Abbreviation 88 93	E.G.D
+#7	AnnotatorNotes T9	edad gestacional dudosa
+T10	Abbreviation 145 147	C/
+#8	AnnotatorNotes T10	con
+T11	Abbreviation 37 38	X
+#9	AnnotatorNotes T11	por
+T12	Abbreviation 51 52	X
+#10	AnnotatorNotes T12	por
+T13	Abbreviation 75 76	X
+#11	AnnotatorNotes T13	por
+T14	Medication 148 157	FENITOINA
+T15	Clinical_Finding 3 13	PRIMIGESTA
+T16	Diagnostic_Procedure 53 56	ECO

@@ -1,0 +1,11 @@
+T1	Body_Part 2 10	PREPUCIO
+T2	Abbreviation 68 71	APS
+T3	Abbreviation 221 224	qca
+T4	Body_Part 226 234	Prepucio
+T5	Disease 2 44	PREPUCIO REDUNDANTE, FIMOSIS Y PARAFIMOSIS
+T6	Sign_or_Symptom 102 154	fimosis puntiforme asociada a episoidio de balanitos
+T7	Disease 132 154	episoidio de balanitos
+T8	Disease 102 109	fimosis
+T9	Therapeutic_Procedure 210 224	resolucion qca
+T10	Disease 226 268	Prepucio redundante, fimosis y parafimosis
+A1	Pending T9

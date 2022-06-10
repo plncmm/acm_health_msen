@@ -1,0 +1,13 @@
+T1	Abbreviation 0 2	DG
+T2	Abbreviation 84 87	IZQ
+T3	Abbreviation 95 97	DG
+T4	Abbreviation 58 61	4to
+T5	Abbreviation 181 184	ECG
+T6	Body_Part 58 87	4to. ESPACIO COSTEOCOSTAL IZQ
+T7	Abbreviation 171 174	N/E
+T8	Disease 4 20	DOLOR PRECORDIAL
+T9	Sign_or_Symptom 52 87	DOLOR 4to. ESPACIO COSTEOCOSTAL IZQ
+T10	Disease 102 123	NEURITIS INTERMITENTE
+T11	Diagnostic_Procedure 181 184	ECG
+T12	Laboratory_or_Test_Result 185 191	NORMAL
+R1	Has Arg1:T11 Arg2:T12	

@@ -1,0 +1,6 @@
+T1	Abbreviation 0 3	HPB
+T3	Disease 26 44	RETENCION URINARIA
+T4	Therapeutic_Procedure 77 104	CIRUGIA RETROPUBICA ABIERTA
+T2	Disease 0 3	HPB
+T5	Sign_or_Symptom 7 24	RETENCION CRONICA
+A1	Pending T4

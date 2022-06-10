@@ -1,0 +1,9 @@
+T1	Clinical_Finding 38 43	asa i
+T2	Abbreviation 38 41	asa
+T3	Disease 45 67	dentada total superior
+T4	Sign_or_Symptom 69 103	desdentada clase ii corta inferior
+T5	Sign_or_Symptom 105 143	facetas de desgaste marcada en molares
+T6	Disease 145 153	bruxismo
+T7	Therapeutic_Procedure 206 229	plano de estabilizacion
+A1	Pending T7
+T8	Body_Part 136 143	molares

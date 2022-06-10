@@ -1,0 +1,7 @@
+T1	Disease 28 45	Obesidad morbidad
+T2	Abbreviation 88 91	tto
+#1	AnnotatorNotes T2	tratamiento
+T3	Abbreviation 118 120	Kg
+#2	AnnotatorNotes T3	kilogramos
+T4	Therapeutic_Procedure 55 72	apoyo psicológico
+A1	Pending T4

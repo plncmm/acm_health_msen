@@ -1,0 +1,7 @@
+T1	Abbreviation 26 29	TSH
+T2	Abbreviation 50 53	Eco
+T3	Abbreviation 140 144	atte
+T4	Laboratory_Procedure 26 29	TSH
+T5	Diagnostic_Procedure 50 62	Eco tiroidea
+A1	Pending T5
+T6	Disease 146 160	HIPOTIROIDISMO

@@ -1,0 +1,7 @@
+T1	Abbreviation 40 44	POST
+T2	Abbreviation 77 80	ANT
+T3	Sign_or_Symptom 67 75	PILIURIA
+T4	Sign_or_Symptom 34 55	GOTEO POST. MICCIONAL
+T5	Laboratory_Procedure 77 92	ANT. PROSTATICO
+T6	Laboratory_or_Test_Result 99 105	NORMAL
+R1	Has Arg1:T5 Arg2:T6	

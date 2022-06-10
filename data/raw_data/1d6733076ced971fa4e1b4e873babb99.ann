@@ -1,0 +1,14 @@
+T1	Abbreviation 38 41	APS
+T2	Abbreviation 133 135	CM
+T3	Abbreviation 177 179	CM
+T4	Abbreviation 234 236	CM
+T5	Abbreviation 292 294	KG
+T6	Abbreviation 305 307	PE
+T8	Abbreviation 311 313	TE
+T10	Abbreviation 317 319	PT
+T11	Abbreviation 320 321	N
+T7	Disease 2 14	MACROCEFALIA
+T9	Clinical_Finding 56 77	ANTECEDENTES MORBIDOS
+A1	Negated T9
+T12	Clinical_Finding 255 282	PAUTA NEUROSENSORIAL NORMAL
+T13	Disease 322 334	Macrocefalia

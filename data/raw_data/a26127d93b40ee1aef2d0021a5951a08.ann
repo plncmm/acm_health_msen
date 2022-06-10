@@ -1,0 +1,9 @@
+T1	Disease 2 23	PERIODONTITIS CRÓNICA
+T2	Sign_or_Symptom 27 57	CÁLCULO DENTARIO SUPRAGINGIVAL
+T3	Disease 70 96	desdetada parcial superior
+T4	Clinical_Finding 111 129	prótesis removible
+T7	Therapeutic_Procedure 321 332	destratraje
+T5	Sign_or_Symptom 141 208	abundante cálculo dentario supra y subgingival, de difícil remoción
+T6	Body_Part 217 224	dientes
+T8	Sign_or_Symptom 229 249	movilidad patológica
+T9	Sign_or_Symptom 252 291	hipersensibilidad cervical generalizada

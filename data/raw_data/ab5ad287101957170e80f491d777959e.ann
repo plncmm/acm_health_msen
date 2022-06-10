@@ -1,0 +1,6 @@
+T1	Body_Part 26 43	tejido conjuntivo
+T2	Body_Part 55 70	tejidos blandos
+T3	Disease 0 5	MIOMA
+T4	Disease 8 96	Tumor benigno del tejido conjuntivo y de otros tejidos blandos, de sitio no especificado
+T5	Disease 97 119	FISTULA VESICO VAGINAL
+T6	Disease 122 143	Fístula vesicovaginal

@@ -1,0 +1,30 @@
+T1	Disease 2 52	INFECCIÓN DE VÍAS URINARIAS, SITIO NO ESPECIFICADO
+T2	Disease 52 66	ITU RECURRENTE
+T3	Disease 111 114	ITU
+T4	Disease 311 361	Infeccion de vias urinarias, sitio no especificado
+T5	Abbreviation 52 55	ITU
+#1	AnnotatorNotes T5	infección del tracto urinario
+T6	Abbreviation 90 93	APS
+#2	AnnotatorNotes T6	atención primaria de salud
+T7	Abbreviation 108 110	Dg
+#3	AnnotatorNotes T7	diagnóstico
+T8	Abbreviation 111 114	ITU
+#4	AnnotatorNotes T8	infección del tracto urinario
+T9	Abbreviation 266 268	Ex
+#5	AnnotatorNotes T9	examen
+T10	Abbreviation 302 303	E
+#6	AnnotatorNotes T10	escherichia
+T11	Body_Part 15 29	VÍAS URINARIAS
+T12	Medication 172 184	antibioticos
+T13	Medication 186 197	cefadroxilo
+T14	Medication 199 206	cefirax
+T15	Medication 208 223	nitrofurantoina
+T16	Medication 225 236	gentamicina
+T17	Medication 238 249	Cefdopoxima
+T18	Body_Part 324 338	vias urinarias
+T19	Laboratory_Procedure 266 275	Ex. orina
+T20	Laboratory_Procedure 287 297	Urocultivo
+T21	Laboratory_or_Test_Result 302 309	E. coli
+R1	Has Arg1:T20 Arg2:T21	
+T22	Laboratory_or_Test_Result 276 284	alterado
+R2	Has Arg1:T19 Arg2:T22	

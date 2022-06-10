@@ -1,0 +1,6 @@
+T1	Body_Part 0 9	Pieza 4.8
+T2	Body_Part 38 47	Pieza 3.8
+T3	Sign_or_Symptom 0 36	Pieza 4.8 en mesioinclinación franca
+T4	Clinical_Finding 38 68	Pieza 3.8 en posición vertical
+T5	Therapeutic_Procedure 85 105	exodoncia quirurgica
+A1	Pending T5

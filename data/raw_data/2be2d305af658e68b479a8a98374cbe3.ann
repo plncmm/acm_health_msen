@@ -1,0 +1,6 @@
+T1	Abbreviation 0 3	PZA
+T2	Body_Part 0 6	PZA 17
+T3	Laboratory_or_Test_Result 0 65	PZA 17, SEMIINCLUIDA, CON CARIES OCLUSODISTAL Y RAIZ CURVA MESIAL
+T4	Disease 26 32	CARIES
+T5	Body_Part 48 52	RAIZ
+T6	Abbreviation 156 159	TTO

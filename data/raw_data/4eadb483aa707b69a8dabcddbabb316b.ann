@@ -1,0 +1,10 @@
+T1	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T2	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T3	Abbreviation 70 73	APS
+T4	Disease 92 142	desplazamiento discal con reduccion en ATM derecha
+T5	Body_Part 131 142	ATM derecha
+T6	Abbreviation 131 134	ATM
+T7	Clinical_Finding 148 179	historia de bloqueo en apertura
+T8	Sign_or_Symptom 184 271	examen articuar se escucha un "click" al final de la apertura y al principio del cierre
+T9	Disease 273 317	Trastornos de la articulacion temporomaxilar
+T10	Body_Part 290 317	articulacion temporomaxilar

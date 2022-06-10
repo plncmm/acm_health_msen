@@ -1,0 +1,11 @@
+T1	Abbreviation 0 2	FX
+T2	Abbreviation 105 108	DMO
+T3	Body_Part 115 131	cadera izquierda
+T4	Body_Part 166 172	cadera
+T5	Medication 73 86	bifofsfonatos
+T6	Disease 3 15	OSTEOPOROSIS
+T7	Disease 31 42	osteoporosi
+T8	Diagnostic_Procedure 105 110	DMO  
+T9	Disease 188 196	fractura
+T10	Disease 154 162	fractura
+T11	Diagnostic_Procedure 139 143	FRAX

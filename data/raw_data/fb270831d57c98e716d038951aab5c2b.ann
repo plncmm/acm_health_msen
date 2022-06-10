@@ -1,0 +1,9 @@
+T1	Body_Part 108 111	OJO
+T2	Abbreviation 117 118	+
+T3	Abbreviation 134 138	SICA
+T4	Disease 0 4	M350
+T5	Disease 5 28	SINDROME SECO (SJÖGREN)
+T6	Disease 55 68	BLEFAROSPASMO
+T7	Medication 81 98	TOXINA BOTULINICA
+T8	Sign_or_Symptom 108 116	OJO SECO
+T9	Sign_or_Symptom 134 138	SICA

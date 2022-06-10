@@ -1,0 +1,34 @@
+T1	Disease 2 37	NÓDULO TIROIDEO SOLITARIO NO TÓXICO
+T2	Laboratory_or_Test_Result 37 73	nodulo tiroideo vascularizado en LTI
+T3	Sign_or_Symptom 143 151	malestar
+T4	Sign_or_Symptom 157 177	sensaciones de mareo
+T5	Sign_or_Symptom 178 193	dolor de cabeza
+T6	Sign_or_Symptom 214 234	molestia de garganta
+T7	Sign_or_Symptom 235 262	sensacion de cuerpo extraña
+T8	Sign_or_Symptom 263 287	molestias a la deglucion
+T9	Sign_or_Symptom 294 327	sensacion de obstruccion faringea
+T10	Laboratory_or_Test_Result 429 447	dislipidemia mixta
+T11	Disease 730 765	Nodulo tiroideo solitario no toxico
+T12	Sign_or_Symptom 328 335	milagia
+T13	Abbreviation 97 100	APS
+#1	AnnotatorNotes T13	atención primaria de salud
+T14	Abbreviation 70 73	LTI
+#2	AnnotatorNotes T14	lóbulo tiroideo izquierdo
+T15	Abbreviation 586 588	mm
+#3	AnnotatorNotes T15	milímetros
+T16	Abbreviation 610 613	LTI
+#4	AnnotatorNotes T16	lóbulo tiroideo izquierdo
+T17	Abbreviation 687 689	mm
+#5	AnnotatorNotes T17	milímetros
+T18	Body_Part 472 478	cuello
+T19	Body_Part 491 508	glandula tiroides
+T20	Body_Part 187 193	cabeza
+T21	Body_Part 226 234	garganta
+T22	Body_Part 626 633	ganglio
+T23	Body_Part 650 672	cadena yugular derecha
+T24	Diagnostic_Procedure 459 478	ecografia de cuello
+T25	Laboratory_or_Test_Result 522 613	nodulo solido heterogeneo vascularizado de aproximadamente 13,2 mm en polo inferiror de LTI
+R1	Has Arg1:T24 Arg2:T25	
+T26	Laboratory_or_Test_Result 615 689	un pequeño ganglio inespecifico en cadena yugular derecha no mayo r a 7 mm
+R2	Has Arg1:T24 Arg2:T26	
+T27	Body_Part 610 613	LTI

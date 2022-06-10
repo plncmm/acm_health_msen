@@ -1,0 +1,9 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 217 219	mm
+T3	Body_Part 200 212	arcada menor
+T4	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T5	Disease 92 113	anomalia dentomaxilar
+T6	Clinical_Finding 116 137	clase I molar derecha
+T7	Sign_or_Symptom 140 164	clase II molar izquierda
+T8	Sign_or_Symptom 167 212	falata de espacio moderado en la arcada menor
+T9	Disease 260 307	Anomalias dentofaciales (incluso la maloclusion

@@ -1,0 +1,8 @@
+T1	Abbreviation 34 37	HTA
+T2	Abbreviation 57 59	OD
+T3	Body_Part 57 59	OD
+T4	Abbreviation 71 73	OI
+T5	Body_Part 71 73	OI
+T6	Disease 2 21	VICIO DE REFRACCION
+T7	Disease 34 37	HTA
+T8	Diagnostic_Procedure 41 55	AGUDEZA VISUAL

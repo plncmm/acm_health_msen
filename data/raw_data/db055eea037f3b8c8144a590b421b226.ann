@@ -1,0 +1,5 @@
+T1	Abbreviation 83 86	TTO
+T2	Disease 0 6	ULCERA
+T3	Laboratory_or_Test_Result 0 28	ULCERA FORREST III DUODOENAL
+T4	Laboratory_or_Test_Result 28 49	INCOMPETENCIA CRADIAS
+T5	Disease 49 68	HELICOPBATER PYLORI

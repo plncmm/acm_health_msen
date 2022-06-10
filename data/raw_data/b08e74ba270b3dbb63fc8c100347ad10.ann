@@ -1,0 +1,19 @@
+T1	Abbreviation 62 65	VCM
+T2	Abbreviation 68 70	HB
+T3	Abbreviation 73 76	HTO
+T4	Abbreviation 114 116	AV
+T5	Abbreviation 138 140	AV
+T6	Abbreviation 144 146	MG
+T7	Abbreviation 147 149	KG
+T8	Abbreviation 173 176	TTO
+T9	Abbreviation 177 180	DSM
+T10	Disease 0 4	D509
+T11	Disease 5 61	ANEMIA POR DEFICIENCIA DE HIERRO SIN OTRA ESPECIFICACIÓN
+T12	Laboratory_Procedure 62 65	VCM
+T13	Laboratory_Procedure 73 76	HTO
+T14	Laboratory_Procedure 68 70	HB
+T15	Laboratory_Procedure 79 88	PLAQUETAS
+T16	Medication 138 140	AV
+T17	Medication 114 116	AV
+T18	Disease 154 169	EPILEPSIA FOCAL
+T19	Sign_or_Symptom 177 187	DSM NORMAL

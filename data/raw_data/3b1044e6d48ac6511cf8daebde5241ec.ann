@@ -1,0 +1,70 @@
+T1	Abbreviation 69 74	Pacte
+T2	Body_Part 21 37	MIEMBRO INFERIOR
+T3	Body_Part 180 199	miembros inferiores
+T4	Abbreviation 202 207	Pacte
+T5	Body_Part 265 283	miembros inferires
+T6	Abbreviation 285 290	pacte
+T7	Abbreviation 429 434	pacte
+T8	Family_Member 538 542	hijo
+T9	Family_Member 573 577	hijo
+T10	Abbreviation 642 647	pacte
+T11	Body_Part 672 689	iembros iferiores
+T12	Abbreviation 730 735	pacte
+T13	Body_Part 884 890	Cabeza
+T14	Body_Part 913 917	Cara
+T15	Body_Part 922 926	Ojos
+T16	Body_Part 937 948	mucosa conj
+T17	Abbreviation 944 948	conj
+T18	Body_Part 959 963	Boca
+T19	Body_Part 968 974	Mucosa
+T20	Body_Part 994 1000	Cuello
+T21	Body_Part 1085 1093	Tiroides
+T22	Body_Part 1112 1117	Tórax
+T23	Body_Part 1122 1135	Caja toráxica
+T24	Body_Part 1281 1288	Corazón
+T25	Body_Part 1349 1356	Abdomen
+T26	Body_Part 1368 1375	ombligo
+T27	Body_Part 1413 1419	Hígado
+T28	Body_Part 1446 1450	Bazo
+T29	Body_Part 1606 1614	miembros
+T30	Body_Part 1465 1477	Extremidades
+T31	Body_Part 1839 1846	Columna
+T32	Disease 2 62	MONONEUROPATIA DEL MIEMBRO INFERIOR, SIN OTRA ESPECIFICACIÓN
+T33	Disease 130 140	paraplejia
+T34	Disease 154 199	enfermedad neuropatica de miembros inferiores
+T35	Disease 247 283	neuropatia en sus miembros inferires
+T36	Disease 587 601	estado vegetal
+R1	Has Arg1:T9 Arg2:T36	
+T37	Sign_or_Symptom 607 623	daño neurologico
+T38	Sign_or_Symptom 648 689	pierde movilidad de sus iembros iferiores
+T39	Sign_or_Symptom 822 837	logra movilizar
+A1	Negated T39
+T40	Clinical_Finding 895 911	Sin alteraciones
+T42	Sign_or_Symptom 968 991	Mucosa húmedas, dentada
+T43	Clinical_Finding 994 1002;1003 1021	Cuello:
+ - Sin alteraciones
+T44	Sign_or_Symptom 1413 1442	Hígado bajo el reborde costal
+T45	Sign_or_Symptom 1446 1462	Bazo no se palpa
+T46	Sign_or_Symptom 1361 1409	Plano, ombligo umbilicado, depresible e indoloro
+T47	Sign_or_Symptom 1209 1248	Pulmonar: murmullo vesicular conservado
+T48	Sign_or_Symptom 1122 1182;1183 1204	Caja toráxica sin alteraciones sin dolor palpacion costal  
+ - Respiración eupneic
+T49	Sign_or_Symptom 1025 1051	Pulsos carotídeos normales
+T50	Sign_or_Symptom 1055 1081	Yugulares sin alteraciones
+T51	Sign_or_Symptom 1465 1479;1480 1558;1559 1571	Extremidades:
+ - Superiores inspección sin alteraciones, fuerzas y movimientos conservados y
+ - Inferiores
+T52	Sign_or_Symptom 1574 1598	perdida de tono muscular
+T53	Sign_or_Symptom 1648 1678	presencia de respuesta a dolor
+A2	Negated T53
+T54	Sign_or_Symptom 1600 1623	ambos miembros atoficos
+T55	Sign_or_Symptom 1625 1643	poca masa muscular
+T56	Sign_or_Symptom 1707 1749	Pulsos periféricos conservados, simétricos
+T57	Sign_or_Symptom 1290 1323	Ritmo regular, tonos conservados,
+T58	Sign_or_Symptom 1330 1346	auscultan soplos
+A3	Negated T58
+T59	Sign_or_Symptom 1482 1555	Superiores inspección sin alteraciones, fuerzas y movimientos conservados
+T60	Sign_or_Symptom 1752 1776;1777 1836	Neurológico periférico:
+ - Movilidad, fuerzas y reflejos osteotendinosos conservados
+T61	Sign_or_Symptom 1839 1848;1849 1891	Columna:
+ - Inspección, ejes y movilidad conservados

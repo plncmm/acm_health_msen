@@ -1,0 +1,22 @@
+T1	Abbreviation 72 75	APS
+T2	Body_Part 153 165	oido derecho
+T3	Body_Part 326 340	oido izquierdo
+T4	Abbreviation 473 476	cae
+T5	Body_Part 473 476	cae
+T6	Disease 2 48	HIPOACUSIA CONDUCTIVA, SIN OTRA ESPECIFICACIÓN
+T7	Sign_or_Symptom 112 165	hipoausia bilateral con mayor compromiso oido derecho
+T8	Disease 198 222	otittis media supurativa
+T9	Sign_or_Symptom 266 292	disminucion de la audicion
+T10	Disease 398 405	otittis
+T11	Clinical_Finding 418 427	audifonos
+A1	Negated T11
+T12	Clinical_Finding 473 486	cae permeable
+T13	Sign_or_Symptom 492 497	tapon
+A2	Negated T13
+T14	Sign_or_Symptom 502 510	lesiones
+A3	Negated T14
+T15	Sign_or_Symptom 514 523	secrecion
+A4	Negated T15
+T16	Sign_or_Symptom 528 554	timpanesclerosis bilateral
+T17	Clinical_Finding 433 448	trauma acustico
+A5	Negated T17

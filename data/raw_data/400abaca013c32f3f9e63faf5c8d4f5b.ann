@@ -1,0 +1,6 @@
+T1	Disease 2 41	GINGIVITIS Y ENFERMEDADES PERIODONTALES
+T2	Abbreviation 65 68	APS
+T3	Disease 70 86	gingivitis aguda
+T4	Therapeutic_Procedure 100 124	destartraje y profilaxis
+T5	Sign_or_Symptom 196 215	retraccion gingival
+T6	Disease 216 255	Gingivitis y enfermedades periodontales

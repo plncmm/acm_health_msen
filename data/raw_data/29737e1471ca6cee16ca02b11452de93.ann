@@ -1,0 +1,16 @@
+T1	Body_Part 19 42	DISCOS INTERVERTEBRALES
+T2	Abbreviation 83 86	APS
+T3	Abbreviation 208 210	kg
+T4	Abbreviation 219 221	rx
+T5	Body_Part 225 239	columna dorsal
+T6	Abbreviation 240 243	ALP
+T8	Body_Part 429 452	discos intervertebrales
+T7	Body_Part 282 317	espaciios intervertebrales D1 - D12
+T9	Disease 2 59	TRASTORNO DE LOS DISCOS INTERVERTEBRALES, NO ESPECIFICADO
+T10	Sign_or_Symptom 101 127	larga data de dolor dorsal
+T11	Diagnostic_Procedure 219 251	rx de columna dorsal ALP-LAteral
+T12	Laboratory_or_Test_Result 264 342	estrechamiento de espaciios intervertebrales D1 - D12con esclerosis subcondral
+T13	Laboratory_or_Test_Result 345 383	reaccion osteofitica marginal anterior
+R1	Has Arg1:T11 Arg2:T12	
+R2	Has Arg1:T11 Arg2:T13	
+T14	Disease 412 469	Trastorno de los discos intervertebrales, no especificado

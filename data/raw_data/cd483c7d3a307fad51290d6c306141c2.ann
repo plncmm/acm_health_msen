@@ -1,0 +1,9 @@
+T1	Disease 0 11	APIÑAMIENTO
+T2	Body_Part 21 28	GRUPO V
+T3	Sign_or_Symptom 0 28	APIÑAMIENTO DENTARIO GRUPO V
+T4	Disease 41 52	Apiñamiento
+T5	Sign_or_Symptom 41 69	Apiñamiento dentario grupo 5
+T6	Sign_or_Symptom 71 104	pzas 3,2y4,2 en posicion ectopica
+T7	Body_Part 71 83	pzas 3,2y4,2
+T8	Abbreviation 71 75	pzas
+T9	Body_Part 62 69	grupo 5

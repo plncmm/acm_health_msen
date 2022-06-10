@@ -1,0 +1,15 @@
+T1	Body_Part 13 29	CUERPO DEL ÚTERO
+T2	Body_Part 249 265	cuerpo del utero
+T3	Abbreviation 53 56	APS
+T4	Abbreviation 58 59	M
+T5	Abbreviation 61 63	ET
+T6	Abbreviation 178 181	ECO
+T7	Abbreviation 195 197	DG
+T8	Abbreviation 224 227	FUR
+T9	Disease 2 29	PÓLIPO DEL CUERPO DEL ÚTERO
+T10	Diagnostic_Procedure 178 181	ECO
+T11	Laboratory_or_Test_Result 202 222	POLIPOS ENDOMETRIAES
+R1	Has Arg1:T10 Arg2:T11	
+T12	Disease 202 222	POLIPOS ENDOMETRIAES
+T13	Disease 238 265	Polipo del cuerpo del utero
+T14	Sign_or_Symptom 118 158	METRORRAGIAS POST COITALES Y AL ESFUERZO

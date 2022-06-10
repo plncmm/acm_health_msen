@@ -1,0 +1,10 @@
+T1	Therapeutic_Procedure 36 54	protesis removible
+A1	Pending T1
+T2	Sign_or_Symptom 78 123	multiples piezas ausentes en maxilar superior
+T3	Body_Part 88 94	piezas
+T4	Body_Part 107 123	maxilar superior
+T5	Therapeutic_Procedure 133 145	obturaciones
+T6	Therapeutic_Procedure 182 192	exodoncias
+A2	Pending T6
+T7	Therapeutic_Procedure 217 252	protesis removible parcial superior
+A3	Pending T7

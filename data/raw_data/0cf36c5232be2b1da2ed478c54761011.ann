@@ -1,0 +1,11 @@
+T1	Abbreviation 34 37	BMN
+T2	Abbreviation 88 91	HTA
+T3	Abbreviation 94 96	DM
+T4	Abbreviation 106 111	preop
+T5	Disease 34 37	BMN
+T6	Therapeutic_Procedure 56 69	tiroidectomía
+A1	Pending T6
+T7	Disease 88 91	HTA
+T8	Disease 94 96	DM
+T9	Laboratory_or_Test_Result 116 128	hipeglicemia
+T10	Laboratory_or_Test_Result 149 161	hiperkalemia

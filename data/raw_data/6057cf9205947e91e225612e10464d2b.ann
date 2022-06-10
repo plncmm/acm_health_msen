@@ -1,0 +1,8 @@
+T1	Medication 95 104	omeprazol
+T2	Abbreviation 123 126	eda
+T3	Sign_or_Symptom 0 15	dolor abdomonal
+T4	Sign_or_Symptom 16 23	reflujo
+T5	Disease 23 43	intolerancia lactosa
+T6	Disease 45 68	reflujo gastroesofagico
+T7	Laboratory_or_Test_Result 109 119	esofagitis
+T8	Diagnostic_Procedure 123 126	eda

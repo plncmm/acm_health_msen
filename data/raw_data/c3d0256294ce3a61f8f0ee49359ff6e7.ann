@@ -1,0 +1,7 @@
+T1	Disease 2 29	VÉRTIGO PAROXÍSTICO BENIGNO
+T2	Sign_or_Symptom 88 94	MAREOS
+T3	Sign_or_Symptom 111 135	TINNITUS NAYOR A DERECHA
+T4	Sign_or_Symptom 137 144	CEFALEA
+T5	Sign_or_Symptom 146 171	DIFICULTAD PARA LA MARCHA
+T6	Abbreviation 53 56	APS
+#1	AnnotatorNotes T6	atención primaria de la salud

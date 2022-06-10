@@ -1,0 +1,7 @@
+T1	Disease 2 23	PERIODONTITIS CRÓNICA
+T2	Abbreviation 47 50	APS
+T4	Sign_or_Symptom 153 172	sacos periodontales
+T5	Sign_or_Symptom 174 208	encias muy edematosas y sangrantes
+T6	Body_Part 174 180	encias
+T7	Sign_or_Symptom 220 251	calculo subgingival en grupos I
+T8	Body_Part 243 251	grupos I

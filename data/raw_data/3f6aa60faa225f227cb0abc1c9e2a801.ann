@@ -1,0 +1,7 @@
+T1	Sign_or_Symptom 0 19	Clase II esqueletal
+T2	Sign_or_Symptom 25 38	dolico facial
+T3	Clinical_Finding 39 70	denticion permanente incompleta
+T4	Body_Part 39 48	denticion
+T5	Body_Part 91 107	primeras molares
+T6	Sign_or_Symptom 108 126	deverjet aumentado
+T7	Clinical_Finding 127 150	clase I molar bilateral

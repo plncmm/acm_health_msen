@@ -1,0 +1,16 @@
+T1	Abbreviation 62 65	lvt
+T2	Medication 62 65	lvt
+T3	Abbreviation 68 71	mcg
+T4	Abbreviation 73 75	qx
+T5	Abbreviation 93 96	izq
+T6	Abbreviation 97 100	opr
+T7	Abbreviation 169 174	aprox
+T8	Disease 2 17	HERNIA INGUINAL
+T9	Disease 47 61	hipotiroidismo
+T10	Disease 77 96	hernia inguinal izq
+T11	Disease 124 147	hernia inguinal derecha
+T12	Sign_or_Symptom 200 236	aumento de volumne, inguinal derecha
+T13	Laboratory_or_Test_Result 249 255	hernia
+T14	Diagnostic_Procedure 260 269	ecografia
+R1	Has Arg1:T14 Arg2:T13	
+T15	Sign_or_Symptom 297 307	reductible

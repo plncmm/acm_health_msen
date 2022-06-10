@@ -1,0 +1,6 @@
+T1	Abbreviation 140 143	ECG
+T2	Clinical_Finding 13 34	antecedentes mórbidos
+A1	Negated T2
+T3	Sign_or_Symptom 66 72	mareos
+T4	Sign_or_Symptom 75 84	lipotimia
+T5	Diagnostic_Procedure 140 143	ECG

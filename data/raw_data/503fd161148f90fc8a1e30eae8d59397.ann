@@ -1,0 +1,16 @@
+T1	Body_Part 21 30	AMÍGDALAS
+T2	Family_Member 58 63	madre
+T3	Family_Member 83 87	hija
+T4	Body_Part 165 174	amigdalas
+T5	Body_Part 150 160	orofaringe
+T6	Disease 2 30	HIPERTROFIA DE LAS AMÍGDALAS
+T7	Disease 97 128	infecciones respiratorias altas
+T8	Disease 165 188	amigdalas hipertroficas
+T9	Sign_or_Symptom 189 196	grado 4
+T10	Sign_or_Symptom 215 243	adenopatias cervical derecha
+T11	Sign_or_Symptom 260 271	roncopatias
+T12	Sign_or_Symptom 272 282	sialorreas
+T13	Sign_or_Symptom 284 307	apneas durante el sueño
+T14	Disease 332 340	resfrios
+T15	Disease 343 354	amigdalitis
+R1	Has Arg1:T3 Arg2:T7	

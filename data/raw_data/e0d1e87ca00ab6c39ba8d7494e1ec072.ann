@@ -1,0 +1,8 @@
+T1	Disease 0 81	Malformación vascular partes blandas paravertebrales y musculares glúteas derecha
+T3	Sign_or_Symptom 152 177	salpingologia claudicante
+T2	Body_Part 55 81	musculares glúteas derecha
+T4	Body_Part 111 147	masa paravertebral - glúteas derecha
+T5	Diagnostic_Procedure 84 104	Resonancia Magnética
+T6	Laboratory_or_Test_Result 106 147	Gran masa paravertebral - glúteas derecha
+R1	Has Arg1:T5 Arg2:T6	
+T7	Body_Part 22 52	partes blandas paravertebrales

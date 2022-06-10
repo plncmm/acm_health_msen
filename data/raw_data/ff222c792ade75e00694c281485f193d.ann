@@ -1,0 +1,10 @@
+T1	Disease 2 20	GINGIVITIS CRÓNICA
+T2	Abbreviation 78 81	APS
+T3	Disease 96 117	periodontitis crónica
+T4	Sign_or_Symptom 120 179	movilidad grado iii en diente 2.1, y grado ii en diente 3.8
+T5	Body_Part 143 153	diente 2.1
+T6	Body_Part 169 179	diente 3.8
+T7	Therapeutic_Procedure 197 233	atención periodontal con especialist
+A1	Pending T7
+T8	Disease 237 255	Gingivitis cronica
+T9	Disease 24 54	PERIODONTITIS CRÓNICA MODERADA

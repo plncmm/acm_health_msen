@@ -1,0 +1,14 @@
+T1	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T2	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T3	Abbreviation 70 73	APS
+T4	Sign_or_Symptom 75 118	Dolor en apertura y cierre de ATM izquierda
+T6	Abbreviation 105 108	ATM
+T8	Body_Part 144 155	m. masetero
+T9	Abbreviation 144 146	m.
+T10	Body_Part 157 168	milohioideo
+T11	Abbreviation 171 174	ECM
+T12	Body_Part 171 174	ECM
+T7	Sign_or_Symptom 120 174	dolor a la palpacion de m. masetero, milohioideo y ECM
+T14	Sign_or_Symptom 229 251	dolor a la masticacion
+T13	Sign_or_Symptom 176 214	Sensibilidad dentaria al frio y viento
+T5	Body_Part 105 118	ATM izquierda

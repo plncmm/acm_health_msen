@@ -1,0 +1,7 @@
+T1	Abbreviation 48 51	APS
+T2	Disease 2 24	GASTRITIS Y DUODENITIS
+T3	Sign_or_Symptom 81 135	DOLOR ABDOMINAL TIPO URENTE DE LARGA DATA DE EVOLUCION
+T4	Clinical_Finding 176 191	CANCER GASTRICO
+A1	Implicit_Family_Background T4
+T5	Diagnostic_Procedure 261 282	EXAMENES ENDOSCOPICOS
+T6	Disease 284 306	Gastritis y duodenitis

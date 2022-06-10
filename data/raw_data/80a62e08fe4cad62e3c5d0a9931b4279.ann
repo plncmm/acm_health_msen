@@ -1,0 +1,5 @@
+T1	Sign_or_Symptom 2 32	CÁLCULO DENTARIO SUPRAGINGIVAL
+T2	Sign_or_Symptom 39 56	abundante tartaro
+T3	Sign_or_Symptom 58 68	recesiones
+T4	Sign_or_Symptom 71 82	movilidades
+T5	Disease 99 133	periodontitis cronica generalizada

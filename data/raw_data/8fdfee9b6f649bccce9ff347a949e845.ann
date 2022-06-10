@@ -1,0 +1,52 @@
+T1	Disease 2 14	FIBROMIALGIA
+T2	Disease 18 92	TRASTORNO DE LOS DISCOS INTERVERTEBRALES, NO ESPECIFICADODISCOPATIA LUMBAR
+T3	Body_Part 35 58	DISCOS INTERVERTEBRALES
+T4	Disease 96 117	OTRAS POLINEUROPATIAS
+T5	Disease 121 200	TRASTORNOS DE DISCO LUMBAR Y OTROS, CON RADICULOPATÍARADICULOPATÍA S1 IZQUIERDA
+T6	Body_Part 135 147	DISCO LUMBAR
+T7	Abbreviation 224 227	APS
+T8	Sign_or_Symptom 272 309	dolor lumbar irradiado a EEII (muslos
+T9	Abbreviation 297 301	EEII
+T10	Body_Part 303 309	muslos
+T11	Body_Part 297 301	EEII
+T12	Diagnostic_Procedure 340 343	TAC
+T13	Diagnostic_Procedure 352 355	RNM
+T14	Laboratory_or_Test_Result 368 385	Discopatia lumbar
+R1	Has Arg1:T12 Arg2:T14	
+R2	Has Arg1:T13 Arg2:T14	
+T15	Diagnostic_Procedure 387 390	EMG
+T16	Laboratory_or_Test_Result 392 412	Radiculopatía S1 izq
+R3	Has Arg1:T15 Arg2:T16	
+T17	Abbreviation 409 412	izq
+T18	Abbreviation 414 417	Tbn
+T19	Therapeutic_Procedure 473 494	resolucion quirurgica
+A1	Negated T19
+T20	Laboratory_Procedure 546 566	examenes Anticuerpos
+T21	Laboratory_or_Test_Result 567 576	alterados
+R4	Has Arg1:T20 Arg2:T21	
+T22	Abbreviation 626 629	tto
+T23	Medication 634 644	Duloxetina
+T24	Medication 647 659	Pregabalaina
+T25	Abbreviation 645 646	+
+T26	Abbreviation 675 676	+
+T27	Medication 677 685	Tramadol
+T28	Abbreviation 695 696	+
+T29	Medication 697 706	Meloxicam
+T30	Abbreviation 712 715	sos
+T31	Abbreviation 709 711	mg
+T32	Abbreviation 691 694	SOS
+T33	Abbreviation 687 690	gts
+T34	Abbreviation 663 665	mg
+T35	Abbreviation 716 717	+
+T36	Abbreviation 745 747	Dg
+T37	Disease 748 762	Polineuropatia
+T38	Diagnostic_Procedure 782 785	EMG
+T41	Abbreviation 851 854	tbn
+T42	Body_Part 855 862	piernas
+T43	Body_Part 812 831	cara lateral muslos
+T44	Disease 865 877	Fibromialgia
+T45	Body_Part 188 190	S1
+T46	Body_Part 406 408	S1
+T47	Abbreviation 782 785	EMG
+A2	Pending T38
+T39	Sign_or_Symptom 795 843	dolor predominio cara lateral muslos, tipo ardor

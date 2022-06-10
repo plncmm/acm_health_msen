@@ -1,0 +1,13 @@
+T1	Abbreviation 55 58	APS
+T2	Abbreviation 89 92	MAC
+T3	Abbreviation 107 110	OBS
+T4	Body_Part 122 136	OVARIO DERECHO
+T5	Abbreviation 136 143	ANTECED
+T6	Medication 89 107	MAC ORAL COMBINADO
+T7	Disease 2 31	OTRAS CONSULTAS ESPECIFICADAS
+T8	Clinical_Finding 60 68	NULIPARA
+T9	Clinical_Finding 69 78	NULIGESTA
+T10	Therapeutic_Procedure 89 92	MAC
+T11	Disease 115 136	QUISTE OVARIO DERECHO
+T12	Disease 148 165	COLICISTOLITIASIS
+T13	Disease 167 196	Otras consultas especificadas

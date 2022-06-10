@@ -1,0 +1,10 @@
+T1	Abbreviation 3 6	HTA
+T2	Abbreviation 10 13	TTO
+T3	Abbreviation 32 35	TTO
+T4	Abbreviation 0 1	M
+T5	Clinical_Finding 0 2	M2
+T6	Disease 3 6	HTA
+T7	Disease 14 28	HIPOTIROIDISMO
+T8	Disease 36 44	OBESIDAD
+T9	Therapeutic_Procedure 45 61	HISTERECTOMIZADA
+T10	Disease 62 101	INCONTINENCIA URINARIA POR REBOSAMIENTO

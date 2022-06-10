@@ -1,0 +1,9 @@
+T1	Abbreviation 194 197	ABD
+T2	Body_Part 194 197	ABD
+T3	Sign_or_Symptom 0 17	DIARREAS CRONICAS
+T4	Sign_or_Symptom 41 49	DIARREAS
+T5	Laboratory_Procedure 138 160	PARASITOLOGICO SERIADO
+T6	Laboratory_or_Test_Result 175 184	4-8 CAMPO
+T7	Sign_or_Symptom 188 193	FEBER
+A1	Negated T7
+R1	Has Arg1:T5 Arg2:T6	

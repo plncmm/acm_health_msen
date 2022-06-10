@@ -1,0 +1,14 @@
+T1	Clinical_Finding 0 2	M1
+T2	Abbreviation 0 1	M
+T3	Abbreviation 4 7	CCA
+T4	Therapeutic_Procedure 3 7	1CCA
+T6	Clinical_Finding 34 37	MAC
+T7	Abbreviation 34 37	MAC
+T8	Abbreviation 39 42	DPS
+T9	Abbreviation 49 52	FEB
+T10	Sign_or_Symptom 74 87	ALGIA PELVICA
+T12	Sign_or_Symptom 108 146	ESPECULSCOPIA NO OBSERVO NADA ESPECIAL
+T13	Abbreviation 151 153	TV
+T14	Body_Part 155 160	UTERO
+T11	Sign_or_Symptom 151 231	TV, UTERO AUMENTADO DE TAMAÑO, DE CONSISTENCIA MUY DURA, DOLOR A LA MOVILIZACIÓN
+T5	Sign_or_Symptom 12 22	TRANSVERSA

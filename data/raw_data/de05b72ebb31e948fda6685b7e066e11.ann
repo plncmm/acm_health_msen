@@ -1,0 +1,8 @@
+T1	Body_Part 31 37	DIENTE
+T2	Abbreviation 61 64	APS
+T3	Abbreviation 117 120	Dra
+T4	Abbreviation 171 173	dr
+T5	Abbreviation 216 218	Dx
+T6	Body_Part 220 230	Diente 4.3
+T7	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T8	Sign_or_Symptom 220 255	Diente 4.3 elongada, fuera de plano

@@ -1,0 +1,8 @@
+T1	Abbreviation 0 3	OBS
+T2	Abbreviation 106 107	L
+T3	Abbreviation 111 112	M
+T4	Body_Part 115 118	OJO
+T5	Disease 4 25	ENFERMEDAD MESENQUIMA
+T6	Sign_or_Symptom 50 63	POLIARTRALGIA
+T7	Sign_or_Symptom 90 105	RIGIDES MATINAL
+T8	Sign_or_Symptom 115 123	OJO SECO

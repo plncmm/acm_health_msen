@@ -1,0 +1,21 @@
+T1	Abbreviation 0 3	OBS
+T3	Abbreviation 28 31	CIE
+T4	Abbreviation 32 33	G
+T5	Abbreviation 35 36	P
+T6	Abbreviation 38 39	A
+T7	Abbreviation 61 64	LCF
+T2	Abbreviation 25 27	PE
+T8	Abbreviation 69 70	X
+T9	Abbreviation 78 80	AU
+T10	Abbreviation 84 86	CM
+T11	Abbreviation 87 89	MF
+T12	Abbreviation 91 92	+
+T13	Abbreviation 101 103	++
+T14	Disease 4 24	DIABETES GESTACIONAL
+T15	Disease 25 27	PE
+T16	Clinical_Finding 32 34	G6
+T17	Clinical_Finding 35 37	P3
+T18	Clinical_Finding 38 40	A2
+T19	Clinical_Finding 41 49	EMBARAZO
+T20	Sign_or_Symptom 94 99	EDEMA
+T21	Sign_or_Symptom 87 89	MF

@@ -1,0 +1,11 @@
+T1	Disease 63 77	HIPOTIROIDISMO
+T2	Disease 121 141	DIABETES GESTACIONAL
+T3	Abbreviation 31 32	G
+T4	Abbreviation 34 35	P
+T5	Abbreviation 37 38	A
+T6	Abbreviation 43 46	EMB
+T7	Clinical_Finding 3 18	GESTANTE TARDIA
+T8	Clinical_Finding 22 30	NULIPARA
+T9	Clinical_Finding 43 46	EMB
+T10	Therapeutic_Procedure 80 94	TIROIDSECTOMIA
+T11	Disease 97 115	BOCIO MULTINODULAR

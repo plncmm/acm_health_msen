@@ -1,0 +1,18 @@
+T1	Body_Part 55 59	PIEL
+T2	Body_Part 92 96	PIEL
+T7	Abbreviation 289 291	cm
+T8	Abbreviation 292 297	aprox
+T9	Abbreviation 317 319	Dr
+T10	Abbreviation 548 550	cm
+T11	Abbreviation 551 556	aprox
+T3	Body_Part 102 144	TEJIDO SUBCUTÁNEO DE CABEZA, CARA Y CUELLO
+T4	Body_Part 186 197	zona dorsal
+T5	Body_Part 438 457	zona temporofrontal
+T6	Disease 2 59	TUMOR DE COMPORTAMIENTO INCIERTO O DESCONOCIDO DE LA PIEL
+T12	Disease 64 144	TUMOR BENIGNO LIPOMATOSO DE PIEL Y DE TEJIDO SUBCUTÁNEO DE CABEZA, CARA Y CUELLO
+T13	Sign_or_Symptom 164 282	aumento de volumen en zona dorsal de años de evolucion sesil duro de bordes irregulares con zonas de hiperpigmentacion
+T14	Diagnostic_Procedure 362 388	cirugia menor para biopsia
+T15	Sign_or_Symptom 416 540	aumento de volumen en zona temporofrontal de años de evolucion blando gomoso movil impresiona no adherido a planos produndos
+T16	Sign_or_Symptom 570 610	deformidad de zona Impresiona lipomatoso
+T17	Therapeutic_Procedure 776 809	resolucion quirurgica con biopsia
+A1	Pending T17

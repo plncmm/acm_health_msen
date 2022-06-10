@@ -1,0 +1,8 @@
+T1	Body_Part 24 29	LABIO
+T3	Abbreviation 105 108	inf
+T4	Abbreviation 61 63	cm
+T5	Abbreviation 64 69	apróx
+T6	Disease 2 29	NEVO MELANOCÍTICO DEL LABIO
+T7	Sign_or_Symptom 34 58;89 122	esión melanocítica sésil bermellón labio inf. lado derecho
+T8	Sign_or_Symptom 72 84	asintomática
+T2	Body_Part 89 122	bermellón labio inf. lado derecho

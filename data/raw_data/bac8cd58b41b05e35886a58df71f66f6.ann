@@ -1,0 +1,8 @@
+T1	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T2	Abbreviation 54 57	APS
+T3	Laboratory_or_Test_Result 59 84	CARIES PENETRANTA PZA 4.3
+T4	Abbreviation 77 80	PZA
+T5	Body_Part 77 84	PZA 4.3
+T6	Disease 85 103	Caries del cemento
+T7	Body_Part 96 103	cemento
+T8	Laboratory_or_Test_Result 2 30	CARIES DENTINARIA PENETRANTE

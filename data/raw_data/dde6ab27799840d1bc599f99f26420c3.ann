@@ -1,0 +1,8 @@
+T1	Abbreviation 6 9	VIF
+T2	Body_Part 27 33	CABEZA
+T4	Abbreviation 60 62	RX
+T5	Abbreviation 79 82	S.U
+T6	Clinical_Finding 15 55	GOLPE EN LA CABEZA Y ANTEBRAZO IZQUIERDO
+T7	Diagnostic_Procedure 60 62	RX
+T8	Sign_or_Symptom 87 106	AUMENTACIÓN EXTERNA
+T3	Body_Part 36 55	ANTEBRAZO IZQUIERDO

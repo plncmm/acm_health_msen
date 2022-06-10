@@ -1,0 +1,20 @@
+T1	Disease 0 17	- RESTO RADICULAR
+T2	Abbreviation 41 44	APS
+T3	Disease 111 133	insuficiencia cardiaca
+T4	Disease 135 147	dislipidemia
+T5	Sign_or_Symptom 166 181	angina de pecho
+T6	Body_Part 220 229	pieza 3.1
+T7	Disease 243 258	resto radicular
+T8	Disease 263 283	fractura de la pieza
+T9	Body_Part 278 283	pieza
+T10	Sign_or_Symptom 289 294	dolor
+A1	Negated T10
+T11	Therapeutic_Procedure 374 383	exodoncia
+A2	Pending T11
+T12	Therapeutic_Procedure 480 490	extracción
+A3	Pending T12
+T13	Body_Part 500 507	dientes
+T14	Sign_or_Symptom 522 531	movilidad
+T15	Disease 545 625	Perdida de dientes debida a accidente, extraccion o enfermedad periodontal local
+T16	Body_Part 556 563	dientes
+T17	Family_Member 205 209	hijo

@@ -1,0 +1,6 @@
+T1	Body_Part 0 9	diente 16
+T2	Sign_or_Symptom 0 18	diente 16 extruido
+T3	Sign_or_Symptom 19 44	dificultad de higene buca
+T4	Therapeutic_Procedure 65 66	c
+T5	Clinical_Finding 107 117	embarazada
+A1	Pending T4

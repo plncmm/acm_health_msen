@@ -1,0 +1,10 @@
+T1	Body_Part 31 37	DIENTE
+T2	Abbreviation 61 64	APS
+T3	Body_Part 121 139	Molares inferiores
+T4	Body_Part 228 234	diente
+T5	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T6	Sign_or_Symptom 79 119	apiñamiento anterior superior e inferior
+T7	Sign_or_Symptom 121 160	Molares inferiores inclinados a lingual
+T8	Sign_or_Symptom 162 177	clase III molar
+T9	Sign_or_Symptom 179 197	Overjet aumeentado
+T10	Disease 199 234	Anomalias de la posicion del diente

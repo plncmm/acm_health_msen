@@ -1,0 +1,23 @@
+T1	Body_Part 2 10	PREPUCIO
+T2	Abbreviation 69 74	antec
+T3	Abbreviation 101 102	m
+T4	Abbreviation 123 126	ATB
+T5	Medication 123 126	ATB
+T6	Abbreviation 140 143	ITU
+T7	Abbreviation 206 208	ex
+T8	Body_Part 210 218	Prepucio
+T9	Body_Part 264 268	piel
+T10	Disease 2 44	PREPUCIO REDUNDANTE, FIMOSIS Y PARAFIMOSIS
+T11	Sign_or_Symptom 48 67	estrechez prepucial
+T12	Disease 78 93	balanopostitits
+T13	Disease 140 143	ITU
+T14	Disease 148 157	hidrocele
+T15	Sign_or_Symptom 210 262	Prepucio redundante, con imposibilidad de retraccion
+T16	Clinical_Finding 264 275	piel rosada
+T17	Sign_or_Symptom 281 302	signos de inflamacion
+A1	Negated T17
+T18	Sign_or_Symptom 306 322	infeccion actual
+A2	Negated T18
+T19	Abbreviation 131 136	antec
+A3	Negated T14
+T20	Abbreviation 191 201	genitourin

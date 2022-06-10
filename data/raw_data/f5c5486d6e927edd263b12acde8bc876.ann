@@ -1,0 +1,9 @@
+T1	Abbreviation 70 73	HTA
+T2	Body_Part 105 128	extremidades superiores
+T3	Abbreviation 189 192	obs
+T4	Disease 29 43	hipotiroidismo
+T5	Disease 45 57	dislipidemia
+T6	Disease 59 67	insomnio
+T7	Disease 70 73	HTA
+T8	Sign_or_Symptom 84 145	temblor de reposo de extremidades superiores, mayor a derecha
+T9	Disease 194 217	Enfermedad de Parkinson

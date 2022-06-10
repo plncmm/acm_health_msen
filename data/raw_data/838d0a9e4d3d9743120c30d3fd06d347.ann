@@ -1,0 +1,10 @@
+T1	Body_Part 64 68	boca
+T2	Body_Part 163 179	maxilar superior
+T3	Body_Part 229 236	dientes
+T4	Disease 0 20	- DESDENTADO PARCIAL
+T5	Sign_or_Symptom 24 29	DOLOR
+T6	Disease 55 75	sindrome boca urente
+T7	Disease 79 123	Desdentada parcial superior y total inferior
+T8	Sign_or_Symptom 132 179	dolor no especificado y difuso maxilar superior
+T9	Sign_or_Symptom 202 207	ardor
+T10	Sign_or_Symptom 212 236	corriente en los dientes

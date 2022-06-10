@@ -1,0 +1,8 @@
+T1	Disease 2 37	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T2	Abbreviation 61 64	APS
+T3	Sign_or_Symptom 66 103	Apiñamiento dentario maxilar inferior
+T4	Disease 66 77	Apiñamiento
+T5	Sign_or_Symptom 105 156	laterales inferiores fuera del arco (lingualizados)
+T6	Body_Part 105 125	laterales inferiores
+T7	Body_Part 87 103	maxilar inferior
+T8	Disease 157 192	Maloclusion de tipo no especificado

@@ -1,0 +1,13 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 189 196	caninos
+T3	Disease 2 37	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T4	Clinical_Finding 117 123	caries
+A1	Negated T4
+T5	Sign_or_Symptom 137 157	apiñamiento dentario
+T6	Sign_or_Symptom 160 186	mordida abierta unilateral
+T7	Sign_or_Symptom 189 216	caninos superiores elevedos
+T8	Therapeutic_Procedure 244 269	tratamiento de ortodoncia
+T9	Disease 273 308	Maloclusion de tipo no especificado
+T10	Clinical_Finding 80 102	antecdentes sistemicos
+A2	Negated T10
+A3	Pending T8

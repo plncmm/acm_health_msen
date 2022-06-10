@@ -1,0 +1,10 @@
+T1	Body_Part 19 24	p.1.4
+T2	Abbreviation 19 20	p
+T3	Abbreviation 48 51	APS
+T4	Body_Part 66 75	pieza 1.4
+T5	Sign_or_Symptom 2 10	PULPITIS
+T6	Sign_or_Symptom 10 18	pulpitis
+T7	Sign_or_Symptom 66 116	pieza 1.4 con diagnóstico de pulpitis irreversible
+T8	Clinical_Finding 127 142	caries profunda
+T9	Therapeutic_Procedure 206 217	trepanación
+T10	Sign_or_Symptom 274 282	Pulpitis

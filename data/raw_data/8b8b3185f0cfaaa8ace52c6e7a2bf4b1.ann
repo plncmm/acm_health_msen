@@ -1,0 +1,5 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Disease 36 62	desdentado parcial maxilar
+T3	Therapeutic_Procedure 73 81	prótesis
+A1	Pending T3
+T4	Clinical_Finding 96 125	No tiene prótesis actualmente

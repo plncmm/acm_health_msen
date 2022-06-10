@@ -1,0 +1,4 @@
+T1	Disease 29 38	ATROPELLO
+T2	Sign_or_Symptom 90 96	MAREOS
+T3	Diagnostic_Procedure 131 137	SCANER
+A1	Pending T3

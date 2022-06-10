@@ -1,0 +1,8 @@
+T1	Disease 2 23	PERIODONTITIS CRÓNICA
+T2	Abbreviation 47 50	APS
+T3	Abbreviation 52 56	pcte
+T4	Clinical_Finding 57 67	embarazada
+T5	Sign_or_Symptom 78 96	movilidad grado II
+T6	Body_Part 100 107	molares
+T8	Body_Part 110 120	premolares
+T7	Disease 123 144	Periodontitis cronica

@@ -1,0 +1,4 @@
+T2	Body_Part 69 76;89 92;93 96	dientes 2.3 2.4
+T3	Clinical_Finding 22 64	protesis total inferior y parcial superior
+T1	Therapeutic_Procedure 132 169	rehabilitacion implante implantologia
+A1	Pending T1

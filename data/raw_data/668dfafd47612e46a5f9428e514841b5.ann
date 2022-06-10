@@ -1,0 +1,13 @@
+T1	Abbreviation 68 71	APS
+T2	Abbreviation 73 77	Pact
+T3	Abbreviation 97 100	HTA
+T4	Abbreviation 101 103	DM
+T5	Body_Part 162 182	region de epigastrio
+T6	Abbreviation 128 130	+-
+T7	Disease 2 44	HERNIA VENTRAL SIN OBSTRUCCIÓN NI GANGRENA
+T8	Disease 97 100	HTA
+T9	Disease 101 103	DM
+T10	Sign_or_Symptom 137 182	protrucion reductible en region de epigastrio
+T11	Sign_or_Symptom 216 224	molestia
+A1	Negated T11
+T12	Disease 226 268	Hernia ventral sin obstruccion ni gangrena

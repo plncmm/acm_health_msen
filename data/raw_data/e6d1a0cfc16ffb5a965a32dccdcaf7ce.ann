@@ -1,0 +1,9 @@
+T1	Abbreviation 87 90	APS
+#1	AnnotatorNotes T1	atención primaria de salud
+T2	Family_Member 119 123	mama
+T3	Family_Member 126 131	madre
+T4	Family_Member 147 151	hijo
+T5	Disease 2 53	TRASTORNOS DEL INICIO Y DEL MANTENIMIENTO DEL SUEÑO
+T6	Disease 54 63	INSOMNIOS
+T7	Sign_or_Symptom 206 253	cuando se despierta comienza a llorar y molesta
+T8	Sign_or_Symptom 152 175	no duerme en las noches

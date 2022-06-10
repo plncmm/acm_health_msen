@@ -1,0 +1,10 @@
+T1	Abbreviation 68 71	APS
+T2	Abbreviation 106 109	HTA
+T3	Abbreviation 201 205	ATTE
+T4	Abbreviation 97 102	ANTEC
+T5	Disease 2 8	MIOPÍA
+T6	Disease 12 43	HIPERTENSIÓN ESENCIAL (PRIMARIA
+T7	Disease 106 109	HTA
+T8	Sign_or_Symptom 106 120	HTA COMPENSADA
+T9	Sign_or_Symptom 130 158	DISMINUCION DE AGUDEA VISUAL
+T10	Disease 209 215	Miopia

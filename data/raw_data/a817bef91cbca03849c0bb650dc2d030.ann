@@ -1,0 +1,6 @@
+T1	Abbreviation 0 1	m
+T2	Abbreviation 3 7	ptve
+T3	Clinical_Finding 0 2	m2
+T4	Therapeutic_Procedure 3 7	ptve
+T5	Disease 107 166	adenocarcinoma mucinoso tipo endocervical bien diferenciado
+T6	Laboratory_or_Test_Result 107 166	adenocarcinoma mucinoso tipo endocervical bien diferenciado

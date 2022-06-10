@@ -1,0 +1,10 @@
+T1	Abbreviation 32 35	PAC
+T2	Abbreviation 40 45	ANTEC
+T3	Family_Member 94 99	MADRE
+T4	Disease 0 4	G478
+T5	Disease 5 31	OTROS TRASTORNOS DEL SUEÑO
+T6	Sign_or_Symptom 66 83	RESPIRADORA BUCAL
+T7	Sign_or_Symptom 140 158	EPISODIOS DE APNEA
+T8	Clinical_Finding 40 53	ANTEC MÉDICOS
+A1	Negated T8
+T9	Disease 160 168	BRUXISMO

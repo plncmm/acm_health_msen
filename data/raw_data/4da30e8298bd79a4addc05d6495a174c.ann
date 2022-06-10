@@ -1,0 +1,16 @@
+T1	Disease 2 68	TUMOR MALIGNO DE LOS BRONQUIOS O DEL PULMÓN, PARTE NO ESPECIFICADA
+T2	Body_Part 23 32	BRONQUIOS
+T3	Body_Part 39 45	PULMÓN
+T4	Abbreviation 92 95	APS
+T5	Disease 106 109	HTA
+T6	Abbreviation 106 109	HTA
+T7	Disease 111 125	Hipotiroidismo
+T8	Laboratory_or_Test_Result 128 153	nodulo pulmonar solitario
+T9	Disease 171 182	TU Pulmonar
+T10	Abbreviation 171 173	TU
+T11	Abbreviation 219 222	HRC
+T12	Body_Part 258 263	Torax
+T13	Disease 394 405	Tu pulmonar
+T14	Abbreviation 394 396	Tu
+T15	Disease 607 673	Tumor maligno de los bronquios o del pulmon, parte no especificada
+T16	Clinical_Finding 406 433	fuera de alcance quirurgico

@@ -1,0 +1,7 @@
+T1	Disease 0 21	PERIODONTITIS CRONICA
+T2	Abbreviation 35 38	TMT
+T3	Abbreviation 62 64	CX
+T4	Therapeutic_Procedure 65 84	PROTESIS DE RODILLA
+A1	Pending T4
+T5	Sign_or_Symptom 86 96	POLICARIES
+T6	Abbreviation 106 109	TTO

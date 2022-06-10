@@ -1,0 +1,16 @@
+T1	Body_Part 30 36	CADERA
+T2	Abbreviation 74 77	APS
+T3	Body_Part 145 159	CADERA DERECHA
+T4	Abbreviation 216 219	APS
+T5	Body_Part 267 281	CADERA DERECHA
+T6	Body_Part 308 324	CADERA IZQUIERDA
+T7	Abbreviation 332 335	HTA
+T8	Body_Part 388 394	cadera
+T9	Abbreviation 213 215	SU
+T10	Disease 2 50	COXARTROSIS (ARTROSIS DE LA CADERA) , (ARTROSIS)
+T11	Disease 133 159	ARTROSIS DE CADERA DERECHA
+T12	Therapeutic_Procedure 255 281	PROTESIS DE CADERA DERECHA
+T13	Therapeutic_Procedure 296 324	PROTESIS DE CADERA IZQUIERDA
+T14	Disease 332 335	HTA
+T15	Disease 360 395	Coxartrosis (artrosis de la cadera)
+T16	Disease 399 407	artrosis

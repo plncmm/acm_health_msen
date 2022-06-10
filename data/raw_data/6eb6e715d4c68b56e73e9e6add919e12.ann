@@ -1,0 +1,6 @@
+T1	Disease 30 66	desdentada total superior e inferior
+T2	Body_Part 68 84	reborde alveolar
+T3	Clinical_Finding 68 108	reborde alveolar con nivel oseo adecuado
+T4	Therapeutic_Procedure 114 162	protesis removible total acrilica superior e inf
+A1	Pending T4
+T5	Abbreviation 159 162	inf

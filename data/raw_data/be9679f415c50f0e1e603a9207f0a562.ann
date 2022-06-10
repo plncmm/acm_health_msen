@@ -1,0 +1,12 @@
+T1	Disease 0 21	Periodontitis crónica
+T3	Body_Part 46 53	grupo V
+T4	Therapeutic_Procedure 66 77	destartraje
+T5	Abbreviation 91 93	rx
+T6	Abbreviation 97 98	p
+T7	Body_Part 97 103	p. 3.1
+T2	Sign_or_Symptom 23 53	Absceso periodontal en grupo V
+T8	Laboratory_or_Test_Result 121 143	lesión endoperiodontal
+T9	Diagnostic_Procedure 91 93	rx
+R1	Has Arg1:T9 Arg2:T8	
+T10	Therapeutic_Procedure 166 189	tratamiento periodontal
+A1	Pending T10

@@ -1,0 +1,30 @@
+T1	Body_Part 19 31	DISCO LUMBAR
+T2	Body_Part 157 159	L5
+T3	Disease 45 58	RADICULOPATIA
+T4	Disease 135 156	RADICULOPATIA CRONICA
+T7	Disease 5 31	TRASTORNOS DE DISCO LUMBAR
+T8	Abbreviation 157 158	L
+T9	Body_Part 187 189	NP
+T10	Abbreviation 186 189	HNP
+T6	Disease 70 94	MERALGIA PARESTESICA IZQ
+T11	Abbreviation 91 94	IZQ
+T5	Disease 186 193	HNP IZQ
+T12	Abbreviation 128 131	IZQ
+#1	AnnotatorNotes T12	izquierda
+T13	Abbreviation 131 134	EMG
+#2	AnnotatorNotes T13	electromiografía
+T14	Abbreviation 160 163	IZQ
+#3	AnnotatorNotes T14	izquierda
+T15	Abbreviation 163 166	TAC
+#4	AnnotatorNotes T15	tomografía axial computarizada
+T16	Abbreviation 190 193	IZQ
+#5	AnnotatorNotes T16	izquierda
+#6	AnnotatorNotes T10	hernia del núcleo pulposo
+T17	Disease 0 4	M511
+T18	Sign_or_Symptom 106 127	IRRADIACION RADICULAR
+T19	Diagnostic_Procedure 163 173	TAC LUMBAR
+T20	Diagnostic_Procedure 131 134	EMG
+T21	Laboratory_or_Test_Result 186 193	HNP IZQ
+R1	Has Arg1:T19 Arg2:T21	
+T22	Laboratory_or_Test_Result 135 159	RADICULOPATIA CRONICA L5
+R2	Has Arg1:T20 Arg2:T22	

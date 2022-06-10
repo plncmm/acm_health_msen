@@ -1,0 +1,23 @@
+T1	Disease 2 34	CARCINOMA IN SITU DEL ENDOMETRIO
+T2	Sign_or_Symptom 91 102	metrorragia
+T3	Disease 105 122	anemia secundaria
+T4	Sign_or_Symptom 207 215	sangrado
+A1	Negated T4
+T5	Disease 357 378	patologia endometrial
+T6	Disease 380 412	Carcinoma in situ del endometrio
+T7	Abbreviation 58 61	APS
+#1	AnnotatorNotes T7	atención primaria de salud
+T8	Abbreviation 164 168	ACOs
+#2	AnnotatorNotes T8	anticoagulantes
+T9	Abbreviation 291 293	mm
+#3	AnnotatorNotes T9	milímetros
+T10	Body_Part 24 34	ENDOMETRIO
+T11	Medication 164 168	ACOs
+T12	Body_Part 307 320	tropa derecha
+T13	Body_Part 402 412	endometrio
+T14	Diagnostic_Procedure 242 264	ecografia transvaginal
+T15	Laboratory_or_Test_Result 274 293	endometrio de 11 mm
+T16	Laboratory_or_Test_Result 295 320	hidroalpinx tropa derecha
+R1	Has Arg1:T14 Arg2:T15	
+R2	Has Arg1:T14 Arg2:T16	
+T17	Body_Part 274 284	endometrio

@@ -1,0 +1,8 @@
+T1	Disease 0 32	ENTROPION Y TRIQUIASIS PALPEBRAL
+T2	Disease 66 119	traumatismo con compromiso palpebral de ojo izquierdo
+T3	Disease 145 155	triquiasis
+T4	Sign_or_Symptom 171 176	dolor
+T5	Body_Part 106 119	ojo izquierdo
+T6	Body_Part 202 210	pestanas
+T7	Medication 272 283	crioterapia
+T8	Sign_or_Symptom 188 227	extraccion de pestanas en forma regular

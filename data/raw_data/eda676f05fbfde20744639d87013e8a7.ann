@@ -1,0 +1,21 @@
+T1	Body_Part 56 73	SENOS PARANASALES
+T2	Abbreviation 97 100	APS
+T3	Body_Part 160 179	fosa nasal  derecha
+T4	Body_Part 221 239	fosa nasal derecha
+T5	Medication 347 357	loratadina
+T6	Abbreviation 389 391	rx
+T8	Body_Part 416 433	senos paranasales
+T7	Medication 360 379	corticoides nasales
+T9	Body_Part 395 413	cavum nasofaringeo
+T10	Disease 0 31	- RINITIS ALÉRGICA Y VASOMOTORA
+T11	Disease 35 73	OTROS PÓLIPOS DE LOS SENOS PARANASALES
+T12	Disease 115 131	rinitis alergica
+T13	Sign_or_Symptom 115 179	rinitis alergica estacional mas acentuada en fosa nasal  derecha
+T14	Sign_or_Symptom 181 239	rinorrea sanguinolenta mas acentuada en fosa nasal derecha
+T15	Sign_or_Symptom 241 267	respiracion bucal nocturna
+T16	Sign_or_Symptom 269 291	ronca durante el sueno
+T17	Disease 297 319	hipertrofia amigdalina
+A1	Negated T17
+T18	Diagnostic_Procedure 389 433	rx de cavum nasofaringeo y senos paranasales
+A2	Pending T18
+T19	Disease 435 464	Rinitis alergica y vasomotora

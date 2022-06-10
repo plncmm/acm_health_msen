@@ -1,0 +1,6 @@
+T1	Body_Part 0 7	Pieza 4
+T2	Sign_or_Symptom 0 17	Pieza 4 trepanada
+T3	Therapeutic_Procedure 19 43	medicacion intraconducto
+T4	Therapeutic_Procedure 46 65	obturacion temporal
+T5	Therapeutic_Procedure 94 119	tratamiento de endodoncia
+A1	Pending T5

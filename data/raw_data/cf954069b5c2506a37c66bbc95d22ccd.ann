@@ -1,0 +1,7 @@
+T1	Body_Part 0 12	PIEZAS 7 Y 8
+T2	Body_Part 68 74	PIEZAS
+T3	Body_Part 112 124	PIEZAS 7 Y 8
+T4	Laboratory_or_Test_Result 0 35	PIEZAS 7 Y 8 CON CARIES PENETRANTES
+T5	Therapeutic_Procedure 48 59	TREPANACION
+T6	Therapeutic_Procedure 85 106	TRATAMIENTO RADICULAR
+A1	Pending T6

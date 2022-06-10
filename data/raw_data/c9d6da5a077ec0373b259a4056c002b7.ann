@@ -1,0 +1,16 @@
+T1	Abbreviation 137 140	APS
+T2	Abbreviation 286 289	ACO
+T3	Abbreviation 290 291	x
+T4	Abbreviation 397 400	FUR
+T5	Disease 2 53	MENSTRUACIÓN EXCESIVA Y FRECUENTE CON CICLO REGULAR
+T6	Sign_or_Symptom 53 68	Menometrorragia
+T7	Sign_or_Symptom 69 80	Dismenorrea
+T8	Disease 85 113	DISMENORREA, NO ESPECIFICADA
+T9	Sign_or_Symptom 182 197	menometrorragia
+T10	Sign_or_Symptom 200 211	dismenorrea
+T11	Therapeutic_Procedure 229 254	esterilizacion quirurgica
+T12	Medication 286 289	ACO
+T13	Diagnostic_Procedure 321 343	ecografia ginecologica
+T14	Laboratory_or_Test_Result 344 369	dentro de rangos normales
+R1	Has Arg1:T13 Arg2:T14	
+T15	Disease 410 461	Menstruacion excesiva y frecuente con ciclo regular

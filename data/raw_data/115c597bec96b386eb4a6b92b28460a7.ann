@@ -1,0 +1,11 @@
+T1	Body_Part 53 60	PZA 3.8
+T2	Body_Part 134 141	PZA 3.8
+T3	Body_Part 157 164	PZA 4.8
+T4	Abbreviation 53 56	PZA
+T5	Abbreviation 134 137	PZA
+T6	Abbreviation 157 160	PZA
+T8	Abbreviation 0 4	PCTE
+T9	Therapeutic_Procedure 113 133	CIRUGIA DE EXODONCIA
+A1	Pending T9
+T7	Disease 20 60	PERICORONITIS RECURRENTE EN ZONA PZA 3.8
+T10	Clinical_Finding 53 76	PZA 3.8 SEMIERUPCIONADA

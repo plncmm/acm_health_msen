@@ -1,0 +1,16 @@
+T1	Disease 2 9	MIGRAÑA
+T2	Sign_or_Symptom 115 144	cefalea pulsatil holocraneana
+T3	Sign_or_Symptom 157 164	fotobia
+T4	Sign_or_Symptom 166 180	vision borrosa
+T5	Sign_or_Symptom 186 205	deficit neurologico
+A1	Negated T5
+T6	Sign_or_Symptom 338 359	cefaleas tipo migraña
+T7	Disease 418 425	Migraña
+T8	Sign_or_Symptom 315 323	cefaleas
+T9	Abbreviation 33 36	APS
+#1	AnnotatorNotes T9	atención primaria de la salud
+T10	Abbreviation 371 374	tto
+#2	AnnotatorNotes T10	tratamiento
+T11	Abbreviation 295 298	tto
+#3	AnnotatorNotes T11	tratamiento
+T12	Medication 252 270	analgesicos orales

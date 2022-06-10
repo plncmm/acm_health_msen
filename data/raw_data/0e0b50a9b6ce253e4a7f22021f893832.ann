@@ -1,0 +1,19 @@
+T1	Abbreviation 58 61	APS
+T2	Abbreviation 63 67	PCTE
+T3	Abbreviation 104 107	LST
+T4	Medication 104 107	LST
+T5	Abbreviation 137 140	ECG
+T6	Abbreviation 151 154	HVI
+T7	Body_Part 175 183	RAMA IZQ
+T8	Abbreviation 180 183	IZQ
+T9	Abbreviation 194 196	AV
+T10	Disease 2 34	HIPERTENSIÓN ESENCIAL (PRIMARIA)
+T11	Diagnostic_Procedure 137 140	ECG
+T12	Laboratory_or_Test_Result 151 154	HVI
+R1	Has Arg1:T11 Arg2:T12	
+T13	Laboratory_or_Test_Result 156 183	BLOQUE COMPLETO DE RAMA IZQ
+R2	Has Arg1:T11 Arg2:T13	
+T14	Laboratory_or_Test_Result 186 212	BLOQUEO AV DE PRIMER GRADO
+R3	Has Arg1:T11 Arg2:T14	
+T15	Disease 232 264	HIPERTENSION ESENCIAL (PRIMARIA)
+T16	Disease 186 212	BLOQUEO AV DE PRIMER GRADO

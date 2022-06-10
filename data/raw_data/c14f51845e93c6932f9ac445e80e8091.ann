@@ -1,0 +1,16 @@
+T1	Disease 2 31	INFARTO ANTIGUO DEL MIOCARDIO
+T2	Body_Part 22 31	MIOCARDIO
+T3	Abbreviation 55 58	APS
+T4	Abbreviation 73 78	antec
+T5	Disease 82 85	hta
+T6	Abbreviation 82 85	hta
+T7	Abbreviation 157 158	q
+T8	Abbreviation 171 176	ekg  
+T11	Abbreviation 139 141	cv
+#1	AnnotatorNotes T11	cardiovascular
+T13	Disease 214 243	Infarto antiguo del miocardio
+T14	Body_Part 234 243	miocardio
+T10	Diagnostic_Procedure 171 174	ekg
+T15	Laboratory_Procedure 108 127	examenes de ingreso
+T12	Laboratory_or_Test_Result 157 167	q en v2-v3
+R1	Has Arg1:T10 Arg2:T12	

@@ -1,0 +1,12 @@
+T1	Abbreviation 40 44	CPRE
+T2	Abbreviation 69 72	HTA
+T3	Abbreviation 85 89	EPOC
+T4	Abbreviation 104 107	ACV
+T5	Disease 0 16	COLANGITIS AGUDA
+T6	Therapeutic_Procedure 40 44	CPRE
+T7	Disease 46 58	COLELITIASIS
+T8	Laboratory_or_Test_Result 46 67	COLELITIASIS MULTIPLE
+T9	Disease 69 72	HTA
+T10	Disease 74 83	PARKINSON
+T11	Disease 85 89	EPOC
+T12	Disease 104 117	ACV ISQUEMICO

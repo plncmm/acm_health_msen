@@ -1,0 +1,9 @@
+T1	Disease 2 28	PERIODONTITIS CRÓNICA LEVE
+T2	Abbreviation 52 55	APS
+T3	Clinical_Finding 57 67	Embarazada
+T4	Sign_or_Symptom 77 101	eritema y edema gingival
+T5	Sign_or_Symptom 103 126	sangramiento al sondaje
+T6	Sign_or_Symptom 128 166	profundidad aumentada al sondaje +5 mm
+T7	Sign_or_Symptom 169 195	ártaro supra y subgingival
+T8	Disease 197 218	Periodontitis cronica
+T9	Abbreviation 164 166	mm

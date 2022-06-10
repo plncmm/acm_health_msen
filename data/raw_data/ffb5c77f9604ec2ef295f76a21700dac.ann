@@ -1,0 +1,15 @@
+T1	Disease 0 30	D. INTELECTUAL LEVE A MODERADO
+T3	Disease 99 102	D.I
+T2	Disease 67 78	RDSM GLOBAL
+T4	Disease 79 88	TEL MIXTO
+T5	Abbreviation 0 1	D
+#1	AnnotatorNotes T5	discapacidad
+T6	Abbreviation 67 71	RDSM
+#2	AnnotatorNotes T6	retraso del desarrollo psicomotor
+T7	Abbreviation 79 82	TEL
+#3	AnnotatorNotes T7	trastorno específico del lenguaje
+T8	Abbreviation 99 102	D.I
+#4	AnnotatorNotes T8	discapacidad intelectual
+T9	Abbreviation 90 96	2DARIO
+#5	AnnotatorNotes T9	secundario
+T10	Diagnostic_Procedure 42 53	PSICOMETRIA

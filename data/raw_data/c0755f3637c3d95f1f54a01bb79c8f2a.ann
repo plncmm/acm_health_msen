@@ -1,0 +1,21 @@
+T1	Disease 2 40	TRASTORNO DE ANSIEDAD, NO ESPECIFICADO
+T2	Disease 82 99	trastorno ansioso
+T3	Disease 354 392	Trastorno de ansiedad, no especificado
+T4	Abbreviation 64 67	APS
+#1	AnnotatorNotes T4	atención primaria de la salud
+T5	Abbreviation 176 178	Dr
+#2	AnnotatorNotes T5	doctor
+T6	Abbreviation 213 216	HRC
+#3	AnnotatorNotes T6	hospital regional coyhaique 
+T7	Abbreviation 232 235	tto
+#4	AnnotatorNotes T7	tratamiento
+T8	Abbreviation 256 258	mg
+#5	AnnotatorNotes T8	miligramos
+T9	Abbreviation 281 283	mg
+#6	AnnotatorNotes T9	miligramos
+T10	Abbreviation 344 348	Atte
+#7	AnnotatorNotes T10	atentamente
+T11	Abbreviation 351 353	Ud
+#8	AnnotatorNotes T11	usted
+T12	Medication 240 252	escitalopram
+T13	Medication 266 276	clonazepam

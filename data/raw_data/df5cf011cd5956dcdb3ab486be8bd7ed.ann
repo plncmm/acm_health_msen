@@ -1,0 +1,20 @@
+T1	Abbreviation 49 52	APS
+#1	AnnotatorNotes T1	atención primaria de salud
+T2	Abbreviation 80 85	ANTEC
+#2	AnnotatorNotes T2	antecedente
+T3	Abbreviation 89 92	ENF
+#3	AnnotatorNotes T3	enfermedad 
+T4	Abbreviation 194 197	TTO
+#4	AnnotatorNotes T4	tratamiento
+T5	Abbreviation 242 245	ECO
+#5	AnnotatorNotes T5	ecografía
+T6	Abbreviation 239 241	EX
+#6	AnnotatorNotes T6	examen
+T7	Medication 202 209	PROLOPA
+T8	Body_Part 288 303	SUSTANCIA NIGRA
+T9	Disease 2 25	ENFERMEDAD DE PARKINSON
+T10	Disease 89 105	ENF DE PARKINSON
+T11	Disease 304 327	Enfermedad de Parkinson
+T12	Diagnostic_Procedure 242 259	ECO TRANSCRANEANA
+T13	Laboratory_or_Test_Result 261 303	ECOGENICIDAD PATOLOGICA DE SUSTANCIA NIGRA
+R1	Has Arg1:T12 Arg2:T13	

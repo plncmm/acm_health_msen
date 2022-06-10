@@ -1,0 +1,7 @@
+T1	Body_Part 6 26	palma mano izquierda
+T2	Body_Part 90 116	3° -4° dedo mano izquierda
+T3	Body_Part 126 134	tendones
+T4	Sign_or_Symptom 0 26	dolor palma mano izquierda
+T5	Disease 29 50	enfermedad dupuy tren
+T6	Sign_or_Symptom 64 116	dolor a la flexoextension 3° -4° dedo mano izquierda
+T7	Sign_or_Symptom 126 157	tendones duros a la palpitacion

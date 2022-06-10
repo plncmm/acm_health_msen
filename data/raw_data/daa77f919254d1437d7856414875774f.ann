@@ -1,0 +1,5 @@
+T1	Disease 2 37	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T2	Abbreviation 61 64	APS
+T3	Sign_or_Symptom 75 94	clase II esqueletal
+T4	Sign_or_Symptom 100 152	apiñamiento dentario anterosuperior y anteroinferior
+T5	Disease 154 189	Maloclusion de tipo no especificado

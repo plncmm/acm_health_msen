@@ -1,0 +1,20 @@
+T1	Abbreviation 48 51	APS
+T2	Abbreviation 81 84	HTA
+T3	Abbreviation 102 105	ERC
+T4	Abbreviation 180 182	PA
+T5	Abbreviation 555 559	RR2T
+T6	Disease 2 24	INSUFICIENCIA CARDÍACA
+T7	Disease 81 84	HTA
+T8	Disease 102 115	ERC etapa III
+T9	Sign_or_Symptom 192 219	disnea de minimos esfuerzos
+T10	Sign_or_Symptom 221 229	ortopnea
+T11	Sign_or_Symptom 231 258	disnea paroxistica nocturna
+T12	Sign_or_Symptom 260 268	nicturia
+T13	Sign_or_Symptom 309 333	compromiso de conciencia
+T14	Sign_or_Symptom 350 401	incapaz de realizar una actividad sin sentir disnea
+T15	Sign_or_Symptom 502 510	disneica
+T16	Clinical_Finding 515 543	buenas condiciones generlaes
+T17	Clinical_Finding 555 559	RR2T
+T18	Sign_or_Symptom 565 571	soplos
+A1	Negated T18
+T19	Disease 573 595	Insuficiencia cardiaca

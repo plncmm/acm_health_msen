@@ -1,0 +1,9 @@
+T1	Abbreviation 13 17	post
+T2	Abbreviation 121 124	UCI
+T3	Therapeutic_Procedure 18 32	amigdalectomía
+T4	Disease 63 79	daño neurológico
+T5	Sign_or_Symptom 250 257	cefalea
+T6	Disease 316 336	CEFALEA TIPO JAQUECA
+T7	Disease 157 173	daño neurológico
+T8	Disease 186 202	daño neurológico
+T9	Sign_or_Symptom 42 60	hemorragia profusa

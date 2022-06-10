@@ -1,0 +1,19 @@
+T1	Body_Part 22 28	ROTULA
+T2	Abbreviation 52 55	APS
+T3	Abbreviation 97 99	RI
+T4	Abbreviation 119 122	tto
+T5	Body_Part 164 181	rodilla izquierda
+T6	Abbreviation 224 227	RNM
+T7	Abbreviation 272 275	tto
+T8	Abbreviation 293 297	Atte
+T9	Abbreviation 300 302	Ud
+T10	Body_Part 324 330	rotula
+T11	Disease 2 28	CONDROMALACIA DE LA ROTULA
+T12	Disease 97 99	RI
+T13	Disease 101 115	hipotiroidismo
+T14	Disease 124 149	micoradenoma hipofisiario
+T15	Sign_or_Symptom 155 181	dolor de rodilla izquierda
+T16	Diagnostic_Procedure 224 227	RNM
+T17	Laboratory_or_Test_Result 232 255	condromalacia rotuliana
+R1	Has Arg1:T16 Arg2:T17	
+T18	Disease 304 330	Condromalacia de la rotula

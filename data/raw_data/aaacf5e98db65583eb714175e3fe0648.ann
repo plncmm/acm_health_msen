@@ -1,0 +1,9 @@
+T1	Disease 2 21	LEIOMIOMA DEL ÚTERO
+T2	Disease 82 101	Leiomioma del utero
+T3	Abbreviation 45 48	APS
+#1	AnnotatorNotes T3	atención primaria de salud
+T4	Abbreviation 79 81	TV
+#2	AnnotatorNotes T4	transvaginal
+T5	Body_Part 16 21	ÚTERO
+T6	Body_Part 96 101	utero
+T7	Diagnostic_Procedure 69 81	ECOGRAFIA TV

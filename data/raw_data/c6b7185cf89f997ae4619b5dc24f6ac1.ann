@@ -1,0 +1,5 @@
+T1	Abbreviation 80 83	APS
+T2	Family_Member 188 193	hijas
+T3	Disease 2 56	TRASTORNO DE LA CONDUCTA LIMITADO AL CONTEXTO FAMILIAR
+T4	Clinical_Finding 104 125	antecedentes morbidos
+A1	Negated T4

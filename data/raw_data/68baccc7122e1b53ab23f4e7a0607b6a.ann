@@ -1,0 +1,19 @@
+T1	Disease 2 31	OTROS TIPOS DE RETRASO MENTAL
+T2	Abbreviation 55 58	APS
+T3	Clinical_Finding 118 140	retraso de aprendisaje
+T4	Clinical_Finding 235 238	lee
+A1	Negated T4
+T5	Clinical_Finding 244 251	escribe
+A2	Negated T5
+T6	Disease 268 290	trastornos de lenguaje
+T7	Sign_or_Symptom 298 324	problemas de concentracion
+T8	Clinical_Finding 346 367	problemas de conducta
+A3	Negated T8
+T9	Clinical_Finding 379 397	distrae facilmente
+T10	Disease 579 608	Otros tipos de retraso mental
+T11	Clinical_Finding 74 94	anatcedentes previos
+A4	Negated T11
+T12	Sign_or_Symptom 460 491	muerde las uñas compulsivamente
+T13	Body_Part 471 475	uñas
+T14	Body_Part 528 533	manos
+T15	Sign_or_Symptom 500 533	susdoracion excesiva en las manos

@@ -1,0 +1,14 @@
+T1	Body_Part 2 9	DIENTES
+T2	Abbreviation 56 59	APS
+T3	Body_Part 142 151	pieza 4.8
+T4	Body_Part 249 255	Diente
+T5	Body_Part 242 247	pieza
+T6	Clinical_Finding 70 78	puerpera
+T7	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T8	Clinical_Finding 113 121	alergias
+A1	Negated T8
+T9	Clinical_Finding 84 107	antecedentes sistémicos
+A2	Negated T9
+T10	Therapeutic_Procedure 226 235	exodoncia
+A3	Pending T10
+T11	Sign_or_Symptom 142 185	pieza 4.8 semi erupcionada con poco espacio

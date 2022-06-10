@@ -1,0 +1,9 @@
+T1	Abbreviation 75 78	APS
+T2	Body_Part 37 51	NUCLEO PULPOSO
+T3	Body_Part 109 127	region lumbo sacra
+T4	Body_Part 152 166	pierna derecha
+T5	Abbreviation 179 184	aines
+T6	Medication 179 184	aines
+T7	Disease 2 21	LUMBAGO CON CIÁTICA
+T8	Disease 25 51	HERNIAS DEL NUCLEO PULPOSO
+T9	Sign_or_Symptom 97 166	dolor en la region lumbo sacra que se irradia hacia la pierna derecha

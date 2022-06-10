@@ -1,0 +1,7 @@
+T1	Disease 2 22	NECROSIS DE LA PULPA
+T2	Laboratory_or_Test_Result 35 48	lesion apical
+T3	Body_Part 61 69	diente 7
+T4	Therapeutic_Procedure 102 118	necropulpectomia
+T5	Medication 154 158	caoh
+T6	Body_Part 17 22	PULPA
+T7	Clinical_Finding 162 181	obturacion temporal

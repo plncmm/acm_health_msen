@@ -1,0 +1,9 @@
+T1	Abbreviation 0 3	PTE
+T3	Abbreviation 18 23	ANTEC
+T4	Clinical_Finding 36 52	CARIES MULTIPLES
+T5	Abbreviation 53 56	DTE
+T6	Body_Part 53 60	DTE 8.4
+T7	Disease 65 92	ABSESODENTOALVEOLAR CRONICO
+T8	Abbreviation 117 120	APS
+T2	Clinical_Finding 18 34	ANTEC SISTEMICOS
+A1	Negated T2

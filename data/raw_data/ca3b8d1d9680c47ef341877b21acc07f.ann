@@ -1,0 +1,7 @@
+T1	Abbreviation 70 73	IAM
+T2	Abbreviation 78 81	SDT
+T3	Disease 0 56	PRESENCIA DE ANGIPLASTIA, INJERTOS Y PROTESIS CORONARIAS
+T4	Disease 70 81	IAM SIN SDT
+T5	Therapeutic_Procedure 82 98	BYPASS CORONARIO
+T6	Laboratory_or_Test_Result 78 81	SDT
+A1	Negated T6

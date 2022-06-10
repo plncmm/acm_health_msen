@@ -1,0 +1,7 @@
+T1	Abbreviation 13 15	DM
+T2	Abbreviation 16 17	+
+T3	Abbreviation 18 21	HTA
+T4	Disease 13 15	DM
+T5	Disease 18 21	HTA
+T6	Therapeutic_Procedure 44 50	BYPASS
+T7	Disease 61 72	PRE INFARTO

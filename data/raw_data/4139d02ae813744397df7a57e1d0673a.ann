@@ -1,0 +1,14 @@
+T1	Abbreviation 72 74	RH
+T2	Abbreviation 116 120	RCIU
+T3	Abbreviation 0 1	G
+T4	Abbreviation 2 3	P
+T5	Abbreviation 4 5	A
+T6	Clinical_Finding 0 2	G4
+T7	Clinical_Finding 2 4	P2
+T8	Clinical_Finding 4 6	A1
+T9	Clinical_Finding 7 15	EMBARAZO
+T10	Clinical_Finding 57 71	GESTANTE AÑOSA
+T11	Laboratory_or_Test_Result 72 83	RH NEGATIVA
+T12	Laboratory_or_Test_Result 87 100	SENSIBILIZADA
+A1	Negated T12
+T13	Disease 116 120	RCIU

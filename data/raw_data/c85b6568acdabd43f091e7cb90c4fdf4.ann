@@ -1,0 +1,21 @@
+T1	Abbreviation 10 14	EEII
+T2	Body_Part 10 14	EEII
+T3	Abbreviation 45 47	DM
+T4	Abbreviation 55 57	IR
+T5	Body_Part 123 146	extremidades inferiores
+T6	Medication 281 294	Carbamazepina
+T7	Body_Part 343 354	musculatura
+T8	Body_Part 358 365	piernas
+T9	Abbreviation 382 385	ROT
+T10	Sign_or_Symptom 0 14	Debilidad EEII
+T11	Disease 45 54	DM tipo 2
+T12	Disease 60 72	dislipidemia
+T13	Sign_or_Symptom 104 146	debilidad de ambas extremidades inferiores
+T14	Sign_or_Symptom 158 174	temblor de ambas
+T15	Sign_or_Symptom 196 244	cáidas de inicio insidioso que ha ido en aumento
+T16	Sign_or_Symptom 300 323	compromiso esfinteriano
+A1	Negated T16
+T17	Sign_or_Symptom 343 376	musculatura de piernas disminuida
+T18	Sign_or_Symptom 382 428	ROT conservados débiles bilaterales simétricos
+T19	Sign_or_Symptom 430 453	Sensibilidad conservada
+T20	Laboratory_Procedure 467 490	exámenes de laboratorio

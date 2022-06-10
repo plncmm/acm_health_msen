@@ -1,0 +1,9 @@
+T1	Disease 2 30	PERIODONTITIS CRÓNICA SEVERA
+T2	Abbreviation 54 57	APS
+T3	Sign_or_Symptom 69 85	saco periodontal
+T4	Sign_or_Symptom 104 111	tartaro
+T5	Sign_or_Symptom 113 131	perdida de dientes
+T6	Sign_or_Symptom 133 150	mala higiene oral
+T7	Body_Part 124 131	dientes
+T8	Disease 152 173	Periodontitis cronica
+T9	Abbreviation 59 64	pacte

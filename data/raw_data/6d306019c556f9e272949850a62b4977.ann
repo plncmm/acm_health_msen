@@ -1,0 +1,47 @@
+T1	Abbreviation 58 61	APS
+T2	Abbreviation 102 105	HTA
+T3	Abbreviation 108 112	EPOC
+T4	Abbreviation 142 145	BCG
+T5	Abbreviation 158 161	DPN
+T6	Abbreviation 176 178	CF
+T7	Abbreviation 183 186	ECG
+T8	Abbreviation 221 224	POS
+T11	Abbreviation 330 334	MMHG
+T12	Abbreviation 361 364	TTO
+T13	Medication 386 394	LOSARTAN
+T14	Abbreviation 398 400	MG
+T15	Medication 416 424	ATENOLOL
+T16	Abbreviation 428 430	MG
+T17	Abbreviation 459 462	MPC
+T18	Abbreviation 512 515	TTO
+T19	Abbreviation 550 552	PA
+T9	Abbreviation 444 450	RR2TSS
+T10	Abbreviation 463 466	SRA
+T20	Abbreviation 466 470	EEII
+T21	Body_Part 466 470	EEII
+T22	Abbreviation 479 480	+
+T23	Disease 2 34	HIPERTENSIÓN ESENCIAL (PRIMARIA)
+T24	Disease 102 105	HTA
+T25	Disease 108 112	EPOC
+T26	Sign_or_Symptom 151 156	ANGOR
+A1	Negated T26
+T27	Sign_or_Symptom 158 161	DPN
+A2	Negated T27
+T28	Sign_or_Symptom 166 174	ORTOPNEA
+A3	Negated T28
+T29	Diagnostic_Procedure 183 186	ECG
+T30	Laboratory_or_Test_Result 188 201	RITNO SINUSAL
+T31	Laboratory_or_Test_Result 203 224	CRECIMIENTO DE VI POS
+T32	Laboratory_or_Test_Result 225 243	ALTERACION DE ST-T
+T33	Laboratory_or_Test_Result 245 267	QS EN V1 V2 ¡NECROSIS?
+T34	Laboratory_or_Test_Result 268 291	INTERVALO QT PROLONGADO
+T35	Clinical_Finding 336 348	ASINTOMATICA
+R1	Has Arg1:T29 Arg2:T30	
+R2	Has Arg1:T29 Arg2:T31	
+R3	Has Arg1:T29 Arg2:T32	
+R4	Has Arg1:T29 Arg2:T33	
+R5	Has Arg1:T29 Arg2:T34	
+T36	Clinical_Finding 437 450	CARDIO RR2TSS
+T37	Clinical_Finding 450 466	PULMONAR MPC SRA
+T38	Sign_or_Symptom 466 481	EEII: EDEMA (+)
+T39	Disease 554 586	HIPERTENSION ESENCIAL (PRIMARIA)

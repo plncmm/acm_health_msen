@@ -1,0 +1,13 @@
+T1	Body_Part 57 71	cabeza femoral
+T2	Abbreviation 95 98	APS
+T3	Body_Part 185 207	cabeza femoral derecho
+T4	Medication 353 364	paracetamol
+T5	Abbreviation 368 370	mg
+T6	Disease 2 32	OSTEONECROSIS, NO ESPECIFICADA
+T7	Disease 32 71	necrosis avascular de de cabeza femoral
+T8	Disease 160 207	necrosis avascular de de cabeza femoral derecho
+T9	Sign_or_Symptom 240 260	leve a moderado dolo
+T10	Sign_or_Symptom 262 293	limitacion a ciertas posiciones
+T11	Disease 425 455	Osteonecrosis, no especificada
+T12	Clinical_Finding 320 326	trauma
+A1	Negated T12

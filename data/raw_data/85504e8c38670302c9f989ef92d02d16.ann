@@ -1,0 +1,6 @@
+T1	Abbreviation 0 3	PZA
+T4	Therapeutic_Procedure 42 51	COMPOSITE
+T5	Clinical_Finding 72 93	FRACTURA DE COMPOSITE
+T6	Abbreviation 121 124	PZA
+T7	Therapeutic_Procedure 125 148	TRATADA ENDODNTICAMENTE
+T2	Body_Part 0 11	PZA 1.1-2.1

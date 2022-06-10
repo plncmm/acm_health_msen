@@ -1,0 +1,16 @@
+T1	Abbreviation 71 74	APS
+T2	Abbreviation 117 120	HTA
+T3	Abbreviation 121 124	Obs
+T4	Abbreviation 151 154	PAP
+T5	Abbreviation 93 94	G
+T6	Abbreviation 95 96	P
+T7	Abbreviation 97 98	A
+T8	Disease 2 47	OTROS QUISTES OVÁRICOS Y LOS NO ESPECIFICADOS
+T9	Clinical_Finding 93 95	G3
+T10	Clinical_Finding 95 97	P3
+T11	Clinical_Finding 97 99	A1
+T12	Disease 100 114	Hipotiroidismo
+T13	Disease 117 120	HTA
+T14	Disease 125 149	quiste anexial izquierdo
+T15	Diagnostic_Procedure 151 154	PAP
+T16	Disease 163 208	Otros quistes ovaricos y los no especificados

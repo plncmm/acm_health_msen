@@ -1,0 +1,15 @@
+T1	Body_Part 89 97	diente19
+T2	Medication 118 126	eugenato
+T3	Abbreviation 200 203	pfu
+T4	Body_Part 0 6	diente
+T5	Abbreviation 102 106	rest
+T6	Abbreviation 129 133	rest
+T7	Therapeutic_Procedure 89 151	diente19 con rest de base de eugenato y rest provisoria de v.i
+T8	Diagnostic_Procedure 164 175	radiografia
+A1	Pending T8
+T9	Therapeutic_Procedure 200 203	pfu
+T10	Therapeutic_Procedure 206 218	incrustacion
+A2	Pending T10
+A3	Pending T9
+T11	Disease 0 62	diente con tratamiento endonciato con desalojo de restauracion
+T12	Abbreviation 148 151	v.i

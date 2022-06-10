@@ -1,0 +1,8 @@
+T1	Body_Part 0 9	Pieza 1.4
+T2	Sign_or_Symptom 10 47	obturación oclusodistal con desajuste
+T3	Body_Part 48 57	pieza 1.5
+T4	Disease 62 80	caries recidivante
+T5	Body_Part 97 106	pieza 2.4
+T6	Sign_or_Symptom 111 137	gran destrucción coronaria
+T7	Therapeutic_Procedure 151 173	prótesis fija singular
+A1	Pending T7

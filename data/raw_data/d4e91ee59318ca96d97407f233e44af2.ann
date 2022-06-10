@@ -1,0 +1,15 @@
+T1	Abbreviation 64 67	APS
+T2	Abbreviation 76 79	CCA
+T3	Abbreviation 102 105	EMB
+T4	Abbreviation 121 124	OBS
+T5	Abbreviation 148 151	OBS
+T6	Abbreviation 202 204	DR
+T7	Abbreviation 69 70	M
+T8	Disease 17 40	EMBARAZO DE ALTO RIESGO
+T9	Clinical_Finding 69 71	M1
+T10	Therapeutic_Procedure 76 79	CCA
+T11	Disease 82 98	MACROSOMIA FETAL
+T12	Clinical_Finding 102 105	EMB
+T13	Disease 125 145	DIABETES GESTACIONAL
+T14	Disease 152 168	MACROSOMIA FETAL
+T15	Disease 171 179	OBESIDAD

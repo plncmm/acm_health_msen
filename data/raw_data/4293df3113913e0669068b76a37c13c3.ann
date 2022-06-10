@@ -1,0 +1,44 @@
+T1	Abbreviation 40 43	APS
+T2	Abbreviation 55 58	Ant
+T3	Abbreviation 93 95	Qx
+T4	Abbreviation 103 106	FUR
+T5	Abbreviation 143 145	dg
+T6	Abbreviation 208 210	dg
+T7	Family_Member 190 195	Madre
+T8	Abbreviation 375 378	tto
+T9	Medication 395 402	Eutirox
+T10	Abbreviation 406 409	mcg
+T11	Abbreviation 440 443	TSH
+T12	Abbreviation 488 491	Eco
+T13	Abbreviation 550 554	fcos
+T14	Abbreviation 591 594	BEG
+T15	Abbreviation 633 639	RR2tSS
+T16	Abbreviation 642 644	MP
+T17	Abbreviation 646 649	SRA
+T18	Abbreviation 645 646	+
+T19	Body_Part 652 660	Tiroides
+T20	Disease 2 16	HIPOTIROIDISMO
+T21	Disease 60 74	Hipotiroidismo
+T22	Clinical_Finding 77 85	Alergias
+A1	Negated T22
+T23	Clinical_Finding 93 95	Qx
+A2	Negated T23
+T24	Clinical_Finding 108 126	menarquia reciente
+T25	Disease 146 160	Hipotiroidismo
+T26	Disease 173 188	febril sin foco
+T27	Disease 215 248	Tiroiditis aguda o subaguda viral
+T28	Laboratory_Procedure 440 443	TSH
+T29	Laboratory_or_Test_Result 444 450	normal
+R1	Has Arg1:T28 Arg2:T29	
+T30	Diagnostic_Procedure 488 500	Eco tiroidea
+T31	Laboratory_or_Test_Result 505 531	diagnostico estaría normal
+R2	Has Arg1:T30 Arg2:T31	
+T32	Clinical_Finding 596 604	eupneica
+T33	Clinical_Finding 606 618	normocardcia
+T34	Clinical_Finding 591 594	BEG
+T35	Clinical_Finding 620 630	normotensa
+T36	Sign_or_Symptom 633 639	RR2tSS
+T37	Sign_or_Symptom 642 646	MP +
+T38	Sign_or_Symptom 646 649	SRA
+T39	Sign_or_Symptom 652 698	Tiroides: palpacion tamaño normal, sin nodulos
+T40	Disease 843 857	Hipotiroidismo

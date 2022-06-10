@@ -1,0 +1,18 @@
+T1	Abbreviation 55 58	APS
+T2	Abbreviation 105 108	IAM
+T3	Abbreviation 226 229	eva
+T4	Abbreviation 290 292	SU
+T5	Abbreviation 298 301	ECG
+T6	Disease 2 31	INFARTO ANTIGUO DEL MIOCARDIO
+T7	Disease 105 116	IAM antiguo
+T8	Sign_or_Symptom 172 205	dolor retroesternal, no irradiado
+T9	Sign_or_Symptom 242 249	nauseas
+T10	Diagnostic_Procedure 298 301	ECG
+T12	Disease 326 349	necrosis septal antigua
+T13	Diagnostic_Procedure 463 479	Test de Esfuerzo
+T11	Laboratory_or_Test_Result 306 320	eventos agudos
+T14	Laboratory_or_Test_Result 326 349	necrosis septal antigua
+R1	Has Arg1:T10 Arg2:T11	
+R2	Has Arg1:T10 Arg2:T14	
+A1	Negated T11
+A2	Pending T13

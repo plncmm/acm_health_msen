@@ -1,0 +1,10 @@
+T1	Abbreviation 97 100	APS
+T2	Body_Part 150 161	ojo derecho
+T3	Body_Part 207 218	ojo derecho
+T4	Disease 2 12	QUERATITIS
+T5	Disease 16 29	CONJUNTIVITIS
+T6	Disease 33 73	GLAUCOMA SECUNDARIO A TRAUMATISMO OCULAR
+T7	Disease 131 161	traumatismo ocular ojo derecho
+T8	Sign_or_Symptom 178 185	cefalea
+T9	Sign_or_Symptom 231 240	fotofobia
+T10	Sign_or_Symptom 242 255	arodor ocular

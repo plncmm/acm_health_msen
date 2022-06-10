@@ -1,0 +1,9 @@
+T1	Abbreviation 54 57	APS
+T2	Medication 111 121	penicilina
+T3	Body_Part 146 156	diente 1.2
+T4	Medication 184 204	hidroxido de  calcio
+T5	Disease 2 30	PERIODONTITIS APICAL CRÓNICA
+T6	Disease 68 78	hipertensa
+T7	Disease 84 95	cardiopatia
+T8	Clinical_Finding 97 121	alergica a la penicilina
+T9	Therapeutic_Procedure 134 156	trepanacion diente 1.2

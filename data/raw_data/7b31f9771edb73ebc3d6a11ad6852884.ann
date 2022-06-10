@@ -1,0 +1,9 @@
+T1	Abbreviation 0 3	PZA
+T2	Body_Part 0 8	PZA: 1.5
+T3	Clinical_Finding 9 18	TREPANADA
+T4	Disease 46 74	PERIODONTITIS APICAL CRONICA
+T5	Diagnostic_Procedure 77 79	RX
+T6	Abbreviation 77 79	RX
+T7	Body_Part 80 83	1.5
+T8	Laboratory_or_Test_Result 84 101	LESION PERIAPICAL
+R1	Has Arg1:T5 Arg2:T8	

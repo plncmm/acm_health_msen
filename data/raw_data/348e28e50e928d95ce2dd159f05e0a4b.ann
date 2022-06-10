@@ -1,0 +1,16 @@
+T1	Medication 250 253	HGO
+T2	Medication 391 401	mesalazina
+T3	Abbreviation 250 253	HGO
+T5	Disease 110 126	colitis ulcerosa
+T6	Disease 215 217	DM
+T7	Abbreviation 215 217	DM
+T8	Abbreviation 69 72	APS
+T9	Abbreviation 207 210	APS
+T10	Abbreviation 471 476	aprox
+T11	Disease 155 162	diarrea
+T12	Sign_or_Symptom 184 190	fiebre
+T13	Sign_or_Symptom 168 180	hematoquezia
+A1	Negated T13
+A2	Negated T12
+T14	Diagnostic_Procedure 446 458	colonoscopia
+T4	Disease 2 45	COLITIS ULCERATIVA, SIN OTRA ESPECIFICACIÓN

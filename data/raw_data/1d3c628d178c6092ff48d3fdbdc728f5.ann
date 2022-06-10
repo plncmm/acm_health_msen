@@ -1,0 +1,17 @@
+T1	Abbreviation 142 145	APS
+T2	Body_Part 28 48	RAMA DERECHA DEL HAZ
+T3	Abbreviation 183 186	ECG
+T4	Body_Part 235 247	RAMA DERECHA
+T5	Body_Part 295 315	rama derecha del haz
+T6	Abbreviation 200 203	BAV
+T7	Disease 2 71	OTROS TIPOS DE BLOQUEO DE RAMA DERECHA DEL HAZ Y LOS NO ESPECIFICADOS
+T8	Disease 75 118	BLOQUEO AURICULOVENTRICULAR DE PRIMER GRADO
+T9	Disease 168 177	DIABETICO
+T10	Diagnostic_Procedure 183 186	ECG
+T11	Laboratory_or_Test_Result 200 211	BAV 1 GRADO
+T12	Disease 200 211	BAV 1 GRADO
+R1	Has Arg1:T10 Arg2:T11	
+T13	Laboratory_or_Test_Result 224 247	BLOQUEO DE RAMA DERECHA
+T14	Disease 224 247	BLOQUEO DE RAMA DERECHA
+R2	Has Arg1:T10 Arg2:T13	
+T15	Disease 269 338	Otros tipos de bloqueo de rama derecha del haz y los no especificados

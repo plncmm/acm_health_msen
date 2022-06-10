@@ -1,0 +1,10 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 79 84	pacte
+T3	Abbreviation 137 140	izq
+T4	Body_Part 129 140	caninos izq
+T5	Body_Part 141 148	paladar
+T6	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T7	Disease 172 220	Anomalias dentofaciales (incluso la maloclusion)
+T8	Sign_or_Symptom 89 111	desviacion linea media
+T9	Sign_or_Symptom 141 170	paladar triangular y profundo
+T10	Sign_or_Symptom 112 136	entrecruzamiento caninos

@@ -1,0 +1,4 @@
+T1	Body_Part 31 46	dientes 1.1-2.1
+T2	Disease 61 110	fisura labioplatina bilateral, fístula orosinusal
+T3	Therapeutic_Procedure 130 149	cirugía ortognática
+A1	Pending T3

@@ -1,0 +1,9 @@
+T4	Disease 39 87	SINDROME DE HIPERPRESION ROTULIANA CONDROMALACIA
+T5	Disease 90 121	SUBLUXACIÓN BILATERAL DE ROTULA
+T3	Abbreviation 29 32	TOS
+#1	AnnotatorNotes T3	abreviación no indentificada
+T6	Abbreviation 33 37	ISMA
+#2	AnnotatorNotes T6	abreviación no indentificada
+T7	Body_Part 10 14	CARA
+T8	Body_Part 115 121	ROTULA
+T1	Disease 1 14	DOLOR EN CARA

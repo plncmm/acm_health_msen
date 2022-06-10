@@ -1,0 +1,16 @@
+T1	Abbreviation 51 54	APS
+T2	Abbreviation 144 146	cm
+T3	Disease 2 18	MELANOMA IN SITU
+T4	Disease 18 26	melanoma
+T5	Sign_or_Symptom 132 137	lunar
+T6	Sign_or_Symptom 162 179	coloracion oscura
+T7	Sign_or_Symptom 201 223	crecimiento progresivo
+T8	Sign_or_Symptom 225 243	bordes irregulares
+T9	Sign_or_Symptom 258 263	dolor
+T10	Sign_or_Symptom 265 272	prurito
+T11	Sign_or_Symptom 279 287	sangrado
+A1	Negated T11
+T12	Sign_or_Symptom 294 312	lesiones satelites
+T13	Disease 353 361	melanoma
+T14	Disease 363 379	Melanoma in situ
+A2	Negated T12

@@ -1,0 +1,7 @@
+T1	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T2	Abbreviation 54 57	APS
+T3	Body_Part 59 68	pieza 2,4
+T4	Laboratory_or_Test_Result 59 97	pieza 2,4 caries dentinaria penetrante
+T5	Therapeutic_Procedure 109 120	trepanacion
+T6	Therapeutic_Procedure 143 153	endodoncia
+A1	Pending T6

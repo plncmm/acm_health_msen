@@ -1,0 +1,21 @@
+T1	Body_Part 84 97	talon derecho
+T2	Abbreviation 191 193	rx
+T3	Body_Part 194 222	calcaneo derecho lat y axial
+T4	Abbreviation 211 214	lat
+T6	Abbreviation 541 543	DM
+T7	Abbreviation 548 550	IR
+T5	Body_Part 473 511	zona de inserion del tendon de aquiles
+T8	Disease 2 18	ESPOLÓN CALCÁNEO
+T9	Laboratory_or_Test_Result 2 18	ESPOLÓN CALCÁNEO
+T10	Sign_or_Symptom 67 97	dolor a nivel de talon derecho
+T11	Therapeutic_Procedure 166 189	rehabilitacion kinesica
+T12	Diagnostic_Procedure 191 222	rx calcaneo derecho lat y axial
+T13	Laboratory_or_Test_Result 261 316	osteopenia grueso espolon calcaneo de tipo degenerativo
+T14	Laboratory_or_Test_Result 321 366	leve aumento de volumen de las partes blandas
+R1	Has Arg1:T12 Arg2:T13	
+R2	Has Arg1:T12 Arg2:T14	
+T15	Laboratory_or_Test_Result 403 424	finas calcificaciones
+R3	Has Arg1:T12 Arg2:T15	
+T16	Laboratory_or_Test_Result 448 511	pequeña calcificacion en zona de inserion del tendon de aquiles
+R4	Has Arg1:T12 Arg2:T16	
+T17	Disease 541 550	DMTIPO2IR

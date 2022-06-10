@@ -1,0 +1,15 @@
+T1	Body_Part 60 80	HUESOS METACARPIANOS
+T2	Abbreviation 104 107	APS
+T3	Body_Part 167 179	mano derecha
+T4	Abbreviation 218 221	MTC
+T5	Body_Part 215 221	5º MTC
+T6	Abbreviation 257 260	HRC
+T7	Abbreviation 265 268	TMT
+T8	Disease 2 38	CONSOLIDACIÓN DEFECTUOSA DE FRACTURA
+T9	Disease 42 80	FRACTURA DE OTROS HUESOS METACARPIANOS
+T10	Diagnostic_Procedure 181 192	radiografia
+T11	Disease 203 221	fractura de 5º MTC
+T12	Laboratory_or_Test_Result 203 221	fractura de 5º MTC
+R1	Has Arg1:T10 Arg2:T12	
+T14	Therapeutic_Procedure 297 320	rehabilitacion kinesica
+T16	Sign_or_Symptom 330 364	continua con dolor intenso en zona

@@ -1,0 +1,5 @@
+T1	Disease 0 35	maloclusion de tipo no especificado
+T2	Sign_or_Symptom 35 65	relacion caninosdisto-oclusion
+T3	Sign_or_Symptom 65 91	ralcion incisiva:bis a bis
+T4	Sign_or_Symptom 91 121	realcion esqueletical:clase ii
+T5	Body_Part 44 51	caninos

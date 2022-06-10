@@ -1,0 +1,13 @@
+T1	Body_Part 0 5	pieza
+T2	Body_Part 58 68	diente 4.4
+T3	Abbreviation 79 82	PFU
+T5	Body_Part 218 239	ligamento periodontal
+T6	Laboratory_or_Test_Result 6 30	tratada endodonticamente
+T4	Laboratory_or_Test_Result 84 147	longitud radicular  en relacion1.5  con tratamiento  suboturado
+T7	Therapeutic_Procedure 79 82	PFU
+A1	Pending T7
+T8	Laboratory_or_Test_Result 182 195	lesion apical
+A2	Negated T8
+T9	Laboratory_or_Test_Result 199 215	reabsorcion osea
+A3	Negated T9
+T10	Clinical_Finding 218 244	ligamento periodontal sano

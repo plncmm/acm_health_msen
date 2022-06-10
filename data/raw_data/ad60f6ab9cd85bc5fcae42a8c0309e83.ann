@@ -1,0 +1,15 @@
+T1	Abbreviation 9 12	EMB
+T2	Abbreviation 18 21	SEM
+T3	Abbreviation 22 27	ANTEC
+T4	Abbreviation 71 76	ANTEC
+T5	Abbreviation 0 1	G
+T6	Abbreviation 3 4	P
+T7	Abbreviation 6 7	A
+T8	Clinical_Finding 0 2	G3
+T9	Clinical_Finding 3 5	P2
+T10	Clinical_Finding 6 8	A0
+T11	Clinical_Finding 9 12	EMB
+T12	Disease 32 41	MORTINATO
+T13	Disease 43 53	PREMATUREZ
+T14	Disease 78 106	METRORRAGIA CESARIA ANTERIOR
+T15	Therapeutic_Procedure 90 97	CESARIA

@@ -1,0 +1,11 @@
+T1	Disease 2 30	HIPERTROFIA DE LAS AMÍGDALAS
+T2	Body_Part 21 30	AMÍGDALAS
+T3	Abbreviation 54 57	APS
+T4	Clinical_Finding 84 105	anatcedentes morbidos
+A1	Negated T4
+T7	Sign_or_Symptom 261 312	inflamaciones ganglionares cervicales intermitentes
+T8	Sign_or_Symptom 368 397	aumento de amigdalas grado II
+T9	Body_Part 379 388	amigdalas
+T10	Disease 436 464	Hipertrofia de las amigdalas
+T11	Body_Part 455 464	amigdalas
+T5	Disease 134 158	amigdalitis a repeticion

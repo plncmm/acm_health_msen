@@ -1,0 +1,5 @@
+T1	Body_Part 0 7	pieza 3
+T2	Therapeutic_Procedure 12 34	tratamiento endodoncia
+T3	Body_Part 41 49	pieza 14
+T4	Therapeutic_Procedure 54 76	tratamiento endodoncia
+T5	Sign_or_Symptom 41 125	pieza 14 con tratamiento endodoncia antigua , abierta . sin obtruccion. de la corona

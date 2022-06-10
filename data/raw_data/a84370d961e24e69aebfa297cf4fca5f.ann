@@ -1,0 +1,24 @@
+T1	Disease 2 10	DISFONÍA
+T2	Disease 67 70	HTA
+T3	Disease 193 210	cancer de laringe
+T4	Sign_or_Symptom 258 279	disfonia intermitente
+T5	Sign_or_Symptom 285 300	sintomas de RGE
+A2	Negated T5
+T6	Disease 297 300	RGE
+T7	Disease 473 491	patologia laringea
+T8	Disease 530 538	Disfonia
+T9	Abbreviation 34 37	APS
+#1	AnnotatorNotes T9	atención primaria de salud
+T10	Abbreviation 67 70	HTA
+#2	AnnotatorNotes T10	hipertensión arterial
+T11	Abbreviation 297 300	RGE
+#3	AnnotatorNotes T11	reflujo gastroesofágico
+T12	Abbreviation 390 392	Dr
+#4	AnnotatorNotes T12	doctor
+T13	Body_Part 203 210	laringe
+T14	Body_Part 313 330	glandula tiroidea
+T15	Therapeutic_Procedure 140 152	angioplastia
+T16	Diagnostic_Procedure 440 455	nasofibroscopia
+A3	Pending T16
+T17	Family_Member 164 171	hermana
+R1	Has Arg1:T17 Arg2:T3	

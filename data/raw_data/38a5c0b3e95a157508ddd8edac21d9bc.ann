@@ -1,0 +1,14 @@
+T1	Body_Part 0 9	Diente 19
+T2	Abbreviation 14 18	ADAC
+T3	Abbreviation 184 188	pcte
+T4	Abbreviation 80 84	pcte
+T5	Abbreviation 246 250	Adac
+T6	Disease 14 18	ADAC
+T7	Disease 214 244	Absceso Dento Alveolar Cronico
+T8	Disease 246 250	Adac
+T9	Therapeutic_Procedure 50 66	necropulpectomía
+A1	Pending T9
+T10	Disease 121 134	periodontitis
+T11	Laboratory_or_Test_Result 136 155	compromiso de furca
+T12	Laboratory_or_Test_Result 158 182	reabsorción generalizada
+T13	Therapeutic_Procedure 192 211	terapia periodontal

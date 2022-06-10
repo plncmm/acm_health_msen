@@ -1,0 +1,18 @@
+T1	Abbreviation 40 43	APS
+T2	Abbreviation 79 82	DLP
+T3	Medication 110 117	EUTIROX
+T4	Abbreviation 121 124	MCG
+T5	Medication 135 150	SULFATO FERROSO
+T6	Abbreviation 154 156	MG
+T7	Abbreviation 167 170	HRS
+T8	Medication 171 184	ATORVASTATINA
+T9	Abbreviation 188 190	MG
+T10	Abbreviation 208 210	EX
+T11	Abbreviation 251 254	HGB
+T12	Disease 2 16	HIPOTIROIDISMO
+T13	Disease 63 77	HIPOTIROIDISMO
+T14	Disease 79 82	DLP
+T15	Disease 84 90	ANEMIA
+T16	Clinical_Finding 196 208	ASINTOMATICA
+T17	Clinical_Finding 208 224	EX FISICO NORMAL
+T18	Laboratory_Procedure 251 254	HGB

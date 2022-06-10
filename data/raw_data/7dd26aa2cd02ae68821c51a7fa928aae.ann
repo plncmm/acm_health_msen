@@ -1,0 +1,10 @@
+T1	Abbreviation 69 72	APS
+T2	Body_Part 163 179	abrazo izquierdo
+T3	Abbreviation 199 202	ecg
+T4	Disease 2 45	BLOQUEO AURICULOVENTRICULAR DE PRIMER GRADO
+T5	Sign_or_Symptom 113 179	dolor retoresternal punzante esporadico irradiado abrazo izquierdo
+T6	Diagnostic_Procedure 199 202	ecg
+T7	Laboratory_or_Test_Result 217 236	bradicardia sinusal
+T8	Laboratory_or_Test_Result 239 250	pr alargado
+R1	Has Arg1:T6 Arg2:T7	
+R2	Has Arg1:T6 Arg2:T8	

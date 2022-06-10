@@ -1,0 +1,12 @@
+T1	Body_Part 43 62	hipocondrio derecho
+T2	Body_Part 89 92	APS
+T3	Body_Part 156 175	hipocondrio derecho
+T4	Body_Part 318 337	hipocondrio derecho
+T5	Sign_or_Symptom 2 27	DOLOR ABDOMINAL Y PÉLVICO
+T6	Sign_or_Symptom 27 62	dolor abdominal hipocondrio derecho
+T7	Sign_or_Symptom 122 175	dolor  abdominal ( localizacion : hipocondrio derecho
+T8	Sign_or_Symptom 268 337	doloroso a la palpacion superficial y profunda en hipocondrio derecho
+T9	Clinical_Finding 343 356	palpo tumores
+A1	Negated T9
+T10	Diagnostic_Procedure 406 429	ecotomografia abdominal
+A2	Pending T10

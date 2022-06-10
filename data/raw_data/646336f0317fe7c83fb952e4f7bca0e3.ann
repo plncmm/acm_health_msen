@@ -1,0 +1,15 @@
+T1	Abbreviation 221 223	OD
+T2	Body_Part 221 223	OD
+T3	Abbreviation 233 235	OI
+T4	Body_Part 233 235	OI
+T5	Abbreviation 263 265	OD
+T6	Body_Part 263 265	OD
+T7	Abbreviation 275 276	O
+T8	Body_Part 275 277	OI
+T9	Medication 187 198	analgesicos
+T10	Disease 2 45	TRASTORNO DE LA REFRACCIÓN, NO ESPECIFICADO
+T11	Sign_or_Symptom 70 103	dismunucion de la agudeza  visual
+T12	Sign_or_Symptom 140 198	cefalea  ocasional que  alivia  con ingesta de analgesicos
+T13	Diagnostic_Procedure 200 220	Test Aguedeza visual
+T14	Clinical_Finding 116 122	lentes
+A1	Negated T14

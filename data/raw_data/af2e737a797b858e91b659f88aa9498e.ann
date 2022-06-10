@@ -1,0 +1,24 @@
+T1	Body_Part 37 49	OÍDO EXTERNO
+T2	Body_Part 63 71	oido Izq
+T3	Abbreviation 68 71	Izq
+T4	Abbreviation 72 75	Obs
+T5	Abbreviation 108 111	APS
+T6	Body_Part 144 158	oido izquierdo
+T7	Body_Part 177 181	oido
+T8	Abbreviation 385 387	cm
+T9	Body_Part 281 295	zona mastoidea
+T10	Body_Part 483 495	oido externo
+T11	Body_Part 414 446	techo del canal auditivo externo
+T12	Disease 2 49	OTROS TRASTORNOS ESPECIFICADOS DEL OÍDO EXTERNO
+T13	Disease 49 72	Tumor Benigno oido Izq.
+T14	Disease 77 84	Osteoma
+T15	Sign_or_Symptom 135 158	dolor en oido izquierdo
+T16	Sign_or_Symptom 164 188	sensaicón de oido tapado
+T17	Sign_or_Symptom 215 240	disminución de la audicio
+T19	Sign_or_Symptom 314 320	fiebre
+A1	Negated T19
+T20	Sign_or_Symptom 324 336	baja de peso
+A2	Negated T20
+T21	Sign_or_Symptom 365 446	masa exterior de 1x1cm con pedículo insertado en techo del canal auditivo externo
+T22	Disease 448 495	Otros trastornos especificados del oido externo
+T18	Sign_or_Symptom 257 308	El dolor se irradiado a zona mastoidea tipo punzada

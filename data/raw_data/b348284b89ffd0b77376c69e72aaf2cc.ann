@@ -1,0 +1,8 @@
+T1	Abbreviation 34 37	Enf
+T2	Abbreviation 69 72	Ins
+T3	Disease 0 33	Fibrilacion auricular paroxistica
+T4	Disease 34 54	Enf. cornaria severa
+T5	Therapeutic_Procedure 55 61	bypass
+T6	Disease 69 93	Ins. cardiaca congestiva
+T7	Disease 102 123	Hipertension arterial
+T8	Disease 124 141	Diabetes mellitus

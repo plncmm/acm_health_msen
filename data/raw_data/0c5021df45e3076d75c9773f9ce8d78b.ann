@@ -1,0 +1,8 @@
+T1	Abbreviation 39 42	APS
+T2	Body_Part 104 114	DIENTE 3.6
+T3	Body_Part 134 150	DIENTE 1.8 Y 2.8
+T4	Disease 2 15	CARIES DENTAL
+T5	Clinical_Finding 53 63	EMBARAZADA
+T6	Disease 84 100	CARIES CORONARIA
+T7	Disease 116 130	CARIES OCLUSAL
+T8	Disease 152 165	Caries dental

@@ -1,0 +1,7 @@
+T1	Abbreviation 0 3	PZA
+T2	Body_Part 0 6	PZA 19
+T3	Disease 10 25	RESTO RADICULAR
+T4	Disease 140 155	RESTO RADICULAR
+T5	Sign_or_Symptom 160 165	DOLOR
+T6	Therapeutic_Procedure 211 220	EXODONCIA
+A1	Pending T6

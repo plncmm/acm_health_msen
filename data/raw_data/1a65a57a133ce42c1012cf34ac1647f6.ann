@@ -1,0 +1,14 @@
+T1	Body_Part 0 4	PD 1
+T2	Abbreviation 0 2	PD
+T3	Abbreviation 22 25	VMP
+T4	Body_Part 27 45	ESPACIO PEIODONTAL
+T5	Body_Part 58 64	PD 1.2
+T6	Abbreviation 58 60	PD
+T7	Abbreviation 87 90	VMP
+T8	Body_Part 108 114	PD 1.2
+T9	Abbreviation 108 110	PD
+T10	Disease 6 21	CARIES PROFUNDA
+T11	Laboratory_or_Test_Result 27 56	ESPACIO PEIODONTAL ENSANCHADO
+T12	Therapeutic_Procedure 65 77	RESTAURACION
+T13	Laboratory_or_Test_Result 92 138	OSTERTIS APICAL PD 1.2 CON RELLENO ENDODONTICO
+T14	Disease 92 107	OSTERTIS APICAL

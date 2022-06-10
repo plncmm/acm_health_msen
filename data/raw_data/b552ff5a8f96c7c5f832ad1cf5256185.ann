@@ -1,0 +1,9 @@
+T1	Abbreviation 16 19	REP
+T2	Abbreviation 24 27	ECO
+T3	Abbreviation 21 22	C
+T4	Disease 0 19	COLICO BILIAR A REP
+T5	Diagnostic_Procedure 24 27	ECO
+T6	Laboratory_or_Test_Result 29 48	COLESISITIS CRONICA
+R1	Has Arg1:T5 Arg2:T6	
+T7	Disease 29 48	COLESISITIS CRONICA
+T8	Disease 50 63	COLELITIASISI

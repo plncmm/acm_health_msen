@@ -1,0 +1,20 @@
+T1	Abbreviation 77 80	ENF
+T2	Abbreviation 108 111	DRA
+T3	Abbreviation 122 125	TTO
+T4	Medication 131 142	L-CARNITINA
+T5	Medication 145 156	RISPERIDONA
+T6	Abbreviation 206 208	SD
+T7	Abbreviation 218 220	DG
+T8	Abbreviation 229 230	M
+T9	Abbreviation 232 234	TT
+T10	Abbreviation 239 243	ACTH
+T11	Abbreviation 246 248	AC
+T12	Abbreviation 250 255	VALPR
+T13	Abbreviation 244 245	+
+T14	Disease 0 4	E889
+T15	Disease 5 42	TRASTORNO METABÓLICO, NO ESPECIFICADO
+T16	Disease 45 66	ENFERMEDAD METABÓLICA
+T17	Disease 206 217	SD. DE WEST
+T18	Medication 239 243	ACTH
+T19	Medication 246 255	AC. VALPR
+T20	Disease 77 94	ENF. MITOCONDRIAL

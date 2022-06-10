@@ -1,0 +1,5 @@
+T1	Abbreviation 96 99	APS
+T2	Disease 2 72	HIPERURICEMIA SIN SIGNOS DE ARTRITIS INFLAMATORIA Y ENFERMEDAD TOFÁCEA
+T3	Disease 124 132	artritis
+A1	Negated T3
+T4	Laboratory_or_Test_Result 142 155	hiperuricemia

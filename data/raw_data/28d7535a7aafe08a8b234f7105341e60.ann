@@ -1,0 +1,9 @@
+T1	Body_Part 2 10	PREPUCIO
+T2	Body_Part 170 178	prepucio
+T3	Body_Part 244 265	surco balanoprepucial
+T5	Abbreviation 68 71	APS
+T7	Disease 2 44	PREPUCIO REDUNDANTE, FIMOSIS Y PARAFIMOSIS
+T4	Sign_or_Symptom 139 208	problemas en la retracción del prepucio de la parte lateral izquierda
+T8	Sign_or_Symptom 281 317	intensas molestias en esa misma área
+T6	Sign_or_Symptom 223 265	se logra observar el surco balanoprepucial
+A1	Negated T6

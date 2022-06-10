@@ -1,0 +1,10 @@
+T1	Abbreviation 32 35	hta
+T2	Abbreviation 62 68	cesfam
+T4	Abbreviation 99 102	cdt
+T5	Abbreviation 151 154	atm
+T6	Body_Part 151 154	atm
+T7	Disease 38 47	diabetica
+T8	Disease 32 35	hta
+T9	Sign_or_Symptom 107 128	problemas de audicion
+T10	Disease 140 154	disfuncion atm
+T3	Abbreviation 69 73	p.m.

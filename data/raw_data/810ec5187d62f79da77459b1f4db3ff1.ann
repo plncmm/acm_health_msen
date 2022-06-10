@@ -1,0 +1,15 @@
+T1	Body_Part 2 9	DIENTES
+T2	Abbreviation 56 59	APS
+T3	Abbreviation 61 66	PACTE
+T4	Body_Part 71 81	DIENTE 3.8
+T5	Abbreviation 107 109	RX
+T6	Body_Part 146 160	DIENTE 1.8-2.8
+T7	Body_Part 177 184	Dientes
+T8	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T9	Sign_or_Symptom 71 97	DIENTE 3.8 SEMIERUPCIONADO
+T10	Sign_or_Symptom 99 104	DOLOR
+T11	Diagnostic_Procedure 107 109	RX
+T12	Laboratory_or_Test_Result 110 146	SOBREPROYECTADO EN DENTARIO INFERIOR
+T13	Disease 177 207	Dientes incluidos e impactados
+T14	Sign_or_Symptom 146 176	DIENTE 1.8-2.8 SEMIERUPCIONADO
+R1	Has Arg1:T11 Arg2:T12	

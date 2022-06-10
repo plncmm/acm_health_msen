@@ -1,0 +1,12 @@
+T1	Disease 2 63	HERNIA ABDOMINAL NO ESPECIFICADA, SIN OBSTRUCCIÓN NI GANGRENA
+T2	Sign_or_Symptom 115 130	DOLOR ABDOMINAL
+T3	Sign_or_Symptom 137 155	HERNIA EPIGASTRICA
+T4	Sign_or_Symptom 187 215	SIGNOS DE COMPLICACION AGUDA
+A1	Negated T4
+T5	Disease 240 301	Hernia abdominal no especificada, sin obstruccion ni gangrena
+T6	Abbreviation 87 90	APS
+#1	AnnotatorNotes T6	atención primaria de salud
+T7	Abbreviation 156 158	+-
+#2	AnnotatorNotes T7	más o menos
+T8	Abbreviation 160 162	CM
+#3	AnnotatorNotes T8	centímetros

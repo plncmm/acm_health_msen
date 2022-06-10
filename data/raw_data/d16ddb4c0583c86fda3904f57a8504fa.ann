@@ -1,0 +1,5 @@
+T1	Disease 2 37	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T2	Abbreviation 61 64	APS
+T3	Sign_or_Symptom 75 97	clase II subdivision I
+T4	Therapeutic_Procedure 120 145	tratamiento de ortodoncia
+A1	Pending T4

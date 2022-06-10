@@ -1,0 +1,9 @@
+T1	Abbreviation 23 26	ERC
+T2	Abbreviation 50 53	ERC
+T3	Abbreviation 66 69	ECO
+T4	Disease 0 21	TUMOR RENAL IZQUIERDO
+T5	Disease 23 34	ERC ETAPA 3
+T6	Disease 50 53	ERC
+T7	Diagnostic_Procedure 66 75	ECO RENAL
+T8	Laboratory_or_Test_Result 88 103	TUMOR IZQUIERDO
+R1	Has Arg1:T7 Arg2:T8	

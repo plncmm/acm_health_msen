@@ -1,0 +1,12 @@
+T1	Body_Part 0 9	PIEZA 1.5
+T2	Therapeutic_Procedure 10 19	TREPONADA
+T3	Disease 41 62	CARIES OMV PENETRANTE
+T4	Laboratory_or_Test_Result 41 62	CARIES OMV PENETRANTE
+T5	Disease 65 82	ABSCESO SUBMUCOSO
+T6	Laboratory_or_Test_Result 85 99	OSTITIS APICAL
+T7	Therapeutic_Procedure 116 126	ENDODONCIA
+A1	Pending T7
+T8	Body_Part 127 133	PD:1.5
+T9	Abbreviation 127 129	PD
+T10	Abbreviation 48 51	OMV
+T11	Disease 85 99	OSTITIS APICAL

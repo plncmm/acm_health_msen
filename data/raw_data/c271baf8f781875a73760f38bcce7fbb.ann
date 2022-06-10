@@ -1,0 +1,6 @@
+T1	Body_Part 0 18	pieza dentaria 1.5
+T2	Sign_or_Symptom 23 49	fractura coronaria extensa
+T3	Clinical_Finding 68 70	VI
+T4	Abbreviation 68 70	VI
+T5	Therapeutic_Procedure 87 109	protesis fija unitaria
+A1	Pending T5

@@ -1,0 +1,9 @@
+T1	Body_Part 0 9	dientes 1
+T2	Body_Part 10 12	16
+T3	Body_Part 13 15	17
+T4	Body_Part 16 18	32
+T5	Therapeutic_Procedure 108 118	extraccion
+A1	Pending T5
+T6	Sign_or_Symptom 123 128	dolor
+T7	Laboratory_or_Test_Result 44 90	evolucion intraosea semierupcionada impactadas
+T8	Therapeutic_Procedure 33 43	extraccion

@@ -1,0 +1,14 @@
+T1	Body_Part 15 29	TÚNEL CARPIANO
+T2	Body_Part 219 226	esófago
+T3	Abbreviation 390 392	Ex
+T4	Body_Part 336 343	mano Iª
+T5	Abbreviation 341 343	Iª
+T6	Abbreviation 409 410	+
+T7	Abbreviation 414 416	Iª
+T8	Disease 2 29	SÍNDROME DEL TÚNEL CARPIANO
+T9	Disease 34 66	ENFERMEDAD RENAL CRÓNICA ETAPA 3
+T10	Disease 71 152	ANEMIA POR DEFICIENCIA DE VITAMINA B12 DEBIDA A DEFICIENCIA DEL FACTOR INTRÍNSECO
+T11	Therapeutic_Procedure 187 199	Gastrectomía
+T12	Disease 219 236	esófago de Barret
+T13	Sign_or_Symptom 298 343	parestesias de predominio nocturno en mano Iª
+T14	Sign_or_Symptom 401 416	Phalen (+) a Iª

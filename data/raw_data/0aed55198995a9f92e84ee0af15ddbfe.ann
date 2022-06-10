@@ -1,0 +1,9 @@
+T1	Abbreviation 0 3	Pza
+T2	Body_Part 0 7	Pza 2.4
+T3	Disease 12 29	caries penetrante
+T4	Laboratory_or_Test_Result 0 29	Pza 2.4 con caries penetrante
+T5	Laboratory_or_Test_Result 80 97	lesion periapical
+T6	Laboratory_or_Test_Result 99 113	lpa ensanchada
+T7	Sign_or_Symptom 115 137	dolor leve a percusion
+T8	Abbreviation 165 168	tto
+T9	Abbreviation 99 102	lpa

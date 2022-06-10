@@ -1,0 +1,24 @@
+T1	Abbreviation 67 70	APS
+T2	Abbreviation 85 87	Dg
+T3	Abbreviation 549 551	MG
+T4	Abbreviation 560 563	hrs
+T5	Medication 254 265	penicilinas
+T6	Body_Part 414 423	amigdalas
+T7	Medication 513 540	amoxicilina/ac. Clavulanico
+T8	Abbreviation 525 527	ac
+T9	Disease 2 21	AMIGDALITIS CRÓNICA
+T10	Disease 21 43	amigdalitis recurrente
+T11	Disease 91 102	amigdalitis
+T12	Disease 143 154	amigdalitis
+T13	Disease 197 208	amigdalitis
+T14	Sign_or_Symptom 282 290	mialgias
+T15	Sign_or_Symptom 292 310	odinofagia intensa
+T16	Sign_or_Symptom 316 324	rinorrea
+A1	Negated T16
+T17	Sign_or_Symptom 326 364	adenopatias cervicales altas dolorosas
+T18	Sign_or_Symptom 367 383	sensacion febril
+T19	Sign_or_Symptom 414 458	amigdalas muy eritematosas con placas de pus
+T20	Sign_or_Symptom 482 491	trismusse
+A2	Negated T20
+T21	Disease 576 595	Amigdalitis cronica
+#1	AnnotatorNotes T21	whatt????????????

@@ -1,0 +1,21 @@
+T1	Abbreviation 6 9	EMB
+T2	Abbreviation 15 18	SEM
+T3	Abbreviation 20 23	CES
+T4	Abbreviation 24 29	ANTER
+T5	Abbreviation 34 37	CNP
+T6	Abbreviation 40 44	DESP
+T7	Body_Part 48 56	PLACENTA
+T8	Abbreviation 70 73	LIP
+T9	Abbreviation 82 86	RCIU
+T10	Abbreviation 105 108	ECO
+T11	Abbreviation 0 1	G
+T12	Abbreviation 2 3	P
+T13	Clinical_Finding 0 2	G2
+T14	Clinical_Finding 2 4	P1
+T15	Clinical_Finding 6 9	EMB
+T16	Clinical_Finding 20 29	CES ANTER
+T17	Disease 34 37	CNP
+T18	Disease 40 56	DESP DE PLACENTA
+T19	Disease 59 68	SOBREPESO
+T20	Disease 82 86	RCIU
+T21	Diagnostic_Procedure 105 108	ECO

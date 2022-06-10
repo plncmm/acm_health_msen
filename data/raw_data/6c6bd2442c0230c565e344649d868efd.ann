@@ -1,0 +1,14 @@
+T1	Abbreviation 33 36	ges
+T2	Body_Part 78 91	pieza 13 y 30
+T3	Body_Part 114 122	pieza 30
+T4	Body_Part 195 203	pieza 30
+T5	Abbreviation 249 251	rx
+T6	Abbreviation 252 255	ret
+T7	Clinical_Finding 37 47	embarazada
+T8	Sign_or_Symptom 62 91	dolor dental en pieza 13 y 30
+T9	Clinical_Finding 114 147	pieza 30 con caries ocluso distal
+T10	Diagnostic_Procedure 154 165	radiografia
+T12	Sign_or_Symptom 195 228	pieza 30 con dolor a la percusion
+T13	Diagnostic_Procedure 249 251	rx
+T11	Laboratory_or_Test_Result 177 193	patologia apical
+R1	Has Arg1:T10 Arg2:T11	

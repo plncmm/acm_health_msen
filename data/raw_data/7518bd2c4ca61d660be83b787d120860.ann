@@ -1,0 +1,7 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Abbreviation 74 77	APS
+T3	Family_Member 99 104	madre
+T4	Disease 177 188	apiñamiento
+T5	Sign_or_Symptom 177 206	apiñamiento ANterior moderado
+T6	Therapeutic_Procedure 233 258	tratamiento de ortodoncia
+T7	Disease 263 311	Anomalias dentofaciales (incluso la maloclusion)

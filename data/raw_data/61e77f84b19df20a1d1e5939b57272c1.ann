@@ -1,0 +1,14 @@
+T1	Abbreviation 38 43	antec
+T2	Abbreviation 72 76	ptve
+T3	Body_Part 152 170	fonatenal anterior
+T4	Abbreviation 172 174	ex
+T5	Abbreviation 175 178	fco
+T6	Abbreviation 207 209	PC
+T7	Abbreviation 215 218	cms
+T8	Disease 2 18	CRANEOSINOSTOSIS
+T9	Clinical_Finding 38 55	antec perinatales
+A1	Negated T9
+T10	Therapeutic_Procedure 72 76	ptve
+T11	Sign_or_Symptom 184 205	focalidad neurologica
+A2	Negated T11
+T12	Sign_or_Symptom 135 170	cierre precoz de fonatenal anterior

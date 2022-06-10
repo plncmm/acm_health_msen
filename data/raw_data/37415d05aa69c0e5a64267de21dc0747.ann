@@ -1,0 +1,7 @@
+T1	Abbreviation 52 55	APS
+T2	Disease 2 28	GASTRITIS, NO ESPECIFICADA
+T3	Disease 112 128	disfagia cronica
+T4	Sign_or_Symptom 130 156	perdida progresiva de peso
+T5	Sign_or_Symptom 158 170	bajo apetito
+T6	Diagnostic_Procedure 226 251	endoscopia digestiva alta
+A1	Pending T6

@@ -1,0 +1,9 @@
+T1	Body_Part 18 24	GLANDE
+T2	Abbreviation 48 51	APS
+T3	Abbreviation 53 57	pcte
+T4	Body_Part 74 80	glande
+T5	Body_Part 181 187	glande
+T6	Body_Part 125 143	orificio de uretra
+T7	Disease 2 24	HIPOSPADIAS DEL GLANDE
+T8	Sign_or_Symptom 62 143	presenta en glande sobrecrecimeinto de tejido con formacion de orificio de uretra
+T9	Disease 165 187	Hipospadias del glande

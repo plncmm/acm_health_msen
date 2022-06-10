@@ -1,0 +1,7 @@
+T1	Body_Part 19 28	Pieza 1.2
+T2	Disease 29 44	necrosis pulpar
+T3	Body_Part 46 51	pieza
+T4	Sign_or_Symptom 46 76	pieza con cambio de coloración
+T5	Diagnostic_Procedure 81 100	examen radiográfico
+T6	Laboratory_or_Test_Result 102 127	Lesión radiolicida apical
+R1	Has Arg1:T5 Arg2:T6	

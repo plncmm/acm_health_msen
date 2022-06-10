@@ -1,0 +1,12 @@
+T1	Body_Part 40 46	VEJIGA
+T2	Body_Part 55 61	URETRA
+T3	Abbreviation 241 244	ORL
+T4	Body_Part 161 180	Frenillo sublingual
+T5	Disease 2 61	OTRAS MALFORMACIONES CONGÉNITAS DE LA VEJIGA Y DE LA URETRA
+T6	Disease 117 135	Tratorno del habla
+T7	Sign_or_Symptom 161 186	Frenillo sublingual corto
+T8	Disease 189 212	Hipertrofia amigdaliana
+T9	Disease 247 255	Obesidad
+T10	Sign_or_Symptom 273 291	sintomas urinarios
+A1	Negated T10
+T11	Sign_or_Symptom 320 335	masa parameatal

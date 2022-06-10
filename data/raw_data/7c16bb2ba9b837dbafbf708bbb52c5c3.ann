@@ -1,0 +1,9 @@
+T1	Disease 2 11	MESIODENS
+T2	Abbreviation 35 38	APS
+T3	Body_Part 53 63	diente 2.1
+T4	Sign_or_Symptom 64 83	rotado hacia mesial
+T5	Laboratory_or_Test_Result 90 109	mesiodens intraoseo
+T6	Disease 90 99	mesiodens
+T7	Disease 142 156	supernumerario
+T8	Body_Part 171 181	diente 6.3
+T9	Disease 182 191	Anodoncia

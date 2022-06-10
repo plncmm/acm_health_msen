@@ -1,0 +1,6 @@
+T1	Disease 9 47	desdentado parcial superior e inferior
+T2	Abbreviation 77 80	ppr
+T3	Abbreviation 81 84	sup
+T4	Abbreviation 87 90	inf
+T5	Therapeutic_Procedure 77 104	ppr sup e inf base metalica
+A1	Pending T5

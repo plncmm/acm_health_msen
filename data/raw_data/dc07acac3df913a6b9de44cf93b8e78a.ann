@@ -1,0 +1,6 @@
+T1	Abbreviation 80 83	MAC
+T2	Disease 0 21	INFERTILIDAD FEMENINA
+T4	Disease 26 32	aborto
+T5	Disease 36 48	neomortinato
+T3	Clinical_Finding 117 125	embarazo
+A1	Negated T3

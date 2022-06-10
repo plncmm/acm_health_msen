@@ -1,0 +1,8 @@
+T1	Abbreviation 22 24	AP
+T2	Abbreviation 28 31	IAM
+T3	Disease 0 21	HIPERTENSION ARTERIAL
+T4	Disease 28 31	IAM
+T5	Diagnostic_Procedure 32 38	HOLTER
+T6	Laboratory_or_Test_Result 54 88	ELEMENTOS DE INSUFICENCIA CARDIACA
+R1	Has Arg1:T5 Arg2:T6	
+T7	Disease 90 101	DELIPIMEDIA

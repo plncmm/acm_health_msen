@@ -1,0 +1,19 @@
+T1	Disease 1 34	Depresión mayor moderada a severa
+T2	Disease 36 51	Ansiedad Graliz
+T4	Sign_or_Symptom 90 134	Desajuste conductual grave c/ tend. violenta
+T5	Disease 137 148	Ret. mental
+T6	Disease 160 178	discapac. lenguaje
+T7	Abbreviation 74 76	c/
+#1	AnnotatorNotes T7	con
+T8	Abbreviation 117 119	c/
+#2	AnnotatorNotes T8	con
+T9	Abbreviation 120 124	tend
+#3	AnnotatorNotes T9	tendencia
+T10	Abbreviation 137 140	Ret
+#4	AnnotatorNotes T10	retraso
+T11	Abbreviation 158 160	c/
+#5	AnnotatorNotes T11	con
+T12	Abbreviation 160 168	discapac
+#6	AnnotatorNotes T12	discapacidad
+T3	Abbreviation 45 51	Graliz
+T13	Clinical_Finding 54 73	Disfunción familiar

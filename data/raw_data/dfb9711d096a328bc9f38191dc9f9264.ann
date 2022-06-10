@@ -1,0 +1,8 @@
+T1	Body_Part 0 9	pieza 1.1
+T2	Disease 10 35	traumatismo dentó alveolo
+T3	Disease 36 55	fractura complicada
+T4	Sign_or_Symptom 71 88	exposición pulpar
+T5	Abbreviation 91 92	+
+T6	Sign_or_Symptom 94 115	cambio de temperatura
+T7	Body_Part 28 35	alveolo
+A1	Negated T4

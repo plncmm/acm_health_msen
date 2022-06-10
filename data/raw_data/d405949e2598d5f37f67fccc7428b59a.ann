@@ -1,0 +1,6 @@
+T1	Disease 2 41	GINGIVITIS Y ENFERMEDADES PERIODONTALES
+T2	Abbreviation 65 68	APS
+T3	Disease 83 117	periodontitis cronica generalizada
+T4	Body_Part 119 136	dientes 2.1 y 2.2
+T5	Sign_or_Symptom 119 159	dientes 2.1 y 2.2 con movilidad grado II
+T6	Disease 161 200	Gingivitis y enfermedades periodontales

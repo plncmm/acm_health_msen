@@ -1,0 +1,4 @@
+T1	Disease 9 47	desdentado parcial superior e inferior
+T2	Disease 50 91	periodontitis cronica generalizada severa
+T3	Therapeutic_Procedure 104 127	tratamiento periodontal
+A1	Pending T3

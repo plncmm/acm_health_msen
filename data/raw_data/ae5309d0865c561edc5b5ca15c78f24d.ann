@@ -1,0 +1,6 @@
+T1	Sign_or_Symptom 77 161	COMUNICACION BUCO SINUSAL LADO IZQUIERDO SUPERIOR.EN RELACION DE LA PIEZA DENTAL 2.7
+T2	Disease 2 30	COMPLICACIONES POSTEXODONCIA
+T3	Disease 162 190	Complicaciones postexodoncia
+T4	Abbreviation 54 57	APS
+#1	AnnotatorNotes T4	atención primaria de salud
+T5	Body_Part 145 161	PIEZA DENTAL 2.7

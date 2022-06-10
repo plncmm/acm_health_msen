@@ -1,0 +1,5 @@
+T1	Body_Part 87 94	DIENTES
+T2	Clinical_Finding 12 35	ALTO RIESGO CARIOGENICO
+T3	Clinical_Finding 37 47	POLICARIES
+T4	Therapeutic_Procedure 63 73	PULPOTOMIA
+A1	Pending T4

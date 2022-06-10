@@ -1,0 +1,8 @@
+T1	Body_Part 21 37	piezas dentarias
+T2	Body_Part 80 86	piezas
+T3	Body_Part 150 156	piezas
+T4	Body_Part 206 212	piezas
+T5	Sign_or_Symptom 21 56	piezas dentarias con gran movilidad
+T6	Sign_or_Symptom 72 107	perdido piezas de manera espontanea
+T7	Sign_or_Symptom 140 165	multiples piezas ausentes
+T8	Sign_or_Symptom 167 212	movilidad importante en gran numero de piezas

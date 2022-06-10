@@ -1,0 +1,7 @@
+T1	Abbreviation 13 18	ANTEC
+T2	Abbreviation 22 23	H
+T3	Disease 22 30	H PYLORI
+T4	Sign_or_Symptom 62 81	SINTOMAS DE REFLUJO
+T5	Sign_or_Symptom 84 105	EPIGASTRASLGIA URENTE
+T6	Diagnostic_Procedure 146 171	ENDOSCOPIA DIGESTIVA ALTA
+A1	Pending T6

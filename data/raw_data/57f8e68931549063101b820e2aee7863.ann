@@ -1,0 +1,6 @@
+T1	Body_Part 0 10	diente 2.3
+T2	Body_Part 35 44	pieza 2.2
+T3	Body_Part 78 88	diente 3.4
+T4	Laboratory_or_Test_Result 0 20	diente 2.3 intraoseo
+T5	Sign_or_Symptom 55 76	reabsorcion radicular
+T6	Sign_or_Symptom 78 137	diente 3.4 erupcionado lingualizado  en posicion horizontal

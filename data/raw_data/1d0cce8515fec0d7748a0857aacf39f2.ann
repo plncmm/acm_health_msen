@@ -1,0 +1,12 @@
+T1	Disease 2 30	PERIODONTITIS CRÓNICA SEVERA
+T2	Abbreviation 54 57	APS
+T3	Abbreviation 59 62	Pac
+T4	Disease 63 101	desdentado parcial superior e inferior
+T5	Disease 107 133	periodontitis generalizada
+T6	Sign_or_Symptom 136 158	agrandamiento gingival
+T7	Sign_or_Symptom 160 188	Movilidad dentaria aumentada
+T8	Sign_or_Symptom 190 207	Atrición dentaria
+T9	Abbreviation 209 212	Pac
+T10	Abbreviation 262 265	tto
+T11	Therapeutic_Procedure 275 285	destatraje
+A1	Pending T11

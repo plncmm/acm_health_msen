@@ -1,0 +1,5 @@
+T1	Abbreviation 0 4	PCTE
+T2	Therapeutic_Procedure 28 37	IMPLANTES
+T3	Body_Part 41 57	MAXILAR INFERIOR
+T4	Therapeutic_Procedure 79 119	PROTESIS TOTAL INFERIOR SOBRE VDENTADURA
+A1	Pending T4

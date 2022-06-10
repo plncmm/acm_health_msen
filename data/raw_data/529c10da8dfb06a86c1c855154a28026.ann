@@ -1,0 +1,8 @@
+T1	Body_Part 0 9	pieza 3.5
+T2	Disease 10 25	resto radicular
+T3	Clinical_Finding 26 50	tratado endodonticamente
+T4	Therapeutic_Procedure 96 118	protesis fija unitaria
+A1	Pending T4
+T5	Therapeutic_Procedure 118 137	sellado v. ionomero
+T6	Abbreviation 126 127	v
+T7	Clinical_Finding 126 137	v. ionomero

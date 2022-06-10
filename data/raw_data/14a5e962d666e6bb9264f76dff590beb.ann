@@ -1,0 +1,13 @@
+T1	Abbreviation 51 54	APS
+T2	Abbreviation 114 116	kg
+T3	Abbreviation 130 133	aco
+T4	Abbreviation 156 159	ioe
+T5	Abbreviation 60 65	antec
+T6	Abbreviation 56 57	m
+T7	Disease 2 27	PROLAPSO GENITAL FEMENINO
+T8	Clinical_Finding 56 58	m4
+T9	Therapeutic_Procedure 72 87	partos normales
+T10	Medication 130 133	aco
+T11	Disease 156 159	ioe
+T12	Sign_or_Symptom 162 173	polaquiuria
+T13	Disease 187 212	Prolapso genital femenino

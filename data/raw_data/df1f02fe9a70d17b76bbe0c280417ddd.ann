@@ -1,0 +1,18 @@
+T1	Sign_or_Symptom 132 143	P/A 170/100
+T2	Disease 25 33	OBESIDAD
+T3	Disease 34 37	HTA
+T4	Abbreviation 34 37	HTA
+#1	AnnotatorNotes T4	hipertensión arterial
+T5	Abbreviation 38 41	FUR
+#2	AnnotatorNotes T5	fecha de la última regla
+T6	Abbreviation 53 56	FPP
+#3	AnnotatorNotes T6	fecha probable del parto
+T7	Abbreviation 132 135	P/A
+#4	AnnotatorNotes T7	presión arterial
+T8	Abbreviation 0 1	M
+#5	AnnotatorNotes T8	madre 
+T9	Abbreviation 5 8	CCA
+#6	AnnotatorNotes T9	acrecentismo placentario
+T10	Clinical_Finding 0 2	M2
+T11	Clinical_Finding 5 8	CCA
+T12	Clinical_Finding 10 18	EMBARAZO

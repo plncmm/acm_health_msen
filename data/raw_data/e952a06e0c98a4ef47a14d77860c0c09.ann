@@ -1,0 +1,15 @@
+T1	Abbreviation 30 33	HTA
+T2	Abbreviation 33 34	+
+T3	Abbreviation 34 36	DM
+T4	Abbreviation 36 37	+
+T5	Medication 105 115	LINORICINO
+T6	Abbreviation 118 120	MG
+T7	Abbreviation 122 123	X
+T8	Abbreviation 124 125	X
+T9	Disease 0 20	SINDROME VERTIGINOSO
+T10	Disease 30 33	HTA
+T11	Disease 34 36	DM
+T12	Clinical_Finding 37 57	INSULINO REQUIRIENTE
+T13	Sign_or_Symptom 58 63	MAREO
+T14	Sign_or_Symptom 64 71	VERTIGO
+T15	Sign_or_Symptom 72 80	TINNITUS

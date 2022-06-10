@@ -1,0 +1,14 @@
+T1	Abbreviation 281 284	APS
+T2	Abbreviation 441 443	oh
+T3	Abbreviation 580 583	PAB
+T4	Family_Member 712 717	hijos
+T5	Family_Member 1094 1099	hijos
+T6	Abbreviation 1213 1217	ATTE
+T7	Disease 2 45	PROBLEMAS RELACIONADOS CON EL USO DE DROGAS
+T8	Disease 49 88	TRASTORNO MIXTO DE ANSIEDAD Y DEPRESIÓN
+T9	Disease 92 257	TRASTORNOS MENTALES Y DEL COMPORTAMIENTO DEBIDOS AL USO DE MÚLTIPLES DROGAS Y AL USO DE OTRAS SUSTANCIAS PSICOACTIVAS, OTROS TRASTORNOS MENTALES Y DEL COMPORTAMIENTO
+T10	Disease 327 344	miastenia graviss
+T11	Disease 426 456	policonsumo de oh y pasta base
+T12	Sign_or_Symptom 838 853	ánimo inestable
+T13	Sign_or_Symptom 855 868	irritabilidad
+T14	Sign_or_Symptom 880 904	insomnio de conciliación

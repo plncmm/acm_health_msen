@@ -1,0 +1,7 @@
+T1	Abbreviation 14 17	DRA
+T2	Abbreviation 30 33	IMC
+T3	Abbreviation 106 109	ECO
+T4	Disease 5 13	DIABETES
+T5	Disease 43 72	COLECISTITIS CON COLELITIASIS
+T6	Disease 97 105	OBESIDAD
+T7	Diagnostic_Procedure 106 109	ECO

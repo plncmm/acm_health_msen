@@ -1,0 +1,7 @@
+T1	Body_Part 0 15	PIEZA 1.2 Y 2.1
+T2	Body_Part 37 46	PIEZA 1.1
+T3	Disease 20 36	NECROSIS SEPTICA
+T4	Therapeutic_Procedure 51 61	ENDODONCIA
+T5	Therapeutic_Procedure 100 113	RETRATAMIENTO
+T6	Sign_or_Symptom 51 80	ENDODONCIA ESPUESTA HACE AÑOS
+A1	Pending T5

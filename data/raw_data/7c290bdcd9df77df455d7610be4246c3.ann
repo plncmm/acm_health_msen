@@ -1,0 +1,7 @@
+T1	Disease 2 30	PERIODONTITIS CRÓNICA SEVERA
+T2	Sign_or_Symptom 37 56	Sacos periodontales
+T3	Sign_or_Symptom 58 90	absceso periodontal en pieza 3.7
+T4	Body_Part 81 90	pieza 3.7
+T5	Sign_or_Symptom 92 126	furca expuesta en algunos molares,
+T6	Body_Part 92 97	furca
+T7	Sign_or_Symptom 127 136	halitosis

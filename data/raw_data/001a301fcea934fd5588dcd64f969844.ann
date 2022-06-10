@@ -1,0 +1,29 @@
+T1	Abbreviation 107 111	dism
+T2	Abbreviation 168 170	LM
+T3	Abbreviation 187 188	m
+T4	Abbreviation 204 209	deriv
+T5	Family_Member 227 231	Mama
+T6	Abbreviation 377 380	ITU
+T7	Abbreviation 383 388	ANTEC
+T8	Abbreviation 389 392	FAM
+T9	Abbreviation 396 400	test
+T10	Family_Member 416 420	papa
+T11	Abbreviation 425 427	ex
+T12	Body_Part 2 10	PREPUCIO
+T13	Body_Part 301 309	prepucio
+T14	Body_Part 396 400	test
+T15	Body_Part 436 442	testis
+T16	Body_Part 446 453	escroto
+T17	Body_Part 455 463	prepucio
+T18	Disease 2 44	PREPUCIO REDUNDANTE, FIMOSIS Y PARAFIMOSIS
+T19	Therapeutic_Procedure 83 102	cesarea de urgencia
+T20	Sign_or_Symptom 107 133	dism latidos cardiofetales
+T21	Disease 363 372	balanitis
+T22	Sign_or_Symptom 267 309	no puede desplazar po completo el prepucio
+T23	Disease 377 380	ITU
+T24	Disease 396 414	test no descendido
+R1	Has Arg1:T10 Arg2:T24	
+T25	Disease 455 474	prepucio redundante
+T26	Clinical_Finding 436 453	testis en escroto
+T27	Disease 490 499	infeccion
+A1	Negated T27

@@ -1,0 +1,14 @@
+T1	Abbreviation 0 4	pgta
+T2	Abbreviation 4 5	+
+T3	Abbreviation 6 9	emb
+T4	Abbreviation 21 24	eco
+T5	Abbreviation 38 40	Dr
+T6	Abbreviation 60 62	au
+T7	Abbreviation 100 103	AAs
+T8	Medication 100 103	AAs
+T9	Clinical_Finding 0 4	pgta
+T10	Clinical_Finding 6 9	emb
+T11	Diagnostic_Procedure 21 24	eco
+T12	Clinical_Finding 125 135	normotensa
+T13	Laboratory_or_Test_Result 54 72	notch au bilaterla
+R1	Has Arg1:T11 Arg2:T13	

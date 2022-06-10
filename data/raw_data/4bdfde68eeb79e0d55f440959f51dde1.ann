@@ -1,0 +1,15 @@
+T1	Abbreviation 49 52	APS
+T2	Abbreviation 89 92	HTA
+T3	Abbreviation 108 111	DM2
+T4	Disease 2 8	DISNEA
+T5	Disease 12 25	CARDIOMEGALIA
+T6	Disease 89 92	HTA
+T7	Disease 93 107	hipotiroidismo
+T8	Disease 108 111	DM2
+T9	Sign_or_Symptom 231 242	decaimiento
+T10	Sign_or_Symptom 243 272	disnea de esfuerzo progresivo
+T11	Diagnostic_Procedure 345 359	ecocardiograma
+T12	Diagnostic_Procedure 425 439	ecocardiograma
+T13	Disease 440 446	Disnea
+A1	Pending T11
+A2	Pending T12

@@ -1,0 +1,5 @@
+T1	Disease 18 27	EPILEPSIA
+T2	Disease 30 44	RETRASO MENTAL
+T3	Therapeutic_Procedure 108 117	EXODONCIA
+A1	Pending T3
+T4	Body_Part 121 143	PIEZAS 3.7-3.6-4.7-4.6

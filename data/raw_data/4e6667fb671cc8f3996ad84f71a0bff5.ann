@@ -1,0 +1,15 @@
+T1	Body_Part 27 33	CADERA
+T2	Abbreviation 69 72	APS
+T3	Abbreviation 128 130	rx
+T4	Body_Part 131 137	pelvis
+T5	Body_Part 261 267	cadera
+T6	Body_Part 302 308	cadera
+T7	Disease 2 45	LUXACIÓN CONGÉNITA DE LA CADERA, UNILATERAL
+T8	Diagnostic_Procedure 128 137	rx pelvis
+T9	Laboratory_or_Test_Result 154 189	angulo acetabular derecho 29 grados
+R1	Has Arg1:T8 Arg2:T9	
+T10	Sign_or_Symptom 224 245	signo ortolani-barlow
+A1	Negated T10
+T11	Laboratory_or_Test_Result 261 274	cadera limite
+R2	Has Arg1:T8 Arg2:T11	
+T12	Disease 277 320	Luxacion congenita de la cadera, unilateral

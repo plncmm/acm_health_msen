@@ -1,0 +1,22 @@
+T1	Body_Part 52 66	CUELLO UTERINO
+T2	Abbreviation 67 69	am
+T3	Abbreviation 108 110	aq
+T5	Abbreviation 142 145	pap
+T6	Abbreviation 223 227	PCTE
+T7	Abbreviation 250 253	MAC
+T8	Abbreviation 291 295	ATTE
+T9	Abbreviation 71 72	+
+T10	Abbreviation 112 113	+
+T11	Abbreviation 140 141	-
+T4	Disease 2 66	CELULAS ATIPICAS DE SIGNIFICADO INDETERMINADO DEL CUELLO UTERINO
+T13	Therapeutic_Procedure 115 124	cono leep
+T14	Clinical_Finding 131 138	alergia
+A1	Negated T14
+T15	Diagnostic_Procedure 142 145	pap
+T16	Laboratory_or_Test_Result 156 223	celulas escamosas atipicas, no se puede descartar lesion alto grado
+R1	Has Arg1:T15 Arg2:T16	
+T17	Therapeutic_Procedure 250 253	MAC
+A2	Negated T17
+T12	Disease 74 88	USO DE DROGRAS
+T18	Clinical_Finding 232 244	PAREJA UNICA
+T19	Family_Member 232 238	PAREJA

@@ -1,0 +1,6 @@
+T1	Body_Part 0 19	pieza 1.6 (pieza 3)
+T2	Clinical_Finding 24 64	terapia previamente iniciada (trepanada)
+T3	Therapeutic_Procedure 66 83	Medicada con PMCF
+T4	Medication 79 83	PMCF
+T5	Therapeutic_Procedure 86 105	obturada con Fermín
+T6	Clinical_Finding 99 105	Fermín

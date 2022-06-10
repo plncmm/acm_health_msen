@@ -1,0 +1,7 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Disease 36 54	desdentada parcial
+T3	Sign_or_Symptom 56 85	arcada superior clase I mod 1
+T4	Body_Part 56 71	arcada superior
+T5	Sign_or_Symptom 87 121	arcada inferior clase I de kennedy
+T6	Body_Part 87 102	arcada inferior
+T7	Sign_or_Symptom 135 208	solo usa protesis superior la que presenta desajuste y falta de retencion

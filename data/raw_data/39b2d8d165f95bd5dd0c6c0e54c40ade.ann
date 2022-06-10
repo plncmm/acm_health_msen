@@ -1,0 +1,7 @@
+T1	Body_Part 14 30	GLÁNDULA SALIVAL
+T2	Abbreviation 54 57	APS
+T3	Body_Part 78 109	zona interna labio inferior izq
+T4	Abbreviation 106 109	izq
+T5	Disease 2 30	MUCOCELE DE GLÁNDULA SALIVAL
+T6	Sign_or_Symptom 59 109	aumento de volumen zona interna labio inferior izq
+T7	Sign_or_Symptom 109 146	contenido fluctuante (saliva y sangre

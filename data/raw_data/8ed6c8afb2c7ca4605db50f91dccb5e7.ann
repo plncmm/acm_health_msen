@@ -1,0 +1,31 @@
+T1	Body_Part 39 56	GLÁNDULA TIROIDES
+T2	Abbreviation 99 102	APS
+T3	Body_Part 158 164	CUELLO
+T4	Body_Part 193 197	PIEL
+T5	Abbreviation 205 207	AM
+T6	Abbreviation 212 215	AMF
+T7	Abbreviation 220 225	MEDIC
+T8	Abbreviation 242 245	AQX
+T9	Abbreviation 268 270	EX
+T10	Abbreviation 350 353	eco
+T11	Body_Part 379 392	cervical alta
+T13	Abbreviation 502 504	cm
+T14	Body_Part 275 293	TRIANGULO ANTERIOR
+T15	Body_Part 588 603	pared posterior
+T16	Body_Part 622 627	vasos
+T12	Body_Part 429 451	cuello a nivel hioideo
+T17	Body_Part 703 742	sector profuindo del celular subcutaneo
+T18	Disease 2 72	OTROS TRASTORNOS ESPECIFICADOS DE LA GLÁNDULA TIROIDESQUISTE TIROGLOSO
+T19	Sign_or_Symptom 136 164	AUMENTO DE VOLUMEN EN CUELLO
+T20	Sign_or_Symptom 176 197	MANCHA BLANCA EN PIEL
+T21	Clinical_Finding 205 207	AM
+A1	Negated T21
+T22	Clinical_Finding 230 237	ALERGIA
+A2	Negated T22
+T23	Sign_or_Symptom 275 347	TRIANGULO ANTERIOR AUMENTO DE VOLUMEN BORDES NETOS, DURO, NO MOVILIZABLE
+T24	Diagnostic_Procedure 350 392	eco de partes blandas region cervical alta
+T25	Laboratory_or_Test_Result 429 493	cuello a nivel hioideo descubre una lesion ovoidea bien definida
+R1	Has Arg1:T24 Arg2:T25	
+T28	Disease 771 787	quiste tirogloso
+T26	Laboratory_or_Test_Result 526 638	estructura discretamente hipoecogenica homogenea con refuerzo pared posterior y con ausencia de vasos al doppler
+R2	Has Arg1:T24 Arg2:T26	

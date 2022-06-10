@@ -1,0 +1,16 @@
+T1	Abbreviation 60 63	APS
+T2	Abbreviation 65 69	PCTE
+T3	Abbreviation 70 73	HTA
+T4	Abbreviation 77 80	TTO
+T5	Medication 85 93	LOSARTAN
+T6	Abbreviation 96 99	COM
+T7	Abbreviation 132 136	TPSV
+T8	Abbreviation 171 174	TTO
+T9	Medication 179 189	AMIODARONA
+T10	Abbreviation 194 196	MG
+T11	Abbreviation 199 202	COM
+T12	Disease 2 36	ARRITMIA CARDÍACA, NO ESPECIFICADA
+T13	Disease 70 73	HTA
+T14	Laboratory_or_Test_Result 132 136	TPSV
+T15	Disease 132 136	TPSV
+T16	Disease 137 167	SINDROME WOLFF PARKINSON WHITE

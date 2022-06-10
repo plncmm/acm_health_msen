@@ -1,0 +1,10 @@
+T1	Abbreviation 58 61	ECO
+T2	Abbreviation 68 71	SEM
+T3	Abbreviation 123 126	ECO
+T4	Abbreviation 133 136	SEM
+T5	Clinical_Finding 14 24	PRIMIGESTA
+T6	Clinical_Finding 26 34	EMBARAZO
+T7	Diagnostic_Procedure 58 61	ECO
+T8	Clinical_Finding 78 88	PRIMIGESTA
+T9	Clinical_Finding 90 98	EMBARAZO
+T10	Diagnostic_Procedure 123 126	ECO

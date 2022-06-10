@@ -1,0 +1,39 @@
+T1	Body_Part 51 57	HÍGADO
+T2	Abbreviation 294 297	Bil
+T3	Abbreviation 298 299	T
+T4	Abbreviation 307 310	dir
+T5	Abbreviation 318 320	FA
+T6	Abbreviation 329 332	GGT
+T7	Abbreviation 339 342	GOT
+T8	Abbreviation 350 353	GPT
+T9	Abbreviation 475 478	Bil
+T10	Abbreviation 479 480	T
+T11	Abbreviation 488 491	dir
+T12	Abbreviation 499 501	FA
+T13	Abbreviation 508 511	GGT
+T14	Abbreviation 518 521	GOT
+T15	Abbreviation 529 532	GPT
+T16	Medication 152 168	antiespasmodicos
+T17	Sign_or_Symptom 73 125	dolor abdominal con caracteristicas de colico biliar
+T18	Sign_or_Symptom 211 216	dolor
+T19	Laboratory_Procedure 268 283	perfil hepático
+T20	Laboratory_or_Test_Result 284 292	alterado
+R1	Has Arg1:T19 Arg2:T20	
+T21	Laboratory_Procedure 294 299	Bil T
+T22	Laboratory_Procedure 318 320	FA
+T23	Laboratory_Procedure 329 332	GGT
+T24	Laboratory_Procedure 339 342	GOT
+T25	Laboratory_Procedure 350 353	GPT
+T26	Diagnostic_Procedure 364 383	ecografía abdominal
+T27	Laboratory_or_Test_Result 384 390	NORMAL
+R2	Has Arg1:T26 Arg2:T27	
+T28	Laboratory_Procedure 440 455	perfil hepatico
+T29	Laboratory_or_Test_Result 465 473	alterado
+R3	Has Arg1:T28 Arg2:T29	
+T30	Laboratory_Procedure 475 480	Bil T
+T31	Laboratory_Procedure 499 501	FA
+T32	Laboratory_Procedure 508 511	GGT
+T33	Laboratory_Procedure 518 521	GOT
+T34	Laboratory_Procedure 529 532	GPT
+T35	Clinical_Finding 549 561	asintomático
+T36	Sign_or_Symptom 422 427	dolor

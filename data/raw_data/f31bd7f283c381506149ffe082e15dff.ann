@@ -1,0 +1,12 @@
+T1	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T2	Sign_or_Symptom 50 86	caries dentinaria profunda diente 10
+T3	Disease 50 56	caries
+T4	Body_Part 77 86	diente 10
+T5	Therapeutic_Procedure 91 98	trepana
+T6	Therapeutic_Procedure 101 139	se deja con PMCLF y cemento provisorio
+T7	Abbreviation 113 118	PMCLF
+T8	Medication 113 118	PMCLF
+T9	Clinical_Finding 121 139	cemento provisorio
+T10	Sign_or_Symptom 141 175	No se logra depulpar completamente
+T11	Sign_or_Symptom 188 257	tiranervios sólo lograron ingresar al tercio cervical-medio del dient
+T12	Body_Part 226 258	tercio cervical-medio del diente

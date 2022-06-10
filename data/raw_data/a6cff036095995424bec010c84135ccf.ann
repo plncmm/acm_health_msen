@@ -1,0 +1,8 @@
+T1	Disease 2 37	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T2	Clinical_Finding 57 80	antecedentes sistemicos
+A1	Negated T2
+T3	Sign_or_Symptom 91 105	clase II molar
+T4	Sign_or_Symptom 107 136	apiñamiento dentario anterior
+T5	Disease 107 118	apiñamiento
+T6	Sign_or_Symptom 138 152	paladar ojival
+T7	Body_Part 138 145	paladar

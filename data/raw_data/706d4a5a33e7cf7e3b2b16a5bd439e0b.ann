@@ -1,0 +1,8 @@
+T1	Body_Part 0 5	pza 8
+T2	Abbreviation 0 3	pza
+T3	Body_Part 77 82	p 7-8
+T4	Abbreviation 77 78	p
+T5	Abbreviation 91 93	rx
+T7	Diagnostic_Procedure 91 105	rx  panoramica
+T8	Laboratory_or_Test_Result 55 82	mesiodens en relacion p 7-8
+T6	Laboratory_or_Test_Result 0 37	pza 8 incluida impedida de erupcionar

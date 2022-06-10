@@ -1,0 +1,9 @@
+T1	Body_Part 50 55	PULPA
+T3	Abbreviation 103 106	APS
+T6	Sign_or_Symptom 163 176	dolornocturno
+T7	Disease 177 254	Otras enfermedades y las no especificadas de la pulpa y del tejido periapical
+T8	Body_Part 225 230	pulpa
+T2	Disease 2 79	OTRAS ENFERMEDADES Y LAS NO ESPECIFICADAS DE LA PULPA Y DEL TEJIDO PERIAPICAL
+T9	Body_Part 237 254	tejido periapical
+T10	Body_Part 62 79	TEJIDO PERIAPICAL
+T4	Sign_or_Symptom 108 159	dolor a la percucion y alos cambiode d  temperatura

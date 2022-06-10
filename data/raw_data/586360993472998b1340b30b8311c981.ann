@@ -1,0 +1,9 @@
+T1	Abbreviation 0 4	PCTE
+T2	Abbreviation 14 17	PZA
+T3	Body_Part 14 19	PZA 8
+T6	Abbreviation 89 91	RX
+T7	Body_Part 76 85	DENTADURA
+T4	Sign_or_Symptom 14 49	PZA 8 RETENIDA POR FALTA DE ESPACIO
+T5	Diagnostic_Procedure 89 91	RX
+T9	Laboratory_or_Test_Result 76 140	DENTADURA EN RX QUE PODRIA ESTAR INTERPONIENDOSE CON LA ERUPCION
+R1	Has Arg1:T5 Arg2:T9	

@@ -1,0 +1,26 @@
+T1	Body_Part 19 23	PIEL
+T2	Body_Part 95 102	piernas
+T3	Body_Part 132 136	cara
+T4	Body_Part 234 238	pies
+T5	Body_Part 325 331	muslos
+T6	Body_Part 341 353	extremidades
+T7	Body_Part 502 506	pies
+T8	Body_Part 588 612	extremidades, inferiores
+T9	Body_Part 651 672	nervio plantar medial
+T10	Abbreviation 759 762	HTA
+T11	Sign_or_Symptom 2 23	PARESTESIA DE LA PIEL
+T12	Sign_or_Symptom 73 136	adormecimiento de las piernas , en ocasiones tambien d ela cara
+T13	Therapeutic_Procedure 368 393	terapia de rehabilitacion
+T14	Sign_or_Symptom 472 506	parestesias distales de ambos pies
+T15	Diagnostic_Procedure 517 533	electromiografia
+T16	Diagnostic_Procedure 537 552	neuroconduccion
+T17	Laboratory_or_Test_Result 626 682	ausencia de respuesta de nervio plantar medial bilateral
+R1	Has Arg1:T15 Arg2:T17	
+R2	Has Arg1:T16 Arg2:T17	
+T18	Clinical_Finding 696 709	marcha normal
+T19	Clinical_Finding 711 734	sensibilidad conservada
+T20	Disease 759 762	HTA
+T21	Disease 764 776	DISLIPIDEMIA
+T22	Disease 778 792	HIPOTIROIDISMO
+T23	Sign_or_Symptom 203 238	molestias en las puntas de los pies
+T24	Sign_or_Symptom 271 353	adormecimiento se a irradiado hasta las partes de los muslos en ambas extremidades

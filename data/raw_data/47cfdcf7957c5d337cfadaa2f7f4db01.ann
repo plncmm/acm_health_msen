@@ -1,0 +1,20 @@
+T1	Abbreviation 0 3	OBS
+T2	Abbreviation 4 6	TR
+T3	Disease 4 27	TR. DEL ESPECTO AUTISTA
+T4	Abbreviation 28 30	AM
+T5	Abbreviation 35 37	AQ
+T6	Abbreviation 43 47	Fcos
+T7	Abbreviation 31 34	(-)
+T8	Abbreviation 39 42	(-)
+T9	Abbreviation 49 52	(-)
+T10	Abbreviation 63 66	(-)
+T11	Abbreviation 84 85	M
+T12	Abbreviation 181 183	C/
+T16	Clinical_Finding 53 61	alergias
+A4	Negated T16
+T17	Family_Member 134 139	MADRE
+T18	Abbreviation 125 126	>
+T13	Clinical_Finding 35 37	AQ
+A1	Negated T13
+T14	Clinical_Finding 28 30	AM
+A2	Negated T14

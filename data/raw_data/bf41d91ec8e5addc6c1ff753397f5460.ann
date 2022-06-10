@@ -1,0 +1,7 @@
+T1	Sign_or_Symptom 0 64	Discrepancia ósea dentaria negativa severa maxilar y mandibular,
+T2	Sign_or_Symptom 65 81	caninez elevados
+T3	Body_Part 65 72	caninez
+T4	Abbreviation 82 85	pza
+T5	Body_Part 82 93	pza 3.6-4.6
+T6	Sign_or_Symptom 95 111	caries múltiples
+T7	Disease 95 101	caries

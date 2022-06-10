@@ -1,0 +1,6 @@
+T1	Disease 2 74	HIPOACUSIA CONDUCTIVA, UNILATERAL CON AUDICIÓN IRRESTRICTA CONTRALATERAL
+T3	Body_Part 146 160	oido izquierdo
+T4	Disease 205 214	otorragia
+T5	Sign_or_Symptom 205 253	otorragia en conducto auditivo externo izquierdo
+T6	Body_Part 218 253	conducto auditivo externo izquierdo
+T2	Sign_or_Symptom 109 160	disminucion de capacidad auditiva de oido izquierdo

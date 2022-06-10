@@ -1,0 +1,23 @@
+T1	Abbreviation 53 56	APS
+T2	Body_Part 128 144	hombro izquierdo
+T3	Abbreviation 194 196	Rx
+T4	Body_Part 197 204	columna
+T5	Abbreviation 234 236	cm
+T6	Body_Part 337 339	L1
+T7	Body_Part 340 342	D1
+T8	Abbreviation 342 344	Rx
+T9	Body_Part 345 351	pelvis
+T10	Abbreviation 405 406	x
+T11	Disease 2 29	ESCOLIOSIS, NO ESPECIFICADA
+T12	Sign_or_Symptom 115 144	elevacion de hombro izquierdo
+T13	Diagnostic_Procedure 194 210	Rx columna total
+T14	Laboratory_or_Test_Result 210 227	desnivel pelviano
+T15	Laboratory_or_Test_Result 236 336	escoliosis lumbar de 4º y escoliosis dorso-lumbar de 8ºincipientes discopatias de caracter regresivo
+T16	Diagnostic_Procedure 342 351	Rx pelvis
+R1	Has Arg1:T13 Arg2:T14	
+R2	Has Arg1:T13 Arg2:T15	
+T17	Laboratory_or_Test_Result 352 385	incipiente  coxartrosis bilateral
+R3	Has Arg1:T16 Arg2:T17	
+T18	Therapeutic_Procedure 434 456	plantillas ortopedicas
+T19	Disease 458 485	Escoliosis, no especificada
+T20	Sign_or_Symptom 173 194	giba dorsal izquierda

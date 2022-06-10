@@ -1,0 +1,8 @@
+T1	Disease 2 18	DESDENTADO TOTAL
+T2	Abbreviation 43 46	APS
+T3	Therapeutic_Procedure 60 82	rehabilitación con PTR
+T4	Abbreviation 79 82	PTR
+T6	Disease 134 210	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T7	Body_Part 172 179	dientes
+A1	Pending T3
+T5	Sign_or_Symptom 91 133	la que utilixa actualmente está fracturada

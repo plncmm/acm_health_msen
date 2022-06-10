@@ -1,0 +1,9 @@
+T1	Abbreviation 116 118	dg
+T2	Abbreviation 143 147	LMSU
+T3	Disease 2 63	HERNIA ABDOMINAL NO ESPECIFICADA, SIN OBSTRUCCIÓN NI GANGRENA
+T4	Sign_or_Symptom 95 110	dolor abdominal
+T5	Disease 122 142	hernias incisionales
+T6	Clinical_Finding 143 147	LMSU
+T7	Diagnostic_Procedure 163 172	ecografía
+T8	Laboratory_or_Test_Result 122 142	hernias incisionales
+R1	Has Arg1:T7 Arg2:T8	

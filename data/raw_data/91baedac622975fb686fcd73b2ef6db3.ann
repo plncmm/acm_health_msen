@@ -1,0 +1,10 @@
+T1	Body_Part 0 9	Pieza 2.2
+T2	Therapeutic_Procedure 10 34	tratada endodonticamente
+T3	Laboratory_or_Test_Result 53 66	lesión apical
+A1	Negated T3
+T4	Sign_or_Symptom 70 84	sintomatologia
+A2	Negated T4
+T5	Disease 97 133	fractura total de la corona dentaria
+T6	Therapeutic_Procedure 169 182	prótesis fija
+A3	Pending T6
+T7	Body_Part 183 186	2.2

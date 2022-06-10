@@ -1,0 +1,8 @@
+T1	Abbreviation 10 15	ANTEC
+T2	Abbreviation 0 2	RN
+T3	Disease 39 52	HIPERGLICEMIA
+T4	Disease 53 69	HIPERVILIRRUBINA
+T5	Disease 70 74	PTUI
+T6	Disease 142 155	DESIDEATACION
+T7	Laboratory_or_Test_Result 39 52	HIPERGLICEMIA
+T9	Laboratory_or_Test_Result 53 69	HIPERVILIRRUBINA

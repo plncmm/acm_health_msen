@@ -1,0 +1,16 @@
+T1	Abbreviation 82 85	APS
+T2	Abbreviation 108 111	HTA
+T3	Abbreviation 113 117	EPOC
+T4	Abbreviation 127 129	O2
+T5	Abbreviation 172 175	SBT
+T6	Medication 172 175	SBT
+T7	Medication 177 185	ATROVENT
+T8	Medication 188 197	BREXOTIDE
+T9	Abbreviation 308 312	EPOC
+T10	Disease 2 58	ENFERMEDAD PULMONAR OBSTRUCTIVA CRÓNICA, NO ESPECIFICADA
+T11	Disease 108 111	HTA
+T12	Disease 113 125	EPOC GOLD IV
+T13	Therapeutic_Procedure 127 151	O2 DOMICILIARIO NOCTURNO
+T14	Disease 308 323	EPOC EXACERBADO
+T15	Therapeutic_Procedure 413 432	TERAPIA INHALATORIA
+T16	Disease 435 491	Enfermedad pulmonar obstructiva cronica, no especificada

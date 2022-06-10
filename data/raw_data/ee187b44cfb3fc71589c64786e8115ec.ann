@@ -1,0 +1,25 @@
+T1	Abbreviation 147 150	APS
+#1	AnnotatorNotes T1	atención primaria de salud
+T2	Abbreviation 450 453	Dra
+#2	AnnotatorNotes T2	doctora
+T3	Abbreviation 485 488	Dra
+#3	AnnotatorNotes T3	doctora
+T4	Abbreviation 431 434	HRC
+#4	AnnotatorNotes T4	hospital regional coyhaique
+T5	Abbreviation 700 703	HRC
+#5	AnnotatorNotes T5	hospital regional coyhaique
+T6	Body_Part 119 123	BAZO
+T7	Disease 2 61	HIPERPARATIROIDISMO SECUNDARIO NO CLASIFICADO EN OTRA PARTE
+T8	Disease 65 92	OTRAS PANCREATITIS CRÓNICAS
+T9	Disease 96 123	OTRAS ENFERMEDADES DEL BAZO
+T10	Disease 200 241	Peudoaneurisma arterial pancreatoduodenal
+T11	Disease 243 262	hipertaratiroidismo
+T12	Disease 282 313	Hemorrafia digestiva recurrente
+T13	Disease 316 353	Pancreatitis cronica por hipercalemia
+T14	Disease 376 399	coleccion periesplenica
+T15	Sign_or_Symptom 641 650	calambres
+T16	Sign_or_Symptom 652 659	astenia
+T17	Sign_or_Symptom 661 669	adinamia
+T18	Disease 826 885	Hiperparatiroidismo secundario no clasificado en otra parte
+T19	Laboratory_or_Test_Result 272 279	adenoma
+T20	Clinical_Finding 355 371	esplenectomizada

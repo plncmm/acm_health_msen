@@ -1,0 +1,13 @@
+T1	Disease 2 29	COLESTEATOMA DEL OÍDO MEDIO
+T2	Body_Part 19 29	OÍDO MEDIO
+T3	Abbreviation 53 56	APS
+T4	Disease 71 74	HTA
+T5	Abbreviation 71 74	HTA
+T6	Disease 76 90	HIPOTIROIDISMO
+T7	Disease 96 103	VERTIGO
+T8	Abbreviation 144 146	DR
+T9	Disease 192 220	COLESTEATOMA DE OIDO DERECHO
+T10	Body_Part 208 220	OIDO DERECHO
+T11	Abbreviation 236 239	TTO
+T12	Disease 241 268	Colesteatoma del oido medio
+T13	Body_Part 258 268	oido medio

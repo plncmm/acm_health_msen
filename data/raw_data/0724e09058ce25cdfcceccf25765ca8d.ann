@@ -1,0 +1,6 @@
+T1	Body_Part 0 7	PIEZA 8
+T2	Abbreviation 66 69	PFU
+T3	Therapeutic_Procedure 102 108	RESINA
+T4	Therapeutic_Procedure 66 69	PFU
+T5	Disease 8 34	FRACTURA CORONARIA EXTENSA
+A1	Pending T4

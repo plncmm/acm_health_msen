@@ -1,0 +1,12 @@
+T1	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T2	Body_Part 2 9	DIENTES
+T3	Abbreviation 56 59	APS
+T4	Laboratory_or_Test_Result 76 102	3ros molares semiincluidos
+T5	Body_Part 76 88	3ros molares
+T6	Body_Part 104 108;110 113;116 119	dtes 3.8 4.8
+T7	Abbreviation 104 108	dtes
+T8	Laboratory_or_Test_Result 104 163	dtes. 3.8 y 4.8 en Angulación Vertical Clase II Posición B.
+T9	Disease 177 204	pericoronaritis recurrentes
+T10	Disease 206 236	Dientes incluidos e impactados
+T11	Body_Part 206 213	Dientes
+T12	Abbreviation 76 80	3ros

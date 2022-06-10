@@ -1,0 +1,14 @@
+T1	Body_Part 63 69	p. 4.6
+T2	Abbreviation 63 64	p
+T3	Body_Part 193 198	pulpa
+T4	Abbreviation 275 278	APS
+T5	Clinical_Finding 2 28	CARIES DENTINARIA PROFUNDA
+T6	Therapeutic_Procedure 50 60	endodoncia
+A1	Pending T6
+T7	Clinical_Finding 88 97	trepanada
+T8	Disease 102 125	pulpititis irreversible
+T9	Sign_or_Symptom 193 212	pulpa muy inflamada
+T10	Sign_or_Symptom 214 232	abundante sangrado
+T11	Clinical_Finding 234 257	Caries oclusal estricta
+T12	Sign_or_Symptom 126 138	asintomatica
+T13	Clinical_Finding 141 161	sellada con eugenato

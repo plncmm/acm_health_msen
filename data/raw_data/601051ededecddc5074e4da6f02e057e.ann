@@ -1,0 +1,14 @@
+T1	Abbreviation 51 54	APS
+T2	Abbreviation 96 99	HTA
+T3	Abbreviation 101 106	DM II
+T4	Abbreviation 110 112	IR
+T5	Abbreviation 114 117	HTD
+T6	Abbreviation 424 428	ATTE
+T7	Disease 2 27	VÉRTIGO DE ORIGEN CENTRAL
+T8	Disease 96 99	HTA
+T9	Disease 101 106	DM II
+T10	Disease 114 117	HTD
+T11	Disease 119 130	Gonartrosis
+T12	Sign_or_Symptom 140 160	sensaciòn de vèrtigo
+T13	Sign_or_Symptom 281 351	nistagmus diagonal bilateral, no gatillado por maniobra de provocaciòn
+T14	Disease 431 455	Vertigo de origen centra

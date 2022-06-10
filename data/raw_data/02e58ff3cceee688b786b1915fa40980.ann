@@ -1,0 +1,4 @@
+T1	Body_Part 0 12	DIENTE 5 1.4
+T2	Clinical_Finding 13 37	TRATADO ENDODONTICAMENTE
+T3	Therapeutic_Procedure 110 133	PROTESIS FINA  UNITARIA
+A1	Pending T3

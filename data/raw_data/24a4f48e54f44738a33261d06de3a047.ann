@@ -1,0 +1,14 @@
+T1	Abbreviation 53 56	APS
+T2	Abbreviation 345 347	Rx
+T3	Body_Part 348 353	cavum
+T4	Disease 2 29	HIPOACUSIA, NO ESPECIFICADA
+T5	Sign_or_Symptom 137 163	problemas de pronunciación
+T6	Therapeutic_Procedure 187 207	adeno-amigdalectomia
+T7	Disease 288 298	hipoacusia
+T8	Sign_or_Symptom 288 318	hipoacusia en forma progresiva
+T9	Sign_or_Symptom 331 344	voz hiponasal
+T10	Diagnostic_Procedure 345 353	Rx cavum
+T11	Laboratory_or_Test_Result 355 361	Normal
+R1	Has Arg1:T10 Arg2:T11	
+T12	Clinical_Finding 361 378	Otoscopia: Normal
+T13	Disease 417 444	Hipoacusia, no especificada

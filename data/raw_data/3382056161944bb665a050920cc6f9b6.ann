@@ -1,0 +1,12 @@
+T2	Body_Part 112 136	LABIOS MAYORES Y MENORES
+T3	Abbreviation 1 2	G
+T4	Abbreviation 3 4	P
+T5	Abbreviation 5 6	A
+T1	Abbreviation 66 73	DIAB. M
+T6	Clinical_Finding 1 3	G7
+T7	Clinical_Finding 3 5	P5
+T8	Clinical_Finding 5 7	A2
+T9	Sign_or_Symptom 8 25	LESIONES VULVARES
+T10	Disease 53 65	DISLIPIDEMIA
+T11	Disease 66 73	DIAB. M
+T12	Disease 90 136	MULTIPLES LESIONES EN LABIOS MAYORES Y MENORES

@@ -1,0 +1,10 @@
+T1	Abbreviation 39 42	APS
+T2	Body_Part 104 109	pecho
+T3	Abbreviation 119 120	q
+T4	Abbreviation 146 149	app
+T5	Disease 2 15	CARDIOMEGALIA
+T6	Sign_or_Symptom 44 68	dificultad para respirar
+T7	Sign_or_Symptom 95 109	dolor de pecho
+T8	Disease 151 172	consumo de pasta base
+T9	Disease 194 210	angina inestable
+T10	Disease 225 238	Cardiomegalia

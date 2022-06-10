@@ -1,0 +1,4 @@
+T1	Disease 9 45	desdentado total superior e inferior
+T2	Clinical_Finding 50 76	prótesis en muy mal estado
+T3	Therapeutic_Procedure 99 160	tratamiento rehabilitador mediante protesis totales acrílicas
+A1	Pending T3

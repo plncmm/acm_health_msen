@@ -1,0 +1,11 @@
+T1	Abbreviation 0 2	pz
+T2	Body_Part 0 7	pz. 2.6
+T3	Clinical_Finding 8 15	trepana
+T4	Body_Part 29 34	pieza
+T5	Sign_or_Symptom 29 85	pieza.- con historia de dolor tipo pulpitis irreversible
+T6	Disease 64 85	pulpitis irreversible
+T7	Abbreviation 103 106	tto
+T8	Therapeutic_Procedure 103 116	tto radicular
+A1	Pending T8
+T9	Abbreviation 121 123	rx
+T10	Diagnostic_Procedure 121 123	rx

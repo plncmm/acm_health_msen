@@ -1,0 +1,7 @@
+T1	Body_Part 0 7	pieza 9
+T2	Therapeutic_Procedure 8 25	obturación distal
+T3	Laboratory_or_Test_Result 8 36	obturación distal penetrante
+T4	Sign_or_Symptom 55 82	sintomatología frío + calor
+T5	Abbreviation 75 76	+
+T6	Clinical_Finding 101 133	cardiopatía tratada y controlada
+T7	Disease 101 112	cardiopatía

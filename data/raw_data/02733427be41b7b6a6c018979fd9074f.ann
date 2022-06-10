@@ -1,0 +1,14 @@
+T1	Abbreviation 0 1	M
+T2	Abbreviation 6 9	CCA
+T3	Abbreviation 64 67	1ER
+T4	Abbreviation 130 133	RPO
+T5	Family_Member 161 166	MADRE
+T6	Abbreviation 181 184	TTO
+T7	Clinical_Finding 0 2	M2
+T8	Therapeutic_Procedure 16 41	ESTERILIZACION QUIRURGICA
+T9	Clinical_Finding 68 76	EMBARAZO
+T10	Disease 97 112	PARTO PREMATURO
+T11	Disease 130 133	RPO
+T12	Sign_or_Symptom 136 154	CRISIS CONVULSIVAS
+T13	Disease 168 177	EPILEPSIA
+A1	Pending T8

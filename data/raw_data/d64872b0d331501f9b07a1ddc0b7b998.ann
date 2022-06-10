@@ -1,0 +1,24 @@
+T1	Medication 246 256	propnaolol
+T2	Body_Part 507 511	EEII
+T3	Abbreviation 507 511	EEII
+T4	Body_Part 546 550	piel
+T6	Disease 34 66	HIPERTENSIÓN ESENCIAL (PRIMARIA)
+T8	Abbreviation 90 93	APS
+T9	Abbreviation 146 149	DHC
+T10	Abbreviation 154 156	OH
+T11	Abbreviation 260 262	mg
+T12	Abbreviation 273 275	oh
+T13	Abbreviation 416 419	DHC
+T5	Disease 2 30	CIRROSIS HEPÁTICA ALCOHÓLICA
+T14	Disease 146 156	DHC por OH
+T15	Sign_or_Symptom 357 363	amreos
+T16	Sign_or_Symptom 366 380	desorientacion
+T18	Disease 416 419	DHC
+T19	Sign_or_Symptom 438 446	acisitis
+T22	Sign_or_Symptom 495 500	edema
+T23	Sign_or_Symptom 526 549	engrosamiento de la pie
+T24	Sign_or_Symptom 553 570	cambios atroficos
+T7	Disease 671 699	Cirrosis hepatica alcoholica
+T17	Laboratory_or_Test_Result 416 419	DHC
+T20	Disease 454 493	hernia umbilical atascada no complicada
+T21	Abbreviation 500 503	+++

@@ -1,0 +1,9 @@
+T1	Body_Part 176 192	piezas 2.2 y 1.2
+T2	Body_Part 209 218	pieza 2.1
+T3	Disease 2 38	ALTERACIONES EN LA ERUPCIÓN DENTARIA
+T4	Disease 43 90	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T5	Clinical_Finding 127 143	clase 1 de angle
+T6	Sign_or_Symptom 145 174	apiñamiento dentario superior
+T7	Sign_or_Symptom 176 207	piezas 2.2 y 1.2 vestibulizadas
+T8	Sign_or_Symptom 209 225	pieza 2.1 rotada
+T9	Sign_or_Symptom 229 253	mordida abierta anterior

@@ -1,0 +1,8 @@
+T1	Body_Part 31 37	DIENTE
+T2	Abbreviation 61 64	APS
+T3	Body_Part 66 76	Diente 3.8
+T4	Body_Part 90 93	3.7
+T5	Body_Part 125 131	diente
+T6	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T8	Disease 96 131	Anomalias de la posicion del diente
+T7	Disease 66 93	Diente 3.8 impactando a 3.7

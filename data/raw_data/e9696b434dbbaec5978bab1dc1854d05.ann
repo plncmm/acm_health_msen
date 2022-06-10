@@ -1,0 +1,7 @@
+T1	Disease 0 21	Pulpitis irreversible
+T2	Body_Part 22 31	pieza 4.5
+T3	Therapeutic_Procedure 33 44	Trepanación
+T4	Body_Part 45 54	pieza 4.5
+T5	Medication 73 90	paramonoclorofeno
+T6	Clinical_Finding 92 102	provisorio
+T7	Abbreviation 103 104	O

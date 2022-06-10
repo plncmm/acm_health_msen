@@ -1,0 +1,12 @@
+T1	Body_Part 222 239	biceps  branquial
+T2	Body_Part 14 28	supraescapular
+T3	Body_Part 32 44	suprespiniso
+T4	Body_Part 85 99	supra espinoso
+T5	Body_Part 150 162	subescapular
+T6	Disease 0 44	tendinis  del supraescapular  y suprespiniso
+T7	Laboratory_or_Test_Result 48 99	desgarro parcial intrasustancia  del supra espinoso
+T8	Laboratory_or_Test_Result 100 162	signo indirecto  de desgarro parcial retraido del subescapular
+T9	Laboratory_or_Test_Result 170 183	tenosinovitis
+T10	Disease 189 239	osteocondromatosis  sinovial del biceps  branquial
+T11	Disease 240 249	buirsitis
+T12	Laboratory_or_Test_Result 189 239	osteocondromatosis  sinovial del biceps  branquial

@@ -1,0 +1,14 @@
+T1	Body_Part 42 49	DIENTES
+T2	Abbreviation 83 86	APS
+T3	Body_Part 137 149	3ros Molares
+T4	Abbreviation 137 141	3ros
+T5	Body_Part 151 156	p.2.8
+T6	Body_Part 215 220	p 3.8
+T7	Abbreviation 151 152	p
+T8	Abbreviation 215 216	p
+T9	Disease 2 38	ALTERACIONES EN LA ERUPCIÓN DENTARIA
+T10	Laboratory_or_Test_Result 42 59	DIENTES INCLUIDOS
+T11	Disease 42 59	DIENTES INCLUIDOS
+T12	Laboratory_or_Test_Result 151 212	p.2.8 (16) Semi incluido posición A vertical (Pell y Gregory)
+T13	Laboratory_or_Test_Result 215 252	p 3.8 (17) Vertical clase II posicion
+T14	Sign_or_Symptom 103 149	falta de espacio para erupción de 3ros Molares

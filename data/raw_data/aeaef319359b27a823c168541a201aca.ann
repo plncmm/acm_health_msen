@@ -1,0 +1,5 @@
+T1	Sign_or_Symptom 0 34	Compresión maxilar con apiñamiento
+T2	Body_Part 11 18	maxilar
+T3	Disease 23 34	apiñamiento
+T4	Sign_or_Symptom 36 58	Prognatismo mandibular
+T5	Abbreviation 153 155	Dr

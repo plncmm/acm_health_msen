@@ -1,0 +1,60 @@
+T1	Disease 2 11	EPILEPSIA
+T2	Disease 51 59	OBESIDAD
+T3	Sign_or_Symptom 142 162	"CRISIS" CONVULSIVAS
+T4	Sign_or_Symptom 192 212	TEMBLOR DE LA CABEZA
+T5	Sign_or_Symptom 214 254	DESVIACION DE LA MIRADA CON OJOS BLANCOS
+T6	Sign_or_Symptom 256 270	CARA ABOTAGADA
+T7	Sign_or_Symptom 272 293	PERDIDA DE CONCIENCIA
+T8	Sign_or_Symptom 295 309	DESORIENTACION
+T9	Sign_or_Symptom 315 339	RELAJACION DE ESFINTERES
+A1	Negated T9
+T10	Sign_or_Symptom 345 356	SOMNOLENCIA
+T11	Sign_or_Symptom 522 538	SIGNOS MENINGEOS
+A2	Negated T11
+T12	Disease 608 617	Epilepsia
+T13	Abbreviation 35 38	APS
+#1	AnnotatorNotes T13	atención primaria de la salud
+T14	Abbreviation 394 397	MIN
+#2	AnnotatorNotes T14	minutos
+T15	Abbreviation 398 400	EX
+#3	AnnotatorNotes T15	exámen
+T16	Abbreviation 60 65	ALERG
+#4	AnnotatorNotes T16	alergias
+T17	Abbreviation 382 387	APROX
+#5	AnnotatorNotes T17	aproximadamente
+T20	Abbreviation 43 47	AAPP
+#7	AnnotatorNotes T20	antecedentes personales
+T22	Abbreviation 117 120	+/-
+#8	AnnotatorNotes T22	más o menos
+T21	Abbreviation 432 434	MP
+#9	AnnotatorNotes T21	murmullo pulmonar
+T23	Abbreviation 458 461	URO
+#10	AnnotatorNotes T23	urogenital
+T24	Abbreviation 69 71	OP
+#11	AnnotatorNotes T24	operaciones
+T25	Abbreviation 435 436	+
+#12	AnnotatorNotes T25	positivo
+T19	Abbreviation 471 474	SNC
+#6	AnnotatorNotes T19	sistema nervioso central
+T18	Abbreviation 445 448	ABD
+#13	AnnotatorNotes T18	abdominal
+T26	Abbreviation 437 439	SE
+#14	AnnotatorNotes T26	soplo eyectivo
+T27	Abbreviation 439 443	RR2T
+#15	AnnotatorNotes T27	ritmo regular a dos tiempos
+T28	Abbreviation 443 445	SS
+#16	AnnotatorNotes T28	simétricos
+T29	Family_Member 99 104	MADRE
+T30	Family_Member 182 187	MADRE
+T31	Body_Part 206 212	CABEZA
+T32	Body_Part 242 246	OJOS
+T33	Body_Part 256 260	CARA
+T34	Body_Part 329 339	ESFINTERES
+T35	Body_Part 476 483	PUPILAS
+T36	Clinical_Finding 60 65	ALERG
+A3	Negated T36
+T37	Clinical_Finding 439 445	RR2TSS
+T38	Clinical_Finding 476 505	PUPILAS ISOCORICAS, REACTIVAS
+T39	Clinical_Finding 507 516	ORIENTADO
+T40	Body_Part 445 448	ABD
+T41	Body_Part 471 474	SNC

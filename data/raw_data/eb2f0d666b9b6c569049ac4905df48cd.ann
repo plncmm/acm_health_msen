@@ -1,0 +1,8 @@
+T1	Abbreviation 57 60	APS
+T2	Disease 2 33	SOPLO CARDÍACO, NO ESPECIFICADO
+T3	Sign_or_Symptom 75 97	precordalgia ocasional
+T4	Sign_or_Symptom 100 122	soplo cardíaco sistóli
+T5	Disease 180 195	miocardiopatías
+T6	Disease 198 229	Soplo cardiaco, no especificado
+T7	Body_Part 135 151	foco tricuspídeo
+A1	Implicit_Family_Background T5

@@ -1,0 +1,12 @@
+T1	Disease 2 10	PULPITIS
+T2	Abbreviation 34 37	APS
+T3	Body_Part 92 102	diente 2.1
+T4	Disease 121 124	TDA
+T5	Abbreviation 121 124	TDA
+T8	Clinical_Finding 201 228	caries interproximal en M:P
+T9	Abbreviation 241 243	rx
+T10	Abbreviation 225 228	M:P
+#1	AnnotatorNotes T10	Mesiopalatina
+T6	Sign_or_Symptom 152 186	restauracion en incisal fracturada
+T7	Diagnostic_Procedure 241 253	rx periapica
+A1	Pending T7

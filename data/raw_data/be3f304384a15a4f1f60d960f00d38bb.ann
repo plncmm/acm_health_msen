@@ -1,0 +1,8 @@
+T1	Body_Part 9 18	pieza 1.4
+T2	Body_Part 63 72	pieza 5.4
+T3	Body_Part 145 154	pieza 5.4
+T4	Clinical_Finding 9 41	pieza 1.4 en proceso de erupcion
+T5	Sign_or_Symptom 47 72	persistencia de pieza 5.4
+T6	Disease 82 107	retraso psicomotor severo
+T7	Therapeutic_Procedure 132 141	exodoncia
+A1	Pending T7

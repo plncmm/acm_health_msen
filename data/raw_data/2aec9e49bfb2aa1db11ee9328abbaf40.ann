@@ -1,0 +1,18 @@
+T1	Disease 2 22	NECROSIS DE LA PULPA
+T2	Abbreviation 46 49	APS
+T3	Body_Part 17 22	PULPA
+T4	Abbreviation 72 79	ANTECED
+T5	Clinical_Finding 72 87	ANTECED MEDICOS
+A1	Negated T5
+T6	Abbreviation 89 92	PTA
+T7	Disease 93 108	NECROSIS PULPAR
+T8	Abbreviation 109 112	PZA
+T9	Body_Part 109 115	PZA 12
+T10	Therapeutic_Procedure 133 147	ANTIBIOTERAPIA
+T11	Therapeutic_Procedure 161 172	TREPANACION
+T12	Abbreviation 179 182	PZA
+T13	Abbreviation 196 201	PMCLF
+T14	Medication 196 201	PMCLF
+T15	Clinical_Finding 204 214	PROVISORIO
+T16	Disease 268 288	Necrosis de la pulpa
+T17	Body_Part 283 288	pulpa

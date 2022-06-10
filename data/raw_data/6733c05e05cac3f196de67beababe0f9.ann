@@ -1,0 +1,14 @@
+T1	Abbreviation 16 18	GR
+T2	Abbreviation 20 23	EMB
+T3	Abbreviation 32 35	ECO
+T4	Abbreviation 42 44	GR
+T5	Abbreviation 46 51	ANTEC
+T6	Abbreviation 77 79	GR
+T7	Abbreviation 100 102	GR
+T8	Abbreviation 0 1	M
+T9	Abbreviation 30 31	X
+T10	Clinical_Finding 0 2	M4
+T11	Clinical_Finding 20 24	EMB.
+T12	Diagnostic_Procedure 32 35	ECO
+T13	Disease 53 63	PRECLAPCIA
+T14	Therapeutic_Procedure 84 92	CESAREAS

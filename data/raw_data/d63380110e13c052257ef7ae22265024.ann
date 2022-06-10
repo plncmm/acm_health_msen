@@ -1,0 +1,4 @@
+T1	Disease 0 19	Artritis reumatoide
+T2	Disease 53 82	perforación corneal bilateral
+T3	Therapeutic_Procedure 97 108	transplante
+A1	Pending T3

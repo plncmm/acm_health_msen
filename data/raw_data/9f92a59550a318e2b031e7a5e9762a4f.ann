@@ -1,0 +1,8 @@
+T1	Disease 0 4	K039
+T2	Disease 5 61	ENFERMEDAD NO ESPECIFICADA DE LOS TEJIDOS DENTALES DUROS
+T3	Abbreviation 62 65	IRC
+T4	Disease 62 65	IRC
+T5	Abbreviation 69 71	HD
+T6	Disease 73 77	DM 2
+T7	Abbreviation 73 75	DM
+T8	Abbreviation 78 80	IR

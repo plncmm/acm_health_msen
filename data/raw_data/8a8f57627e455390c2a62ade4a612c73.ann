@@ -1,0 +1,7 @@
+T1	Body_Part 0 9	Diente 19
+T2	Therapeutic_Procedure 10 20	obturacion
+T3	Abbreviation 21 23	od
+T4	Disease 45 72	peridontitis apical cronica
+T5	Therapeutic_Procedure 91 107	necropulpectomia
+A1	Pending T5
+T6	Disease 108 136	Periodontitis apical cronica

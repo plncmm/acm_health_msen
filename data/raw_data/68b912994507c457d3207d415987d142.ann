@@ -1,0 +1,8 @@
+T1	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T2	Body_Part 2 9	DIENTES
+T3	Abbreviation 56 59	APS
+T4	Body_Part 61 77	Piezas 3.8 y 4.8
+T5	Laboratory_or_Test_Result 61 122	Piezas 3.8 y 4.8 semierupcionadas impactando piezas 3.7 y 4.7
+T6	Body_Part 106 122	piezas 3.7 y 4.7
+T7	Body_Part 123 130	Dientes
+T8	Disease 123 153	Dientes incluidos e impactados

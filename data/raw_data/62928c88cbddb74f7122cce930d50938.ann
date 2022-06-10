@@ -1,0 +1,6 @@
+T1	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T2	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T3	Disease 53 61	Bruxismo
+T4	Disease 63 79	fractura incisal
+T5	Body_Part 80 83	1.2
+T6	Sign_or_Symptom 85 104	facetas de desgaste

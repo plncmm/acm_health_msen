@@ -1,0 +1,5 @@
+T1	Disease 0 35	maloclusion de tipo no especificada
+T2	Sign_or_Symptom 46 65	clase ii esqueletal
+T3	Sign_or_Symptom 67 114	incisivos centrales superiores vestibularizados
+T4	Sign_or_Symptom 117 134	overjet aumentado
+T5	Body_Part 67 97	incisivos centrales superiores

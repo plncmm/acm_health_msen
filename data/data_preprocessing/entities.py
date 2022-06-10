@@ -10,7 +10,8 @@ def get_nested_entities(annotation, referral, entity_types):
     for line in annotation.splitlines():
         entity_info = {}
         entity = line.split()
-
+        if len(entity)==0:
+            continue
         if entity[0].startswith('T') and not ';' in entity[3] and (entity[1] in entity_types or simplify_entity(entity[1]) in entity_types):
             entity_info['label'] = simplify_entity(entity[1]) if simplify_entity(entity[1]) in entity_types else entity[1]
             entity_info['start_idx'] = int(entity[2])

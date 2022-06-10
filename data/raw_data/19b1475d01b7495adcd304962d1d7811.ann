@@ -1,0 +1,6 @@
+T1	Family_Member 64 69	madre
+T2	Sign_or_Symptom 0 10	Talla alta
+T3	Disease 12 19	cefalea
+T4	Sign_or_Symptom 78 99	crecimiento acelerado
+T5	Sign_or_Symptom 104 122	desarrollo puberal
+A1	Negated T5

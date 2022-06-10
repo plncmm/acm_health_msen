@@ -1,0 +1,75 @@
+T1	Disease 2 25	TESTÍCULO NO DESCENDIDO
+T2	Disease 149 162	criptroquidea
+T3	Sign_or_Symptom 424 483	testiculos no se visualizan testiculos en bolsas escrotales
+T4	Sign_or_Symptom 512 535	palpar ambos testiculos
+A1	Negated T4
+T5	Sign_or_Symptom 595 613	doloroso palpacion
+A2	Negated T5
+T6	Sign_or_Symptom 657 669	alteraciones
+A3	Negated T6
+T7	Sign_or_Symptom 1011 1021	estertores
+A4	Negated T7
+T8	Sign_or_Symptom 1084 1090	soplos
+A5	Negated T8
+T9	Sign_or_Symptom 1339 1344	edema
+A6	Negated T9
+T10	Disease 1726 1749	Testiculo no descendido
+T11	Sign_or_Symptom 563 590	se logra desender testiculo
+A7	Negated T11
+T19	Abbreviation 49 52	APS
+#1	AnnotatorNotes T19	atención primaria de salud
+T20	Abbreviation 234 237	tto
+#2	AnnotatorNotes T20	tratamiento
+T21	Abbreviation 54 59	Pacet
+#3	AnnotatorNotes T21	paciente
+T22	Abbreviation 311 316	Pacte
+#4	AnnotatorNotes T22	paciente
+T23	Body_Part 2 11	TESTÍCULO
+T24	Body_Part 1726 1735	Testiculo
+T26	Family_Member 347 352	madre
+T27	Body_Part 413 422	genitales
+T28	Body_Part 424 434	testiculos
+T29	Body_Part 452 462	testiculos
+T30	Body_Part 466 483	bolsas escrotales
+T31	Body_Part 525 535	testiculos
+T32	Body_Part 581 590	testiculo
+T33	Body_Part 643 649	Cabeza
+T34	Body_Part 670 674	Cara
+T35	Body_Part 678 682	Ojos
+T36	Body_Part 693 704	mucosa conj
+T37	Body_Part 714 718	Boca
+T38	Body_Part 722 728	Mucosa
+T39	Body_Part 747 753	Cuello
+T40	Body_Part 805 814	Yugulares
+T41	Body_Part 834 842	Tiroides
+T42	Body_Part 860 865	Tórax
+T43	Body_Part 869 882	Caja toráxica
+T44	Body_Part 1025 1032	Corazón
+T45	Body_Part 1092 1099	Abdomen
+T46	Body_Part 1110 1117	ombligo
+T47	Body_Part 1154 1160	Hígado
+T48	Body_Part 1186 1190	Bazo
+T49	Body_Part 1204 1216	Extremidades
+T50	Body_Part 1445 1453	Rodillas
+T51	Body_Part 1456 1463	piernas
+T52	Body_Part 1485 1489	Pies
+T53	Body_Part 1673 1680	Columna
+T25	Clinical_Finding 683 691	isocoria
+T54	Abbreviation 700 704	conj
+T55	Clinical_Finding 693 712	mucosa conj. Rosada
+T56	Clinical_Finding 722 736	Mucosa húmedas
+T57	Clinical_Finding 738 745	dentada
+T58	Clinical_Finding 776 802	Pulsos carotídeos normales
+T12	Clinical_Finding 805 831	Yugulares sin alteraciones
+T13	Clinical_Finding 834 859	Tiroides sin alteraciones
+T14	Clinical_Finding 869 899	Caja toráxica sin alteraciones
+T15	Sign_or_Symptom 904 926	dolor palpacion costal
+A8	Negated T15
+T16	Clinical_Finding 931 951	Respiración eupneica
+T17	Clinical_Finding 964 993	murmullo vesicular conservado
+T18	Clinical_Finding 1034 1047	Ritmo regular
+T59	Clinical_Finding 1049 1066	tonos conservados
+T60	Clinical_Finding 1110 1151	ombligo umbilicado, depresible e indoloro
+T61	Clinical_Finding 1445 1481	Rodillas y piernas de aspecto normal
+T62	Clinical_Finding 1544 1586	Pulsos periféricos conservados, simétricos
+T63	Clinical_Finding 1614 1671	Movilidad, fuerzas y reflejos osteotendinosos conservados

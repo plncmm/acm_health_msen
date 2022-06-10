@@ -1,0 +1,10 @@
+T1	Disease 0 4	K025
+T2	Disease 5 33	CARIES CON EXPOSICIÓN PULPAR
+T3	Abbreviation 42 45	QMX
+T4	Therapeutic_Procedure 42 45	QMX
+T5	Disease 91 101	CA DE MAMA
+T6	Abbreviation 91 93	CA
+T7	Abbreviation 104 107	EXD
+T8	Therapeutic_Procedure 104 107	EXD
+T9	Abbreviation 109 112	PZA
+T10	Body_Part 109 116	PZA. 30

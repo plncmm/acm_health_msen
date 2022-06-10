@@ -1,0 +1,11 @@
+T1	Abbreviation 72 75	APS
+T2	Body_Part 169 178	pieza 3.8
+T3	Body_Part 306 310	boca
+T4	Body_Part 121 138	región maseterina
+T5	Disease 2 48	FLEGMONES ORO-FARÍNGEOS DE ORIGEN ODONTOGÉNICO
+T6	Sign_or_Symptom 77 138	Aumento de volumen de consistencia firme en región maseterina
+T8	Diagnostic_Procedure 218 235	radiográficamente
+T9	Laboratory_or_Test_Result 236 281	erupcionado pero con raíces con dislaceración
+R1	Has Arg1:T8 Arg2:T9	
+T10	Disease 283 310	Celulitis y absceso de boca
+T7	Clinical_Finding 169 205	pieza 3.8 caries dentinaria profunda

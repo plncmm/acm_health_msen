@@ -1,0 +1,20 @@
+T1	Abbreviation 46 49	APS
+T2	Abbreviation 86 89	ISP
+T3	Abbreviation 105 108	EKG
+T4	Abbreviation 112 115	ECO
+T5	Abbreviation 116 119	ABD
+T6	Body_Part 116 119	ABD
+T7	Abbreviation 177 181	ATTE
+T8	Abbreviation 109 110	N
+T9	Abbreviation 120 121	N
+T10	Abbreviation 163 167	POLI
+T11	Disease 2 22	ENFERMEDAD DE CHAGAS
+T12	Disease 51 71	ENFERMEDAD DE CHAGAS
+T13	Sign_or_Symptom 91 103	ASINTOMATICO
+T14	Diagnostic_Procedure 105 108	EKG
+T15	Laboratory_or_Test_Result 109 110	N
+R1	Has Arg1:T14 Arg2:T15	
+T16	Diagnostic_Procedure 112 119	ECO ABD
+T17	Laboratory_or_Test_Result 120 121	N
+R2	Has Arg1:T16 Arg2:T17	
+T18	Disease 168 174	CHAGAS

@@ -1,0 +1,10 @@
+T1	Sign_or_Symptom 16 25	MOLESTIAS
+T2	Diagnostic_Procedure 30 49	EXAMEN RADIOGRAFICO
+T3	Abbreviation 61 62	P
+T4	Body_Part 61 70	P. 1 Y 16
+T5	Abbreviation 95 96	P
+T6	Body_Part 95 105	P. 17 Y 32
+T7	Laboratory_or_Test_Result 61 93	P. 1 Y 16 EN EVOLUCION INTRAOSEA
+T8	Laboratory_or_Test_Result 95 148	P. 17 Y 32 EN EVOLUCION INTRAOSEA, (MESIO INCLINADOS)
+R1	Has Arg1:T2 Arg2:T7	
+R2	Has Arg1:T2 Arg2:T8	

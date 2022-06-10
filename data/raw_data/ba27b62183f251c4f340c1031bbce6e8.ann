@@ -1,0 +1,12 @@
+T1	Body_Part 63 70	Caninos
+T2	Body_Part 122 131	Pieza 3.6
+T3	Abbreviation 82 85	Inc
+T4	Abbreviation 95 98	sup
+T6	Sign_or_Symptom 63 80	Caninos ectópicos
+T7	Sign_or_Symptom 82 120	Inc. lateral sup derecho polatinizados
+T8	Therapeutic_Procedure 174 189	ortodoncia fija
+A1	Pending T8
+T5	Sign_or_Symptom 43 61	linea 1/2 desviada
+T9	Sign_or_Symptom 18 42	disarmonía dento-maxilar
+T10	Body_Part 82 106	Inc. lateral sup derecho
+T11	Sign_or_Symptom 122 139	Pieza 3.6 ausente

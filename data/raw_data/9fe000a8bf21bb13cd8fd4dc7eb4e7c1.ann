@@ -1,0 +1,13 @@
+T1	Abbreviation 0 3	obs
+T2	Abbreviation 26 28	rx
+T3	Body_Part 44 62	hemidiafragma izdo
+T4	Abbreviation 58 62	izdo
+T5	Body_Part 29 34	torax
+T6	Body_Part 86 101	camara gastrica
+T7	Body_Part 105 119	campo pulmonar
+T8	Disease 4 24	hernia diafragmatica
+T9	Diagnostic_Procedure 26 34	rx torax
+T10	Laboratory_or_Test_Result 44 74	hemidiafragma izdo muy elevado
+T11	Laboratory_or_Test_Result 76 119	sombra de camara gastrica en campo pulmonar
+R1	Has Arg1:T9 Arg2:T10	
+R2	Has Arg1:T9 Arg2:T11	

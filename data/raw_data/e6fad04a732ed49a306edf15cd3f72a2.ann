@@ -1,0 +1,9 @@
+T1	Disease 2 22	NECROSIS DE LA PULPA
+T2	Body_Part 26 34	diente 8
+T3	Sign_or_Symptom 61 79	fístula vestibular
+T4	Sign_or_Symptom 35 58	sensible a la percusión
+T5	Therapeutic_Procedure 92 103	trepanación
+T6	Body_Part 117 122	pulpa
+T7	Sign_or_Symptom 117 132	pulpa isquémica
+T8	Clinical_Finding 134 166	historia de trauma de larga data
+T9	Body_Part 17 22	PULPA

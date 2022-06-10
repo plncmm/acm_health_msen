@@ -1,0 +1,8 @@
+T1	Abbreviation 0 3	Dte
+T2	Body_Part 0 5	Dte 9
+T3	Abbreviation 67 70	ROM
+T4	Abbreviation 71 73	av
+T5	Abbreviation 118 121	tto
+T6	Sign_or_Symptom 0 45	Dte 9 con sensibilidad dentinaria persistente
+T7	Clinical_Finding 47 61	polirestaurada
+T8	Sign_or_Symptom 67 73	ROM av

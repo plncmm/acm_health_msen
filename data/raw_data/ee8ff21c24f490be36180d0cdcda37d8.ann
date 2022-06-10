@@ -1,0 +1,12 @@
+T1	Clinical_Finding 0 33	Clase molar I derecha e izquierda
+T2	Clinical_Finding 35 61	Clase I canina, der. e izq
+T3	Abbreviation 51 54	der
+T4	Abbreviation 58 61	izq
+T5	Sign_or_Symptom 63 98	Mordida invertida pieza 2.1 con 3.1
+T6	Body_Part 81 90	pieza 2.1
+T7	Body_Part 95 98	3.1
+T8	Sign_or_Symptom 99 132	Linea dentaria 1/2 no coincidente
+T9	Sign_or_Symptom 140 184	desviada hacia la izquierda lénea mandibular
+T10	Sign_or_Symptom 194 230	desviada hacia derecha línea maxilar
+T11	Abbreviation 137 139	mm
+T12	Abbreviation 191 193	mm

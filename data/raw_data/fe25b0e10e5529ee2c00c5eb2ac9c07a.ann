@@ -1,0 +1,10 @@
+T1	Abbreviation 42 44	sd
+T2	Abbreviation 93 97	TACO
+T3	Body_Part 135 141	menton
+T4	Abbreviation 144 147	izq
+T5	Abbreviation 59 60	+
+T6	Medication 93 97	TACO
+T7	Disease 0 29	Infartos cerebrales multiples
+T8	Disease 42 58	sd de Wallenberg
+T9	Disease 61 79	infarto cerebeloso
+T10	Sign_or_Symptom 99 147	Distonia cervical con desviacion de menton a izq

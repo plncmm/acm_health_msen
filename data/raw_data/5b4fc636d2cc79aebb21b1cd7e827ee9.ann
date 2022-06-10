@@ -1,0 +1,11 @@
+T1	Abbreviation 53 56	APS
+T2	Abbreviation 103 105	RX
+T3	Body_Part 109 116	COLUMAN
+T4	Body_Part 173 189	COLUMNA TORACICA
+T5	Abbreviation 228 232	ATTE
+T6	Disease 2 29	ESCOLIOSIS, NO ESPECIFICADA
+T7	Disease 83 93	ESCOLIOSIS
+T8	Diagnostic_Procedure 103 122	RX DE COLUMAN TOTAL
+T9	Laboratory_or_Test_Result 147 189	LEVE CURVATURA A NIVEL DE COLUMNA TORACICA
+R1	Has Arg1:T8 Arg2:T9	
+T10	Disease 234 255	Escoliosis, no especi

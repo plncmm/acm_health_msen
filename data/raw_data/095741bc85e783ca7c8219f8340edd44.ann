@@ -1,0 +1,8 @@
+T1	Body_Part 0 10	DIENTE 2.5
+T2	Disease 11 26	NECROSIS PULPAR
+T4	Abbreviation 60 63	TTO
+T5	Therapeutic_Procedure 60 76	TTO. ENDODONTICO
+A1	Pending T5
+T6	Disease 78 85	ABSCESO
+T3	Body_Part 28 44	DIENTE 1.1 Y 1.2
+T7	Body_Part 105 111	PIEZAS

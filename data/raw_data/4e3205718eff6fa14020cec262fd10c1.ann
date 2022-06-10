@@ -1,0 +1,9 @@
+T1	Disease 21 28	autismo
+T2	Disease 31 40	epilepsia
+T4	Therapeutic_Procedure 195 205	exodoncias
+T5	Therapeutic_Procedure 304 321	anestesia general
+T6	Disease 492 522	PERIODONTITIS CRONICA COMPLEJA
+T7	Therapeutic_Procedure 159 183	destartraje  subgingival
+T3	Therapeutic_Procedure 51 89	atencion dental bajo anestesia general
+A1	Pending T3
+A2	Pending T5

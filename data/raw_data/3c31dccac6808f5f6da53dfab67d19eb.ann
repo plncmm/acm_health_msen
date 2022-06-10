@@ -1,0 +1,17 @@
+T1	Abbreviation 29 32	HTA
+T2	Abbreviation 35 37	IR
+T3	Medication 72 80	LOSARTAN
+T4	Medication 84 94	METFORMINA
+T5	Medication 97 104	TIMASOL
+T6	Abbreviation 107 109	DT
+T7	Abbreviation 144 146	DT
+T8	Body_Part 107 113	DT. 20
+T9	Body_Part 144 150	DT. 30
+T10	Abbreviation 200 203	TTO
+T11	Disease 29 32	HTA
+T12	Disease 35 37	IR
+T13	Disease 40 55	HIPERTIROIDISMO
+T14	Clinical_Finding 59 67	MEDICADO
+A1	Negated T14
+T15	Clinical_Finding 114 142	TERAPIA PREVIAMENTE INICIADA
+T16	Sign_or_Symptom 151 185	PULPITIS IRREVERSIBLE ASINTOMATICA

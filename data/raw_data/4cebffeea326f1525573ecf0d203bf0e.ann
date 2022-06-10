@@ -1,0 +1,6 @@
+T1	Abbreviation 66 69	APS
+T2	Body_Part 107 132	region inguinal izquierda
+T3	Disease 2 17	HERNIA INGUINAL
+T4	Disease 17 42	hernia inguinal izquierda
+T5	Sign_or_Symptom 80 190	tumoracion  reductible, en region inguinal izquierda de 8 meses de evolucion , que en ocasiones le causa dolor
+T6	Clinical_Finding 203 215	asintomatico

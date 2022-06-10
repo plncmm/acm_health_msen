@@ -1,0 +1,14 @@
+T1	Body_Part 2 11	TESTÍCULO
+T2	Abbreviation 70 73	APS
+T3	Body_Part 184 203	testículo izquierdo
+T4	Body_Part 207 221	canal inguinal
+T5	Body_Part 238 245	escroto
+T6	Body_Part 247 264	Testìculo derecho
+T7	Body_Part 268 275	escroto
+T8	Abbreviation 325 329	ATTE
+T9	Body_Part 332 341	Testiculo
+T10	Disease 2 46	TESTÍCULO NO DESCENDIDO, UNILATERALizquierdo
+T11	Sign_or_Symptom 115 153	falta de descenso testicular izquierdo
+T12	Sign_or_Symptom 184 245	testículo izquierdo en canal inguinal, sin descenso a escroto
+T13	Clinical_Finding 247 275	Testìculo derecho en escroto
+T14	Disease 332 367	Testiculo no descendido, unilateral

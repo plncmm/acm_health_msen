@@ -1,0 +1,14 @@
+T1	Abbreviation 62 65	APS
+T2	Body_Part 98 103	manos
+T3	Body_Part 106 113	muñecas
+T4	Body_Part 116 121	codos
+T5	Body_Part 124 131	hombros
+T6	Abbreviation 150 154	evol
+T7	Abbreviation 170 171	+
+T8	Abbreviation 200 201	+
+T9	Body_Part 187 199	articulacion
+T10	Disease 2 38	ARTRITIS REUMATOIDE, NO ESPECIFICADA
+T11	Sign_or_Symptom 75 141	dolor poliarticular de manos , muñecas , codos y hombros bilateral
+T12	Sign_or_Symptom 154 169	rigidez matinal
+T13	Sign_or_Symptom 171 199	aumento volumen articulacion
+T14	Disease 202 238	Artritis reumatoide, no especificada

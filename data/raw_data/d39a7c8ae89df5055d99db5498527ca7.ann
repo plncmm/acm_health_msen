@@ -1,0 +1,8 @@
+T1	Body_Part 86 105	HIPOCONDRIO DERECHO
+T2	Abbreviation 110 113	ECO
+T3	Sign_or_Symptom 70 105	DOLOR COLICO EN HIPOCONDRIO DERECHO
+T4	Diagnostic_Procedure 110 113	ECO
+T5	Laboratory_or_Test_Result 146 158	COLELITIASIS
+R1	Has Arg1:T4 Arg2:T5	
+T6	Clinical_Finding 160 169	MULTIPARA
+T7	Clinical_Finding 185 194	LACTANCIA

@@ -1,0 +1,6 @@
+T1	Disease 14 36	ENFERMEDAD PERIODENTAL
+T2	Therapeutic_Procedure 37 77	DOBLE REEMPLAZO VALVULA AORTICA Y MITRAL
+T3	Abbreviation 81 85	TACO
+T4	Medication 81 85	TACO
+T5	Abbreviation 86 89	INR
+T6	Laboratory_Procedure 86 89	INR

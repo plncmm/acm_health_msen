@@ -1,0 +1,7 @@
+T1	Body_Part 34 39	torax
+T2	Body_Part 42 54	mano derecha
+T3	Abbreviation 113 116	tto
+T4	Disease 0 4	B07X
+T5	Disease 5 21	VERRUGAS VÍRICAS
+T6	Sign_or_Symptom 22 54	Verrugas en torax y mano derecha
+T7	Disease 70 78	Leucemia

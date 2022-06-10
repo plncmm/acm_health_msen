@@ -1,0 +1,7 @@
+T1	Abbreviation 39 42	APS
+T2	Body_Part 44 60	Diente 1.7 y 2.8
+T3	Clinical_Finding 2 15	CARIES DENTAL
+T4	Sign_or_Symptom 44 93	Diente 1.7 y 2.8 destruccion coronaria por caries
+T6	Clinical_Finding 118 131	Caries dental
+T5	Therapeutic_Procedure 108 117	exodoncia
+A1	Pending T5

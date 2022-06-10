@@ -1,0 +1,9 @@
+T1	Abbreviation 203 206	APS
+T2	Abbreviation 260 262	pn
+T3	Abbreviation 269 271	gr
+T4	Disease 2 36	DESNUTRICIÓN PROTEICOCALÓRICA LEVE
+T5	Disease 40 50	TALLA BAJA
+T6	Disease 51 179	RETARDO DEL DESARROLLO DEBIDO A DESNUTRICIÓN PROTEICO-CALÓRICA (BAJA ESTATURA NUTRICIONAL, RETARDO FÍSICO DEBIDO A DESNUTRICIÓN)
+T7	Clinical_Finding 237 247	prematurez
+T8	Sign_or_Symptom 277 331	dificultades en todos los controles para subir de peso
+T9	Sign_or_Symptom 360 407	baja del carril -1 al -2 de creciemiento y peso

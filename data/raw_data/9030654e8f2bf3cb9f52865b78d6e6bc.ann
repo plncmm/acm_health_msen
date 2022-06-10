@@ -1,0 +1,7 @@
+T1	Sign_or_Symptom 0 24	Retencion orina completa
+T2	Disease 25 50	Uropatia obstructiva baja
+T3	Disease 70 88	Infeccion urinaria
+T4	Disease 97 121	Enfermedad renal cronica
+T5	Abbreviation 92 95	tto
+#1	AnnotatorNotes T5	tratamiento
+T6	Therapeutic_Procedure 125 137	hemodialisis

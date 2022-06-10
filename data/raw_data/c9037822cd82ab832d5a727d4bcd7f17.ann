@@ -1,0 +1,9 @@
+T1	Therapeutic_Procedure 0 10	ENDODONCIA
+T2	Abbreviation 11 14	PZA
+T3	Body_Part 11 17	PZA 30
+T4	Disease 65 80	NECROSIS PULPAR
+T5	Abbreviation 81 84	PZA
+T6	Body_Part 81 87	PZA 30
+T7	Abbreviation 125 126	H
+T8	Therapeutic_Procedure 190 200	ENDODONCIA
+A1	Pending T8

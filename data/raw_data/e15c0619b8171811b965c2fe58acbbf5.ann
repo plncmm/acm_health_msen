@@ -1,0 +1,14 @@
+T1	Abbreviation 0 3	PZA
+T2	Body_Part 0 7	PZA 2.2
+T3	Disease 8 23	necrosis pulpar
+T4	Therapeutic_Procedure 28 35	trepana
+T5	Therapeutic_Procedure 38 92	se deja con hidróxido en el conducto, algodón y fermin
+T6	Medication 50 59	hidróxido
+T7	Clinical_Finding 86 92	fermin
+T8	Abbreviation 106 109	tto
+T9	Therapeutic_Procedure 106 119	tto radicular
+A1	Pending T9
+T10	Therapeutic_Procedure 138 174	Se reconstittuye corona con vitremer
+T11	Body_Part 155 161	corona
+T12	Clinical_Finding 166 174	vitremer
+T13	Body_Part 66 74	conducto

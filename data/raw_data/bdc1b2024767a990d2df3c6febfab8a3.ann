@@ -1,0 +1,21 @@
+T1	Abbreviation 45 48	APS
+T2	Abbreviation 50 51	M
+T3	Body_Part 74 80	HOMBRO
+T4	Abbreviation 98 101	EMB
+T5	Abbreviation 110 113	SEM
+T6	Abbreviation 153 154	M
+T7	Abbreviation 158 161	CCA
+T8	Abbreviation 169 173	RBNE
+T9	Abbreviation 196 198	DU
+T10	Abbreviation 253 255	EC
+T11	Clinical_Finding 2 21	EMBARAZO CONFIRMADO
+T12	Clinical_Finding 50 52	M1
+T13	Disease 61 80	RETENCION DE HOMBRO
+T14	Disease 98 101	EMB
+T15	Clinical_Finding 128 146	BAJA TALLA MATERNA
+T16	Diagnostic_Procedure 169 173	RBNE
+T17	Laboratory_or_Test_Result 182 190	REACTIVO
+R1	Has Arg1:T16 Arg2:T17	
+T18	Laboratory_or_Test_Result 196 206	DU AISLADA
+R2	Has Arg1:T16 Arg2:T18	
+T19	Abbreviation 53 56	CCA

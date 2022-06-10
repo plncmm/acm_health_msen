@@ -1,0 +1,13 @@
+T1	Abbreviation 56 60	EPOC
+T2	Abbreviation 113 116	IOE
+T3	Abbreviation 172 175	PAP
+T4	Body_Part 141 147	cuello
+T5	Disease 0 34	prolapso genital completo grado IV
+T6	Disease 35 55	histerocele grado IV
+T7	Disease 56 60	EPOC
+T8	Therapeutic_Procedure 77 99	esterilizacion tubaria
+T9	Disease 102 110	prolapso
+T10	Disease 113 116	IOE
+T11	Sign_or_Symptom 141 175	cuello con lesion por roce por PAP
+T12	Therapeutic_Procedure 119 134	plastia vaginal
+T13	Diagnostic_Procedure 172 175	PAP

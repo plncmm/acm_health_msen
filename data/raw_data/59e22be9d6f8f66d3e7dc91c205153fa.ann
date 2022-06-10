@@ -1,0 +1,13 @@
+T1	Abbreviation 54 56	OP
+T2	Abbreviation 0 1	M
+T3	Abbreviation 49 50	X
+T4	Abbreviation 119 122	ITU
+T5	Abbreviation 153 156	P F
+T6	Medication 153 170	P F    INYECTABLE
+T7	Clinical_Finding 0 2	M2
+T8	Therapeutic_Procedure 18 25	CESAREA
+T9	Disease 37 48	MONORRENA  
+T10	Therapeutic_Procedure 54 56	OP
+T11	Disease 119 137	ITU   A REPETICION
+T12	Therapeutic_Procedure 197 211	ESTERILIZACION
+A1	Pending T12

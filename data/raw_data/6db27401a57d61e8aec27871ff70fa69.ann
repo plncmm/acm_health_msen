@@ -1,0 +1,17 @@
+T1	Abbreviation 60 63	APS
+T2	Abbreviation 82 84	DR
+T3	Abbreviation 130 132	AP
+T4	Abbreviation 148 151	HTA
+T5	Abbreviation 170 173	TTO
+T6	Medication 178 188	CARVEDILOL
+T7	Abbreviation 205 208	EKG
+T8	Abbreviation 213 216	DII
+T9	Abbreviation 373 375	DR
+T10	Medication 298 308	AMIODARONA
+T11	Disease 2 36	ARRITMIA CARDÍACA, NO ESPECIFICADA
+T12	Disease 136 145	DEPRESION
+T13	Disease 148 151	HTA
+T14	Disease 388 422	Arritmia cardiaca, no especificada
+T15	Laboratory_or_Test_Result 227 238	TAQUICARDIA
+T16	Diagnostic_Procedure 205 208	EKG
+R1	Has Arg1:T16 Arg2:T15	

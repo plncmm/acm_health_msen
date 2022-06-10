@@ -1,0 +1,15 @@
+T1	Abbreviation 0 1	P
+T2	Body_Part 0 3	P.1
+T3	Abbreviation 6 7	P
+T4	Body_Part 6 10	P.16
+T6	Abbreviation 29 30	P
+T7	Body_Part 29 33	P.17
+T8	Abbreviation 36 37	P
+T9	Body_Part 36 40	P.32
+T5	Clinical_Finding 0 27	P.1 Y P.16 SEMIERUPCIONADAS
+T10	Laboratory_or_Test_Result 29 70	P.17 Y P.32 SEMIINCLUIDAS, BIRRADICULADAS
+T11	Disease 95 110	PERICORONARITIS
+T12	Sign_or_Symptom 95 123	PERICORONARITIS A REPETICION
+T13	Therapeutic_Procedure 170 179	EXODONCIA
+A1	Pending T13
+T14	Body_Part 179 191	3ROS MOLARES

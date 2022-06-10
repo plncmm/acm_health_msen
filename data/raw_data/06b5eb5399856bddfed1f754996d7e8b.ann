@@ -1,0 +1,16 @@
+T1	Abbreviation 47 50	APS
+T2	Abbreviation 139 141	Rx
+T3	Body_Part 145 151	pelvis
+T4	Body_Part 154 168	columna lumbar
+T5	Body_Part 104 110	cadera
+T6	Body_Part 11 23	ARTICULACIÓN
+T7	Medication 256 267	Paracetamol
+T8	Body_Part 319 331	articulacion
+T9	Sign_or_Symptom 0 23	- DOLOR EN ARTICULACIÓN
+T10	Disease 81 110	caida con contusion de cadera
+T11	Diagnostic_Procedure 139 168	Rx de pelvis y columna lumbar
+T12	Laboratory_or_Test_Result 173 204	observandose lesion de fractura
+R1	Has Arg1:T11 Arg2:T12	
+T13	Disease 196 204	fractura
+T14	Sign_or_Symptom 220 232	muicho dolor
+T15	Sign_or_Symptom 310 331	Dolor en articulacion

@@ -1,0 +1,15 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Abbreviation 74 77	APS
+T3	Sign_or_Symptom 79 96	Overjet aumentado
+T4	Disease 98 109	Apiñamiento
+T5	Sign_or_Symptom 98 124	Apiñamiento anteroinferior
+T6	Sign_or_Symptom 140 166	Apiñamiento anterosuperior
+T7	Disease 140 151	Apiñamiento
+T8	Abbreviation 136 138	mm
+T9	Abbreviation 178 180	mm
+T10	Clinical_Finding 182 205	Clase I molar bilateral
+T11	Body_Part 207 217	Diente 4.5
+T12	Sign_or_Symptom 218 224	rotado
+T13	Sign_or_Symptom 227 239	lingualizado
+T14	Abbreviation 128 133	aprox
+T15	Abbreviation 170 175	aprox

@@ -1,0 +1,10 @@
+T1	Abbreviation 56 59	SBO
+T2	Abbreviation 79 82	obs
+T3	Abbreviation 92 95	1er
+T4	Abbreviation 132 135	obs
+T5	Body_Part 148 160	via lagrimal
+T6	Disease 0 55	Infección Respiratoria Aguda Baja de Manejo Ambulatorio
+T7	Disease 56 65	SBO Agudo
+T8	Sign_or_Symptom 66 77	Tos cronica
+T9	Disease 83 91	neumonia
+T10	Disease 136 160	obstruccion via lagrimal

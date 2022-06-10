@@ -1,0 +1,11 @@
+T1	Abbreviation 72 75	ECO
+T2	Body_Part 45 67	ABDOMEN FLANCO DERECHO
+T3	Abbreviation 105 108	IZQ
+T4	Abbreviation 19 21	+-
+T5	Sign_or_Symptom 0 15	DOLOR ABDOMINAL
+T6	Sign_or_Symptom 39 67	DOLOR ABDOMEN FLANCO DERECHO
+T7	Diagnostic_Procedure 72 75	ECO
+T8	Laboratory_or_Test_Result 93 108	LITUS RENAL IZQ
+T9	Abbreviation 93 98	LITUS
+T10	Disease 93 108	LITUS RENAL IZQ
+R1	Has Arg1:T7 Arg2:T8	

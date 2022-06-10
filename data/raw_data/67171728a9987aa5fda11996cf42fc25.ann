@@ -1,0 +1,6 @@
+T1	Clinical_Finding 0 30	Clase I esqueletal meso facial
+T3	Abbreviation 81 84	pza
+T4	Body_Part 81 95	pza. 3.6 y 4.6
+T5	Sign_or_Symptom 100 136	linea media dentaria no coincidentes
+T2	Sign_or_Symptom 31 62	denticion permanente incompleta
+T6	Sign_or_Symptom 63 94	perdida prematura pza. 3.6 y 4.

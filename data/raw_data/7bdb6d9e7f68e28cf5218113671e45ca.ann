@@ -1,0 +1,5 @@
+T1	Abbreviation 101 104	tto
+T2	Clinical_Finding 64 73	Multipara
+T3	Disease 80 97	Depresion bipolar
+T4	Therapeutic_Procedure 112 137	esterilizacion quirurgica
+A1	Pending T4

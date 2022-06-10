@@ -1,0 +1,6 @@
+T1	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T2	Abbreviation 54 57	APS
+T3	Body_Part 59 71	Primer molar
+T4	Laboratory_or_Test_Result 59 93	Primer molar con caries penetrante
+T5	Disease 104 122	Caries del cemento
+T6	Body_Part 115 122	cemento

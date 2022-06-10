@@ -1,0 +1,20 @@
+T1	Disease 83 94	HTA CRÓNICA
+T2	Disease 143 157	DIVERTICULITIS
+T3	Disease 160 181	DIVERTICULOS EN CÓLON
+T4	Disease 184 204	HEMORROIDES INTERNOS
+T5	Disease 54 58	 IRC
+T6	Abbreviation 83 86	HTA
+#1	AnnotatorNotes T6	hipertensión arterial
+T7	Abbreviation 123 127	DIAG
+#2	AnnotatorNotes T7	diagnóstico
+T8	Abbreviation 55 58	IRC
+#3	AnnotatorNotes T8	insuficiencia renal crónica
+T9	Abbreviation 26 28	TX
+#4	AnnotatorNotes T9	transpante
+T10	Abbreviation 38 40	DC
+#5	AnnotatorNotes T10	donante cadáver
+T11	Body_Part 20 25	RIÑÓN
+T12	Body_Part 176 181	CÓLON
+T13	Disease 0 4	Z940
+T14	Disease 0 25	Z940 TRANSPLANTE DE RIÑÓN
+T15	Therapeutic_Procedure 26 37	TX    RENAL

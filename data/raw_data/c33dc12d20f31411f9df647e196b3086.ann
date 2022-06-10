@@ -1,0 +1,9 @@
+T1	Abbreviation 15 18	CPN
+T2	Abbreviation 19 21	RX
+T3	Diagnostic_Procedure 19 32	RX PANORAMICA
+T4	Body_Part 64 74	DIENTE 6.1
+T5	Disease 127 135	ODONTOMA
+T6	Abbreviation 169 171	DR
+T7	Disease 252 295	Tumor benigno de otros sitios especificados
+T8	Diagnostic_Procedure 82 93	RADIOGRAFIA
+T9	Sign_or_Symptom 47 74	"PERMANENCIA" DE DIENTE 6.1

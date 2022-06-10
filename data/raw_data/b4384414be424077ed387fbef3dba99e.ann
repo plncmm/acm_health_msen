@@ -1,0 +1,15 @@
+T1	Abbreviation 80 82	PT
+T2	Abbreviation 86 89	SEM
+T3	Abbreviation 110 113	EMH
+T4	Abbreviation 115 118	DBP
+T5	Abbreviation 139 141	O2
+T6	Family_Member 150 155	MADRE
+T7	Disease 0 4	K590
+T8	Disease 5 17	CONSTIPACION
+T9	Clinical_Finding 80 82	PT
+T10	Disease 110 113	EMH
+T11	Disease 115 118	DBP
+T12	Disease 177 189	CONSTIPACIÓN
+T13	Disease 214 229	PROLAPSO RECTAL
+T14	Sign_or_Symptom 214 229	PROLAPSO RECTAL
+T15	Clinical_Finding 18 26	LACTANTE

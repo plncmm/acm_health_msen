@@ -1,0 +1,20 @@
+T1	Body_Part 13 21	ESTOMAGO
+T2	Body_Part 28 35	DUODENO
+T3	Abbreviation 98 101	APS
+T4	Body_Part 134 155	hipocondrio izquierdo
+T5	Body_Part 158 174	flanco izquierdo
+T6	Body_Part 195 208	region lumbar
+T7	Body_Part 437 445	Estomago
+T8	Body_Part 452 459	Duodeno
+T9	Disease 2 35	POLIPO DEL ESTOMAGO Y DEL DUODENO
+T10	Disease 35 73	polipo gastrico hiperplasico inflamado
+T11	Sign_or_Symptom 125 208	dolor en hipocondrio izquierdo y flanco izquierdo que se le irradia a region lumbar
+T12	Diagnostic_Procedure 247 272	endoscopia digestiva alta
+T13	Disease 288 303	polipo gastrico
+T14	Laboratory_or_Test_Result 288 303	polipo gastrico
+T15	Diagnostic_Procedure 313 320	biopsia
+R1	Has Arg1:T12 Arg2:T14	
+T17	Disease 335 373	polipo gastrico hiperplasico inflamado
+T18	Laboratory_or_Test_Result 335 373	polipo gastrico hiperplasico inflamado
+T19	Disease 426 459	Polipo del Estomago y del Duodeno
+R3	Has Arg1:T15 Arg2:T18	

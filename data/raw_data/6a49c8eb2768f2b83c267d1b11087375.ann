@@ -1,0 +1,9 @@
+T1	Disease 2 15	CARIES DENTAL
+T2	Disease 19 56	ABSCESO DENTO ALVEOLAR CRÓNICO (ADAC)
+T3	Clinical_Finding 96 115	gran vulnerabilidad
+T4	Therapeutic_Procedure 127 138	trepanación
+T5	Body_Part 142 152	diente 2.1
+T6	Abbreviation 157 161	ADAC
+T7	Disease 157 161	ADAC
+T8	Medication 192 196	CaOH
+T9	Clinical_Finding 216 232	cemento temporal

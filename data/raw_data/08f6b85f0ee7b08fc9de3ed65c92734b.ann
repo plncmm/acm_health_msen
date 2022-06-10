@@ -1,0 +1,7 @@
+T1	Diagnostic_Procedure 24 38	COLONOSCOPIA  
+A1	Pending T1
+T2	Disease 38 48	HEMORROIDE
+T3	Clinical_Finding 49 56	GRADO 4
+T4	Abbreviation 57 61	PCTE
+T5	Diagnostic_Procedure 98 110	COLONOSCOPIA
+A2	Pending T5

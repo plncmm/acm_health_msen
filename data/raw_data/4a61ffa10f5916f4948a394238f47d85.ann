@@ -1,0 +1,14 @@
+T1	Disease 2 19	DIENTES INCLUIDOS
+T2	Abbreviation 43 46	APS
+T3	Abbreviation 67 70	PTA
+T4	Clinical_Finding 57 65	PUERPERA
+T5	Sign_or_Symptom 71 84	SEMIRETENIDOS
+T6	Abbreviation 85 89	PZAS
+T7	Body_Part 85 100	PZAS 17-32-1-16
+T8	Body_Part 178 188	3º MOLARES
+T9	Body_Part 228 233	ENCIA
+T10	Sign_or_Symptom 251 256	DOLOR
+T11	Sign_or_Symptom 214 233	SE INFLAMA LA ENCIA
+T12	Disease 258 275	Dientes incluidos
+T13	Body_Part 2 9	DIENTES
+T14	Body_Part 258 265	Dientes

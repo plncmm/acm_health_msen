@@ -1,0 +1,13 @@
+T1	Disease 2 31	INFARTO ANTIGUO DEL MIOCARDIO
+T2	Abbreviation 55 58	APS
+T3	Abbreviation 73 78	antec
+T4	Abbreviation 82 85	hta
+T5	Disease 82 85	hta
+T7	Abbreviation 107 110	ekg
+T8	Disease 217 232	amaurosis fugax
+T9	Disease 282 311	Infarto antiguo del miocardio
+T10	Body_Part 302 311	miocardio
+T11	Body_Part 22 31	MIOCARDIO
+T12	Diagnostic_Procedure 107 110	ekg
+T6	Laboratory_or_Test_Result 128 171	onda t ivertida de v1-v4, comlejo qrs ancho
+R1	Has Arg1:T12 Arg2:T6	

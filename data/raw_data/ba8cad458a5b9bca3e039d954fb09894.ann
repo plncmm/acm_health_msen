@@ -1,0 +1,12 @@
+T1	Disease 2 40	ENFERMEDAD DEL REFLUJO GASTROESOFÁGICO
+T2	Disease 98 101	HTA
+T3	Sign_or_Symptom 140 147	PIROSIS
+T4	Sign_or_Symptom 150 163	REGURGITACION
+T5	Sign_or_Symptom 171 193	EPIGASTRALGIA MATUTINA
+T6	Disease 298 336	Enfermedad del reflujo gastroesofagico
+T7	Abbreviation 64 67	APS
+#1	AnnotatorNotes T7	atención primaria de la salud
+T8	Abbreviation 99 101	TA
+#2	AnnotatorNotes T8	hipertensión arterial
+T9	Diagnostic_Procedure 231 260	ENDOSCOPIA DIGESTIVA SUPERIOR
+A1	Pending T9

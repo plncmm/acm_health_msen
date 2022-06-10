@@ -1,0 +1,7 @@
+T1	Body_Part 57 64	paladar
+T2	Body_Part 121 144	piezas anterosuperiores
+T3	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T4	Sign_or_Symptom 103 119	respirador bucal
+T5	Sign_or_Symptom 121 161	piezas anterosuperiores vestibularizadas
+T6	Sign_or_Symptom 57 71	paladar ojival
+T7	Clinical_Finding 73 101	uso de mamadera hasta 4 años

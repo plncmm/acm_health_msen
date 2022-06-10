@@ -1,0 +1,3 @@
+DIABETES - Diabetes mellitus no especificada, sin mencion de complicacion
+AGUDEZA VISUAL DISMINUIDA - Disminución de la agudeza visual, sin especificación
+HTA - Hipertensión esencial (primaria)

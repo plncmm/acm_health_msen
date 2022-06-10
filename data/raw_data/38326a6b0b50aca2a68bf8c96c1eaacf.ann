@@ -1,0 +1,10 @@
+T1	Body_Part 29 35	p. 1.2
+T2	Body_Part 76 82	p. 1.2
+T3	Abbreviation 103 106	APS
+T4	Abbreviation 29 30	p
+T5	Abbreviation 76 77	p
+T6	Disease 0 35	periodontitis apical cronica p. 1.2
+T7	Therapeutic_Procedure 65 75	endodoncia
+A1	Pending T7
+T8	Therapeutic_Procedure 87 99	rehabilitarà
+A2	Pending T8

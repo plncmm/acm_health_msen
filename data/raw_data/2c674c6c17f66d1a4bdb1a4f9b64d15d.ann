@@ -1,0 +1,7 @@
+T1	Disease 10 15	DM II
+T2	Disease 17 20	HTA
+T3	Abbreviation 10 16	DM II,
+T4	Abbreviation 17 20	HTA
+T5	Disease 22 62	DESDENTADA  PARCIAL  SUPERIOR E INFERIOR
+T6	Sign_or_Symptom 65 84	CLASE  II   KENNEDY
+T7	Sign_or_Symptom 87 129	CLASE   I    MODIFICACION    1    INFERIOR

@@ -1,0 +1,10 @@
+T1	Abbreviation 40 43	APS
+T2	Disease 2 16	CATARATA SENIL
+T3	Sign_or_Symptom 80 104	disminucion de la vision
+T4	Sign_or_Symptom 106 121	vision en tunel
+T5	Sign_or_Symptom 154 172	dilatacion pupilar
+A1	Negated T5
+T6	Sign_or_Symptom 188 215	alteracion del rojo pupilar
+A2	Negated T6
+T7	Disease 217 231	Catarata senil
+T8	Clinical_Finding 65 71	lentes

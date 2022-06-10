@@ -1,0 +1,12 @@
+T1	Abbreviation 0 3	dte
+T2	Body_Part 0 5	dte 1
+T3	Laboratory_or_Test_Result 0 33	dte 1 semincluida en mesioversion
+T4	Abbreviation 34 37	dte
+T5	Body_Part 34 40	dte 16
+T6	Laboratory_or_Test_Result 34 78	dte 16 semincluida en , en leve distoversion
+T7	Abbreviation 81 84	dte
+T8	Body_Part 81 87	dte 17
+T9	Clinical_Finding 81 99	dte 17 semincluida
+T10	Abbreviation 102 105	dte
+T11	Body_Part 102 108	dte 32
+T12	Laboratory_or_Test_Result 102 136	dte 32 semincluida en mesioversion

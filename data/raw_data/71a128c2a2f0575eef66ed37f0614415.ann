@@ -1,0 +1,10 @@
+T1	Body_Part 0 7	Pza 4.8
+T2	Abbreviation 86 91	aprox
+T3	Body_Part 197 209	pza. 18 y 19
+T4	Abbreviation 197 200	pza
+T5	Abbreviation 235 238	obt
+T6	Body_Part 112 128	canal mandibular
+T7	Laboratory_or_Test_Result 0 128	Pza 4.8 semiincluida en mesio version impactada con areas convergentes hacia apical y aprox. sobreproyectado en canal mandibular
+T8	Disease 38 47	impactada
+T9	Diagnostic_Procedure 186 195	cane beam
+A1	Pending T9

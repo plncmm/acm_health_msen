@@ -1,0 +1,15 @@
+T1	Abbreviation 22 26	pcte
+T2	Abbreviation 31 34	App
+T3	Abbreviation 37 40	hta
+T4	Abbreviation 146 149	EKG
+T5	Abbreviation 110 114	sapu
+T6	Disease 0 21	fibrilación auricular
+T7	Disease 37 40	hta
+T8	Disease 42 56	asma bronquial
+T9	Disease 58 66	artrosis
+T10	Disease 68 82	hipotiroidismo
+T11	Sign_or_Symptom 132 145	PALPITACIONES
+T12	Diagnostic_Procedure 146 162	EKG TELEMEDICINA
+T13	Laboratory_or_Test_Result 172 255	FIBRILACION AURICULAR CON RESPUESTA VENTRICULAR RAPIADA QUE AL TERNA CON COMPLEJO S
+R1	Has Arg1:T12 Arg2:T13	
+T14	Disease 172 193	FIBRILACION AURICULAR

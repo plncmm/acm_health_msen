@@ -1,0 +1,8 @@
+T1	Abbreviation 243 246	HTA
+T2	Body_Part 64 87	región inguinal derecha
+T3	Disease 43 87	molestias y dolor en región inguinal derecha
+T4	Sign_or_Symptom 94 112	aumento de volumen
+T5	Sign_or_Symptom 168 186	aumento de volumen
+T6	Sign_or_Symptom 203 240	dolor al caminar y permanencia de pie
+T7	Disease 243 246	HTA
+T8	Body_Part 237 240	pie

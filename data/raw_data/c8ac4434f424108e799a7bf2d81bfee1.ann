@@ -1,0 +1,5 @@
+T1	Sign_or_Symptom 13 29	temblor cefálico
+T2	Sign_or_Symptom 72 98	alteración de la escritura
+A1	Negated T2
+T3	Sign_or_Symptom 102 109	rigidez
+A2	Negated T3

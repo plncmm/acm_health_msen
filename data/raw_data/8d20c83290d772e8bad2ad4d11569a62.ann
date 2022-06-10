@@ -1,0 +1,9 @@
+T1	Disease 2 19	DIENTES INCLUIDOS
+T2	Body_Part 2 9	DIENTES
+T3	Abbreviation 43 46	APS
+T4	Abbreviation 66 70	PZAS
+T5	Body_Part 66 80	PZAS 3.8 Y 4.8
+T6	Disease 110 127	Dientes incluidos
+T7	Body_Part 110 117	Dientes
+T8	Laboratory_or_Test_Result 66 90	PZAS 3.8 Y 4.8 INCLUIDAS
+T9	Sign_or_Symptom 91 109	DOLOR A REPETICION

@@ -1,0 +1,40 @@
+T1	Medication 111 114	MTF
+T2	Medication 116 119	ENL
+T3	Medication 121 124	AAS
+T4	Medication 126 129	OMP
+T5	Medication 131 134	FLX
+T6	Medication 136 139	PCT
+T7	Medication 141 144	ATV
+T8	Medication 169 177	insulina
+T10	Abbreviation 81 84	HTA
+T11	Abbreviation 86 89	DM2
+T12	Abbreviation 91 94	DLP
+T13	Abbreviation 114 117	MTF
+T9	Medication 114 117	MTF
+T14	Medication 119 122	ENL
+T15	Medication 124 127	AAS
+T16	Medication 129 132	OMP
+T17	Abbreviation 119 122	ENL
+T18	Abbreviation 124 127	AAS
+T19	Abbreviation 129 132	OMP
+T20	Medication 134 137	FLX
+T21	Abbreviation 134 137	FLX
+T22	Abbreviation 139 142	PCT
+T23	Abbreviation 144 147	ATV
+T24	Medication 139 142	PCT
+T25	Medication 144 147	ATV
+T26	Abbreviation 209 214	HbA1C
+T27	Medication 172 180	insulina
+T28	Disease 2 45	TRASTORNO DE LA REFRACCIÓN, NO ESPECIFICADO
+T29	Disease 81 84	HTA
+T30	Disease 86 89	DM2
+T31	Disease 91 94	DLP
+T32	Laboratory_or_Test_Result 185 207	mal control metabólico
+T33	Laboratory_Procedure 209 214	HbA1C
+T34	Clinical_Finding 233 239	lentes
+T35	Sign_or_Symptom 336 368	disminución de la agudeza visual
+T36	Sign_or_Symptom 390 440	peor para acomodación al observar objetos cercanos
+T37	Sign_or_Symptom 453 461	diplopia
+A1	Negated T37
+T38	Sign_or_Symptom 470 487	sintomas visuales
+A2	Negated T38

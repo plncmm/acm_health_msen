@@ -1,0 +1,14 @@
+T1	Body_Part 24 30	TRONCO
+T2	Body_Part 121 137	region de tronco
+T3	Abbreviation 54 57	APS
+T4	Abbreviation 144 146	cm
+T5	Disease 2 30	NEVO MELANOCÍTICO DEL TRONCO
+T6	Sign_or_Symptom 99 160	aumento de volumen en region de tronco, de 1 cm, bordes netos
+T7	Sign_or_Symptom 162 173	pruriginoso
+T8	Sign_or_Symptom 175 186	hipocromico
+T9	Sign_or_Symptom 188 203	superficie lisa
+T10	Sign_or_Symptom 208 236	aumento de tamaño progresivo
+T11	Therapeutic_Procedure 268 287	reseccion quirugica
+A1	Pending T11
+T12	Diagnostic_Procedure 293 300	biopsia
+A2	Pending T12

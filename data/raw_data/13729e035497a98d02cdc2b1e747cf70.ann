@@ -1,0 +1,11 @@
+T1	Abbreviation 53 56	APS
+T2	Body_Part 15 29	TÚNEL CARPIANO
+T3	Abbreviation 83 85	sx
+T4	Body_Part 89 103	tunel carpiano
+T5	Body_Part 133 137	mano
+T6	Disease 2 29	SÍNDROME DEL TÚNEL CARPIANO
+T7	Disease 83 103	sx de tunel carpiano
+T8	Sign_or_Symptom 115 137	adormecimiento de mano
+T9	Sign_or_Symptom 139 144	dolor
+T10	Sign_or_Symptom 147 164	aumento de cuadro
+T11	Sign_or_Symptom 174 204	incapacidad de agarrar objetos

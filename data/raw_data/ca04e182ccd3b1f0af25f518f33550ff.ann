@@ -1,0 +1,9 @@
+T2	Sign_or_Symptom 53 69	VESTIBULOVERSION
+T3	Sign_or_Symptom 100 128	RAICES MUY PROXIMAS ENTRE SI
+T1	Abbreviation 0 2	PD
+#1	AnnotatorNotes T1	pieza dental
+T4	Body_Part 0 7	PD. 2.8
+T5	Body_Part 100 106	RAICES
+T6	Therapeutic_Procedure 17 26	EXODONCIA
+A1	Pending T6
+T7	Clinical_Finding 31 48	ETAPA DE ERUPCION

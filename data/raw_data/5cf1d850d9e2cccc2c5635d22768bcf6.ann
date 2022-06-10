@@ -1,0 +1,23 @@
+T1	Body_Part 55 91	musculo supraespinoso hombro derecho
+T2	Abbreviation 116 119	APS
+T3	Body_Part 312 355	cara anterior y posterior de hombro derecho
+T4	Abbreviation 376 379	tto
+T5	Body_Part 443 457	hombro derecho
+T6	Body_Part 492 505	Supraespinoso
+T7	Body_Part 544 557	supraespinoso
+T8	Abbreviation 599 603	atte
+T9	Body_Part 644 651	musculo
+T10	Body_Part 39 46	MÚSCULO
+T11	Disease 2 46	OTROS DESGARROS (NO TRAUMÁTICOS) DEL MÚSCULO
+T12	Disease 46 91	desgarro musculo supraespinoso hombro derecho
+T13	Sign_or_Symptom 151 158	Omalgia
+T14	Sign_or_Symptom 210 223	dolor intenso
+T15	Sign_or_Symptom 225 301	impotencia funcional para la abduccion completa y rotacion interna y externa
+T16	Sign_or_Symptom 303 355	dolor en cara anterior y posterior de hombro derecho
+T17	Therapeutic_Procedure 380 394	kinesioterapia
+T18	Diagnostic_Procedure 430 457	ecografia de hombro derecho
+T19	Disease 483 505	Desgarro Supraespinoso
+T20	Laboratory_or_Test_Result 483 505	Desgarro Supraespinoso
+R1	Has Arg1:T18 Arg2:T20	
+T21	Disease 507 557	Desgarro de espsor y ancho total del supraespinoso
+T22	Disease 607 651	Otros desgarros (no traumaticos) del musculo

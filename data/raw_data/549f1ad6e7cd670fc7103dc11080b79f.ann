@@ -1,0 +1,13 @@
+T1	Body_Part 82 90	Prepucio
+T2	Body_Part 125 134	TESTICULO
+T3	Disease 0 14	BRONCONEUMONIA
+T5	Disease 113 124	parafimosis
+T6	Disease 103 110	fimosis
+T7	Disease 72 79	FIMOSIS
+T8	Abbreviation 19 22	VRS
+T4	Disease 25 71	Neumonía debida a virus sincitial respiratorio
+T9	Sign_or_Symptom 82 101	Prepucio redundante
+T10	Sign_or_Symptom 125 156	TESTICULO EN ASCENSOR - derecho
+T11	Disease 159 207	Testículo no descendido, sin otra especificación
+T12	Sign_or_Symptom 208 217	FOTOFOBIA
+T13	Sign_or_Symptom 220 252	Alteraciones visuales subjetivas

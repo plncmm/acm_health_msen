@@ -1,0 +1,22 @@
+T1	Abbreviation 53 56	APS
+T2	Abbreviation 82 84	AP
+T3	Abbreviation 88 90	DM
+T4	Abbreviation 92 95	HTA
+T5	Abbreviation 97 100	DLP
+T6	Abbreviation 121 124	TTO
+T7	Medication 143 151	LOSARTAN
+T8	Medication 153 163	METFORMINA
+T9	Medication 165 175	FUROSEMIDA
+T10	Medication 177 189	GEMFIBROZILO
+T11	Medication 191 199	ASPIRINA
+T12	Medication 202 209	EUTIROX
+T13	Abbreviation 221 224	VFG
+T14	Abbreviation 299 301	MG
+T15	Medication 305 315	ALOPURINOL
+T16	Disease 2 29	INSUFICIENCIA RENAL CRÓNICA
+T17	Disease 88 90	DM
+T18	Disease 92 95	HTA
+T19	Disease 97 100	DLP
+T20	Disease 103 117	HIPOTIROIDISMO
+T21	Laboratory_or_Test_Result 263 275	IPERURICEMIA
+T22	Laboratory_or_Test_Result 221 230	VFG EN 27

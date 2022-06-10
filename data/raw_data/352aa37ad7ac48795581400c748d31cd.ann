@@ -1,0 +1,9 @@
+T1	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T2	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T3	Abbreviation 70 73	APS
+T4	Sign_or_Symptom 93 121	marcadas facetas de desgaste
+T5	Sign_or_Symptom 123 135	dolor A.T.M.
+T6	Body_Part 129 135	A.T.M.
+T7	Disease 136 180	Trastornos de la articulacion temporomaxilar
+T8	Body_Part 153 180	articulacion temporomaxilar
+T9	Abbreviation 129 135	A.T.M.

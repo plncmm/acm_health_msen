@@ -1,0 +1,22 @@
+T1	Abbreviation 70 73	APS
+T2	Abbreviation 117 120	HTA
+T3	Abbreviation 123 127	DM 2
+T4	Abbreviation 128 131	NID
+T5	Body_Part 243 250	ABDOMEN
+T6	Abbreviation 252 255	RHA
+T7	Abbreviation 373 375	EF
+T8	Abbreviation 255 256	+
+T9	Disease 2 46	HERNIA UMBILICAL SIN OBSTRUCCIÓN NI GANGRENA
+T10	Disease 104 115	COLELITISIS
+T11	Disease 117 120	HTA
+T12	Disease 123 127	DM 2
+T13	Sign_or_Symptom 158 173	DOLOR ABDOMINAL
+T14	Clinical_Finding 201 241	HEMODINAMICA Y VENTILATORIAMENTE ESTABLE
+T15	Sign_or_Symptom 252 255	RHA
+T16	Sign_or_Symptom 257 263	BLANDO
+T17	Sign_or_Symptom 264 274	DEPRESIBLE
+T18	Sign_or_Symptom 279 287	DOLOROSO
+A1	Negated T18
+T19	Sign_or_Symptom 317 362	PROTRUSION POR CICATRIZ UMBILICAL, REVERSIBLE
+T20	Clinical_Finding 373 392	EF SIN ALTERACIONES
+T21	Disease 443 487	Hernia umbilical sin obstruccion ni gangrena

@@ -1,0 +1,14 @@
+T1	Abbreviation 47 49	DM
+T2	Abbreviation 50 53	HTA
+T3	Abbreviation 85 88	TAC
+T4	Abbreviation 91 94	RSM
+T5	Abbreviation 121 123	MM
+T6	Disease 0 25	MACROADENOMA HIPOFISIARIO
+T7	Disease 47 49	DM
+T8	Disease 50 53	HTA
+T9	Sign_or_Symptom 58 73	CEFALEA INTENSA
+T10	Diagnostic_Procedure 85 88	TAC
+T11	Diagnostic_Procedure 91 94	RSM
+T12	Laboratory_or_Test_Result 99 111	MACROADENOMA
+R1	Has Arg1:T10 Arg2:T12	
+R2	Has Arg1:T11 Arg2:T12	

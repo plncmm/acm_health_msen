@@ -1,0 +1,15 @@
+T1	Disease 2 14	COLELITIASIS
+T2	Disease 39 42	dm2
+T3	Disease 61 64	hta
+T4	Disease 106 122	patologia biliar
+T5	Diagnostic_Procedure 130 139	ecografia
+T6	Laboratory_or_Test_Result 166 224	calculo en vesicula de 35 mms sin dilatacion de via biliar
+T7	Body_Part 177 185	vesicula
+T8	Body_Part 214 224	via biliar
+T9	Therapeutic_Procedure 259 285	colecistectomia preventiva
+A1	Pending T9
+T11	Abbreviation 61 64	hta
+R1	Has Arg1:T5 Arg2:T6	
+T12	Abbreviation 192 195	mms
+T10	Abbreviation 39 42	dm2
+T13	Abbreviation 42 45	nir

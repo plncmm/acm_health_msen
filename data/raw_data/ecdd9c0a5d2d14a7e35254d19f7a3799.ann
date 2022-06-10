@@ -1,0 +1,7 @@
+T1	Disease 2 17	RESTO RADICULAR
+T2	Abbreviation 41 44	APS
+T3	Disease 46 61	resto radicular
+T4	Sign_or_Symptom 46 115	resto radicular en estado submucos en relacion de la pieza dental 1.5
+T5	Body_Part 99 115	pieza dental 1.5
+T6	Disease 116 196	Perdida de dientes debida a accidente, extraccion o enfermedad periodontal local
+T7	Body_Part 127 134	dientes

@@ -1,0 +1,10 @@
+T1	Abbreviation 51 54	APS
+T2	Abbreviation 56 61	pACTE
+T3	Abbreviation 74 77	HTA
+T4	Abbreviation 79 81	DM
+T5	Sign_or_Symptom 14 27	EPIGASTRALGIA
+T6	Disease 74 77	HTA
+T7	Disease 79 81	DM
+T8	Sign_or_Symptom 120 133	EPIGASTRALGIA
+T9	Sign_or_Symptom 135 147	BAJA DE PESO
+T10	Disease 150 168	ANEMIA MACROCITICA

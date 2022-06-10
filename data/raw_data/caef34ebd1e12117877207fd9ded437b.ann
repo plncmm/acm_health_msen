@@ -1,0 +1,9 @@
+T1	Disease 2 37	NÓDULO TIROIDEO SOLITARIO NO TÓXICO
+T2	Abbreviation 61 64	APS
+T3	Disease 79 92	hipotirodismo
+T5	Abbreviation 96 99	tto
+T7	Abbreviation 163 165	mm
+T8	Disease 169 204	Nodulo tiroideo solitario no toxico
+T4	Diagnostic_Procedure 104 122	ecografia tiroidea
+T6	Laboratory_or_Test_Result 133 157	quiste coloideo  derecho
+R1	Has Arg1:T4 Arg2:T6	

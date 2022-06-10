@@ -1,0 +1,5 @@
+T1	Disease 0 34	Periodontitis crónica generalizada
+T2	Therapeutic_Procedure 49 58	exodoncia
+A1	Pending T2
+T3	Body_Part 59 82	dientes 1-16-17- 32 y 5
+T4	Disease 84 105	PERIODONTITIS CRONICA

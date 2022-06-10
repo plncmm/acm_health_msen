@@ -1,0 +1,7 @@
+T1	Clinical_Finding 2 30	CARIES DENTINARIA PENETRANTE
+T3	Therapeutic_Procedure 93 104	trepanacion
+T4	Body_Part 108 111	5.5
+T2	Clinical_Finding 70 87	caries penetrante
+T5	Body_Part 88 91	7.5
+T6	Sign_or_Symptom 113 127	Supernumerario
+T7	Body_Part 128 131	5.1

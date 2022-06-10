@@ -1,0 +1,12 @@
+T1	Abbreviation 55 58	APS
+T2	Abbreviation 60 61	M
+T3	Abbreviation 64 68	PTVE
+T4	Abbreviation 119 126	ANTECED
+T5	Abbreviation 158 165	ANTECED
+T6	Clinical_Finding 60 62	M5
+T7	Therapeutic_Procedure 64 68	PTVE
+T8	Disease 69 81	A1 ( SEPTICO
+T9	Abbreviation 69 81	A1 ( SEPTICO
+T10	Disease 83 117	INCONTINENCIA URINARIA DE ESFUERZO
+T11	Disease 131 145	HIPOTIROIDISMO
+T12	Therapeutic_Procedure 170 189	HISTERECTOMIA TOTAL

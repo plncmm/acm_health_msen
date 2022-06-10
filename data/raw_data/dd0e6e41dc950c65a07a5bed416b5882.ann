@@ -1,0 +1,13 @@
+T1	Abbreviation 26 29	OBS
+T2	Abbreviation 31 34	IAM
+T3	Abbreviation 53 56	DM2
+T4	Abbreviation 58 62	METF
+T5	Medication 58 62	METF
+T6	Abbreviation 73 76	HTA
+T7	Disease 2 23	CARDIOPATIA CORONARIA
+T8	Disease 31 34	IAM
+T9	Disease 53 56	DM2
+T10	Disease 73 76	HTA
+T11	Disease 79 89	TABAQUISMO
+T12	Abbreviation 90 91	$
+T13	Clinical_Finding 113 127	FUMADOR PASIVO

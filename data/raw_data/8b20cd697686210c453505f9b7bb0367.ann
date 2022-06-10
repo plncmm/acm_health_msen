@@ -1,0 +1,13 @@
+T1	Body_Part 0 7	pza 1.6
+T2	Abbreviation 0 3	pza
+T3	Abbreviation 74 78	PMCF
+T5	Medication 74 78	PMCF
+T6	Abbreviation 89 93	Pcte
+T7	Body_Part 148 155	pza 1.6
+T8	Abbreviation 148 151	pza
+T9	Body_Part 156 161	MOLAR
+T10	Therapeutic_Procedure 8 17	trepanada
+T11	Disease 34 48	pulpitis aguda
+T4	Therapeutic_Procedure 126 147	tratamiento radicular
+A1	Pending T4
+T12	Clinical_Finding 81 87	fermin

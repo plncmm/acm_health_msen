@@ -1,0 +1,9 @@
+T1	Body_Part 101 108	PZA 6.2
+T2	Abbreviation 52 55	APS
+T3	Abbreviation 101 104	PZA
+T4	Clinical_Finding 2 15	CARIES DENTAL
+T5	Clinical_Finding 15 28	CARIES DENTAL
+T6	Clinical_Finding 94 108	CARIES PZA 6.2
+T8	Clinical_Finding 200 213	Caries dental
+T7	Sign_or_Symptom 121 154	VISUALIZAR CON CLARIDAD LA LESION
+A1	Negated T7

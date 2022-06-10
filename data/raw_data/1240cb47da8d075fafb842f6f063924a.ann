@@ -1,0 +1,5 @@
+T1	Therapeutic_Procedure 40 49	exodoncia
+A1	Pending T1
+T2	Disease 65 74	parkinson
+T3	Disease 76 84	demencia
+T4	Disease 92 114	insuficiencia cardiaca

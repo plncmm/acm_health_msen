@@ -1,0 +1,11 @@
+T1	Abbreviation 8 11	OBS
+T2	Abbreviation 37 40	APF
+T3	Family_Member 41 46	MADRE
+T4	Family_Member 59 66	HERMANO
+T5	Sign_or_Symptom 0 7	CEFALEA
+T6	Disease 13 22	EPILEPSIA
+T7	Disease 48 57	EPILEPSIA
+T8	Disease 67 76	EPILEPSIA
+R1	Has Arg1:T3 Arg2:T7	
+R2	Has Arg1:T4 Arg2:T8	
+T9	Disease 93 100	CEFALEA

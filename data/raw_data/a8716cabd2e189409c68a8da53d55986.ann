@@ -1,0 +1,14 @@
+T1	Body_Part 61 70	PZAS 8-10
+T2	Abbreviation 61 65	PZAS
+T3	Body_Part 111 119	PZA 8-10
+T4	Body_Part 120 125	PZA 9
+T5	Abbreviation 111 114	PZA
+T6	Abbreviation 120 123	PZA
+T7	Abbreviation 82 87	APROX
+T8	Abbreviation 88 90	RX
+T9	Abbreviation 134 137	TTO
+T10	Sign_or_Symptom 30 57	DOLORINTERMITENTEESPONTANEO
+T11	Disease 91 110	OSTEITIS PERIAPICAL
+T12	Diagnostic_Procedure 88 90	RX
+T13	Laboratory_or_Test_Result 91 110	OSTEITIS PERIAPICAL
+R1	Has Arg1:T12 Arg2:T13	

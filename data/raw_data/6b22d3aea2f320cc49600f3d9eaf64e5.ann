@@ -1,0 +1,5 @@
+T1	Disease 0 39	GINGIVITIS Y ENFERMEDADES PERIODONTALES
+T2	Clinical_Finding 75 99	antecendentes sistemicos
+A1	Negated T2
+T3	Disease 110 152	enfermedad periodontal avanzada localizada
+T4	Body_Part 156 171	arcada superior

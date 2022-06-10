@@ -1,0 +1,8 @@
+T1	Therapeutic_Procedure 2 32	PIEZA TRATADA ENDODÓNTICAMENTE
+T2	Body_Part 2 7	PIEZA
+T3	Body_Part 36 45	Diente 12
+T4	Clinical_Finding 36 71	Diente 12 tratado endodónticamente,
+T5	Sign_or_Symptom 76 96	dolor a la percusión
+T6	Laboratory_or_Test_Result 115 162	se observa  relleno endodóntico a 4 mm de ápice
+T7	Body_Part 157 162	ápice
+T8	Abbreviation 151 153	mm

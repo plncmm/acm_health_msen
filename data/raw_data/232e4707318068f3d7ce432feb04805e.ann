@@ -1,0 +1,10 @@
+T1	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T2	Body_Part 31 37	DIENTE
+T3	Abbreviation 61 64	APS
+T4	Sign_or_Symptom 75 89	clase II molar
+T5	Sign_or_Symptom 91 119	apiñamiento sector anterosup
+T6	Disease 91 102	apiñamiento
+T7	Abbreviation 110 119	anterosup
+T8	Disease 121 156	Anomalias de la posicion del diente
+T9	Body_Part 150 156	diente
+T10	Body_Part 103 119	sector anterosup

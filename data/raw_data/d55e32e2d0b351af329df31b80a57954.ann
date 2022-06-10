@@ -1,0 +1,7 @@
+T1	Sign_or_Symptom 9 28	clase II esqueletal
+T2	Sign_or_Symptom 34 54	incompetencia labial
+T3	Sign_or_Symptom 57 74	respiración bucal
+T4	Sign_or_Symptom 76 112	Apiñamiento dentario anterior severo
+T5	Disease 76 87	Apiñamiento
+T6	Therapeutic_Procedure 144 167	tratamiento ortodoncico
+A1	Pending T6

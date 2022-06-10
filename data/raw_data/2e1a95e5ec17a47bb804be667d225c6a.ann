@@ -1,0 +1,10 @@
+T1	Body_Part 24 33	AMIGDALAS
+T2	Body_Part 57 66	ADENOIDES
+T3	Abbreviation 67 71	TTPK
+T4	Disease 0 4	J353
+T5	Disease 5 66	HIPERTROFIA DE LAS AMIGDALAS CON HIPERTROFIA DE LAS ADENOIDES
+T6	Laboratory_Procedure 67 71	TTPK
+T7	Laboratory_or_Test_Result 72 80	ALTERADO
+R1	Has Arg1:T6 Arg2:T7	
+T8	Sign_or_Symptom 107 115	SANGRADO
+A1	Negated T8

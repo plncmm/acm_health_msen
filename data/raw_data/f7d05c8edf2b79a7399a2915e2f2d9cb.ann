@@ -1,0 +1,6 @@
+T1	Abbreviation 47 50	APS
+T2	Disease 2 23	PERIODONTITIS CRÓNICA
+T3	Sign_or_Symptom 65 90	gran inflamación gingival
+T4	Sign_or_Symptom 92 113	recesiones gingivales
+T5	Sign_or_Symptom 116 161	depósitos duros y blandos de placa bacteriana
+T6	Disease 163 184	Periodontitis cronica

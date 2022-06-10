@@ -1,0 +1,21 @@
+T1	Disease 2 19	ABSCESO SUBMUCOSO
+T2	Abbreviation 43 46	APS
+T3	Body_Part 61 70	pieza 4.7
+T4	Sign_or_Symptom 61 107	pieza 4.7 con destrucción coronaria por caries
+T5	Disease 101 107	caries
+T6	Sign_or_Symptom 123 148	Absceso geniano y trismus
+T7	Medication 168 179	amoxicilina
+T8	Abbreviation 187 189	mg
+T9	Abbreviation 190 191	c
+T10	Abbreviation 193 196	hrs
+T11	Abbreviation 197 198	x
+T12	Medication 208 219	paracetamol
+T13	Abbreviation 227 229	mg
+T14	Abbreviation 230 231	c
+T15	Abbreviation 233 236	hrs
+T16	Abbreviation 237 238	x
+T17	Abbreviation 240 241	d
+T18	Medication 245 256	AMOXICILINA
+T19	Medication 274 285	PARACETAMOL
+T20	Disease 304 331	Celulitis y absceso de boca
+T21	Body_Part 327 331	boca

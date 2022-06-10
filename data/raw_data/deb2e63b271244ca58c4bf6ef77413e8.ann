@@ -1,0 +1,12 @@
+T1	Disease 2 36	COXARTROSIS (ARTROSIS DE LA CADERA
+T2	Disease 41 49	ARTROSIS
+T3	Abbreviation 74 77	APS
+T4	Abbreviation 120 123	HRC
+T5	Disease 128 163	artrosis severa de cadera izquierda
+T6	Abbreviation 186 189	qca
+T7	Therapeutic_Procedure 175 189	resolucion qca
+T8	Therapeutic_Procedure 225 232	cirugia
+A1	Pending T8
+A2	Pending T7
+T10	Body_Part 30 36	CADERA
+T9	Body_Part 147 163	cadera izquierda

@@ -1,0 +1,8 @@
+T1	Disease 0 4	S025
+T2	Disease 5 28	FRACTURA DE LOS DIENTES
+T3	Abbreviation 29 31	FX
+T4	Abbreviation 32 36	DTES
+T5	Body_Part 21 28	DIENTES
+T6	Body_Part 32 41	DTES 8-24
+T7	Sign_or_Symptom 42 59	ACCIDENTE ESCOLAR
+T8	Disease 137 143	TRAUMA

@@ -1,0 +1,6 @@
+T2	Sign_or_Symptom 46 63	mordida invertida
+T4	Clinical_Finding 83 114	neutro oclusion molar bilateral
+T3	Sign_or_Symptom 0 44	Compresion bimaxilar mas marcado en anterior
+T5	Body_Part 99 104	molar
+T6	Abbreviation 67 70	pza
+T1	Body_Part 67 79	pza.1.2 y2.2

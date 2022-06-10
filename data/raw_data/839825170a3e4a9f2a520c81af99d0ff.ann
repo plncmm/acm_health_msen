@@ -1,0 +1,27 @@
+T1	Medication 92 105	depoprodasone
+T2	Abbreviation 141 144	hto
+T3	Abbreviation 145 147	hb
+T4	Abbreviation 158 160	Rh
+T5	Abbreviation 174 175	P
+T6	Abbreviation 184 185	P
+T7	Abbreviation 199 200	P
+T8	Abbreviation 213 216	Uro
+T9	Abbreviation 219 221	OC
+T10	Abbreviation 224 227	ECG
+T11	Abbreviation 230 233	Eco
+T12	Therapeutic_Procedure 47 65	ESTERILIZACIÓN    
+T13	Clinical_Finding 65 74	Multípara
+T15	Laboratory_Procedure 141 147	hto/hb
+T16	Laboratory_Procedure 150 155	grupo
+T17	Laboratory_Procedure 158 160	Rh
+T18	Laboratory_Procedure 163 171	Glicemia
+T19	Laboratory_Procedure 174 181	P.renal
+T20	Laboratory_Procedure 184 196	P. hepáticas
+T21	Laboratory_Procedure 199 210	P. lipídico
+T22	Laboratory_Procedure 213 216	Uro
+T23	Laboratory_Procedure 219 221	OC
+T24	Diagnostic_Procedure 224 227	ECG
+T25	Diagnostic_Procedure 230 246	Eco transvaginal
+A2	Pending T25
+A1	Pending T24
+A3	Pending T12

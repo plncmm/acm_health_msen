@@ -1,0 +1,8 @@
+T1	Abbreviation 25 27	+-
+T2	Body_Part 69 79	OTOFARINGE
+T3	Disease 0 8	DISFONIA
+T4	Sign_or_Symptom 53 56	TOS
+A1	Negated T4
+T5	Sign_or_Symptom 61 68	DIFAGIA
+A2	Negated T5
+T6	Sign_or_Symptom 69 91	OTOFARINGE CONGESSTIVA

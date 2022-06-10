@@ -1,0 +1,7 @@
+T1	Disease 2 13	CERVICALGIA
+T2	Sign_or_Symptom 74 169	dolor cervical de mas de 1 año de  evolucion, con irradiaciion a area mandibular  y area dorsal
+T4	Disease 171 182	Cervicalgia
+T3	Abbreviation 37 40	APS
+#1	AnnotatorNotes T3	atención primaria de la salud
+T5	Body_Part 139 154	area mandibular
+T6	Body_Part 158 169	area dorsal

@@ -1,0 +1,11 @@
+T1	Abbreviation 21 24	HEA
+T2	Body_Part 78 96	hemicráneo derecho
+T3	Medication 153 164	Paracetamol
+T4	Medication 307 318	medicamento
+T5	Disease 2 13	MIGRAÑA    
+T6	Sign_or_Symptom 67 115	cefalea en hemicráneo derecho, de forma repetida
+T7	Sign_or_Symptom 196 211	cefalea intensa
+T8	Sign_or_Symptom 225 239	visión borrosa
+T9	Sign_or_Symptom 241 248	náuseas
+T10	Sign_or_Symptom 251 261	parestesia
+T11	Abbreviation 319 321	EV

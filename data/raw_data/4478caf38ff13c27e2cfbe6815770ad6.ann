@@ -1,0 +1,8 @@
+T1	Abbreviation 38 41	APS
+T2	Body_Part 128 158	region , l interglutea derecha
+T3	Disease 2 14	ABSCESO ANAL
+T4	Clinical_Finding 56 77	antecedetes morrbidos
+A1	Negated T4
+T5	Sign_or_Symptom 110 179	lesion dermica en region , l interglutea derecha  que le sale materia
+T6	Sign_or_Symptom 216 234	humedo , supurando
+T7	Disease 235 247	Absceso anal

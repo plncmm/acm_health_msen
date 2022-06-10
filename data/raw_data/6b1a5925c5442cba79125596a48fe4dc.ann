@@ -1,0 +1,8 @@
+T1	Abbreviation 0 4	Pcte
+T2	Abbreviation 9 13	BCRD
+T3	Abbreviation 26 28	dg
+T4	Abbreviation 156 159	HSR
+T5	Laboratory_or_Test_Result 9 13	BCRD
+T6	Disease 9 13	BCRD
+T7	Laboratory_or_Test_Result 34 81	alteraciones inespecificas en onda T de V5 a V6
+T8	Sign_or_Symptom 97 126	dolor precordial inespecifico

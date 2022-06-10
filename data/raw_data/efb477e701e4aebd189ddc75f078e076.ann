@@ -1,0 +1,9 @@
+T1	Abbreviation 55 58	IMC
+T2	Abbreviation 70 73	DM2
+T3	Abbreviation 75 78	HTA
+T4	Disease 0 4	E660
+T5	Disease 5 41	OBESIDAD DEBIDA A EXCESO DE CALORÍAS
+T6	Disease 70 73	DM2
+T7	Disease 75 78	HTA
+T8	Therapeutic_Procedure 140 158	CIRUGÍA BARIÁTRICA
+A1	Pending T8

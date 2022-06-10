@@ -1,0 +1,8 @@
+T1	Abbreviation 43 46	APS
+T2	Body_Part 48 90	piezas dental 1.8  -   2.8  -  3.8  -  4.8
+T3	Body_Part 151 158	Dientes
+T4	Body_Part 2 9	DIENTES
+T5	Disease 2 19	DIENTES INCLUIDOS
+T6	Disease 48 102	piezas dental 1.8  -   2.8  -  3.8  -  4.8 , incluidas
+T7	Clinical_Finding 113 123	embarazada
+T8	Disease 151 168	Dientes incluidos

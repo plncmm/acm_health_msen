@@ -1,0 +1,5 @@
+T1	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T2	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T3	Disease 84 92	bruxismo
+T4	Therapeutic_Procedure 133 156	plano de alivio oclusal
+A1	Pending T4

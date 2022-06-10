@@ -1,0 +1,12 @@
+T1	Body_Part 145 151	brazos
+T2	Body_Part 153 160	pierans
+T3	Body_Part 163 170	abdomen
+T7	Abbreviation 94 97	APS
+T8	Abbreviation 181 183	cm
+T9	Abbreviation 245 247	dg
+T4	Disease 2 43	LIPOMATOSIS, NO CLASIFICADA EN OTRA PARTE
+T5	Disease 47 70	ALERGIA NO ESPECIFICADA
+T10	Sign_or_Symptom 112 170;184 214	múltiples aumentos de volumen en brazos, pierans y abdomen no adherido a planos profundos
+T11	Sign_or_Symptom 216 228	bordes lisos
+T12	Disease 251 257	lipoma
+T6	Disease 258 281	Alergia no especificada

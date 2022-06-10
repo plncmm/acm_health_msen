@@ -1,0 +1,6 @@
+T1	Disease 13 51	gingivitis sobre periodonto disminuido
+T2	Sign_or_Symptom 53 80	pérdida de inserción severa
+T3	Body_Part 82 91	pieza 2.1
+T4	Abbreviation 105 108	TDA
+T5	Sign_or_Symptom 82 108	pieza 2.1 perdida post TDA
+T6	Body_Part 30 40	periodonto

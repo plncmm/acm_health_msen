@@ -1,0 +1,9 @@
+T1	Body_Part 113 116	ojo
+T2	Disease 0 6	Miopia
+T3	Disease 9 21	astigmatismo
+T4	Abbreviation 36 37	+
+T5	Sign_or_Symptom 103 121	sensacion ojo seco
+T6	Sign_or_Symptom 124 143	baja agudeza visual
+T7	Clinical_Finding 79 93	lentes opticos
+A1	Negated T7
+T8	Therapeutic_Procedure 23 30	cirugia

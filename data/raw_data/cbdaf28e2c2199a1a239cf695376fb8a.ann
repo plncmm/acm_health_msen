@@ -1,0 +1,11 @@
+T1	Abbreviation 96 99	APS
+T2	Abbreviation 101 105	PCTE
+T3	Abbreviation 160 163	HTA
+T4	Abbreviation 165 168	DM2
+T5	Abbreviation 250 253	VFG
+T6	Disease 14 36	QUISTE RENAL IZQUIERDO
+T7	Disease 40 72	ENFERMEDAD RENAL CRÓNICA ETAPA 3
+T8	Disease 160 163	HTA
+T9	Disease 165 168	DM2
+T10	Laboratory_Procedure 233 243	CREATININA
+T11	Laboratory_Procedure 250 253	VFG

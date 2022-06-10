@@ -1,0 +1,6 @@
+T1	Disease 2 18	DESDENTADO TOTAL
+T2	Sign_or_Symptom 23 44	DESAJUSTE DE PRÓTESIS
+T3	Disease 57 96	desdentado completo superior e inferior
+T4	Clinical_Finding 109 141	protesis total acrilica superior
+T5	Clinical_Finding 144 176	protesis total acrilica inferior
+T8	Sign_or_Symptom 294 309	epulis fisurado

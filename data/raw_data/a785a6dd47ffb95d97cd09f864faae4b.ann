@@ -1,0 +1,13 @@
+T1	Abbreviation 11 14	SUP
+T2	Abbreviation 16 19	ANT
+T3	Body_Part 23 38	PIEZA 1.2 - 2.2
+T4	Body_Part 75 86	MAXILAR INF
+T5	Abbreviation 83 86	INF
+T6	Body_Part 103 118	PIEZA 3.3 - 4.1
+T7	Body_Part 154 163	PIEZA 4.5
+T8	Body_Part 199 208	PIEZA 4.5
+T9	Sign_or_Symptom 0 14	PROTRUSION SUP
+T10	Sign_or_Symptom 23 53	PIEZA 1.2 - 2.2 HACIA PALATINO
+T11	Sign_or_Symptom 88 99	APIÑAMIENTO
+T12	Sign_or_Symptom 141 163	RETENCION DE PIEZA 4.5
+T13	Sign_or_Symptom 186 208	RETENCION DE PIEZA 4.5

@@ -1,0 +1,8 @@
+T1	Body_Part 132 141	premaxila
+T2	Sign_or_Symptom 0 18	Compresion maxilar
+T3	Sign_or_Symptom 20 36	respirador bucal
+T5	Sign_or_Symptom 38 59	interposicion lingual
+T6	Therapeutic_Procedure 61 71	exodoncias
+T7	Sign_or_Symptom 95 113	perdida de espacio
+T8	Sign_or_Symptom 116 141	Protusion de la premaxila
+T4	Clinical_Finding 61 93	exodoncias prematuras por caries

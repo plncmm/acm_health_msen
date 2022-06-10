@@ -1,0 +1,19 @@
+T1	Disease 2 33	TUMOR BENIGNO DE LOS TESTÍCULOS
+T2	Disease 37 100	OTRAS MALFORMACIONES CONGÉNITAS DE LOS TESTÍCULOS Y DEL ESCROTO
+T3	Disease 100 121	varicocele testicular
+T4	Body_Part 23 33	TESTÍCULOS
+T5	Body_Part 76 86	TESTÍCULOS
+T6	Body_Part 93 100	ESCROTO
+T7	Abbreviation 146 149	APS
+T8	Sign_or_Symptom 210 242	dolor insidioso de caracter leve
+T9	Body_Part 263 282	testiculo izquierdo
+T10	Sign_or_Symptom 321 345	aumentando en intensidad
+T11	Diagnostic_Procedure 377 401	ecotomografia testicular
+T12	Laboratory_or_Test_Result 420 449	Varicocela bilateral moderado
+T13	Laboratory_or_Test_Result 453 480	quiste testicular izquierdo
+T14	Disease 533 564	Tumor benigno de los testiculos
+T15	Disease 420 440	Varicocela bilateral
+T16	Disease 453 480	quiste testicular izquierdo
+R1	Has Arg1:T11 Arg2:T12	
+R2	Has Arg1:T11 Arg2:T13	
+T17	Body_Part 554 564	testiculos

@@ -1,0 +1,12 @@
+T1	Abbreviation 35 38	APS
+T2	Body_Part 63 74	OJO DERECHO
+T3	Body_Part 90 94	IRIS
+T4	Abbreviation 140 141	+
+T5	Medication 142 157	NOVOTIERS GOTAS
+T6	Abbreviation 158 159	X
+T7	Abbreviation 160 163	SOS
+T8	Disease 2 11	PTERIGION
+T9	Disease 53 74	PTERIGEON OJO DERECHO
+T10	Sign_or_Symptom 79 94	COMPROMETE IRIS
+T11	Therapeutic_Procedure 218 239	RESOLUCION QUIRIRGICA
+T12	Disease 240 249	Pterigion

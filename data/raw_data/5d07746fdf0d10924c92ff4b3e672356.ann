@@ -1,0 +1,10 @@
+T1	Abbreviation 74 77	APS
+T2	Disease 2 49	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T3	Sign_or_Symptom 92 110	protrusión maxilar
+T4	Sign_or_Symptom 151 185	clase II molar derecha e izquierda
+T5	Sign_or_Symptom 188 234	interposición lingual en deglusión y fonzación
+T6	Therapeutic_Procedure 260 284	tratamiento interceptivo
+T7	Therapeutic_Procedure 300 330	tratamiento de ortodoncia fija
+A1	Pending T7
+A2	Pending T6
+T8	Disease 333 380	Anomalias dentofaciales (incluso la maloclusion

@@ -1,0 +1,8 @@
+T1	Abbreviation 0 1	P
+T2	Body_Part 0 4	P. 9
+T4	Therapeutic_Procedure 70 83	PROTESIS FIJA
+A1	Pending T4
+T5	Therapeutic_Procedure 90 98	IMPLANTE
+T3	Clinical_Finding 9 60	PERNO DE IMPLANTE LISTO Y SIN FINALIZAR TRATAMIENTO
+T6	Therapeutic_Procedure 18 26	IMPLANTE
+T7	Body_Part 102 106	BOCA

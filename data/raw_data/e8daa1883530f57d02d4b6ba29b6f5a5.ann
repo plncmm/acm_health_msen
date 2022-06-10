@@ -1,0 +1,10 @@
+T1	Abbreviation 40 43	APS
+#1	AnnotatorNotes T1	atención primaria de salud
+T2	Disease 2 16	CATARATA SENIL
+T3	Sign_or_Symptom 162 179	dificultad visual
+T4	Sign_or_Symptom 184 255	vision borrosa generalizada y que emperora con mucha luz o con poca luz
+T5	Disease 319 328	cataratas
+T6	Clinical_Finding 58 79	anatcedentes morbidos
+A1	Negated T6
+T7	Therapeutic_Procedure 342 349	cirugia
+A2	Pending T7

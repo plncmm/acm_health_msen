@@ -1,0 +1,7 @@
+T1	Body_Part 84 98	diente 1-16-17
+T2	Body_Part 112 121	diente 32
+T3	Clinical_Finding 51 71	antecedentes medicos
+A1	Negated T3
+T4	Clinical_Finding 84 111	diente 1-16-17 erupcionadas
+T6	Disease 161 167	caries
+T5	Sign_or_Symptom 112 156	diente 32 semiencluido, en posicion vertical

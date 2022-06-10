@@ -1,0 +1,17 @@
+T1	Abbreviation 79 82	APS
+T2	Abbreviation 189 192	ECO
+T3	Abbreviation 193 195	TV
+T4	Abbreviation 105 106	G
+T5	Abbreviation 107 108	P
+T6	Abbreviation 109 110	A
+T7	Abbreviation 154 158	poli
+T8	Disease 2 55	MENSTRUACIÓN EXCESIVA Y FRECUENTE CON CICLO IRREGULAR
+T9	Clinical_Finding 105 107	G1
+T10	Clinical_Finding 107 109	P1
+T11	Clinical_Finding 109 111	Ao
+T12	Sign_or_Symptom 112 124	Polimenorrea
+T13	Disease 125 144	Miomatosis  uterina
+T14	Diagnostic_Procedure 189 195	ECO TV
+T15	Laboratory_or_Test_Result 225 242	multiples  miomas
+R1	Has Arg1:T14 Arg2:T15	
+T16	Disease 246 299	Menstruacion excesiva y frecuente con ciclo irregular

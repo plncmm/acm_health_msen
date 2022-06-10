@@ -1,0 +1,12 @@
+T1	Abbreviation 0 3	PZA
+T2	Body_Part 0 6	PZA 29
+T3	Clinical_Finding 7 16	TREPANADA
+T4	Disease 18 34	CARIES PEETRANTE
+T5	Laboratory_or_Test_Result 18 34	CARIES PEETRANTE
+T6	Disease 36 68	PERIODONTITIS APICAL SINTOMATICA
+T7	Therapeutic_Procedure 105 119	ANTIBIOTERAPIA
+T8	Medication 122 138	ANTIINFLAMATORIO
+T9	Abbreviation 165 168	TTO
+T10	Abbreviation 179 181	RX
+T11	Diagnostic_Procedure 179 192	RX PERIAPICAL
+R1	Has Arg1:T11 Arg2:T5	

@@ -1,0 +1,7 @@
+T1	Diagnostic_Procedure 2 20	EXAMEN RADIOLÓGICO
+T2	Diagnostic_Procedure 50 68	EXAMEN RADIOLOGICO
+T3	Abbreviation 92 95	APS
+T5	Body_Part 97 117	PIEZAS 2.8 3.8 Y 4.8
+T6	Laboratory_or_Test_Result 97 153	PIEZAS 2.8 3.8 Y 4.8 SEMI INCLUIDAS EN POSICION VERTICAL
+T8	Diagnostic_Procedure 226 244	Examen radiologico
+R1	Has Arg1:T2 Arg2:T6	

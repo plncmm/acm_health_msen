@@ -1,0 +1,7 @@
+T1	Body_Part 0 10	2.1 diente
+T2	Therapeutic_Procedure 26 48	protesis fija unitaria
+T3	Sign_or_Symptom 53 62	mobilidad
+T4	Therapeutic_Procedure 73 83	extraccion
+A1	Pending T4
+T5	Therapeutic_Procedure 105 122	implante unitario
+A2	Pending T5

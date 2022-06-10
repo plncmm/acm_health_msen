@@ -1,0 +1,6 @@
+T2	Disease 71 79	bruxismo
+T3	Body_Part 54 61	maxilar
+T4	Body_Part 107 123	piezas dentarias
+T1	Therapeutic_Procedure 18 53	plano "de relajación"-estabilizador
+A1	Pending T1
+T5	Sign_or_Symptom 91 123	desgaste de las piezas dentarias

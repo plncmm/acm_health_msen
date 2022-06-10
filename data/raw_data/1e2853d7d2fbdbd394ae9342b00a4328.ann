@@ -1,0 +1,11 @@
+T1	Body_Part 21 26	PULPA
+T2	Body_Part 36 56	TEJIDOS PARIAPICALES
+T3	Abbreviation 80 83	APS
+T4	Therapeutic_Procedure 117 127	endodoncia
+T5	Body_Part 131 134	1.2
+T6	Sign_or_Symptom 140 165	nunca le dejó de molestar
+T7	Body_Part 187 192	pulpa
+T8	Body_Part 202 222	tejidos pariapicales
+T9	Body_Part 107 112	pieza
+T10	Disease 2 56	ENFERMEDADES DE LA PULPA Y DE LOS TEJIDOS PARIAPICALES
+T11	Disease 168 222	Enfermedades de la pulpa y de los tejidos pariapicales

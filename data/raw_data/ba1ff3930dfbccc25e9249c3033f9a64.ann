@@ -1,0 +1,13 @@
+T1	Body_Part 30 37	RODILLA
+T2	Abbreviation 75 78	APS
+T3	Abbreviation 183 185	Rx
+T4	Body_Part 189 196	rodilla
+T5	Body_Part 256 263	rodilla
+T6	Disease 2 50	GONARTROSIS (ARTROSIS DE LA RODILLA) , (ARTROSIS
+T7	Sign_or_Symptom 93 109	gonalgia cronica
+T8	Sign_or_Symptom 136 148	dolor severo
+T9	Diagnostic_Procedure 183 196	Rx de rodilla
+T10	Laboratory_or_Test_Result 211 226	artrosis severa
+T11	Disease 211 219	artrosis
+R1	Has Arg1:T9 Arg2:T10	
+T12	Disease 228 276	Gonartrosis (artrosis de la rodilla) , (artrosis

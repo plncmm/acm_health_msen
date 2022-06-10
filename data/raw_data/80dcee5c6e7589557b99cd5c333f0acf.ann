@@ -1,0 +1,9 @@
+T1	Body_Part 50 53	ojo
+T2	Abbreviation 55 59	pcte
+T3	Abbreviation 102 106	dmii
+T4	Abbreviation 108 111	hta
+T5	Diagnostic_Procedure 41 53	fondo de ojo
+A1	Pending T5
+T6	Disease 81 100	artritis reumatoide
+T7	Disease 102 106	dmii
+T8	Disease 108 111	hta

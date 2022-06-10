@@ -1,0 +1,7 @@
+T1	Sign_or_Symptom 0 15	dolor abdominal
+T3	Abbreviation 59 64	antec
+T4	Disease 66 79	ulcera antral
+T5	Therapeutic_Procedure 82 110	colecistectomia por litiasis
+T2	Clinical_Finding 38 58	patologia quirurgica
+A1	Negated T2
+T6	Disease 102 110	litiasis

@@ -1,0 +1,32 @@
+T1	Abbreviation 120 123	ANA
+T2	Abbreviation 125 128	ENA
+T3	Abbreviation 139 141	FR
+T4	Abbreviation 143 146	VHS
+T5	Abbreviation 149 152	PCR
+T6	Body_Part 186 191	manos
+T7	Body_Part 194 198	pies
+T8	Abbreviation 243 246	Enf
+T9	Abbreviation 330 332	Dr
+T10	Abbreviation 65 70	aprox
+T11	Abbreviation 94 95	p
+T12	Abbreviation 130 137	AntiCCP
+T13	Sign_or_Symptom 35 49	úlceras orales
+T14	Laboratory_Procedure 120 123	ANA
+T15	Laboratory_Procedure 125 128	ENA
+T16	Laboratory_Procedure 130 137	AntiCCP
+T17	Laboratory_Procedure 139 141	FR
+T18	Laboratory_Procedure 143 146	VHS
+T19	Laboratory_Procedure 149 152	PCR
+T20	Laboratory_or_Test_Result 153 162	negativos
+R1	Has Arg1:T19 Arg2:T20	
+R2	Has Arg1:T18 Arg2:T20	
+R3	Has Arg1:T17 Arg2:T20	
+R4	Has Arg1:T16 Arg2:T20	
+R5	Has Arg1:T15 Arg2:T20	
+T21	Sign_or_Symptom 173 198	artralgia en manos y pies
+T22	Medication 222 232	prednisona
+T23	Disease 243 253	Enf Behcet
+T24	Sign_or_Symptom 272 286	úlceras orales
+T25	Diagnostic_Procedure 356 382	biopsia  de úlceras orales
+T26	Disease 395 416	ENFERMEDAD AUTOINMUNE
+A1	Pending T25

@@ -1,0 +1,7 @@
+T1	Body_Part 0 8	pieza 17
+T2	Laboratory_or_Test_Result 0 85	pieza 17 incluida, mesioinclinada, corona sobre proyectada en raiz distal de pieza 18
+T3	Body_Part 62 85	raiz distal de pieza 18
+T4	Body_Part 88 96	pieza 12
+T5	Laboratory_or_Test_Result 88 130	pieza 12 incluida, en posicion ortografica
+T6	Therapeutic_Procedure 159 169	extraccion
+A1	Pending T6

@@ -1,0 +1,4 @@
+T1	Body_Part 0 8	diente 4
+T2	Clinical_Finding 13 45	tratamiento previamente iniciado
+T3	Therapeutic_Procedure 103 113	endodoncia
+A2	Pending T3

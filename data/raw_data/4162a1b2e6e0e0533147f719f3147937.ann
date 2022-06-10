@@ -1,0 +1,13 @@
+T1	Disease 2 30	PERIODONTITIS APICAL CRÓNICA
+T2	Abbreviation 34 37	dte
+T3	Body_Part 34 39	dte 5
+T4	Abbreviation 158 162	AINE
+T5	Medication 158 162	AINE
+T6	Medication 177 180	ATB
+T7	Abbreviation 177 180	ATB
+T8	Medication 183 187	AINE
+T9	Abbreviation 183 187	AINE
+T10	Abbreviation 181 182	+
+T11	Disease 130 143	periodontitis
+T12	Therapeutic_Procedure 104 114	obturación
+A1	Pending T12

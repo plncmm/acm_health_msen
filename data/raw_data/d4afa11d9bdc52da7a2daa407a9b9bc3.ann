@@ -1,0 +1,24 @@
+T1	Sign_or_Symptom 0 22	PIEZA 17 SEMI INCLUIDA
+T2	Disease 23 44	DESTRUCCION CORONARIA
+T3	Disease 117 140	PIEZA 32 CARIES OCLUSAL
+T4	Abbreviation 56 58	RX
+#1	AnnotatorNotes T4	radiografía
+T5	Abbreviation 157 159	EX
+#2	AnnotatorNotes T5	exámen
+T6	Abbreviation 161 163	RX
+#3	AnnotatorNotes T6	radiografía
+T7	Body_Part 0 8	PIEZA 17
+T8	Body_Part 99 115	CANAL MANDIBULAR
+T9	Body_Part 72 78	RAICES
+T10	Body_Part 117 125	PIEZA 32
+T11	Body_Part 192 208	CANAL MANDIBULAR
+T12	Laboratory_or_Test_Result 60 115	SE OBSERVAN RAICES SOBREPROYECTADAS EN CANAL MANDIBULAR
+T13	Laboratory_or_Test_Result 117 153	PIEZA 32 CARIES OCLUSAL , PENETRANTE
+T14	Diagnostic_Procedure 161 163	RX
+T15	Diagnostic_Procedure 56 58	RX
+T16	Laboratory_or_Test_Result 173 208	SOBREPROYECTADA EN CANAL MANDIBULAR
+T17	Therapeutic_Procedure 229 238	EXODONCIA
+A1	Pending T17
+R1	Has Arg1:T15 Arg2:T12	
+R2	Has Arg1:T15 Arg2:T13	
+R3	Has Arg1:T14 Arg2:T16	

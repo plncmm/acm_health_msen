@@ -1,0 +1,17 @@
+T1	Abbreviation 19 22	HTA
+T2	Abbreviation 26 29	tto
+T3	Abbreviation 119 122	SHE
+T4	Abbreviation 123 126	TEM
+T5	Abbreviation 139 142	OBS
+T6	Abbreviation 157 160	DIU
+T7	Abbreviation 0 1	m
+T8	Clinical_Finding 0 2	m2
+T9	Disease 19 22	HTA
+T10	Sign_or_Symptom 87 114	cicatrices cesaria anterior
+T11	Disease 119 122	SHE
+T12	Disease 123 126	TEM
+T13	Laboratory_or_Test_Result 127 138	OLIVOAMNIOS
+T14	Clinical_Finding 144 152	EMBARAZO
+T15	Therapeutic_Procedure 157 160	DIU
+T16	Clinical_Finding 163 172	MULTIPARA
+T17	Clinical_Finding 46 54	embarazo

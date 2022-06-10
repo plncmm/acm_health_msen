@@ -1,0 +1,14 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Abbreviation 74 77	APS
+T3	Clinical_Finding 123 144	antecedentes mórbidos
+A1	Negated T3
+T4	Clinical_Finding 146 164	Clase I esqueletal
+T5	Clinical_Finding 166 184	Mesioclusión molar
+T6	Sign_or_Symptom 186 210	Mordida abierta anterior
+T7	Sign_or_Symptom 212 255	Discrepancia dentomaxilar negativa moderada
+T8	Sign_or_Symptom 278 288	mal hábito
+T9	Sign_or_Symptom 289 304	succión de dedo
+T10	Sign_or_Symptom 307 324	respiración bucal
+T11	Disease 326 374	Anomalias dentofaciales (incluso la maloclusion)
+T12	Body_Part 300 304	dedo
+T13	Body_Part 179 184	molar

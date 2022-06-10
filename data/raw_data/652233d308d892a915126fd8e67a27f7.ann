@@ -1,0 +1,25 @@
+T1	Body_Part 18 36	HUESOS DE LA NARIZ
+T2	Body_Part 104 135	zona de nariz y malar izquierda
+T3	Body_Part 217 232	region de nariz
+T5	Body_Part 374 381	tabique
+T6	Body_Part 382 389	narinas
+T7	Body_Part 417 435	huesos de la nariz
+T8	Body_Part 284 315	estructuras oseas periorbitaria
+T9	Abbreviation 60 63	APS
+T10	Abbreviation 188 191	BCG
+T11	Disease 2 36	FRACTURA DE LOS HUESOS DE LA NARIZ
+T12	Disease 78 135	golpe con puño cerrado en zona de nariz y malar izquierda
+T13	Sign_or_Symptom 141 160	epistaxis posterior
+T14	Sign_or_Symptom 162 174	autolimitada
+T15	Clinical_Finding 188 191	BCG
+T16	Sign_or_Symptom 196 257	edema y equimosis en region de nariz con desviacion a derecha
+T17	Sign_or_Symptom 263 315	dolor a palpacion de estructuras oseas periorbitaria
+A1	Negated T17
+T18	Sign_or_Symptom 353 358	edema
+A2	Negated T18
+T19	Sign_or_Symptom 362 381	hematoma de tabique
+A3	Negated T19
+T20	Sign_or_Symptom 382 400	narinas permeables
+T21	Disease 401 435	Fractura de los huesos de la nariz
+T22	Abbreviation 177 179	Ex
+T4	Body_Part 333 347	huesos nasales

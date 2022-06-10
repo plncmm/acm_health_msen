@@ -1,0 +1,6 @@
+T1	Body_Part 73 80	Maxilar
+T2	Body_Part 102 112	Mandibular
+T3	Disease 2 20	DESDENTADO PARCIAL
+T4	Disease 24 71	Paciente desdentada parcial superior e inferior
+T5	Sign_or_Symptom 73 100	Maxilar. clase 3 de kennedy
+T6	Sign_or_Symptom 102 132	Mandibular: clase 2 de kennedy

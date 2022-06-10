@@ -1,0 +1,9 @@
+T1	Disease 2 82	PÉRDIDA DE DIENTES DEBIDA A ACCIDENTE, EXTRACCIÓN O ENFERMEDAD PERIODONTAL LOCAL
+T2	Body_Part 13 20	DIENTES
+T3	Disease 106 129	ABRASIÓN DE LOS DIENTES
+T4	Abbreviation 153 156	APS
+T5	Sign_or_Symptom 158 190	semiedentulo superior e inferior
+T6	Clinical_Finding 191 227	Protesis Parcial superior e inferior
+T7	Disease 228 251	Abrasion de los dientes
+T8	Body_Part 244 251	dientes
+T9	Body_Part 122 129	DIENTES

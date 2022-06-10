@@ -1,0 +1,11 @@
+T1	Body_Part 210 217	faringe
+T2	Body_Part 229 238	amigdalas
+T3	Medication 98 101	atb
+T4	Abbreviation 45 48	APS
+T5	Abbreviation 92 97	ttmto
+T6	Abbreviation 98 101	atb
+T7	Disease 2 21	AMIGDALITIS CRÓNICA
+T8	Disease 63 75	amigdalñitis
+T9	Sign_or_Symptom 211 224	aringe rosada
+T10	Sign_or_Symptom 229 279	amigdalas grado 2 con presencia de tonsilolitiasis
+T11	Disease 281 300	Amigdalitis cronica

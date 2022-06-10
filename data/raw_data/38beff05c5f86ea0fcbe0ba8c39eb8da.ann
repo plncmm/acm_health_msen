@@ -1,0 +1,7 @@
+T1	Body_Part 2 11	TESTÍCULO
+T2	Abbreviation 62 65	APS
+T3	Body_Part 96 123	testidulo lateral izquierdo
+T4	Disease 2 25	TESTÍCULO NO DESCENDIDO
+T5	Disease 25 38	criptorquidea
+T6	Sign_or_Symptom 90 123	palpa testidulo lateral izquierdo
+T7	Sign_or_Symptom 125 152	ausencia testicular derecho

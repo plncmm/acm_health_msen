@@ -1,0 +1,6 @@
+T1	Sign_or_Symptom 22 27	soplo
+T2	Sign_or_Symptom 30 38	desmayos
+T3	Laboratory_Procedure 150 161	insulinemia
+T4	Laboratory_or_Test_Result 162 167	altos
+R1	Has Arg1:T3 Arg2:T4	
+T5	Disease 221 257	Obesidad debida a exceso de calorias

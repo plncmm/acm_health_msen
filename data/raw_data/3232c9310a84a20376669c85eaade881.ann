@@ -1,0 +1,49 @@
+T1	Disease 2 29	VÉRTIGO PAROXÍSTICO BENIGNO
+T2	Abbreviation 48 51	IGO
+T3	Abbreviation 43 46	HTA
+T4	Abbreviation 38 41	Ant
+T6	Disease 91 120	crisis de vértigo paroxística
+T7	Sign_or_Symptom 133 140	nauseas
+T8	Disease 165 183	vertigo periférico
+T9	Abbreviation 150 152	SU
+T10	Abbreviation 162 164	dg
+T12	Abbreviation 234 237	tto
+T15	Abbreviation 308 311	tto
+T18	Abbreviation 472 475	BEG
+T19	Abbreviation 477 479	SV
+T20	Abbreviation 492 497	CLOTE
+T21	Abbreviation 508 510	ok
+T22	Abbreviation 518 520	ok
+T23	Abbreviation 532 534	ok
+T24	Abbreviation 536 538	PC
+T25	Abbreviation 630 631	-
+T26	Abbreviation 636 642	RR2Tss
+T27	Abbreviation 644 646	MP
+T28	Abbreviation 647 648	+
+T29	Abbreviation 648 651	SRA
+T30	Clinical_Finding 655 681	Otoscopia sin alteraicones
+T31	Disease 43 46	HTA
+T32	Disease 48 51	IGO
+T33	Sign_or_Symptom 185 220	Gatillado por movimientos cefalicos
+T34	Abbreviation 303 307	post
+T37	Clinical_Finding 472 475	BEG
+T38	Clinical_Finding 477 488	SV normales
+T39	Clinical_Finding 492 497	CLOTE
+T40	Clinical_Finding 499 510	lenguaje ok
+T41	Clinical_Finding 512 520	motor ok
+T42	Clinical_Finding 522 534	sensitivo ok
+T43	Clinical_Finding 536 566	PC simetricos sin alteraicones
+T44	Clinical_Finding 568 595	cerebeloso sin alteraciones
+T45	Clinical_Finding 597 618	nistagmus fisiologico
+T47	Sign_or_Symptom 636 642	RR2Tss
+T48	Sign_or_Symptom 644 648	MP +
+T49	Sign_or_Symptom 648 651	SRA
+T16	Sign_or_Symptom 320 330	hipoacusia
+A1	Negated T16
+T17	Sign_or_Symptom 336 343	tinitus
+A2	Negated T17
+T5	Clinical_Finding 55 63	Alergias
+A3	Negated T5
+T36	Clinical_Finding 620 629	meningeos
+A4	Negated T36
+T11	Medication 243 254	Flunarizina

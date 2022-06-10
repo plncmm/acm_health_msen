@@ -1,0 +1,14 @@
+T1	Body_Part 21 30	ADENOIDES
+T2	Abbreviation 50 55	antec
+T3	Abbreviation 147 149	rx
+T4	Abbreviation 197 202	aprox
+T5	Abbreviation 298 302	atte
+T6	Body_Part 150 155	cavum
+T7	Body_Part 223 248	columna area rinofaringea
+T8	Disease 2 30	HIPERTROFIA DE LAS ADENOIDES
+T9	Sign_or_Symptom 59 76	respiracion bucal
+T10	Sign_or_Symptom 78 87	ronquidos
+T11	Disease 90 134	infecciones respiratorias altas a repeticion
+T12	Diagnostic_Procedure 147 155	rx cavum
+T13	Laboratory_or_Test_Result 162 248	crecimiento adenoideo que estrecha aprox 89.4 del calibre de columna area rinofaringea
+R1	Has Arg1:T12 Arg2:T13	

@@ -1,0 +1,13 @@
+T1	Disease 2 21	LEIOMIOMA DEL ÚTERO
+T2	Disease 65 83	miomatosis uterina
+T3	Disease 102 121	Leiomioma del utero
+T4	Abbreviation 45 48	APS
+#1	AnnotatorNotes T4	atención primaria de salud
+T5	Abbreviation 96 100	comb
+#2	AnnotatorNotes T5	combinado
+T6	Abbreviation 92 95	aco
+#3	AnnotatorNotes T6	anticonceptivos orales
+T7	Body_Part 16 21	ÚTERO
+T8	Medication 92 100	aco comb
+T9	Body_Part 116 121	utero
+T10	Clinical_Finding 50 64	Multipara de 3

@@ -1,0 +1,15 @@
+T1	Abbreviation 45 48	APS
+T2	Body_Part 120 133	region ciliar
+T3	Body_Part 242 255	region ciliar
+T4	Body_Part 278 292	ceja izquierda
+T5	Body_Part 322 335	region ciliar
+T6	Abbreviation 358 360	mm
+T7	Disease 2 21	OTROS QUISTES ÓSEOS
+T8	Clinical_Finding 74 95	antecedentes morbidos
+A1	Negated T8
+T9	Sign_or_Symptom 110 133	nodulo en region ciliar
+T10	Sign_or_Symptom 171 191	creciendo lentamente
+T11	Diagnostic_Procedure 229 255	ecografia de region ciliar
+T12	Laboratory_or_Test_Result 278 387	ceja izquierda que produce contorno oseo en region ciliar, nodulacion de 11 x 4 mm, sin imagen de rotura osea
+R1	Has Arg1:T11 Arg2:T12	
+T13	Disease 418 437	Otros quistes oseos

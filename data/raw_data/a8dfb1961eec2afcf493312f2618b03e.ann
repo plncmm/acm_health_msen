@@ -1,0 +1,11 @@
+T1	Abbreviation 54 57	APS
+T2	Body_Part 72 88	piezas 2.6 y 4.6
+T3	Body_Part 208 211	2.6
+T4	Medication 244 252	eugenato
+T5	Body_Part 265 272	cemento
+T6	Laboratory_or_Test_Result 2 30	CARIES DENTINARIA PENETRANTE
+T7	Therapeutic_Procedure 89 99	trepanadas
+T8	Therapeutic_Procedure 155 180	tratamiento de endodoncia
+T9	Sign_or_Symptom 223 232	molestias
+A1	Negated T9
+T10	Clinical_Finding 254 272	Caries del cemento

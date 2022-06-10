@@ -1,0 +1,10 @@
+T1	Abbreviation 28 31	SEM
+T2	Abbreviation 55 57	RH
+T3	Abbreviation 59 60	-
+T4	Clinical_Finding 0 14	MULTIPARA DE 1
+T5	Clinical_Finding 16 24	EMBARAZO
+T6	Clinical_Finding 34 53	CESARIZADA ANTERIOR
+T7	Laboratory_Procedure 55 57	RH
+T8	Laboratory_or_Test_Result 58 61	(-)
+R1	Has Arg1:T7 Arg2:T8	
+T9	Disease 80 104	SINTOMAS PARTO PREMATURO

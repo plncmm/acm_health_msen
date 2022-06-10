@@ -1,0 +1,14 @@
+T1	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T2	Abbreviation 54 57	APS
+T3	Body_Part 68 77	pieza 1.3
+T4	Laboratory_or_Test_Result 78 106	caries dentinaria penetrante
+T5	Laboratory_or_Test_Result 109 147	lesion apical compatible con granuloma
+T6	Clinical_Finding 150 159	Trepanada
+T7	Disease 175 181	caries
+T8	Clinical_Finding 197 243	remanete denario suficiente para rehabilitarlo
+T9	Disease 270 288	Caries del cemento
+T10	Body_Part 281 288	cemento
+T11	Disease 78 106	caries dentinaria penetrante
+T12	Disease 138 147	granuloma
+T13	Therapeutic_Procedure 259 267	protesis
+A1	Pending T13

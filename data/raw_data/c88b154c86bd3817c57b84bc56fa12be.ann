@@ -1,0 +1,13 @@
+T1	Clinical_Finding 2 30	CARIES DENTINARIA PENETRANTE
+T3	Abbreviation 126 130	pzas
+T4	Body_Part 126 140	pzas dentarias
+T5	Body_Part 174 186	p. 3.6 y 4.7
+T7	Body_Part 245 258	camara pulpar
+T8	Body_Part 264 269	pulpa
+T9	Abbreviation 174 175	p
+T2	Clinical_Finding 58 77	sana sistemicamente
+T10	Sign_or_Symptom 82 105	grave daño a nivel oral
+T11	Sign_or_Symptom 109 140	mucha perdida de pzas dentarias
+T12	Therapeutic_Procedure 161 171	endodoncia
+T6	Clinical_Finding 174 204	p. 3.6 y 4.7, ambas trepanadas
+T13	Clinical_Finding 209 280	caries dentinatinas comunicadas con camara pulpar, con pulpa inflamadas

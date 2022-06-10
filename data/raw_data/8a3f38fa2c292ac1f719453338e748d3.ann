@@ -1,0 +1,6 @@
+T1	Disease 9 45	desdentada total superior e inferior
+T2	Therapeutic_Procedure 70 90	cirugia preprotesica
+A1	Pending T2
+T3	Body_Part 108 149	vestibulo a nivel mandibular zona grupo V
+T4	Therapeutic_Procedure 167 175	protesis
+A2	Pending T4

@@ -1,0 +1,11 @@
+T1	Abbreviation 104 107	APS
+T3	Abbreviation 229 231	mm
+T4	Body_Part 400 407	dientes
+T5	Body_Part 14 28	PIEZA TEMPORAL
+T2	Disease 2 28	PERMANENCIA PIEZA TEMPORAL
+T6	Disease 32 79	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN
+T7	Sign_or_Symptom 122 176	discrepancia dentomaxilar negativa superior e inferior
+T8	Clinical_Finding 178 191	clase I molar
+T9	Sign_or_Symptom 194 217	falta de espacio severa
+T10	Sign_or_Symptom 235 273	mordida invertida anterior unidentaria
+T11	Disease 350 407	Trastornos del desarrollo y de la erupcion de los dientes

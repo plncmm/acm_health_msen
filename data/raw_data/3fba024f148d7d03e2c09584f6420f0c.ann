@@ -1,0 +1,8 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Abbreviation 44 47	APS
+T3	Disease 49 87	desdentada parcial superior e inferior
+T4	Sign_or_Symptom 110 194	tiene su juego de protesis pero al perder piezas ya no tiene como retenerlas en boca
+T5	Body_Part 190 194	boca
+T6	Body_Part 152 158	piezas
+T7	Disease 195 271	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T8	Body_Part 233 240	dientes

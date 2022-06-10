@@ -1,0 +1,7 @@
+T1	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T2	Body_Part 31 37	DIENTE
+T3	Abbreviation 61 64	APS
+T4	Sign_or_Symptom 117 145	Apiñamiento dentario grupo V
+T5	Body_Part 138 145	grupo V
+T6	Body_Part 175 181	diente
+T7	Disease 146 181	Anomalias de la posicion del diente

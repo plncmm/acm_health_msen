@@ -1,0 +1,25 @@
+T1	Disease 2 31	CÓLICO RENAL, NO ESPECIFICADO
+T2	Disease 73 85	COLICO RENAL
+T3	Disease 256 285	Colico renal, no especificado
+T4	Abbreviation 55 58	APS
+#1	AnnotatorNotes T4	atención primaria de salud
+T5	Abbreviation 101 105	CREA
+#2	AnnotatorNotes T5	creatinina
+T6	Abbreviation 120 123	BUN
+#3	AnnotatorNotes T6	nitrógeno ureico en sangre/uremia
+T7	Abbreviation 127 129	EX
+#4	AnnotatorNotes T7	examen
+T8	Abbreviation 158 159	X
+#5	AnnotatorNotes T8	por
+T9	Abbreviation 160 162	CP
+#6	AnnotatorNotes T9	cáncer de próstata
+T10	Abbreviation 249 253	ATTE
+#7	AnnotatorNotes T10	atentamente
+T11	Laboratory_Procedure 101 105	CREA
+T12	Laboratory_Procedure 108 114	UREMIA
+T13	Laboratory_Procedure 120 123	BUN
+T14	Laboratory_Procedure 127 138	EX DE ORINA
+T15	Laboratory_or_Test_Result 139 162	HEMATIES MAS DE 50 X CP
+T16	Laboratory_or_Test_Result 163 203	CRISTALES ACIDO URICO ABUNDANTE CANTIDAD
+R1	Has Arg1:T14 Arg2:T15	
+R2	Has Arg1:T14 Arg2:T16	

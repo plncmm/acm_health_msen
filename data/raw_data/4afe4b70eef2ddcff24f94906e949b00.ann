@@ -1,0 +1,29 @@
+T1	Abbreviation 19 21	MG
+T2	Abbreviation 22 24	DL
+T3	Abbreviation 70 74	DMIR
+T4	Abbreviation 104 106	OK
+T5	Abbreviation 125 127	MG
+T6	Abbreviation 128 130	DL
+T7	Abbreviation 138 140	IC
+T8	Abbreviation 185 188	TTO
+T9	Abbreviation 193 196	NFT
+T10	Abbreviation 204 207	HRS
+T11	Abbreviation 219 222	ECG
+T12	Abbreviation 246 248	OK
+T13	Abbreviation 25 29	DMIR
+T14	Abbreviation 64 66	MG
+T15	Abbreviation 67 69	DL
+T16	Laboratory_Procedure 6 14	GLICEMIA
+T17	Disease 25 27	DM
+T18	Laboratory_or_Test_Result 30 44	MAL CONTROLADA
+T19	Laboratory_Procedure 51 59	GLICEMIA
+T20	Disease 70 72	DM
+T21	Laboratory_Procedure 109 117	GLICEMIA
+T22	Laboratory_Procedure 155 165	UROCULTIVO
+T23	Laboratory_or_Test_Result 166 174	ALTERADO
+R1	Has Arg1:T22 Arg2:T23	
+T24	Medication 193 196	NFT
+T25	Diagnostic_Procedure 219 222	ECG
+T26	Laboratory_or_Test_Result 223 229	NORMAL
+R2	Has Arg1:T25 Arg2:T26	
+T27	Disease 146 154	DIABETES

@@ -1,0 +1,16 @@
+T1	Disease 2 19	MORDIDA INVERTIDA
+T2	Body_Part 19 22	1.1
+T3	Body_Part 27 30	4.1
+T4	Abbreviation 54 57	APS
+T5	Clinical_Finding 97 129	Clase molar I de Angle bilateral
+T6	Sign_or_Symptom 133 179	Desarmonia dentoalveolar (apiñamiento grupo V)
+T7	Body_Part 171 178	grupo V
+T8	Disease 159 170	apiñamiento
+T10	Body_Part 202 205	1.1
+T11	Body_Part 210 213	4.1
+T12	Disease 183 200	Mordida invertida
+T9	Abbreviation 227 230	TDA
+T13	Disease 286 336	Anomalias de la relacion entre los arcos dentarios
+T14	Body_Part 321 336	arcos dentarios
+T15	Disease 227 230	TDA
+T16	Body_Part 234 253	zona anterosuperior

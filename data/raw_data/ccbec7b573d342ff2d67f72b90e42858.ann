@@ -1,0 +1,8 @@
+T1	Disease 2 38	DESDENTADO TOTAL Superior e inferior
+T2	Abbreviation 62 65	APS
+T3	Disease 67 112	Paciente desdentado total superior e inferior
+T4	Sign_or_Symptom 114 157	portador de protesis superior en mal estado
+T5	Sign_or_Symptom 159 188	protesis inferior se fracturó
+T6	Sign_or_Symptom 201 291	se encuentra utilizando protesis inferior realizada años atras, la cual presenta desajuste
+T7	Disease 293 369	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T8	Body_Part 331 338	dientes

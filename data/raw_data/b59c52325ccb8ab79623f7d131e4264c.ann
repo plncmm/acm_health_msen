@@ -1,0 +1,7 @@
+T1	Clinical_Finding 14 22	trepanar
+T2	Body_Part 23 32	pieza 2.6
+T3	Disease 55 70	Gangrena pulpar
+T4	Medication 86 98	Clohrexidina
+T5	Medication 109 135	Paramonoclorofenolalcanfor
+T6	Clinical_Finding 138 159	obturación provisoria
+T7	Abbreviation 172 174	RX

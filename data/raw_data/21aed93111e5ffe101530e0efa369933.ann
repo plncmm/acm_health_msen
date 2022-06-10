@@ -1,0 +1,16 @@
+T1	Abbreviation 49 52	irc
+T2	Abbreviation 56 59	hdc
+T3	Abbreviation 60 63	hta
+T4	Abbreviation 64 67	itu
+T5	Abbreviation 71 74	tto
+T6	Abbreviation 75 78	acu
+T7	Abbreviation 98 102	dm 2
+T8	Sign_or_Symptom 0 31	lesion vegetante facial derecha
+T9	Disease 32 47	lentigo maligno
+T10	Disease 49 52	irc
+T11	Therapeutic_Procedure 56 59	hdc
+T12	Disease 60 63	hta
+T13	Disease 64 67	itu
+T14	Disease 75 78	acu
+T15	Disease 79 97	postrada secuelada
+T16	Disease 98 102	dm 2

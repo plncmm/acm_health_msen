@@ -1,0 +1,6 @@
+T1	Abbreviation 0 5	INFEC
+T2	Body_Part 10 24	VIAS URINARIAS
+T3	Abbreviation 89 92	ITU
+T4	Disease 0 47	INFEC. DE VIAS URINARIAS, SITIO NO ESPECIFICADO
+T5	Disease 59 69	diabética 
+T6	Disease 89 103	ITU recurrente

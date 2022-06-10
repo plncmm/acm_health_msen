@@ -1,0 +1,12 @@
+T1	Disease 2 22	NECROSIS DE LA PULPA
+T2	Body_Part 17 22	PULPA
+T3	Abbreviation 46 49	APS
+T4	Body_Part 66 71	pulpa
+T5	Disease 51 71	necrosis de la pulpa
+T6	Body_Part 90 117	piezas dentales 2.3  -  2.4
+T7	Sign_or_Symptom 124 160	desgastes de los cuellos dentinarios
+T8	Body_Part 141 160	cuellos dentinarios
+T9	Body_Part 162 177	piezas dentales
+T10	Clinical_Finding 178 188	trepanadas
+T11	Disease 191 211	Necrosis de la pulpa
+T12	Body_Part 206 211	pulpa

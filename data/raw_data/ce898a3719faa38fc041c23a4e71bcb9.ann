@@ -1,0 +1,13 @@
+T1	Abbreviation 80 83	APS
+T2	Abbreviation 155 157	rx
+T3	Body_Part 162 176	columna lumbar
+T4	Body_Part 208 210	L4
+T5	Body_Part 211 213	L5
+T6	Disease 2 29	ESCOLIOSIS, NO ESPECIFICADA
+T7	Disease 29 56	discopia degenerativa l4-l5
+T8	Disease 110 128	lumbago recurrente
+T9	Diagnostic_Procedure 155 176	rx de  columna lumbar
+T10	Laboratory_or_Test_Result 181 213	discopatia degenerativa de L4-L5
+R1	Has Arg1:T9 Arg2:T10	
+T11	Body_Part 51 53	l4
+T12	Body_Part 54 56	l5

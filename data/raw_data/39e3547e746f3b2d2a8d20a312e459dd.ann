@@ -1,0 +1,21 @@
+T1	Abbreviation 64 67	APS
+T2	Abbreviation 106 109	HTA
+T3	Abbreviation 248 252	PSCV
+T4	Abbreviation 256 262	CESFAM
+T6	Abbreviation 362 365	ETC
+T7	Abbreviation 397 401	ATTE
+T5	Abbreviation 294 297	mm3
+T8	Disease 2 40	DEFECTOS CUALITATIVOS DE LAS PLAQUETAS
+T9	Disease 106 109	HTA
+T10	Disease 111 125	HIPOTIROIDISMO
+T11	Disease 128 148	RESISTENCIA INSULINA
+T12	Laboratory_or_Test_Result 184 197	PLAQUETOPENIA
+T13	Sign_or_Symptom 303 324	EPISODIOS DE SANGRADO
+A1	Negated T13
+T14	Sign_or_Symptom 325 338	GINGIVORRAGIA
+A2	Negated T14
+T15	Sign_or_Symptom 339 350	RECTORRAGIA
+A3	Negated T15
+T16	Sign_or_Symptom 351 360	EQUIMOSIS
+A4	Negated T16
+T17	Disease 403 441	Defectos cualitativos de las plaquetas

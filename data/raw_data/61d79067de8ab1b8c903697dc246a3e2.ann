@@ -1,0 +1,11 @@
+T1	Body_Part 21 30	AMÍGDALAS
+T2	Abbreviation 59 64	antec
+T3	Abbreviation 68 72	TDHA
+T4	Abbreviation 76 79	tto
+T5	Body_Part 202 211	amigdalas
+T6	Disease 2 30	HIPERTROFIA DE LAS AMÍGDALAS
+T7	Disease 68 72	TDHA
+T8	Disease 102 125	amigdalitis recurrentes
+T9	Sign_or_Symptom 156 175	ronquidos nocturnos
+T10	Sign_or_Symptom 177 183	apenas
+T11	Disease 202 225	amigdalas hipertroficas

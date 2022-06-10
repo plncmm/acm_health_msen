@@ -1,0 +1,11 @@
+T1	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T2	Disease 34 62	Caries dentinaria penetrante
+T3	Clinical_Finding 75 86	trepanacíon
+T4	Abbreviation 99 102	CHX
+T5	Medication 99 102	CHX
+T6	Medication 112 120	paramono
+T7	Abbreviation 103 104	+
+T8	Abbreviation 121 122	+
+T9	Clinical_Finding 123 131	eugenato
+T10	Laboratory_or_Test_Result 34 62	Caries dentinaria penetrante
+T11	Laboratory_or_Test_Result 2 30	CARIES DENTINARIA PENETRANTE

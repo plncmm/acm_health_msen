@@ -1,0 +1,8 @@
+T1	Body_Part 91 101	VIA BILIAR
+T2	Sign_or_Symptom 29 43	DOLOR ABDOMINL
+T3	Diagnostic_Procedure 46 55	ECOGRAFIA
+T4	Laboratory_or_Test_Result 63 75	COLELITIASIS
+A1	Negated T4
+R1	Has Arg1:T3 Arg2:T4	
+T5	Laboratory_or_Test_Result 77 101	DILATACION DE VIA BILIAR
+R2	Has Arg1:T3 Arg2:T5	

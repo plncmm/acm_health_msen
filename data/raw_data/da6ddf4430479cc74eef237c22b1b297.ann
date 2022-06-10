@@ -1,0 +1,5 @@
+T1	Disease 2 35	OTROS TRASTORNOS DE LA REFRACCIÓN
+T2	Sign_or_Symptom 92 123	dificultad para vision de cerca
+T3	Abbreviation 59 62	APS
+#1	AnnotatorNotes T3	atención primaria de la salud
+T4	Clinical_Finding 136 142	lentes

@@ -1,0 +1,8 @@
+T1	Disease 2 19	MORDIDA INVERTIDA
+T2	Abbreviation 43 46	APS
+T3	Clinical_Finding 61 84	antecedentes sistemicos
+A1	Negated T3
+T4	Sign_or_Symptom 95 129	clase II molar derecha e izquierda
+T5	Sign_or_Symptom 131 183	apiñamiento dentario anterosuperior y anteroinferior
+T6	Sign_or_Symptom 185 202	mordida invertida
+T7	Sign_or_Symptom 204 254	Anomalias de la relacion entre los arcos dentarios

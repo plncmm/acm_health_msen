@@ -1,0 +1,15 @@
+T1	Disease 2 24	CHASQUIDO DE LA CADERA
+T2	Sign_or_Symptom 129 145	coxalgia derecha
+T3	Sign_or_Symptom 187 240	dolor de exacerba con la abduccion y rotacion interna
+T4	Disease 385 407	Chasquido de la cadera
+T5	Abbreviation 48 51	APS
+#1	AnnotatorNotes T5	atención primaria de la salud
+T6	Abbreviation 241 243	rx
+#2	AnnotatorNotes T6	radiografía
+T7	Body_Part 18 24	CADERA
+T8	Body_Part 247 253	pelvis
+T9	Body_Part 401 407	cadera
+T10	Clinical_Finding 74 82	puerpera
+T11	Diagnostic_Procedure 241 253	rx de pelvis
+T12	Laboratory_or_Test_Result 264 319	tendencia a la protrusion acetabular en forma bilateral
+R1	Has Arg1:T11 Arg2:T12	

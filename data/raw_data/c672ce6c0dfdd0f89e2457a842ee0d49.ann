@@ -1,0 +1,10 @@
+T1	Abbreviation 57 62	aprox
+T2	Abbreviation 281 284	cms
+T3	Abbreviation 270 275	aprox
+T4	Disease 2 25	HIDRADENITIS SUPURATIVA
+T5	Sign_or_Symptom 85 161	lesion axilar, de aspecto quístico de tamaño y color fluctuante en el tiempo
+T6	Sign_or_Symptom 168 187	secreción purulenta
+A1	Negated T6
+T7	Sign_or_Symptom 210 215	dolor
+T8	Sign_or_Symptom 256 266	tumoración
+T9	Sign_or_Symptom 290 332	umbilicación a la compresión por los lados

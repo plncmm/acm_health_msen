@@ -1,0 +1,9 @@
+T1	Disease 2 37	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T2	Abbreviation 61 64	APS
+T3	Clinical_Finding 80 103	antecedentes sistémicos
+A1	Negated T3
+T4	Clinical_Finding 114 135	clase I molar derecha
+T5	Sign_or_Symptom 137 161	clase II molar izquierda
+T6	Sign_or_Symptom 163 188	poco espacio para caninos
+T7	Body_Part 181 188	caninos
+T8	Disease 190 225	Maloclusion de tipo no especificado

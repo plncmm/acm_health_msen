@@ -1,0 +1,12 @@
+T1	Abbreviation 4 7	OBS
+T2	Abbreviation 47 52	INSUF
+T3	Abbreviation 68 71	IZQ
+T4	Abbreviation 76 79	HTA
+T5	Abbreviation 91 94	DM2
+T6	Abbreviation 31 32	M
+T7	Abbreviation 63 67	MINF
+T8	Sign_or_Symptom 8 28	CLAUDICACION AUMENTO
+T9	Disease 47 71	INSUF. ARTERIAL MINF.IZQ
+T10	Disease 76 79	HTA
+T11	Disease 91 94	DM2
+T12	Disease 118 126	OBESIDAD

@@ -1,0 +1,9 @@
+T1	Disease 2 24	GASTRITIS Y DUODENITIS
+T2	Abbreviation 48 51	APS
+T3	Sign_or_Symptom 71 98	dolor a nivel de epigastrio
+T4	Body_Part 88 98	epigastrio
+T5	Sign_or_Symptom 108 115	pirosis
+T6	Sign_or_Symptom 126 144	abdomen distendido
+T7	Body_Part 126 133	abdomen
+T8	Sign_or_Symptom 146 154	doloroso
+T9	Disease 236 258	Gastritis y duodenitis

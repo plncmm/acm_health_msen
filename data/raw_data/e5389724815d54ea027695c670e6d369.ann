@@ -1,0 +1,22 @@
+T1	Body_Part 25 60	ARTERIAS DE LOS MIEMBROS INFERIORES
+T2	Abbreviation 84 87	APS
+T3	Body_Part 118 124	pierna
+T4	Body_Part 127 138	pie derecho
+T5	Abbreviation 214 218	sapu
+T6	Abbreviation 230 233	HRC
+T7	Abbreviation 235 238	ECO
+T8	Body_Part 253 267	pierna derecha
+T9	Body_Part 349 355	pierna
+T10	Body_Part 357 373	pierna izquierda
+T11	Body_Part 404 439	arterias de los miembros inferiores
+T12	Disease 2 60	EMBOLIA Y TROMBOSIS DE ARTERIAS DE LOS MIEMBROS INFERIORES
+T13	Sign_or_Symptom 111 156	edema, pierna y pie derecho inicio progresivo
+T14	Diagnostic_Procedure 235 267	ECO doppler color pierna derecha
+T15	Laboratory_or_Test_Result 269 355	trombosis venosa derecha desde el segmento femoral hasta popliteo y proximal a  pierna
+T16	Laboratory_or_Test_Result 357 380	pierna izquierda normal
+R1	Has Arg1:T14 Arg2:T15	
+R2	Has Arg1:T14 Arg2:T16	
+T17	Disease 381 439	Embolia y trombosis de arterias de los miembros inferiores
+T18	Body_Part 303 319	segmento femoral
+T19	Body_Part 326 334	popliteo
+T20	Disease 269 285	trombosis venosa

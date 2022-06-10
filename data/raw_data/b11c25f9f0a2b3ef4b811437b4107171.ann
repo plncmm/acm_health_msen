@@ -1,0 +1,6 @@
+T1	Body_Part 0 9	PIEZA 2.2
+T2	Sign_or_Symptom 13 29	ESTADO RADICULAR
+T3	Abbreviation 30 31	C
+T4	Laboratory_or_Test_Result 0 65	PIEZA 2.2 EN ESTADO RADICULAR C/RELLENO TERCIO APICAL ENDODONTICO
+T5	Therapeutic_Procedure 101 114	PROTESIS FIJA
+A1	Pending T5

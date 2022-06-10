@@ -1,0 +1,10 @@
+T1	Therapeutic_Procedure 32 60	protesis removible sup e inf
+A1	Pending T1
+T2	Abbreviation 65 67	ex
+T3	Disease 80 112	desdentamiento parcial sup e inf
+T4	Abbreviation 51 54	sup
+T5	Abbreviation 57 60	inf
+T6	Abbreviation 103 106	sup
+T7	Abbreviation 109 112	inf
+T8	Sign_or_Symptom 115 140	depositos duros y blandos
+T9	Abbreviation 154 157	tto

@@ -1,0 +1,11 @@
+T1	Abbreviation 0 4	pcte
+T2	Disease 36 53	gastritis cronica
+T3	Abbreviation 75 78	eda
+T7	Abbreviation 128 129	N
+T8	Abbreviation 130 131	N
+T9	Abbreviation 159 161	hg
+T11	Abbreviation 166 168	mg
+T12	Abbreviation 169 171	gr
+T13	Diagnostic_Procedure 75 78	eda
+T5	Disease 121 131	anemia N-N
+T6	Laboratory_Procedure 159 161	hg

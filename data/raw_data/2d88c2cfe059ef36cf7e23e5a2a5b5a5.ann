@@ -1,0 +1,25 @@
+T1	Abbreviation 73 76	APS
+T2	Abbreviation 87 90	HTA
+T3	Abbreviation 151 153	HB
+T4	Abbreviation 159 163	HCTO
+T5	Abbreviation 206 210	SERV
+T6	Abbreviation 220 223	HRC
+T7	Abbreviation 577 581	ATTE
+T8	Disease 2 48	ANEMIAS POR DEFICIENCIA DE HIERROANEMIA SEVERA
+T9	Disease 87 90	HTA
+T10	Disease 92 96	ASMA
+T11	Laboratory_or_Test_Result 137 149	ANEMI SEVERA
+T12	Laboratory_Procedure 151 153	HB
+T13	Laboratory_Procedure 159 163	HCTO
+T14	Laboratory_or_Test_Result 170 181	MICROCITICA
+T15	Laboratory_or_Test_Result 183 192	HIPOCROMA
+T16	Therapeutic_Procedure 241 262	TRANSFUSION DE SANGRE
+T17	Sign_or_Symptom 346 375	DISNEA DE ESFUERZO PROGRESIVO
+T18	Sign_or_Symptom 408 420	BAJA DE PESO
+A1	Negated T18
+T19	Sign_or_Symptom 478 495	SANGRADO EVIDENTE
+A2	Negated T19
+T20	Clinical_Finding 497 518	DEPOSICIONES NORMALES
+T21	Disease 583 616	Anemias por deficiencia de hierro
+T22	Clinical_Finding 426 449	ANTECEDENTES FAMILIARES
+A3	Negated T22

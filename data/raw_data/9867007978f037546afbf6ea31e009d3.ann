@@ -1,0 +1,9 @@
+T1	Disease 2 17	PERICORONARITIS
+T2	Abbreviation 41 44	APS
+T3	Body_Part 46 55	pieza 3,8
+T4	Sign_or_Symptom 46 68	pieza 3,8 mal posicion
+T5	Sign_or_Symptom 70 85	semierupcionada
+T6	Disease 112 125	pericoronitis
+T7	Therapeutic_Procedure 148 158	extraccion
+A1	Pending T7
+T8	Disease 160 175	Pericoronaritis

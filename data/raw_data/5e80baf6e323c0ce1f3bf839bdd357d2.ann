@@ -1,0 +1,5 @@
+T1	Abbreviation 82 85	OBS
+T2	Abbreviation 97 103	O. DER
+T3	Body_Part 97 103	O. DER
+T4	Disease 86 103	ESTRABISMO O. DER
+T5	Sign_or_Symptom 105 121	FALSO ESTRABISMO

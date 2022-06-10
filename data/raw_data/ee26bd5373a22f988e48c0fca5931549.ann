@@ -1,0 +1,7 @@
+T1	Disease 2 16	TÓRAX EXCAVADO
+T2	Sign_or_Symptom 107 121	TPRAX EXCAVADO
+T3	Abbreviation 40 43	APS
+#1	AnnotatorNotes T3	atención primaria de salud
+T4	Body_Part 2 7	TÓRAX
+T5	Body_Part 107 112	TPRAX
+T6	Clinical_Finding 54 66	ASINTOMATICO

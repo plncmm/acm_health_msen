@@ -1,0 +1,12 @@
+T1	Body_Part 50 62	oido derecho
+T4	Abbreviation 159 162	tto
+T5	Abbreviation 85 88	izq
+T6	Abbreviation 163 166	ATB
+T7	Medication 163 166	ATB
+T9	Abbreviation 174 176	DG
+T10	Disease 178 199	otitis medica cronica
+T11	Disease 202 214	colesteatoma
+T12	Abbreviation 200 201	+
+T3	Sign_or_Symptom 109 142	perdida progresiva de la audicion
+T2	Sign_or_Symptom 35 62;71 88	otorraquia por oido derecho acompanado de izq
+#1	AnnotatorNotes T2	??? debiese ir 

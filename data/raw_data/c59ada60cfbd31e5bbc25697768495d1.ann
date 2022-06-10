@@ -1,0 +1,12 @@
+T1	Body_Part 31 37	DIENTE
+T2	Abbreviation 61 64	APS
+T3	Body_Part 66 76	Diente 1.8
+T4	Body_Part 79 82	2.8
+T5	Abbreviation 90 91	O
+T6	Body_Part 110 120	Diente 3.8
+T7	Body_Part 209 215	diente
+T8	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T10	Sign_or_Symptom 110 156	Diente 3.8 en mesioversion. IIA Pell y gregory
+T9	Clinical_Finding 66 89	Diente 1.8 y 2.8 caries
+T11	Therapeutic_Procedure 170 179	exodoncia
+T12	Disease 180 215	Anomalias de la posicion del diente

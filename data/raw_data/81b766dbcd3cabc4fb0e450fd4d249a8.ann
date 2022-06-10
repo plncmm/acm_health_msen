@@ -1,0 +1,25 @@
+T1	Body_Part 34 38	p.13
+T2	Body_Part 40 44	p.13
+T3	Abbreviation 34 35	p
+T4	Abbreviation 40 41	p
+T5	Body_Part 105 116	zona pulpar
+T6	Body_Part 148 176	ligamento periodontal apical
+T7	Abbreviation 218 221	obt
+T8	Medication 238 243	pmcfa
+T9	Medication 246 249	zoe
+T10	Abbreviation 238 243	pmcfa
+T11	Abbreviation 246 249	zoe
+T12	Disease 0 33	periodontitis apical asintomatica
+T13	Laboratory_or_Test_Result 86 116	sobreproyectada en zona pulpar
+T14	Sign_or_Symptom 119 128	percusion
+T15	Sign_or_Symptom 131 135	frio
+T16	Sign_or_Symptom 138 147	palpacion
+T17	Laboratory_or_Test_Result 148 186	ligamento periodontal apical engrosado
+T18	Therapeutic_Procedure 191 198	trepana
+T19	Disease 199 214	necrosis pulpar
+A1	Negated T14
+A2	Negated T15
+A3	Negated T16
+T20	Abbreviation 117 118	-
+T21	Abbreviation 129 130	-
+T22	Abbreviation 136 137	-

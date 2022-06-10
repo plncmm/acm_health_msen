@@ -1,0 +1,12 @@
+T1	Abbreviation 18 21	tto
+T2	Abbreviation 36 39	hta
+T3	Abbreviation 52 55	Int
+T4	Abbreviation 108 109	x
+T5	Abbreviation 148 149	x
+T6	Disease 0 14	hipotiroidismo
+T7	Disease 23 35	bocio difuso
+T8	Disease 36 39	hta
+T9	Disease 52 66	Int. a glucosa
+T10	Laboratory_or_Test_Result 78 96	Nodulos pulmonares
+T12	Disease 150 172	ingestion de causticos
+T11	Therapeutic_Procedure 125 138	esofagectomia

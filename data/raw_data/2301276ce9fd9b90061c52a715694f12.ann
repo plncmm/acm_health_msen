@@ -1,0 +1,10 @@
+T1	Disease 0 3	DM2
+T2	Disease 24 42	VEJIGA NEUROGENICA
+T3	Disease 81 102	RATARDO MENTAL SEVERO
+T4	Abbreviation 0 2	DM
+#1	AnnotatorNotes T4	diabetes mellitus
+T5	Abbreviation 4 6	IR
+#2	AnnotatorNotes T5	insulino requiriente
+T6	Body_Part 24 30	VEJIGA
+T7	Therapeutic_Procedure 54 79	SONDA FOLEY A PERMANENCIA
+T8	Clinical_Finding 104 115	CASO SOCIAL

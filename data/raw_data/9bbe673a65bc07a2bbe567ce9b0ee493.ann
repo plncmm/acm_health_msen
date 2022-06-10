@@ -1,0 +1,9 @@
+T1	Abbreviation 0 3	pza
+T2	Body_Part 0 5	pza 4
+T3	Abbreviation 55 58	HRT
+T4	Therapeutic_Procedure 10 31	tratamiento radicular
+T5	Disease 77 95	fractura coronaria
+T6	Therapeutic_Procedure 105 133	refuerzo con vidrio ionomero
+T7	Therapeutic_Procedure 148 189	rehabilitación con protesis fija singular
+T8	Disease 0 31	pza 4 con tratamiento radicular
+A1	Pending T7

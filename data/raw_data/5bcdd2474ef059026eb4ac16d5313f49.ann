@@ -1,0 +1,11 @@
+T1	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T2	Abbreviation 54 57	APS
+T3	Disease 90 111	pulpitis irreversible
+T4	Laboratory_or_Test_Result 117 160	lesion radiolucida periapical en diente 3.8
+T5	Body_Part 150 160	diente 3.8
+T6	Abbreviation 166 169	tto
+T7	Therapeutic_Procedure 166 174	tto. ATB
+T8	Abbreviation 171 174	ATB
+T9	Therapeutic_Procedure 184 193	extración
+A1	Pending T9
+T10	Body_Part 197 207	4.87 y 3.8

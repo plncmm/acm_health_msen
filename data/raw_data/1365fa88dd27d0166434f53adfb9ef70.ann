@@ -1,0 +1,19 @@
+T1	Abbreviation 26 28	Op
+T2	Family_Member 33 38	Madre
+T3	Family_Member 64 69	Padre
+T4	Abbreviation 70 73	HTA
+T5	Abbreviation 216 219	LXm
+T6	Abbreviation 30 31	-
+T7	Clinical_Finding 4 25	antecedentes morbidos
+A1	Negated T7
+T8	Clinical_Finding 26 28	Op
+A2	Negated T8
+T9	Clinical_Finding 43 63	antecdentes morbidos
+A3	Negated T9
+T10	Sign_or_Symptom 87 107	mareos intermitentes
+T11	Sign_or_Symptom 112 133	perdida de conciencia
+A4	Negated T11
+T12	Disease 190 209	bradicardia sinusal
+T13	Disease 70 73	HTA
+R1	Has Arg1:T3 Arg2:T13	
+R2	Has Arg1:T2 Arg2:T9	

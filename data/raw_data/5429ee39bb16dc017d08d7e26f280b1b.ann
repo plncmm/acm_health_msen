@@ -1,0 +1,7 @@
+T1	Disease 2 39	ENFERMEDAD DIVERTICULAR DEL INTESTINO
+T2	Body_Part 30 39	INTESTINO
+T3	Abbreviation 63 66	APS
+T4	Disease 84 107	enfermedad diverticular
+T5	Sign_or_Symptom 109 123	hematoquecia  
+T6	Disease 123 160	Enfermedad diverticular del intestino
+T7	Body_Part 151 160	intestino

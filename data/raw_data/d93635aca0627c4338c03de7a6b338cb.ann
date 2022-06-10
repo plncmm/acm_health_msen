@@ -1,0 +1,16 @@
+T1	Abbreviation 0 4	PZAS
+T2	Body_Part 0 11	PZAS. 17-32
+T3	Clinical_Finding 0 25	PZAS. 17-32 semiincluidas
+T4	Sign_or_Symptom 27 66	capuchon pericoronario p. 32  inflamado
+T5	Abbreviation 50 51	p
+T6	Body_Part 50 55	p. 32
+T7	Body_Part 27 49	capuchon pericoronario
+T8	Therapeutic_Procedure 79 88	exodoncia
+T9	Abbreviation 93 96	pza
+T10	Body_Part 93 99	pza  1
+T11	Sign_or_Symptom 113 134	trauma en  zona p  17
+T12	Sign_or_Symptom 140 166	dolor  importante de  p. 1
+T13	Body_Part 124 134	zona p  17
+T14	Abbreviation 129 130	p
+T15	Body_Part 162 166	p. 1
+T16	Abbreviation 162 163	p

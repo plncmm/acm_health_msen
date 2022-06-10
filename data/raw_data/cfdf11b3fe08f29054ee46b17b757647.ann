@@ -1,0 +1,8 @@
+T1	Medication 28 38	TAMOXIFENO
+T2	Abbreviation 39 42	TTO
+T3	Therapeutic_Procedure 39 54	TTO. ONCOLOGICO
+T4	Therapeutic_Procedure 66 75	EXODONCIA
+A1	Pending T4
+T5	Body_Part 79 102	DIENTES 1.8 , 1.4 Y 4.8
+T6	Abbreviation 105 108	HIP
+T7	Disease 112 145	PERIODONTITIS APICAR ASINTOMATICA

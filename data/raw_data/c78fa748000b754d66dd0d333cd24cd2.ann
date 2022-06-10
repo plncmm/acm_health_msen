@@ -1,0 +1,9 @@
+T1	Disease 0 23	HIPERPLASIA ENDOMETRIAL
+T3	Disease 116 120	TVPS
+T4	Abbreviation 116 120	TVPS
+T5	Body_Part 152 161	VENA CAVA
+#1	AnnotatorNotes T4	trombosis venosa profundaS
+T6	Therapeutic_Procedure 66 93	HISTERECTOMIA LAPAROSCOPICA
+A1	Pending T6
+T7	Therapeutic_Procedure 142 161	FILTRO DE VENA CAVA
+A2	Pending T7

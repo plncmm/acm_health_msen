@@ -1,0 +1,11 @@
+T1	Clinical_Finding 13 28	denticion mixta
+T2	Body_Part 13 22	denticion
+T3	Laboratory_or_Test_Result 65 119	falta de espacio para la eupcion de piezas permanentes
+T4	Body_Part 101 119	piezas permanentes
+T5	Body_Part 144 160	piezas 1.1 y 2.1
+T6	Laboratory_or_Test_Result 121 184	aun no han erupcionado piezas 1.1 y 2.1 por la falta de espacio
+T7	Diagnostic_Procedure 197 219	radiografia panoramica
+T8	Laboratory_or_Test_Result 240 255	falta de espaci
+R1	Has Arg1:T7 Arg2:T3	
+R2	Has Arg1:T7 Arg2:T6	
+R3	Has Arg1:T7 Arg2:T8	

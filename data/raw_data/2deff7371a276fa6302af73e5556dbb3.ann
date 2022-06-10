@@ -1,0 +1,10 @@
+T1	Abbreviation 0 3	hda
+T2	Body_Part 20 29	labio sup
+T3	Abbreviation 26 29	sup
+T4	Body_Part 52 71	frenillo labial sup
+T5	Abbreviation 68 71	sup
+T6	Abbreviation 105 108	pza
+T7	Body_Part 84 115	mucosa vestibular en pza. e y f
+T8	Sign_or_Symptom 0 30	hda contuso erosiva labio sup.
+T9	Sign_or_Symptom 31 71	desincersion leve de frenillo labial sup
+T10	Sign_or_Symptom 73 115	erosion en mucosa vestibular en pza. e y f

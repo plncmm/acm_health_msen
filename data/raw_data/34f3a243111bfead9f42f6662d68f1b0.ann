@@ -1,0 +1,10 @@
+T1	Body_Part 20 29	pieza 2.2
+T2	Clinical_Finding 30 66	obturacion disto - cervical profunda
+T3	Disease 69 88	Caries m dentinaria
+T4	Laboratory_or_Test_Result 121 138	lesion osea apica
+T5	Disease 140 155	Necrosis pulpar
+T6	Therapeutic_Procedure 169 180	trepanacion
+T7	Body_Part 184 193	pieza 2.2
+T8	Medication 206 214	eugenato
+T9	Abbreviation 76 77	m
+A1	Negated T4

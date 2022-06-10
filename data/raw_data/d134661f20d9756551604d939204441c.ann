@@ -1,0 +1,10 @@
+T1	Disease 2 46	HEMORRAGIA GASTROINTESTINAL, NO ESPECIFICADA
+T2	Disease 79 99	Hemorroides internas
+T3	Clinical_Finding 101 114	asintomáticas
+T4	Sign_or_Symptom 140 172	hematoquecia de moderada cuantía
+T5	Sign_or_Symptom 198 213	pérdida de peso
+A1	Negated T5
+T6	Sign_or_Symptom 217 244	otros síntomas acompañantes
+A2	Negated T6
+T7	Diagnostic_Procedure 285 297	Colonoscopia
+A3	Pending T7

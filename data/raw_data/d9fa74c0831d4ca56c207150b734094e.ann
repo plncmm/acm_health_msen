@@ -1,0 +1,8 @@
+T1	Disease 2 14	COLELITIASIS
+T2	Abbreviation 38 41	APS
+T3	Disease 96 102	anemia
+T4	Disease 114 133	colecistolitiasis  
+T5	Disease 133 145	Colelitiasis
+T6	Diagnostic_Procedure 60 69	ecografia
+T7	Laboratory_or_Test_Result 114 131	colecistolitiasis
+R1	Has Arg1:T6 Arg2:T7	

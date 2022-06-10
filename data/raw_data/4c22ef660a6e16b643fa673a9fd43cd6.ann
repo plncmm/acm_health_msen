@@ -1,0 +1,10 @@
+T1	Body_Part 0 10	PZA. 17-32
+T2	Body_Part 53 58	PZA 1
+T3	Body_Part 80 86	PZA 16
+T4	Body_Part 137 150	PZA. 16-17-32
+T5	Laboratory_or_Test_Result 0 24	PZA. 17-32 SEMI INCLUIDA
+T6	Therapeutic_Procedure 43 52	EXODONCIA
+A1	Pending T6
+T7	Laboratory_or_Test_Result 53 78	PZA 1 EVOLUCION INTRAOSEA
+T8	Laboratory_or_Test_Result 80 110	PZA 16 EN EVOLUCION EXTRA OSEA
+T9	Therapeutic_Procedure 127 136	EXODONCIA

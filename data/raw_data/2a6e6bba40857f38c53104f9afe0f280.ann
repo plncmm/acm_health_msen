@@ -1,0 +1,28 @@
+T1	Body_Part 92 95	PIE
+T2	Abbreviation 142 145	APS
+T3	Body_Part 252 269	5º dedo izquierdo
+T4	Body_Part 374 377	pie
+T5	Abbreviation 441 443	pa
+T6	Abbreviation 455 456	t
+T7	Abbreviation 466 469	hgt
+T8	Abbreviation 474 476	mp
+T9	Abbreviation 495 498	bdi
+T10	Abbreviation 499 502	rha
+T11	Body_Part 514 518	eeii
+T12	Abbreviation 514 518	eeii
+T13	Abbreviation 476 477	+
+T14	Abbreviation 477 486	srarr2tss
+T15	Body_Part 486 493	abdomen
+T16	Abbreviation 502 503	+
+T17	Disease 2 39	DIABETES MELLITUS INSULINOREQUIRIENTE
+T18	Disease 43 73	DEPENDENCIA DE SILLA DE RUEDAS
+T19	Disease 77 118	AMPUTACIÓN DEL PIE, NIVEL NO ESPECIFICADO
+T20	Therapeutic_Procedure 186 225	amputacion transmetatarssiana izuqierda
+T21	Therapeutic_Procedure 241 269	amputacion 5º dedo izquierdo
+T22	Sign_or_Symptom 282 289	decaida
+T23	Sign_or_Symptom 291 296	labil
+T24	Laboratory_Procedure 466 469	hgt
+T25	Clinical_Finding 474 480	mp+sra
+T26	Clinical_Finding 480 486	rr2tss
+T27	Clinical_Finding 486 513	abdomen: bdi rha+ sin  masa
+T28	Disease 566 583	Diabetes mellitus

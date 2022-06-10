@@ -1,0 +1,9 @@
+T1	Abbreviation 0 5	PACTE
+T2	Abbreviation 10 15	ANTEC
+T3	Abbreviation 19 22	HTA
+T4	Abbreviation 23 25	DM
+T5	Abbreviation 71 74	+/-
+T6	Disease 19 22	HTA
+T7	Disease 23 25	DM
+T8	Sign_or_Symptom 39 70	DISMINUCION DE CHORRO MICCIONAL
+T9	Therapeutic_Procedure 99 104	SONDA

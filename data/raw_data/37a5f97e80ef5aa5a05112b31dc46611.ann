@@ -1,0 +1,11 @@
+T1	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T2	Abbreviation 54 57	APS
+T3	Body_Part 59 62	2.5
+T4	Disease 78 93	necrosis pulpar
+T5	Clinical_Finding 95 104	trepanada
+T6	Medication 107 125	paramonoclorofenol
+T7	Abbreviation 146 149	tto
+T8	Therapeutic_Procedure 146 161	tto de conducto
+A1	Pending T8
+T9	Disease 163 181	Caries del cemento
+T10	Body_Part 174 181	cemento

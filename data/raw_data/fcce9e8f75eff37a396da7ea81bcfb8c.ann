@@ -1,0 +1,40 @@
+T1	Body_Part 251 269	menbrana timpanica
+T2	Family_Member 325 330	madre
+T3	Medication 365 379	agua oxigenada
+T4	Family_Member 408 413	madre
+T5	Body_Part 502 504	OD
+T6	Body_Part 522 534	MB timpanica
+T7	Body_Part 576 578	OI
+T8	Body_Part 596 610	memb timpanica
+T9	Body_Part 288 293	oidos
+T10	Abbreviation 115 117	Cx
+T11	Abbreviation 132 134	kg
+T12	Family_Member 333 338	madre
+T13	Abbreviation 353 355	SU
+T14	Abbreviation 356 359	HRC
+T15	Medication 373 387	agua oxigenada
+T16	Body_Part 259 277	menbrana timpanica
+T17	Family_Member 417 422	madre
+T18	Body_Part 514 516	OD
+T19	Abbreviation 514 516	OD
+T20	Abbreviation 534 536	MB
+T21	Body_Part 534 546	MB timpanica
+T22	Body_Part 589 591	OI
+T23	Abbreviation 589 591	OI
+T24	Abbreviation 609 613	memb
+T25	Body_Part 609 623	memb timpanica
+T26	Disease 2 19	CERUMEN IMPACTADO
+T27	Clinical_Finding 47 69	Alergia a medicamentos
+A1	Negated T27
+T28	Clinical_Finding 75 96	Antecedentes Morbidos
+A2	Negated T28
+T29	Clinical_Finding 102 117	Antecedentes Cx
+A3	Negated T29
+T30	Disease 182 209	Otitis media no suspurativa
+T32	Sign_or_Symptom 296 328	oidos están con tapon de cerumen
+T33	Sign_or_Symptom 475 490	leve hipoacusia
+T35	Sign_or_Symptom 557 586	presencia de tapón de cerumen
+T37	Sign_or_Symptom 634 663	presencia de tapón de cerumen
+T31	Sign_or_Symptom 243 277	no se logra ver menbrana timpanica
+T34	Sign_or_Symptom 518 546	no se logra ver MB timpanica
+T36	Sign_or_Symptom 593 623	no se logra ver memb timpanica

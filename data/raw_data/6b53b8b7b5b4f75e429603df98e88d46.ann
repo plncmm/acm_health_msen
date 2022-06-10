@@ -1,0 +1,7 @@
+T1	Abbreviation 63 66	APS
+T2	Abbreviation 170 173	ADM
+T3	Disease 2 39	ANOMALÍA DENTOFACIAL, NO ESPECIFICADA
+T4	Disease 153 159	caries
+A1	Negated T4
+T5	Sign_or_Symptom 170 186	ADM sobremordida
+T6	Disease 188 225	Anomalia dentofacial, no especificada

@@ -1,0 +1,8 @@
+T1	Body_Part 62 69	DIENTES
+T2	Abbreviation 73 76	dte
+T3	Body_Part 73 78	dte 7
+T4	Disease 2 33	OTRAS PULPITIS, SIN ESPECIFICAR
+T5	Sign_or_Symptom 37 69	ATRICIÓN EXCESIVA DE LOS DIENTES
+T6	Disease 79 95	pulpitis crónica
+T7	Sign_or_Symptom 100 117	atrición dentaria
+T8	Therapeutic_Procedure 119 130	pulpectomía

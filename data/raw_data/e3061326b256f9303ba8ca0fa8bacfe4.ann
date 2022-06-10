@@ -1,0 +1,8 @@
+T2	Abbreviation 101 104	HTA
+T3	Abbreviation 108 111	TTO
+T1	Disease 0 11	CARDIOPATIA
+T4	Disease 12 24	HIPERTENSION
+T5	Laboratory_or_Test_Result 25 56	HIPERTROFIA VENTRICULAR DERECHA
+T6	Laboratory_or_Test_Result 58 89	HEMIBLOQUEO  ANTERIOR IZQUIERDA
+T7	Laboratory_or_Test_Result 90 99	T ANORMAL
+T8	Disease 101 104	HTA

@@ -1,0 +1,6 @@
+T1	Clinical_Finding 2 28	PACIENTE SANO ODONTOLÓGICO
+T2	Abbreviation 52 55	APS
+T3	Sign_or_Symptom 70 91	LEVE MORDIDA  ABIERTA
+T4	Sign_or_Symptom 92 117	LEVE APIÑAMIENTO ANTERIOR
+T5	Disease 97 108	APIÑAMIENTO
+T6	Clinical_Finding 161 187	Paciente Sano Odontologico

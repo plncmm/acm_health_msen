@@ -1,0 +1,17 @@
+T1	Abbreviation 52 55	QMT
+#1	AnnotatorNotes T1	quimioterapia
+T2	Abbreviation 56 59	LOE
+#2	AnnotatorNotes T2	lesión con ocupación de espacio
+T3	Abbreviation 0 3	ADC
+#3	AnnotatorNotes T3	adenocarcinoma
+T4	Abbreviation 91 94	EAP
+#4	AnnotatorNotes T4	enfermedad arterial periférica
+T5	Body_Part 4 18	COLON SIGMOIDE
+T6	Body_Part 42 48	VAGINA
+T7	Disease 0 18	ADC COLON SIGMOIDE
+T8	Sign_or_Symptom 23 48	LESION RESIDUAL EN VAGINA
+T9	Disease 56 68	LOE HEPATICO
+T11	Therapeutic_Procedure 52 55	QMT
+T10	Laboratory_Procedure 103 119	MARCADOR TUMORAL
+T12	Laboratory_or_Test_Result 95 102	ELEVADO
+R1	Has Arg1:T10 Arg2:T12	

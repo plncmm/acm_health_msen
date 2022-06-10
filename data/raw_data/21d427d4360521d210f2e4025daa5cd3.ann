@@ -1,0 +1,6 @@
+T1	Body_Part 0 16	Frenillo lingual
+T2	Body_Part 47 60	apice lingual
+T3	Sign_or_Symptom 0 60	Frenillo lingual presenta inserción cercana al apice lingual
+T4	Sign_or_Symptom 65 89	problemas fonoaudiológos
+T5	Therapeutic_Procedure 117 128	frenectomia
+A1	Pending T5

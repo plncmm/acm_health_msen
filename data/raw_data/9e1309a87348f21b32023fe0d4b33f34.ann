@@ -1,0 +1,6 @@
+T1	Abbreviation 18 21	PPR
+T2	Sign_or_Symptom 18 44	PPR SUPERIOR EN MAL ESTADO
+T3	Disease 48 75	DESDENTADA PARCIAL INFERIOR
+T4	Abbreviation 89 92	PPR
+T5	Therapeutic_Procedure 89 112	PPR SUPERIOR E INFERIOR
+A1	Pending T5

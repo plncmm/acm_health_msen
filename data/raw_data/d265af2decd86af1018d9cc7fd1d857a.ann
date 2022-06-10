@@ -1,0 +1,23 @@
+T1	Medication 309 327	cotrimoxazol forte
+T2	Medication 345 360	nitrofurantoina
+T3	Body_Part 15 29	VÍAS URINARIAS
+T4	Disease 124 127	itu
+T5	Abbreviation 124 127	itu
+T6	Disease 209 212	ITU
+T7	Abbreviation 209 212	ITU
+T9	Abbreviation 413 416	ITU
+T10	Body_Part 452 466	vias urinarias
+T13	Abbreviation 76 79	APS
+T14	Abbreviation 238 241	HRC
+T15	Abbreviation 281 282	+
+T16	Abbreviation 301 304	tto
+T17	Abbreviation 428 432	Atte
+T18	Abbreviation 435 437	Ud
+T11	Disease 2 52	INFECCIÓN DE VÍAS URINARIAS, SITIO NO ESPECIFICADO
+T19	Laboratory_Procedure 270 280	urocultivo
+T20	Laboratory_or_Test_Result 281 292	+ a e. coli
+R1	Has Arg1:T19 Arg2:T20	
+T21	Laboratory_Procedure 365 375	urocultivo
+T8	Disease 413 427	ITU recurrente
+T12	Disease 439 489	Infeccion de vias urinarias, sitio no especificado
+T22	Abbreviation 285 286	e

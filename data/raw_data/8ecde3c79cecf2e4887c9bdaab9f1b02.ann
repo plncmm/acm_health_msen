@@ -1,0 +1,14 @@
+T2	Body_Part 21 37	MUÑECA IZQUIERDA
+T3	Disease 43 62	TUMOR SOLIDO MUÑECA
+T4	Body_Part 56 62	MUÑECA
+T5	Abbreviation 70 71	A
+T6	Disease 70 84	A. REUMATOIDEO
+T7	Abbreviation 89 91	DM
+T8	Abbreviation 92 94	ID
+T9	Abbreviation 97 100	HTA
+T10	Disease 103 111	OBESIDAD
+T11	Disease 97 100	HTA
+T12	Disease 89 91	DM
+T15	Abbreviation 95 96	+
+T16	Abbreviation 101 102	+
+T1	Disease 4 37	QUISTE SINOVIAL? MUÑECA IZQUIERDA

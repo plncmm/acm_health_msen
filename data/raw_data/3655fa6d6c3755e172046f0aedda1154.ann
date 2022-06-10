@@ -1,0 +1,21 @@
+T1	Body_Part 71 88	SISTEMA DIGESTIVO
+T2	Abbreviation 112 115	APS
+T3	Family_Member 149 154	hijas
+T4	Abbreviation 556 561	antec
+T5	Abbreviation 562 566	morb
+T6	Medication 591 595	fcos
+T7	Abbreviation 597 598	-
+T8	Abbreviation 609 610	-
+T9	Body_Part 657 674	sistema digestivo
+T10	Disease 2 22	ENFERMEDAD DE CHAGAS
+T11	Disease 26 88	ENFERMEDAD DE CHAGAS (CRÓNICA) QUE AFECTA AL SISTEMA DIGESTIVO
+T12	Sign_or_Symptom 174 192	malestar abdominal
+T13	Laboratory_Procedure 293 314	serología para chagas
+T14	Laboratory_or_Test_Result 325 333	positivo
+R1	Has Arg1:T13 Arg2:T14	
+T15	Sign_or_Symptom 360 378	malestar abdominal
+T16	Disease 409 416	diarrea
+T17	Disease 568 591	enfermedad de Alzheimer
+T18	Clinical_Finding 599 607	Alergias
+A1	Negated T18
+T19	Disease 612 674	Enfermedad de chagas (cronica) que afecta al sistema digestivo

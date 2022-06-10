@@ -1,0 +1,12 @@
+T1	Disease 2 34	ENFERMEDAD RENAL CRÓNICA ETAPA 3
+T2	Abbreviation 58 61	APS
+T3	Abbreviation 92 95	HTA
+T4	Disease 92 95	HTA
+T8	Abbreviation 176 181	aprox
+T10	Abbreviation 245 249	MDRD
+T12	Disease 285 317	Enfermedad renal cronica Etapa 3
+T5	Disease 139 170	Pancreatitis con fallo orgánico
+T6	Laboratory_Procedure 213 226	Creatininemia
+T7	Laboratory_Procedure 235 239	Urea
+T9	Laboratory_Procedure 245 249	MDRD
+#1	AnnotatorNotes T9	Cuestionable si quieren podemos poner el 35 y dejarlo en lab or test , pero como es numerico no lo puse

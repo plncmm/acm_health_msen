@@ -1,0 +1,15 @@
+T1	Abbreviation 64 69	aprox
+T2	Family_Member 226 231	madre
+T3	Medication 596 609	ergotaminicos
+T4	Abbreviation 418 421	hrs
+T5	Abbreviation 410 415	aprox
+T6	Abbreviation 639 640	E
+T7	Disease 2 28	OTROS SÍNDROMES DE CEFALEA
+T8	Sign_or_Symptom 79 165	cefaleas intermitentes, invalidantes autolimitadas de predominio frontal y hemicraneas
+T9	Sign_or_Symptom 176 191	poco cooperador
+T10	Sign_or_Symptom 271 326	cefalea hemicranea izquierda, de caracter indeterminado
+T11	Sign_or_Symptom 369 406	parestesias en hemicuerpo ipsilateral
+T12	Sign_or_Symptom 466 477	parestesias
+A1	Negated T12
+T13	Sign_or_Symptom 518 525	cefalea
+T14	Sign_or_Symptom 639 656	E. físico: normal

@@ -1,0 +1,10 @@
+T1	Abbreviation 0 3	PZA
+T2	Body_Part 0 10	PZA 1 Y 14
+T3	Clinical_Finding 0 37	PZA 1 Y 14 SE ENCUENTRAN ERUPCIONADAS
+T4	Sign_or_Symptom 55 66	MUCHO DOLOR
+T5	Abbreviation 68 72	PZAS
+T6	Body_Part 68 80	PZAS 16 Y 32
+T7	Clinical_Finding 68 94	PZAS 16 Y 32 SEMIINCLUIDAS
+T8	Abbreviation 107 109	RX
+T9	Diagnostic_Procedure 107 109	RX
+T10	Abbreviation 139 142	TTO

@@ -1,0 +1,24 @@
+T1	Abbreviation 108 111	HTA
+T2	Abbreviation 121 123	MG
+T3	Abbreviation 138 140	mg
+T4	Abbreviation 142 145	DM2
+T5	Abbreviation 197 199	MG
+T6	Abbreviation 165 167	MG
+T7	Abbreviation 212 214	mg
+T8	Abbreviation 205 208	atv
+T9	Medication 205 208	atv
+T10	Abbreviation 128 132	aaas
+T11	Medication 128 132	aaas
+T12	Abbreviation 147 151	metf
+T13	Medication 147 151	metf
+T14	Abbreviation 159 162	GBC
+T15	Abbreviation 189 192	LVT
+T16	Medication 189 192	LVT
+T17	Medication 113 116	ENL
+T18	Abbreviation 113 116	ENL
+T19	Medication 159 162	GBC
+T20	Disease 2 45	TRASTORNO DE LA REFRACCIÓN, NO ESPECIFICADO
+T21	Clinical_Finding 87 93	lentes
+T22	Disease 108 111	HTA
+T23	Disease 142 145	DM2
+T24	Disease 173 187	HIPOTIORIDISMO

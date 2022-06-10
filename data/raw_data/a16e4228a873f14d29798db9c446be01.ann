@@ -1,0 +1,9 @@
+T1	Abbreviation 9 12	enf
+T2	Abbreviation 25 29	pcte
+T3	Abbreviation 91 96	disfx
+T4	Disease 9 21	enf cornaria
+T5	Disease 30 40	hipertenso
+T6	Disease 42 55	dislipidemico
+T7	Sign_or_Symptom 60 75	disnea esfuerzo
+T8	Laboratory_or_Test_Result 77 88	bigeminismo
+T9	Disease 91 108	disfx ventricular

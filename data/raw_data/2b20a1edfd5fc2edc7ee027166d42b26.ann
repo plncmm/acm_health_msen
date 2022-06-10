@@ -1,0 +1,12 @@
+T1	Body_Part 3 17	MAMA IZQUIERDA
+T2	Abbreviation 61 65	PCTE
+T3	Abbreviation 74 77	QMT
+T4	Abbreviation 125 128	TAC
+T5	Abbreviation 0 2	CA
+T6	Disease 0 17	CA MAMA IZQUIERDA
+T7	Disease 18 36	NODULOS PULMONARES
+T8	Therapeutic_Procedure 74 87	QMT ADYUVANTE
+T9	Therapeutic_Procedure 100 107	CIRUGIA
+T10	Diagnostic_Procedure 125 128	TAC
+T11	Laboratory_or_Test_Result 138 145	NODULOS
+R1	Has Arg1:T10 Arg2:T11	

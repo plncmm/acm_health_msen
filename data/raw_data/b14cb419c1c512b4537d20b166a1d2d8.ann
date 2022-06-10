@@ -1,0 +1,12 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 66 82	Diente 1.8 y 2.8
+T4	Body_Part 31 37	DIENTE
+T3	Body_Part 116 122	raices
+T5	Body_Part 130 140	Diente 4.8
+T6	Body_Part 171 177	Raices
+T7	Disease 0 37	- ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T8	Laboratory_or_Test_Result 66 130	Diente 1.8 y 2.8 erupcionadas, posicion vertical, raices conicas
+T9	Laboratory_or_Test_Result 130 185	Diente 4.8 IIB Pell y Gregory, vertical, Raices conicas
+T10	Therapeutic_Procedure 197 206	exodoncia
+A1	Pending T10
+T11	Disease 231 255	Anomalias de la posicion

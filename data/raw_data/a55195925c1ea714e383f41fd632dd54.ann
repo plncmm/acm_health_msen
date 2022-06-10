@@ -1,0 +1,13 @@
+T1	Abbreviation 0 3	PZA
+T2	Body_Part 0 6	PZA 19
+T3	Disease 7 22	NECROSIS PULPAR
+T4	Abbreviation 24 26	RX
+T5	Diagnostic_Procedure 24 26	RX
+T6	Laboratory_or_Test_Result 28 61	CAMARA ESTRECHA, CDTOS FINOS LPAE
+R1	Has Arg1:T5 Arg2:T6	
+T7	Abbreviation 45 50	CDTOS
+T8	Body_Part 28 34	CAMARA
+T9	Body_Part 45 50	CDTOS
+T10	Abbreviation 57 61	LPAE
+T11	Therapeutic_Procedure 78 100	TRATAMIENTO ENDODONCIA
+A1	Pending T11

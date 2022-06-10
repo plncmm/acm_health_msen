@@ -1,0 +1,14 @@
+T1	Body_Part 38 44	CADERA
+T2	Body_Part 59 66	CADERAS
+T3	Body_Part 83 97	CUELLO FEMORAL
+T4	Abbreviation 151 154	APS
+T5	Body_Part 181 187	CADERA
+T6	Body_Part 397 411	Cuello Femoral
+T7	Body_Part 352 358	cadera
+T8	Body_Part 373 380	caderas
+T9	Disease 2 126	OTRAS DEFORMIDADES CONGÉNITAS DE LA CADERA (DISPLASIA DE CADERAS ANTEVERSIÓN DEL CUELLO FEMORAL COXA CONGÉNITA: VARA O VALGA
+T10	Diagnostic_Procedure 166 187	RADIOGRAFIA DE CADERA
+T11	Diagnostic_Procedure 251 262	RADIOGRAFIA
+T12	Laboratory_or_Test_Result 263 271	ALTERADA
+R1	Has Arg1:T11 Arg2:T12	
+T13	Disease 316 440	Otras deformidades congenitas de la cadera (Displasia de caderas Anteversion del Cuello Femoral Coxa Congenita: Vara o Valga

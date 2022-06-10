@@ -1,0 +1,8 @@
+T1	Abbreviation 40 43	OBS
+T2	Abbreviation 0 1	M
+T3	Clinical_Finding 0 2	M2
+T4	Disease 28 38	MIOMATOSIS
+T5	Disease 45 57	FIBROADENOMA
+T6	Clinical_Finding 92 115	ANTECEDENTES FAMILIARES
+A1	Negated T6
+T7	Clinical_Finding 59 76	LACTANCIA MATERNA

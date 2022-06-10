@@ -1,0 +1,9 @@
+T1	Abbreviation 61 66	ANTEC
+T2	Abbreviation 9 13	TRST
+T3	Abbreviation 45 49	TRST
+T4	Abbreviation 59 61	S/
+T6	Disease 45 58	TRST LENGUAJE
+T7	Clinical_Finding 61 77	ANTEC FAMILIARES
+A1	Negated T7
+T8	Sign_or_Symptom 113 144	RETRASO EN EL AREA DEL LENGUAJE
+T5	Disease 9 42	TRST. GENERALIZADO DEL DESARROLLO

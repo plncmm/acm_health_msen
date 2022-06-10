@@ -1,0 +1,5 @@
+T1	Disease 2 30	PERIODONTITIS CRÓNICA SEVERA
+T2	Body_Part 65 72	dientes
+T3	Laboratory_or_Test_Result 34 53	Perdida ósea severa
+T4	Sign_or_Symptom 55 86	todos los dientes con movilidad
+T5	Sign_or_Symptom 93 114	cálculo supragingival

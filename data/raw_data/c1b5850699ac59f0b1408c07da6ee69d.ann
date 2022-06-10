@@ -1,0 +1,8 @@
+T1	Body_Part 0 3	2.1
+T2	Abbreviation 71 74	TTO
+T3	Abbreviation 90 93	HRT
+T4	Abbreviation 109 112	PZA
+T5	Body_Part 109 116	PZA 2.1
+T6	Therapeutic_Procedure 4 13	TREPANADA
+T7	Therapeutic_Procedure 97 108	TREPANACION
+T8	Disease 130 145	NECROSIS PULPAR

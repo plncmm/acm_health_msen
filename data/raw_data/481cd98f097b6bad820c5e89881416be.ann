@@ -1,0 +1,11 @@
+T1	Abbreviation 0 1	G
+T2	Abbreviation 4 5	P
+T3	Abbreviation 8 9	A
+T4	Clinical_Finding 0 2	G3
+T5	Clinical_Finding 4 6	P2
+T6	Clinical_Finding 8 10	A0
+T7	Clinical_Finding 12 20	EMABARZO
+T8	Disease 34 48	HIPOTIROIDISMO
+T9	Clinical_Finding 49 71	DOBLE CESAREA ANTERIOR
+T10	Therapeutic_Procedure 55 62	CESAREA
+T11	Disease 72 88	COLITIS ULCEROSA

@@ -1,0 +1,10 @@
+T1	Family_Member 142 147	padre
+T2	Disease 0 36	Crisis convulsiva única generalizada
+T3	Disease 37 55	trastorno hepático
+T4	Disease 56 75	monorreno congénito
+T5	Disease 76 87	hipocalemia
+T6	Laboratory_or_Test_Result 76 87	hipocalemia
+T7	Disease 152 161	epilepsia
+R1	Has Arg1:T1 Arg2:T7	
+T8	Disease 109 125	inmuno deprimida
+T9	Disease 99 108	estenosis

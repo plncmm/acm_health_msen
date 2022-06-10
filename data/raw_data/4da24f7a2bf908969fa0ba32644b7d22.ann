@@ -1,0 +1,12 @@
+T1	Medication 59 63	TACO
+T2	Abbreviation 59 63	TACO
+T5	Disease 53 55	FA
+T3	Abbreviation 53 55	FA
+T7	Abbreviation 81 84	ERc
+T4	Disease 64 79	SD cardiorrenal
+T8	Abbreviation 64 66	SD
+T9	Disease 0 21	nsuficiencia cardiaca
+T10	Laboratory_or_Test_Result 22 33	fevi normal
+T11	Disease 35 41	Anemia
+T6	Disease 81 92	ERc etapa 3
+T12	Abbreviation 22 26	fevi

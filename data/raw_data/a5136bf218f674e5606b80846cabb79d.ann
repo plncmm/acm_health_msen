@@ -1,0 +1,42 @@
+T1	Abbreviation 128 131	APS
+T2	Abbreviation 146 151	antec
+T3	Abbreviation 172 174	cx
+T4	Abbreviation 176 179	HBP
+T5	Abbreviation 213 215	SU
+T6	Abbreviation 268 271	izq
+T7	Body_Part 262 272	brazo izq.
+T8	Abbreviation 303 306	EKG
+T9	Abbreviation 386 390	BCRD
+T10	Abbreviation 392 395	HBI
+T11	Abbreviation 520 523	DPN
+T12	Abbreviation 575 577	AO
+T13	Disease 2 39	BLOQUEO FASCICULAR ANTERIOR IZQUIERDO
+T14	Disease 43 69	BLOQUEO FASCICULAR DERECHO
+T15	Disease 73 104	SOPLO CARDÍACO, NO ESPECIFICADO
+T16	Clinical_Finding 146 171	antec. morbidos relevants
+T17	Therapeutic_Procedure 172 179	cx: HBP
+T18	Disease 176 179	HBP
+T19	Disease 182 197	hernia inguinal
+T20	Sign_or_Symptom 232 272	dolor precorddial irradiado e brazo izq.
+T21	Sign_or_Symptom 281 289	singulto
+T22	Diagnostic_Procedure 303 306	EKG
+T23	Laboratory_or_Test_Result 311 381	ritmo sinusal, con extrasistoles auriculares  con conduccion aberrante
+R1	Has Arg1:T22 Arg2:T23	
+T24	Disease 386 390	BCRD
+T25	Disease 392 404	HBI anterior
+T26	Laboratory_or_Test_Result 386 390	BCRD
+T27	Laboratory_or_Test_Result 392 404	HBI anterior
+R2	Has Arg1:T22 Arg2:T27	
+R3	Has Arg1:T22 Arg2:T26	
+T28	Laboratory_Procedure 408 425	enzimas cardiacas
+T29	Laboratory_or_Test_Result 436 444	normales
+R4	Has Arg1:T28 Arg2:T29	
+T30	Sign_or_Symptom 464 469	angor
+A1	Negated T30
+T31	Sign_or_Symptom 470 499	disnea de esfuerzos moderados
+T32	Sign_or_Symptom 500 506	edemas
+T33	Sign_or_Symptom 509 517	ortopnea
+T34	Sign_or_Symptom 520 523	DPN
+T35	Sign_or_Symptom 545 591	soplo sistolico II/VI en foco AO, no irradiado
+T36	Disease 627 664	Bloqueo fascicular anterior izquierdo
+T37	Disease 545 560	soplo sistolico

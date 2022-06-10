@@ -1,0 +1,37 @@
+T1	Abbreviation 67 70	APS
+T2	Abbreviation 94 96	DR
+T3	Abbreviation 122 124	IC
+T4	Abbreviation 127 130	HRC
+T5	Family_Member 213 219	ESPOSA
+T6	Abbreviation 283 286	HTA
+T7	Abbreviation 290 293	TTO
+T8	Abbreviation 296 299	ACV
+T9	Medication 332 345	LEVETIRACETAM
+T10	Abbreviation 350 352	MG
+T11	Medication 369 378	FENITOINA
+T12	Abbreviation 383 385	MG
+T13	Medication 402 410	LOSARTAN
+T14	Abbreviation 414 416	MG
+T15	Medication 431 444	ATORVASTATINA
+T16	Abbreviation 448 450	MG
+T17	Medication 493 502	OMAPRAZOL
+T18	Abbreviation 506 508	MG
+T19	Abbreviation 453 457	COMP
+T20	Abbreviation 511 515	COMP
+T21	Abbreviation 525 528	ACV
+T22	Abbreviation 581 584	FBC
+T23	Abbreviation 690 693	TTO
+T24	Medication 698 707	FENITOINA
+T25	Medication 710 723	LEVETIRACETAM
+T26	Medication 466 469	AAS
+T27	Abbreviation 474 476	MG
+T28	Abbreviation 479 483	COMP
+T29	Disease 0 43	- OTRAS CONVULSIONES Y LAS NO ESPECIFICADAS
+T30	Disease 283 286	HTA
+T31	Disease 296 311	ACV HEMORRAGICO
+T32	Sign_or_Symptom 552 566	DISFASIA MIXTA
+T33	Sign_or_Symptom 569 592	HEMIPARESIA FBC DERECHA
+T34	Disease 615 676	SINDROME CONVULSIVO PARCIAL SECUNDARIAMENTE GENERALIZADO T- C
+T35	Disease 802 808	CRISIS
+A1	Negated T35
+T36	Disease 838 879	Otras convulsiones y las no especificadas

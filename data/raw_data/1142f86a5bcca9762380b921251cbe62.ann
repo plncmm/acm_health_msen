@@ -1,0 +1,22 @@
+T1	Abbreviation 165 168	APS
+T2	Abbreviation 217 221	RNPT
+T3	Abbreviation 240 244	RCIU
+T4	Abbreviation 405 408	cms
+T5	Abbreviation 353 356	mts
+T6	Abbreviation 375 378	mts
+T7	Abbreviation 439 442	P/E
+T8	Abbreviation 448 451	T/E
+T9	Abbreviation 458 461	P/T
+T10	Sign_or_Symptom 2 12	TALLA BAJA
+T16	Clinical_Finding 217 221	RNPT
+T17	Disease 240 244	RCIU
+T13	Sign_or_Symptom 77 102	BAJA ESTATURA NUTRICIONAL
+T19	Sign_or_Symptom 279 306	curva del crecimiento en -2
+T20	Disease 511 541	desnutricion proteico-calorica
+T18	Sign_or_Symptom 543 568	Baja estatura nutricional
+T21	Disease 570 606	Retardo fisico debido a desnutricion
+T14	Sign_or_Symptom 439 446	P/E: -2
+T22	Sign_or_Symptom 448 455	T/E: -2
+T23	Sign_or_Symptom 458 465	P/T: -1
+T24	Sign_or_Symptom 467 477	Talla Baja
+T11	Disease 2 140	TALLA BAJA-RETARDO DEL DESARROLLO DEBIDO A DESNUTRICIÓN PROTEICO-CALÓRICA (BAJA ESTATURA NUTRICIONAL, RETARDO FÍSICO DEBIDO A DESNUTRICIÓN

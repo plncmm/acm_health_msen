@@ -1,0 +1,6 @@
+T1	Body_Part 111 125	tejido adiposo
+T2	Sign_or_Symptom 31 43	ginecomastia
+T3	Sign_or_Symptom 51 71	minima  ginecomastia
+T4	Diagnostic_Procedure 72 82	ecografica
+T5	Laboratory_or_Test_Result 84 125	predomina el conjuntamente tejido adiposo
+R1	Has Arg1:T4 Arg2:T5	

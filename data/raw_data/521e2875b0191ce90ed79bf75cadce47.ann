@@ -1,0 +1,16 @@
+T1	Abbreviation 13 17	EPOC
+T2	Abbreviation 19 24	INSUF
+T3	Abbreviation 136 139	TAC
+T4	Abbreviation 231 233	QX
+T5	Disease 13 17	EPOC
+T6	Disease 19 39	INSUF AORTICA SEVERA
+T7	Therapeutic_Procedure 57 75	REEMPLAZO VALVULAR
+T8	Diagnostic_Procedure 118 130	ESPIROMETRIA
+A1	Pending T8
+T9	Diagnostic_Procedure 136 139	TAC
+A2	Pending T9
+T10	Laboratory_or_Test_Result 145 171	ADENOIPATIAS MEDIASTINICAS
+R1	Has Arg1:T9 Arg2:T10	
+T11	Disease 145 171	ADENOIPATIAS MEDIASTINICAS
+T12	Therapeutic_Procedure 231 233	QX
+A3	Pending T7

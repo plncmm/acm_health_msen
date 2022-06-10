@@ -1,0 +1,6 @@
+T1	Disease 0 38	DESDENTADO PARCIAL INFERIOR E SUPERIOR
+T5	Therapeutic_Procedure 72 82	EXTRACCION
+A1	Negated T5
+T6	Therapeutic_Procedure 104 121	PROTESIS ACRILICA
+A2	Pending T6
+T2	Body_Part 40 57	DIENTES 1.1 - 2.2

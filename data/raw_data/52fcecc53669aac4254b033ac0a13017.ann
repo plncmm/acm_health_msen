@@ -1,0 +1,7 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Sign_or_Symptom 50 114	MALOCLUSION CLASE I CON APIÑAMIENTO ANTERIOR SUPERIOR E INFERIOR
+T3	Abbreviation 115 116	P
+T4	Body_Part 115 121	P. #16
+T5	Laboratory_or_Test_Result 115 148	P. #16 INCLINADA HACIA VESTIBULAR
+T6	Abbreviation 173 176	APS
+T7	Disease 232 280	Anomalias dentofaciales (incluso la maloclusion)

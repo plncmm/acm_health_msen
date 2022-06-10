@@ -1,0 +1,9 @@
+T1	Body_Part 2 9	DIENTES
+T2	Abbreviation 56 59	APS
+T3	Body_Part 159 166	Dientes
+T4	Body_Part 131 147	Terceros molares
+T5	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T6	Clinical_Finding 94 115	antecedentes mórbidos
+A1	Negated T6
+T7	Sign_or_Symptom 131 157	Terceros molares incluidos
+T8	Disease 159 189	Dientes incluidos e impactados

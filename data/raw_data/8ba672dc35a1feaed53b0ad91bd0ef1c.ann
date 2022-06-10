@@ -1,0 +1,13 @@
+T1	Abbreviation 3 6	EMB
+T2	Abbreviation 19 22	OBS
+T3	Abbreviation 24 27	HTA
+T4	Abbreviation 81 84	OBS
+T5	Abbreviation 0 1	M
+T6	Clinical_Finding 0 2	M1
+T7	Clinical_Finding 3 6	EMB
+T8	Disease 24 27	HTA
+T9	Disease 29 40	PRECLAMPSIA
+T10	Therapeutic_Procedure 43 50	CESAREA
+T11	Disease 64 74	PRECLAMSIA
+T12	Disease 99 107	PODOLICA
+T13	Disease 118 123	OBESA

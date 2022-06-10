@@ -1,0 +1,6 @@
+T1	Body_Part 24 33	pieza 3,7
+T2	Body_Part 34 43	PIEZA 3,7
+T3	Body_Part 66 72	diente
+T5	Disease 131 146	osteítis apical
+T6	Therapeutic_Procedure 0 23	Tratamiento endodontico
+T7	Disease 66 105	diente con terapia previamente iniciada

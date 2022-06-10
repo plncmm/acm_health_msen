@@ -1,0 +1,7 @@
+T1	Disease 2 32	PERIODONTITIS CRÓNICA MODERADA
+T2	Abbreviation 56 59	APS
+T3	Abbreviation 61 64	Pac
+T4	Disease 69 104	periodontitis generalizada moderada
+T5	Sign_or_Symptom 110 142	aumento en la movilidad dentaria
+T6	Laboratory_or_Test_Result 148 176	reabsorció ósea generalizada
+T7	Disease 179 200	Periodontitis cronica

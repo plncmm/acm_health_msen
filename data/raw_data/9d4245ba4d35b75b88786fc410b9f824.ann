@@ -1,0 +1,25 @@
+T1	Body_Part 20 27	ABDOMEN
+T2	Abbreviation 51 54	APS
+T3	Body_Part 86 93	ABDOMEN
+T4	Abbreviation 145 147	KG
+T5	Body_Part 239 246	ABDOMEN
+T6	Abbreviation 247 250	BDI
+T7	Abbreviation 252 255	THA
+T8	Abbreviation 289 291	CM
+T9	Body_Part 363 370	abdomen
+T10	Abbreviation 255 256	+
+T11	Abbreviation 266 267	-
+T12	Disease 2 27	TUMOR MALIGNO DEL ABDOMEN
+T13	Sign_or_Symptom 78 93	MASA EN ABDOMEN
+T14	Sign_or_Symptom 119 131	BAJA DE PESO
+T15	Sign_or_Symptom 178 202	SANGRADO EN DEPOSICIONES
+A1	Negated T15
+T16	Sign_or_Symptom 208 219	METRORRAGIA
+T17	Medication 229 236	IMPANON
+T18	Clinical_Finding 247 250	BDI
+T19	Sign_or_Symptom 252 255	THA
+T20	Sign_or_Symptom 258 266	BLUMBERG
+A2	Negated T20
+T21	Sign_or_Symptom 272 344	PALPA MASA DE 10 CM EN HIPOGASTRIO INDURADA, ADHERIDA A PLANOS PROFUNDOS
+T22	Disease 345 370	Tumor maligno del abdomen
+A3	Negated T16

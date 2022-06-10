@@ -1,0 +1,10 @@
+T1	Body_Part 84 93	Pieza 3.8
+T2	Body_Part 157 161	raiz
+T3	Disease 42 55	CARIES DENTAL
+T4	Abbreviation 79 82	APS
+T5	Disease 2 38	ALTERACIONES EN LA ERUPCIÓN DENTARIA
+T6	Clinical_Finding 94 105	erupcionada
+T7	Sign_or_Symptom 107 120	mesioinclinda
+T8	Sign_or_Symptom 131 152	destruccion coronaria
+T9	Sign_or_Symptom 157 180	raiz con leve curvatura
+T10	Disease 183 219	Alteraciones en la erupcion dentaria

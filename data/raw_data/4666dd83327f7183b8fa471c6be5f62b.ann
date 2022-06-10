@@ -1,0 +1,15 @@
+T1	Abbreviation 79 82	APS
+T2	Abbreviation 114 117	ACO
+T3	Body_Part 130 140	ENDOMETRIO
+T4	Abbreviation 86 87	G
+T5	Abbreviation 88 89	P
+T6	Abbreviation 90 91	A
+T7	Abbreviation 97 100	CCA
+T8	Disease 2 55	MENSTRUACIÓN EXCESIVA Y FRECUENTE CON CICLO IRREGULAR
+T9	Clinical_Finding 86 88	G2
+T10	Clinical_Finding 88 90	P2
+T11	Clinical_Finding 90 92	A0
+T12	Therapeutic_Procedure 97 100	CCA
+T13	Medication 114 127	ACO COMBINADO
+T14	Laboratory_or_Test_Result 130 160	ENDOMETRIO DE ASPECTO QUISTICO
+T15	Disease 161 214	Menstruacion excesiva y frecuente con ciclo irregular

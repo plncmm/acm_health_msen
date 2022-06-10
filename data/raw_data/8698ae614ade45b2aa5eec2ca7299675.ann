@@ -1,0 +1,5 @@
+T1	Therapeutic_Procedure 11 20	implantes
+T2	Disease 22 58	paciente desdentada parcial superior
+T3	Clinical_Finding 68 90	implantes mandibulares
+T4	Therapeutic_Procedure 101 115	rehabilitacion
+A2	Pending T4

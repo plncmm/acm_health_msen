@@ -1,0 +1,10 @@
+T1	Abbreviation 34 36	st
+T2	Body_Part 23 33	recto bajo
+T3	Abbreviation 48 51	QMT
+T4	Abbreviation 95 99	3 er
+T5	Body_Part 129 145	cadera izquierda
+T6	Disease 13 33	cancer de recto bajo
+T7	Therapeutic_Procedure 48 51	QMT
+T8	Sign_or_Symptom 120 166	dolor en cadera izquierda que limita ca marcha
+T9	Abbreviation 74 79	XELOX
+T10	Therapeutic_Procedure 66 79	esquema XELOX

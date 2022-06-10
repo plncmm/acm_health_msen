@@ -1,0 +1,9 @@
+T1	Body_Part 31 37	DIENTE
+T2	Body_Part 108 123	PIEZA DENTAL2.3
+T3	Body_Part 146 153	GRUPO V
+T4	Body_Part 183 189	diente
+T5	Abbreviation 61 64	APS
+T6	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T7	Sign_or_Symptom 84 123	VESTIBULARIZACION DE LA PIEZA DENTAL2.3
+T8	Sign_or_Symptom 125 153	APIÑAMIENTO DENTARIO GRUPO V
+T9	Disease 154 189	Anomalias de la posicion del diente

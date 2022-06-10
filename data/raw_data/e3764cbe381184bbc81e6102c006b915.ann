@@ -1,0 +1,6 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Abbreviation 74 77	APS
+T3	Clinical_Finding 94 117	clase I molar bilateral
+T4	Sign_or_Symptom 119 150	protrusión maxilar y mandibular
+T5	Sign_or_Symptom 152 179	plano horizontal asimétrico
+T6	Disease 181 229	Anomalias dentofaciales (incluso la maloclusion)

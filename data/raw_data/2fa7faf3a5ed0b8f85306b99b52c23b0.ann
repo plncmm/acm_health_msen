@@ -1,0 +1,11 @@
+T1	Abbreviation 33 36	APS
+T2	Abbreviation 38 42	pcte
+T3	Family_Member 128 133	padre
+T4	Abbreviation 215 217	+-
+T5	Disease 2 9	CEFALEA
+T6	Disease 118 126	migrañas
+A1	Implicit_Family_Background T6
+T7	Disease 134 150	cefalea vascular
+R1	Has Arg1:T3 Arg2:T7	
+T8	Sign_or_Symptom 174 203	cefaleas intensas recurrentes
+T9	Sign_or_Symptom 236 244	opresivo

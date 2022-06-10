@@ -1,0 +1,5 @@
+T1	Disease 0 47	Fractura Mandibular Doble Paramediana Izquierda
+T2	Disease 75 112	fractura De Arco Cigomatico Izquierdo
+T3	Laboratory_or_Test_Result 75 112	fractura De Arco Cigomatico Izquierdo
+T4	Laboratory_or_Test_Result 0 47	Fractura Mandibular Doble Paramediana Izquierda
+T5	Body_Part 87 112	Arco Cigomatico Izquierdo

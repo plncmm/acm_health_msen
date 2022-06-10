@@ -1,0 +1,25 @@
+T1	Abbreviation 69 72	APS
+T2	Abbreviation 87 92	antec
+T3	Abbreviation 93 96	DM2
+T4	Abbreviation 97 100	HTA
+T5	Abbreviation 140 144	eeii
+T6	Body_Part 140 144	eeii
+T7	Abbreviation 271 273	ex
+T8	Abbreviation 281 285	eeii
+T9	Body_Part 281 285	eeii
+T10	Body_Part 386 390	piel
+T11	Abbreviation 456 460	atte
+T12	Disease 2 45	INSUFICIENCIA VENOSA (CRÓNICA) (PERIFÉRICA)
+T13	Disease 93 96	DM2
+T14	Disease 97 100	HTA
+T15	Disease 101 105	Asma
+T16	Sign_or_Symptom 123 144	varices en ambas eeii
+T17	Sign_or_Symptom 181 186	dolor
+T18	Sign_or_Symptom 188 201	edema malolar
+T19	Sign_or_Symptom 203 214	tumefaccion
+T20	Sign_or_Symptom 216 265	dificultad de realizar actividades de vida diaria
+T21	Sign_or_Symptom 275 320	ambas eeii con cordones varicosos prominentes
+T22	Sign_or_Symptom 322 360	signos de insuficiencia venosa cronica
+T23	Sign_or_Symptom 362 390	hiperpigmentacion de la piel
+T24	Disease 461 504	Insuficiencia venosa (cronica) (periferica)
+T25	Sign_or_Symptom 392 408	pulsos presentes

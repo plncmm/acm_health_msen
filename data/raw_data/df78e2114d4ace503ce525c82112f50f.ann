@@ -1,0 +1,10 @@
+T1	Disease 2 45	TRASTORNO DE LA REFRACCIÓN, NO ESPECIFICADO
+T2	Disease 49 70	CONJUNTIVITIS CRÓNICA
+T3	Abbreviation 94 97	APS
+T4	Sign_or_Symptom 142 174	disminución de la agudeza visual
+T5	Sign_or_Symptom 192 210	prurito recurrente
+T6	Sign_or_Symptom 213 221	ojo rojo
+T7	Sign_or_Symptom 246 263	irritación ocular
+A1	Negated T7
+T8	Disease 265 308	Trastorno de la refraccion, no especificado
+T9	Body_Part 213 216	ojo

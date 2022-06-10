@@ -1,0 +1,13 @@
+T1	Body_Part 19 44	AGUJEROS INTERVERTEBRALES
+T2	Body_Part 49 66	TEJIDO CONJUNTIVO
+T3	Body_Part 73 93	DISCO INTERVERTEBRAL
+T4	Abbreviation 117 120	APS
+T5	Abbreviation 149 151	RM
+T6	Body_Part 169 194	agujeros intervertebrales
+T7	Body_Part 199 216	tejido conjuntivo
+T8	Body_Part 223 243	disco intervertebral
+T9	Disease 2 93	ESTENOSIS DE LOS AGUJEROS INTERVERTEBRALES POR TEJIDO CONJUNTIVO O POR DISCO INTERVERTEBRAL
+T10	Diagnostic_Procedure 149 151	RM
+T11	Laboratory_or_Test_Result 152 243	Estenosis de los agujeros intervertebrales por tejido conjuntivo o por disco intervertebral
+R1	Has Arg1:T10 Arg2:T11	
+T12	Disease 152 243	Estenosis de los agujeros intervertebrales por tejido conjuntivo o por disco intervertebral

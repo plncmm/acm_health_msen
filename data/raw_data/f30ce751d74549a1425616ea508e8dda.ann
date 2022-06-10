@@ -1,0 +1,9 @@
+T1	Abbreviation 70 73	APS
+T2	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T3	Abbreviation 160 163	TTM
+T4	Body_Part 219 246	articulacion temporomaxilar
+T5	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T6	Sign_or_Symptom 75 123	Dolor orofacial, paciente lo siente a nivel óseo
+T7	Disease 137 146	sinusitis
+T8	Disease 160 163	TTM
+T9	Disease 202 246	Trastornos de la articulacion temporomaxilar

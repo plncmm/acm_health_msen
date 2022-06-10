@@ -1,0 +1,11 @@
+T1	Abbreviation 0 7	ANTECED
+T2	Abbreviation 8 12	MORB
+T3	Abbreviation 14 18	EPOC
+T4	Abbreviation 22 25	TTO
+T5	Abbreviation 29 32	HPH
+T6	Abbreviation 44 45	-
+T7	Disease 14 18	EPOC
+T8	Sign_or_Symptom 96 110	VISION NUBLADA
+T9	Sign_or_Symptom 116 156	DIFICULTAD PARA VER  DE CERCA Y DE LEJOS
+T10	Clinical_Finding 34 42	ALERGIAS
+A1	Negated T10

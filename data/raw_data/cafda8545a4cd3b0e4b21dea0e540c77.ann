@@ -1,0 +1,8 @@
+T1	Abbreviation 34 37	APS
+T2	Abbreviation 67 70	HTA
+T3	Body_Part 174 191	conducto lacrimal
+T4	Body_Part 201 205	ojos
+T5	Disease 2 10	GLAUCOMA
+T6	Disease 67 70	HTA
+T7	Laboratory_or_Test_Result 120 154	aumento de la presion intra ocular
+T8	Laboratory_or_Test_Result 160 191	estreches del conducto lacrimal

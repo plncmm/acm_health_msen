@@ -1,0 +1,8 @@
+T1	Disease 2 17	PERICORONARITIS
+T2	Abbreviation 41 44	APS
+T3	Laboratory_or_Test_Result 75 101	semiretenidos pzas 1-16-17
+T4	Abbreviation 89 93	pzas
+T5	Body_Part 89 101	pzas 1-16-17
+T6	Disease 119 134	pericoronaritis
+T7	Therapeutic_Procedure 145 159	antibioterapia
+T8	Disease 214 229	Pericoronaritis

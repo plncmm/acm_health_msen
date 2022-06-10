@@ -1,0 +1,21 @@
+T1	Disease 2 44	INSUFICIENCIA VENOSA (CRÓNICA) (PERIFÉRICA
+T2	Abbreviation 69 72	APS
+T3	Abbreviation 74 76	AM
+T4	Abbreviation 78 83	DLP  
+T5	Disease 78 83	DLP  
+T6	Abbreviation 101 106	insuf
+T8	Abbreviation 117 121	EEII
+T10	Abbreviation 191 195	EEII
+T12	Abbreviation 217 222	aprox
+T13	Abbreviation 238 240	ex
+T14	Sign_or_Symptom 247 330	cordones varicosos prominentes en ambas extremidades inferiores hasta zona inguinal
+T15	Body_Part 281 310	ambas extremidades inferiores
+T16	Body_Part 317 330	zona inguinal
+T17	Medication 343 349	daflon
+T19	Disease 390 432	Insuficiencia venosa (cronica) (periferica
+T18	Abbreviation 350 351	+
+#1	AnnotatorNotes T10	Extremidades inferiores
+T20	Body_Part 117 121	EEII
+T21	Body_Part 191 195	EEII
+T7	Disease 101 121	insuf venosa de EEII
+T11	Therapeutic_Procedure 204 211	cirugia

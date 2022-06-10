@@ -1,0 +1,8 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Abbreviation 44 47	APS
+T3	Disease 58 76	desdentado parcial
+T4	Disease 132 142	hipertenso
+T6	Disease 190 266	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T7	Body_Part 228 235	dientes
+T5	Therapeutic_Procedure 102 120	protesis Removible
+A1	Pending T5

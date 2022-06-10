@@ -1,0 +1,7 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Abbreviation 74 77	APS
+T3	Clinical_Finding 130 158	Dentición mixta segunda fase
+T4	Body_Part 130 139	Dentición
+T5	Sign_or_Symptom 160 183	grupo 2 vestibularizado
+T6	Body_Part 160 167	grupo 2
+T7	Disease 185 233	Anomalias dentofaciales (incluso la maloclusion)

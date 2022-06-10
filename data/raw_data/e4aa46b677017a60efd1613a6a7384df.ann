@@ -1,0 +1,11 @@
+T1	Disease 2 23	RETINOPATÍA DIABÉTICA
+T2	Body_Part 46 49	ojo
+T6	Abbreviation 116 120	RDNP
+T7	Disease 116 120	RDNP
+#1	AnnotatorNotes T6	retinopatia diabetica no proliferativa
+T9	Diagnostic_Procedure 37 49	fondo de ojo
+T3	Laboratory_or_Test_Result 50 58	alterado
+T4	Laboratory_or_Test_Result 64 102	exudados y hemorragias en 4 cuadrantes
+R1	Has Arg1:T9 Arg2:T3	
+R2	Has Arg1:T9 Arg2:T4	
+T5	Body_Part 130 134	ojos

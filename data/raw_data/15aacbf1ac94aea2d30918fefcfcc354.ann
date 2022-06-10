@@ -1,0 +1,23 @@
+T1	Abbreviation 25 29	FACO
+T2	Abbreviation 32 35	LTO
+T3	Abbreviation 45 48	VPP
+T4	Abbreviation 60 63	GES
+T5	Abbreviation 68 70	OD
+T6	Body_Part 68 70	OD
+T7	Abbreviation 75 77	DR
+T8	Abbreviation 124 128	FENO
+T9	Abbreviation 131 134	LTO
+T10	Abbreviation 214 216	DR
+T11	Abbreviation 30 31	+
+T12	Abbreviation 35 36	+
+T13	Abbreviation 43 44	+
+T14	Abbreviation 49 50	+
+T15	Abbreviation 58 59	+
+T16	Abbreviation 129 130	+
+T17	Therapeutic_Procedure 25 29	FACO
+T18	Therapeutic_Procedure 45 48	VPP
+T19	Therapeutic_Procedure 51 57	LASSER
+T20	Therapeutic_Procedure 124 128	FENO
+T21	Therapeutic_Procedure 131 134	LTO
+T22	Therapeutic_Procedure 32 42	LTO+ BORDE
+T23	Therapeutic_Procedure 161 167	LENTES

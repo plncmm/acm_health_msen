@@ -1,0 +1,9 @@
+T1	Body_Part 0 3	PIE
+T2	Body_Part 34 48	1° Y 2° ORTEJO
+T3	Abbreviation 89 93	POLI
+T4	Body_Part 94 97	PIE
+T5	Disease 0 13	PIE DIABETICO
+T6	Therapeutic_Procedure 75 85	CURACIONES
+A1	Pending T6
+T7	Disease 94 107	PIE DIABETICO
+T8	Therapeutic_Procedure 15 48	AMPUTACION ABIERTA 1° Y 2° ORTEJO

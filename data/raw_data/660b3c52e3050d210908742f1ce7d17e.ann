@@ -1,0 +1,5 @@
+T1	Disease 34 60	traumatismos dentoalveolar
+T2	Body_Part 61 70	pieza 2.2
+T3	Therapeutic_Procedure 77 99	Protesis fija unitaria
+A1	Pending T3
+T4	Sign_or_Symptom 77 111	Protesis fija unitaria desajustada

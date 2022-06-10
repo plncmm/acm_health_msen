@@ -1,0 +1,10 @@
+T1	Abbreviation 54 56	AC
+T2	Abbreviation 60 62	FA
+T3	Abbreviation 58 59	X
+T4	Medication 66 70	TACO
+T5	Abbreviation 66 70	TACO
+T6	Disease 0 12	COLELITIASIS
+T7	Disease 15 50	HERNIA INGUINAL DERECHA E IZQUIERDA
+T8	Medication 54 56	AC
+T9	Disease 60 62	FA
+T10	Therapeutic_Procedure 75 99	PROTESIS MITRAL MECANICA

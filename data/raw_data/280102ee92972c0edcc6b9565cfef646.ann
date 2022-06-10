@@ -1,0 +1,8 @@
+T1	Disease 0 48	Periodontitis Apical Aguda Originada En La Pulpa
+T2	Body_Part 43 48	Pulpa
+T3	Laboratory_or_Test_Result 51 79	Caries Dentinaria Penetrante
+T4	Abbreviation 80 81	P
+T5	Body_Part 80 85	P 2.2
+T6	Clinical_Finding 86 95	Trepanada
+T7	Laboratory_or_Test_Result 101 114	Lesion Apical
+T8	Clinical_Finding 125 135	Embarazada

@@ -1,0 +1,9 @@
+T1	Body_Part 0 8	PIEZA 27
+T2	Body_Part 9 15	DIENTE
+T3	Abbreviation 49 51	IC
+T4	Abbreviation 80 82	DG
+T5	Body_Part 95 103	PIEZA 31
+T6	Therapeutic_Procedure 20 48	TERAPIA PREVIAMENTE INICIADA
+A1	Pending T6
+T7	Laboratory_or_Test_Result 104 121	CARIES PENETRANTE
+T8	Disease 104 121	CARIES PENETRANTE

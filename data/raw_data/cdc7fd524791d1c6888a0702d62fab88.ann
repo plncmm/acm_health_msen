@@ -1,0 +1,8 @@
+T1	Disease 13 38	TROMBOSIS VENOSA PROFUNDA
+T2	Abbreviation 42 45	TTO
+T3	Abbreviation 46 50	TACO
+T4	Medication 46 50	TACO
+T5	Body_Part 70 75	PIEZA
+T6	Body_Part 88 96	PIEZA 13
+T7	Therapeutic_Procedure 109 118	EXODONCIA
+A1	Pending T7

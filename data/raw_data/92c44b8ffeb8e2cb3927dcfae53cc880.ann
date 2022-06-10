@@ -1,0 +1,10 @@
+T1	Disease 13 34	ATROFIA ESPINAL TIPO1
+T2	Abbreviation 40 43	VMI
+T3	Abbreviation 46 49	TQT
+T4	Disease 52 66	HIPOTIROIDISMO
+T5	Abbreviation 70 73	TTO
+T7	Abbreviation 88 91	MCG
+T9	Abbreviation 133 135	UI
+T10	Therapeutic_Procedure 40 49	VMI A TQT
+T6	Medication 78 85	EUTIROX
+T8	Medication 118 128	VITAMINA D

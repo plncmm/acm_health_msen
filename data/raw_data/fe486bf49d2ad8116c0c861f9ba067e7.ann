@@ -1,0 +1,8 @@
+T1	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T2	Body_Part 31 37	DIENTE
+T3	Abbreviation 61 64	APS
+T5	Body_Part 120 127	caninos
+T6	Disease 128 163	Anomalias de la posicion del diente
+T7	Body_Part 157 163	diente
+T4	Sign_or_Symptom 66 85	apiñamiento grupo V
+T8	Sign_or_Symptom 86 127	falta de espacio para erupción de caninos

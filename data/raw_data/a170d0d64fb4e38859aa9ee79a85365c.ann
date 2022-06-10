@@ -1,0 +1,10 @@
+T1	Disease 2 19	CERUMEN IMPACTADO
+T2	Sign_or_Symptom 19 44	tapon cerumen cae derecho
+T3	Sign_or_Symptom 87 108	SENSACION OIDO TAPADO
+T4	Disease 109 126	Cerumen impactado
+T5	Abbreviation 33 36	cae
+#1	AnnotatorNotes T5	conducto auditivo externo
+T6	Abbreviation 69 72	APS
+#2	AnnotatorNotes T6	atención primaria de salud
+T7	Body_Part 33 44	cae derecho
+T8	Body_Part 97 101	OIDO

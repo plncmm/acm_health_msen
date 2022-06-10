@@ -1,0 +1,8 @@
+T2	Body_Part 124 131	paladar
+T3	Body_Part 200 218	caninos superiores
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T4	Sign_or_Symptom 57 84	apiñamiento dentario severo
+T5	Clinical_Finding 86 107	clase I molar derecha
+T6	Sign_or_Symptom 110 122	II izquierda
+T7	Sign_or_Symptom 124 138	paladar ojival
+T8	Sign_or_Symptom 140 164	mordida cruzada anterior

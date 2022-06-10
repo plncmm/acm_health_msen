@@ -1,0 +1,5 @@
+T1	Body_Part 86 101	RINON IZQUIERDO
+T2	Disease 0 33	SEVERA HIPOFUNCION  RENAL DERECHA
+#1	AnnotatorNotes T2	whatt????????????
+T3	Disease 36 49	HIDRONEFROSIS
+T4	Laboratory_or_Test_Result 86 110	RINON IZQUIERDO ALTERADO

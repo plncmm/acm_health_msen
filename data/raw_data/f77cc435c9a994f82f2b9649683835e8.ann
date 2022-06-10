@@ -1,0 +1,39 @@
+T1	Abbreviation 49 52	APS
+T2	Abbreviation 85 88	HTA
+T4	Abbreviation 103 107	EEII
+T3	Body_Part 103 115	EEII DERECHA
+T5	Abbreviation 189 192	LST
+T6	Abbreviation 196 198	MG
+T7	Abbreviation 204 207	MTF
+T8	Abbreviation 212 214	MG
+T9	Abbreviation 231 233	PA
+T10	Abbreviation 243 247	MMHG
+T11	Abbreviation 260 262	MP
+T12	Abbreviation 263 266	SRA
+T15	Abbreviation 283 286	BDI
+T16	Abbreviation 287 290	RHA
+T17	Abbreviation 302 306	EEII
+T18	Body_Part 302 306	EEII
+T19	Body_Part 343 361	EXTREMIDAD DERECHA
+T20	Medication 189 192	LST
+T21	Medication 204 207	MTF
+T22	Abbreviation 262 263	+
+T13	Abbreviation 267 273	RR2TSS
+T14	Body_Part 274 281	ABDOMEN
+T23	Abbreviation 290 291	+
+T24	Disease 2 25	VARICES EN OTROS SITIOS
+T25	Disease 63 83	RESISTENCIA INSULINA
+T26	Disease 85 88	HTA
+T27	Sign_or_Symptom 97 115	DOLOR EEII DERECHA
+T28	Sign_or_Symptom 127 153	EDEMA VESPERTINO BILATERAL
+T29	Sign_or_Symptom 260 266	MP+SRA
+T30	Sign_or_Symptom 267 273	RR2TSS
+T31	Sign_or_Symptom 283 286	BDI
+T32	Sign_or_Symptom 287 290	RHA
+T33	Sign_or_Symptom 296 301	MASAS
+A1	Negated T33
+T34	Sign_or_Symptom 308 313	EDEMA
+A2	Negated T34
+T35	Sign_or_Symptom 315 361	VARICES TRONCULARES TODA LA EXTREMIDAD DERECHA
+T36	Disease 362 385	Varices en otros sitios
+T37	Disease 315 322	VARICES

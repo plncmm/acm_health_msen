@@ -1,0 +1,24 @@
+T1	Abbreviation 57 60	APS
+T2	Abbreviation 79 82	HTA
+T3	Abbreviation 86 89	tto
+T4	Medication 94 102	losartan
+T5	Abbreviation 106 108	mg
+T6	Abbreviation 116 119	hrs
+T7	Abbreviation 240 243	TSH
+T8	Abbreviation 254 256	ml
+T9	Abbreviation 251 253	UI
+T10	Abbreviation 270 273	eco
+T11	Abbreviation 327 330	tto
+T12	Abbreviation 332 336	Atte
+T13	Abbreviation 339 341	Ud
+T14	Abbreviation 110 112	c/
+T15	Disease 2 33	TIROTOXICOSIS (HIPERTIROIDISMO)
+T16	Disease 79 82	HTA
+T17	Sign_or_Symptom 158 170	baja de peso
+T18	Sign_or_Symptom 171 181	sudoracion
+T19	Sign_or_Symptom 182 195	palpitaciones
+T20	Sign_or_Symptom 196 205	polifagia
+T21	Laboratory_or_Test_Result 240 243	TSH
+T22	Diagnostic_Procedure 270 282	eco cervical
+A1	Pending T22
+T23	Disease 343 374	Tirotoxicosis (hipertiroidismo)

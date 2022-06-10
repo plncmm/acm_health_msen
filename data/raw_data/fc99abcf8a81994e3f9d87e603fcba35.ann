@@ -1,0 +1,15 @@
+T1	Body_Part 20 36	CUELLO POSTERIOR
+T2	Abbreviation 37 40	ECO
+T3	Body_Part 70 81	C.POSTERIOR
+T4	Abbreviation 70 71	C
+T5	Abbreviation 82 84	TV
+T6	Abbreviation 94 96	CM
+T7	Body_Part 97 111	OVARIO DERECHO
+T8	Abbreviation 118 120	CM
+T9	Body_Part 122 138	OVARIO IZQUIERDO
+T10	Disease 0 5	MIOMA
+T11	Sign_or_Symptom 0 36	MIOMA SOSPECHOSO DE CUELLO POSTERIOR
+T12	Diagnostic_Procedure 37 40	ECO
+T13	Laboratory_or_Test_Result 50 81	MIOMA SOSPECHOSO DE C.POSTERIOR
+T14	Disease 50 55	MIOMA
+R1	Has Arg1:T12 Arg2:T13	

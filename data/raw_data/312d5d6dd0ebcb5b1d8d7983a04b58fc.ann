@@ -1,0 +1,13 @@
+T1	Disease 2 30	HIPERTROFIA DE LAS ADENOIDES
+T2	Abbreviation 54 57	APS
+T3	Abbreviation 59 63	pcte
+T4	Body_Part 123 132	adenoides
+T5	Sign_or_Symptom 166 190	dificultad para respirar
+T6	Sign_or_Symptom 192 209	ardor persistente
+T7	Disease 211 233	bronquitis recurrentes
+T8	Disease 234 262	Hipertrofia de las adenoides
+T9	Abbreviation 72 73	q
+T10	Body_Part 21 30	ADENOIDES
+T11	Body_Part 253 262	adenoides
+T12	Therapeutic_Procedure 112 132	cirugia de adenoides
+A1	Pending T12

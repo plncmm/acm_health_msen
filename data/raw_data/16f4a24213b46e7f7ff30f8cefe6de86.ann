@@ -1,0 +1,9 @@
+T1	Abbreviation 27 30	Obs
+T2	Abbreviation 50 53	Obs
+T3	Abbreviation 0 1	M
+T4	Clinical_Finding 4 12	Embarazo
+T5	Clinical_Finding 0 2	M1
+T6	Disease 32 48	Macrosomia Fetal
+T7	Laboratory_or_Test_Result 32 48	Macrosomia Fetal
+T8	Laboratory_or_Test_Result 55 70	Polihidroamnios
+T9	Disease 72 84	Vulvaginitis

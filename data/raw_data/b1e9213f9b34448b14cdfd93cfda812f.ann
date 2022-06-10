@@ -1,0 +1,9 @@
+T1	Disease 2 18	DESDENTADO TOTAL
+T2	Abbreviation 43 46	APS
+T3	Sign_or_Symptom 66 91	protesis superior antigua
+T4	Sign_or_Symptom 112 139	protesis inferior se quebro
+T5	Sign_or_Symptom 141 170	dificicultad para alimentarse
+T6	Therapeutic_Procedure 194 209	nuevas protesis
+A1	Pending T6
+T7	Disease 211 287	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T8	Body_Part 249 256	dientes

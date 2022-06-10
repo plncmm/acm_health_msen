@@ -1,0 +1,9 @@
+T1	Abbreviation 52 55	APS
+T2	Family_Member 118 123	madre
+T3	Body_Part 229 253	region frontal   derecha
+T4	Disease 2 28	OTROS VÉRTIGOS PERIFÉRICOS
+T5	Sign_or_Symptom 171 177	mareos
+T6	Sign_or_Symptom 180 201	sensacion  de vertigo
+T7	Sign_or_Symptom 218 253	cefalea en region frontal   derecha
+T8	Sign_or_Symptom 273 301	vomitos  de tipo alimentario
+T9	Disease 393 419	Otros vertigos perifericos

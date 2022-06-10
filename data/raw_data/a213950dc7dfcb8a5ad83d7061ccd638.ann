@@ -1,0 +1,9 @@
+T1	Body_Part 0 8	pieza 20
+T3	Therapeutic_Procedure 9 18	trepanada
+T4	Disease 19 33	necrosis total
+T5	Laboratory_or_Test_Result 35 52	lesion periapical
+T6	Disease 74 77	HTA
+T7	Disease 104 136	enfermedad renal cronica etapa 3
+T8	Laboratory_or_Test_Result 53 70	caries penetrante
+T2	Disease 53 70	caries penetrante
+T9	Disease 78 103	intolerancia a la glucosa

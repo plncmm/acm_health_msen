@@ -1,0 +1,10 @@
+T2	Body_Part 44 59	REGIÓN PERIANAL
+T4	Abbreviation 197 199	EX
+T6	Abbreviation 242 244	CM
+T7	Sign_or_Symptom 65 71	FIEBRE
+A1	Negated T7
+T8	Sign_or_Symptom 77 91	OTROS SÍNTOMAS
+A2	Negated T8
+T1	Sign_or_Symptom 35 59	DOLOR EN REGIÓN PERIANAL
+T3	Therapeutic_Procedure 154 161	CIRUGÍA
+T5	Sign_or_Symptom 209 234;245 254	AUMENTO DE VOLUMEN BLANDO EN REGIÓN

@@ -1,0 +1,18 @@
+T1	Abbreviation 0 5	INSUF
+T2	Abbreviation 26 37	CF II A III
+T3	Abbreviation 40 43	ERC
+T4	Abbreviation 62 65	HTA
+T5	Abbreviation 66 68	DM
+T6	Abbreviation 75 78	DLP
+T7	Abbreviation 96 98	CF
+T8	Abbreviation 131 132	+
+T9	Abbreviation 144 145	+
+T10	Disease 0 25	INSUF. CARDIACA CONJENITA
+T11	Clinical_Finding 26 37	CF II A III
+T12	Disease 40 52	ERC II B -IV
+T13	Disease 62 65	HTA
+T14	Disease 66 70	DM 2
+T15	Disease 75 78	DLP
+T16	Sign_or_Symptom 83 98	DETERIORO DE CF
+T17	Sign_or_Symptom 123 129	DISNEA
+T18	Sign_or_Symptom 134 142	ORTOPNEA

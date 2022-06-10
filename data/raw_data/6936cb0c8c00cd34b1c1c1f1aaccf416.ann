@@ -1,0 +1,7 @@
+T1	Abbreviation 0 4	PZAS
+T2	Body_Part 0 12	PZAS 17 Y 32
+T3	Clinical_Finding 0 29	PZAS 17 Y 32 SEMIERUPCIONADAS
+T4	Abbreviation 78 81	3OS
+T5	Body_Part 78 89	3OS MOLARES
+T6	Therapeutic_Procedure 92 102	EXODONCIAS
+A1	Pending T6

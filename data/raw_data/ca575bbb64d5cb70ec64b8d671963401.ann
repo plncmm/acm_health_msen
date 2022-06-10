@@ -1,0 +1,27 @@
+T1	Abbreviation 31 34	HTA
+T2	Abbreviation 36 40	DM-2
+T3	Abbreviation 56 59	AVE
+T4	Abbreviation 106 109	SCA
+T5	Abbreviation 112 116	SDST
+T6	Abbreviation 117 120	OBS
+T7	Abbreviation 215 219	MIBI
+T8	Abbreviation 110 112	S/
+T9	Abbreviation 213 214	+
+T10	Abbreviation 227 228	+
+T11	Disease 0 4	I200
+T12	Disease 5 21	ANGINA INESTABLE
+T13	Disease 31 34	HTA
+T14	Disease 36 40	DM-2
+T15	Disease 42 54	DISLIPIDEMIA
+T16	Disease 56 69	AVE SECUELADO
+T17	Disease 106 116	SCA S/SDST
+T18	Disease 121 136	ANGINAINESTABLE
+T19	Diagnostic_Procedure 138 153	CORONARIOGRAFÍA
+T20	Laboratory_or_Test_Result 164 174	LESIONES  
+R1	Has Arg1:T19 Arg2:T20	
+A1	Negated T20
+T21	Sign_or_Symptom 194 212	PERSISTENCIA DOLOR
+T22	Diagnostic_Procedure 215 219	MIBI
+T23	Laboratory_or_Test_Result 230 254	ISQUEMIA LEVE A MODERADA
+R2	Has Arg1:T22 Arg2:T23	
+T24	Disease 230 254	ISQUEMIA LEVE A MODERADA

@@ -1,0 +1,19 @@
+T1	Disease 2 37	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T2	Sign_or_Symptom 44 72	relacion esqueletal clase II
+T3	Sign_or_Symptom 75 103	relacion molar distooclusion
+T4	Sign_or_Symptom 106 135	relacion canina distooclusion
+T5	Sign_or_Symptom 137 177	relacion incisiva sobremordida aumentada
+T6	Sign_or_Symptom 180 243	milimetros faltantes para ordenar los dientes superiores severo
+T7	Sign_or_Symptom 246 307	milimetros faltantes para ordeanr los dientes inferiores leve
+T8	Sign_or_Symptom 322 360	alteriacion en la erupcion de dentaria
+A1	Negated T8
+T9	Sign_or_Symptom 375 390	mordida cruzada
+A2	Negated T9
+T10	Sign_or_Symptom 405 420	dolor en la atm
+A3	Negated T10
+T11	Sign_or_Symptom 435 451	asimetria facial
+A4	Negated T11
+T12	Abbreviation 417 420	atm
+T13	Body_Part 417 420	atm
+T14	Body_Part 284 302	dientes inferiores
+T15	Body_Part 218 236	dientes superiores

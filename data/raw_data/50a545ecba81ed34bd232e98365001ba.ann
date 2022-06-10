@@ -1,0 +1,12 @@
+T1	Abbreviation 54 57	APS
+T2	Body_Part 75 85	diente 1.2
+T3	Medication 184 203	hidróxido de calcio
+T4	Clinical_Finding 278 284	fermín
+T5	Disease 2 30	PERIODONTITIS APICAL CRÓNICA
+T6	Disease 59 74	Necrosis pulpar
+T7	Therapeutic_Procedure 97 108	trepanación
+T8	Disease 310 338	Periodontitis apical cronica
+T9	Clinical_Finding 110 139	instrumentación hasta lima 30
+T10	Clinical_Finding 141 167	irrigación con hipoclorito
+T11	Therapeutic_Procedure 298 308	endodoncia
+A1	Pending T11

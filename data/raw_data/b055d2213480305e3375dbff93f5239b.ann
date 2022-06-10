@@ -1,0 +1,8 @@
+T1	Abbreviation 38 41	APS
+T2	Body_Part 90 95	oidos
+T3	Body_Part 104 120	lobulo de  oidos
+T4	Disease 2 14	PRESBIACUSIA
+T5	Sign_or_Symptom 81 120	dolor de oidos incluye lobulo de  oidos
+T6	Sign_or_Symptom 132 167	disminucion de la agudeza  auditiva
+T7	Sign_or_Symptom 185 228	disfonia ocasional que se arregla con toser
+T8	Disease 230 242	Presbiacusia

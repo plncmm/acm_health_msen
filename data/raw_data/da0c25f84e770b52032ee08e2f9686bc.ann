@@ -1,0 +1,11 @@
+T1	Disease 2 10	PULPITIS
+T2	Abbreviation 34 37	APS
+T3	Abbreviation 39 40	p
+T4	Body_Part 39 45	p. 1.5
+T5	Therapeutic_Procedure 46 55	trepanada
+T6	Disease 60 68	pulpitis
+T7	Sign_or_Symptom 73 83	cavidad OD
+T8	Abbreviation 81 83	OD
+T9	Therapeutic_Procedure 103 113	endodoncia
+A1	Pending T9
+T10	Disease 115 123	Pulpitis

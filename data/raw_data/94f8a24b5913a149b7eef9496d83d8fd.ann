@@ -1,0 +1,15 @@
+T1	Abbreviation 94 97	APS
+T2	Abbreviation 99 103	pcte
+T3	Body_Part 135 141	cabeza
+T4	Body_Part 162 180	fontanea posterior
+T5	Body_Part 280 286	tejido
+T6	Body_Part 297 313	parietal derecho
+T7	Disease 0 16	CRANEOSINOSTOSIS
+T8	Disease 20 70	CEFALOHEMATOMA DEBIDO A TRAUMATISMO DEL NACIMIENTO
+T9	Sign_or_Symptom 135 151	cabeza irregular
+T10	Sign_or_Symptom 156 180	palpa fontanea posterior
+A1	Negated T10
+T11	Sign_or_Symptom 215 257	cefalo hematoma bilateral a nivel parietal
+T12	Disease 215 230	cefalo hematoma
+T13	Sign_or_Symptom 274 313	palpa tejido solido en parietal derecho
+T14	Body_Part 249 257	parietal

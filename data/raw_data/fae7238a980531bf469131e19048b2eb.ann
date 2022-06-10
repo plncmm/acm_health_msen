@@ -1,0 +1,29 @@
+T1	Abbreviation 69 72	APS
+T2	Abbreviation 109 112	rnt
+T3	Body_Part 216 221	manos
+T4	Family_Member 324 329	madre
+T5	Body_Part 438 442	ojos
+T6	Family_Member 596 601	padre
+T7	Abbreviation 643 646	dsm
+T8	Abbreviation 655 657	PC
+T9	Abbreviation 661 663	cm
+T10	Body_Part 665 674	fontanela
+T11	Abbreviation 685 687	cm
+T13	Body_Part 400 406	cuerpo
+T14	Disease 2 45	CONVULSIONES, NO CLASIFICADAS EN OTRA PARTE
+T15	Clinical_Finding 109 112	rnt
+T16	Clinical_Finding 87 107	anatcedentes previos
+A1	Negated T16
+T17	Sign_or_Symptom 199 232	temblor de ambas manos muy rapido
+T18	Sign_or_Symptom 368 406	temblor generalizado de todo el cuerpo
+T19	Sign_or_Symptom 421 427	rigido
+T20	Sign_or_Symptom 438 450	ojos blancos
+T21	Sign_or_Symptom 456 469	hacer sonidos
+A2	Negated T21
+T22	Disease 606 623	trastorno ansioso
+R1	Has Arg1:T6 Arg2:T22	
+T23	Clinical_Finding 643 653	dsm normal
+T24	Sign_or_Symptom 665 682	fontanela baierta
+T25	Clinical_Finding 688 698	normotensa
+T26	Clinical_Finding 700 715	tono conservado
+T27	Disease 743 786	Convulsiones, no clasificadas en otra parte

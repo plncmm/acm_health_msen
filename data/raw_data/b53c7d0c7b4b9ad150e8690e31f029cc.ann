@@ -1,0 +1,46 @@
+T1	Abbreviation 34 37	APS
+T2	Abbreviation 225 228	EII
+T3	Body_Part 225 228	EII
+T4	Abbreviation 279 283	EESS
+T5	Body_Part 279 283	EESS
+T6	Body_Part 290 295	DEDOS
+T7	Body_Part 399 406	FARINGE
+T8	Abbreviation 489 492	HTA
+T9	Abbreviation 514 517	PNC
+T10	Medication 514 517	PNC
+T11	Medication 520 528	DIPIRONA
+T12	Abbreviation 529 533	FCOS
+T13	Abbreviation 536 539	LST
+T14	Medication 536 539	LST
+T15	Abbreviation 542 544	MG
+T16	Abbreviation 553 556	HRS
+T17	Abbreviation 559 562	HCT
+T18	Medication 559 562	HCT
+T19	Abbreviation 565 567	MG
+T20	Abbreviation 478 479	-
+T21	Disease 2 10	DISFONÍA
+T22	Sign_or_Symptom 54 63	CANSANCIO
+T23	Sign_or_Symptom 68 85	AUMENTO DE DISNEA
+T24	Sign_or_Symptom 91 99	DISFONIA
+T25	Sign_or_Symptom 203 211	ORTOPNEA
+A1	Negated T25
+T26	Sign_or_Symptom 216 228	EDEMA DE EII
+A2	Negated T26
+T27	Sign_or_Symptom 264 295	DOLOR EN AMBAS EESS HASTA DEDOS
+T28	Sign_or_Symptom 336 344	CIANOSIS
+A3	Negated T28
+T29	Sign_or_Symptom 351 363	PRECORDAGLIA
+A4	Negated T29
+T30	Sign_or_Symptom 390 398	DISFONIA
+T31	Clinical_Finding 399 428	FARINGE N EVIDENACI ALESIONES
+T32	Sign_or_Symptom 433 443	HEMOPTISIS
+A5	Negated T32
+T33	Sign_or_Symptom 447 459	BAJA DE PESO
+A6	Negated T33
+T34	Clinical_Finding 460 476	RECIENTE  TABACO
+A7	Negated T34
+T35	Disease 489 492	HTA
+T36	Disease 495 503	OBESIDAD
+T37	Clinical_Finding 504 511	ALERGIA
+T38	Disease 581 589	Disfonia
+T39	Abbreviation 481 485	MORB

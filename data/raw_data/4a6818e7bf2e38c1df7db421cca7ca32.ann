@@ -1,0 +1,7 @@
+T1	Abbreviation 28 30	cm
+T3	Abbreviation 22 24	+-
+T2	Body_Part 62 104	angulo interno de parpado superior derecho
+T4	Sign_or_Symptom 0 18	aumento de volumen
+T5	Sign_or_Symptom 53 104	adherido angulo interno de parpado superior derecho
+A1	Negated T5
+T6	Sign_or_Symptom 40 48	sensible

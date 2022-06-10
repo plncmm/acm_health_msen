@@ -1,0 +1,24 @@
+T1	Body_Part 12 17	PECHO
+T2	Abbreviation 41 44	APS
+T3	Abbreviation 55 58	hta
+T4	Abbreviation 144 148	evol
+T5	Abbreviation 149 152	ekg
+T6	Abbreviation 263 265	pg
+T7	Abbreviation 266 270	mlck
+T8	Abbreviation 288 290	ck
+T9	Abbreviation 291 293	mb
+T10	Medication 396 411	ciclobenzaprina
+T11	Medication 414 425	diclofenaco
+T12	Abbreviation 456 460	atte
+T13	Body_Part 472 477	pecho
+T14	Disease 2 17	ANGINA DE PECHO
+T15	Disease 55 58	hta
+T16	Sign_or_Symptom 108 122	dolor toracico
+T17	Diagnostic_Procedure 149 152	ekg
+T18	Laboratory_or_Test_Result 166 179	sin hallazgos
+R1	Has Arg1:T17 Arg2:T18	
+T19	Laboratory_Procedure 205 221	enimas cardiacas
+T20	Laboratory_Procedure 231 256	tromopinina ultrasensible
+T21	Laboratory_Procedure 288 293	ck-mb
+T22	Laboratory_Procedure 268 270	ck
+T23	Disease 462 477	Angina de pecho

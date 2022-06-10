@@ -1,0 +1,5 @@
+T1	Disease 2 44	PREPUCIO REDUNDANTE, FIMOSIS Y PARAFIMOSIS
+T2	Disease 87 116	adherencia balano-prepuciales
+T3	Sign_or_Symptom 122 141	signos de infeccion
+A1	Negated T3
+T4	Body_Part 2 10	PREPUCIO

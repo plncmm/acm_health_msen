@@ -1,0 +1,4 @@
+T1	Sign_or_Symptom 21 34	palpitaciones
+T3	Diagnostic_Procedure 58 71	ecocardiogama
+A1	Pending T3
+T2	Medication 96 113	anti Hipertensivo

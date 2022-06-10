@@ -1,0 +1,9 @@
+T1	Body_Part 0 7	pza 2.1
+T2	Abbreviation 0 3	pza
+T3	Body_Part 59 66	pza 2.2
+T4	Abbreviation 59 62	pza
+T5	Clinical_Finding 8 17	trepanada
+T6	Laboratory_or_Test_Result 22 38	quiste radicular
+T7	Sign_or_Symptom 39 58	movilidad aumentada
+T8	Laboratory_or_Test_Result 100 115	osteitis apical
+T9	Laboratory_or_Test_Result 59 98	pza 2.2 restauracion extensa penetrante

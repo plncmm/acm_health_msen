@@ -1,0 +1,5 @@
+T2	Sign_or_Symptom 49 66	mordida invertida
+T3	Sign_or_Symptom 67 91	mordida abierta anterior
+T4	Disease 92 111	Bruxismo excéntrico
+T1	Sign_or_Symptom 9 29	clase III esqueletal
+T5	Clinical_Finding 30 48	biotipo moseterino

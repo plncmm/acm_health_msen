@@ -1,0 +1,10 @@
+T1	Abbreviation 53 56	APS
+T2	Abbreviation 140 142	SD
+T3	Disease 2 29	HIPOACUSIA, NO ESPECIFICADA
+T4	Sign_or_Symptom 74 92	HIPOACUSIA DERECHA
+T5	Sign_or_Symptom 140 154	SD VERTIGINOSO
+A1	Negated T5
+T6	Sign_or_Symptom 158 166	TINITTUS
+A2	Negated T6
+T7	Sign_or_Symptom 175 212	OTOSCOPIA IMPRESIONA NORMAL BILATERAL
+T8	Disease 213 240	Hipoacusia, no especificada

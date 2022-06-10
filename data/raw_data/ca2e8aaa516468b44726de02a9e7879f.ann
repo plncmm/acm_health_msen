@@ -1,0 +1,7 @@
+T1	Body_Part 1 10	PIEZA 3.7
+T3	Disease 34 61	FRACTURA DE CUSPIDE MV Y ML
+T4	Abbreviation 54 56	MV
+T5	Abbreviation 59 61	ML
+T6	Abbreviation 103 106	PFS
+T7	Therapeutic_Procedure 95 106	ONLAY O PFS
+T2	Sign_or_Symptom 11 29	OBTURACION EXTENSA

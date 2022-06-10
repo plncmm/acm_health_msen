@@ -1,0 +1,7 @@
+T1	Abbreviation 0 4	pcte
+T2	Disease 5 50	desdentada total maxilar y parcial mandibular
+T3	Sign_or_Symptom 52 71	Supuracion de sacos
+T4	Body_Part 75 82	grupo V
+T5	Abbreviation 88 93	antec
+T6	Disease 97 110	periodontitis
+T7	Abbreviation 138 141	tto

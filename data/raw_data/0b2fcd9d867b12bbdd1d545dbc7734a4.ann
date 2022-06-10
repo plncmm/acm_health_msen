@@ -1,0 +1,7 @@
+T1	Body_Part 101 113	mucosa bucal
+T2	Body_Part 194 199	pecho
+T3	Body_Part 202 206	cara
+T4	Disease 35 65	TUMOR DE SITIO NO ESPECIFICADO
+T5	Sign_or_Symptom 82 113	alteraciones en la mucosa bucal
+T6	Disease 150 155	tumor
+T7	Disease 184 206	cances de pecho y cara

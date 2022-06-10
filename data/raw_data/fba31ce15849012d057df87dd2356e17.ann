@@ -1,0 +1,7 @@
+T2	Body_Part 25 30	RECTO
+T3	Body_Part 72 75	ano
+T1	Body_Part 15 18	ANO
+T4	Disease 0 30	HEMORRAGIA DEL ANO Y DEL RECTO
+T5	Sign_or_Symptom 44 75	sangramiento recurrente por ano
+T6	Sign_or_Symptom 81 101	hemorroides externos
+A1	Negated T6

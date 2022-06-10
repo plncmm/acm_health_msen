@@ -1,0 +1,12 @@
+T1	Abbreviation 0 3	pza
+T2	Body_Part 0 7	pza 2.1
+T3	Disease 8 23	necrosis pulpar
+T4	Clinical_Finding 36 47	trepanación
+T5	Abbreviation 73 77	pmcf
+T6	Medication 73 77	pmcf
+T7	Abbreviation 78 79	+
+T8	Clinical_Finding 80 86	fermin
+T9	Abbreviation 87 88	+
+T10	Clinical_Finding 89 100	refuerzo VI
+T11	Therapeutic_Procedure 127 141	terapia pulpar
+A1	Pending T11

@@ -1,0 +1,16 @@
+T1	Body_Part 2 7	VENAS
+T2	Body_Part 25 44	MIEMBROS INFERIORES
+T3	Abbreviation 68 71	APS
+T4	Abbreviation 121 124	+/-
+T5	Body_Part 193 209	PIERNA IZQUIERDA
+T6	Body_Part 317 322	Venas
+T7	Body_Part 340 359	miembros inferiores
+T8	Disease 2 44	VENAS VARICOSAS DE LOS MIEMBROS INFERIORES
+T9	Sign_or_Symptom 172 209	DILATACION VENOSA EN PIERNA IZQUIERDA
+T10	Sign_or_Symptom 211 216	DOLOR
+T11	Sign_or_Symptom 219 245	PESADES EN LA DEAMBULACION
+T12	Sign_or_Symptom 251 256	EDEMA
+A1	Negated T12
+T13	Sign_or_Symptom 260 267	ULCERAS
+A2	Negated T13
+T14	Disease 317 359	Venas varicosas de los miembros inferiores

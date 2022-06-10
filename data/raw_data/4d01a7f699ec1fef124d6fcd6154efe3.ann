@@ -1,0 +1,14 @@
+T1	Abbreviation 40 43	TAC
+T2	Body_Part 44 49	TORAX
+T3	Disease 0 4	R05X
+T4	Disease 5 8	TOS
+T5	Sign_or_Symptom 9 34	TOS CRONICA DE LARGA DATA
+T6	Diagnostic_Procedure 40 49	TAC TORAX
+T7	Diagnostic_Procedure 51 63	ESPIROMETRIA
+T8	Diagnostic_Procedure 66 80	TEST DE MARCHA
+T9	Laboratory_Procedure 82 94	BACILOSCOPIA
+T10	Laboratory_or_Test_Result 95 103	NORMALES
+R1	Has Arg1:T6 Arg2:T10	
+R2	Has Arg1:T8 Arg2:T10	
+R3	Has Arg1:T7 Arg2:T10	
+R4	Has Arg1:T9 Arg2:T10	

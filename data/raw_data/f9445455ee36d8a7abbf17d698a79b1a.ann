@@ -1,0 +1,10 @@
+T1	Disease 2 17	PERICORONARITIS
+T2	Abbreviation 41 44	APS
+T3	Abbreviation 59 62	AVO
+T5	Sign_or_Symptom 77 100	diente 3.8 semiincluido
+T6	Sign_or_Symptom 102 109	trismus
+T7	Disease 166 181	Pericoronaritis
+T9	Disease 142 163	pericoronaritis aguda
+T4	Body_Part 77 87	diente 3.8
+T8	Sign_or_Symptom 59 62	AVO
+#1	AnnotatorNotes T8	revisar con fabian

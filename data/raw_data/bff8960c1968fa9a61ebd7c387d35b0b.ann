@@ -1,0 +1,8 @@
+T1	Abbreviation 46 49	IRA
+T2	Abbreviation 75 80	DM II
+T3	Abbreviation 103 106	HTA
+T4	Sign_or_Symptom 0 17	alteración visual
+T5	Disease 46 58	IRA terminal
+T6	Therapeutic_Procedure 62 74	hemodialisis
+T7	Disease 75 80	DM II
+T8	Disease 103 106	HTA

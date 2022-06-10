@@ -1,0 +1,9 @@
+T1	Abbreviation 51 53	CA
+T2	Family_Member 76 81	PADRE
+T3	Family_Member 93 100	HERMANA
+T4	Abbreviation 28 34	ANTECE
+T5	Disease 0 27	SINDROME DISPEPTICO CRONICO
+T6	Disease 51 62	CA GASTRICO
+A1	Implicit_Family_Background T6
+R1	Has Arg1:T2 Arg2:T6	
+R2	Has Arg1:T3 Arg2:T6	

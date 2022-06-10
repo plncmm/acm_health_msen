@@ -1,0 +1,8 @@
+T1	Body_Part 109 118	pieza 2.4
+T2	Medication 143 162	hidróxido de calcio
+T3	Body_Part 212 219	cemento
+T4	Abbreviation 54 57	APS
+T5	Clinical_Finding 2 30	CARIES DENTINARIA PENETRANTE
+T6	Clinical_Finding 109 128	pieza 2.4 trepanada
+T7	Therapeutic_Procedure 167 198	obturación temporal de ionómero
+T8	Clinical_Finding 201 219	Caries del cemento

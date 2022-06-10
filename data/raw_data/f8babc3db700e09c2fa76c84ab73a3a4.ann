@@ -1,0 +1,9 @@
+T1	Abbreviation 12 16	POST
+T2	Abbreviation 49 52	TTO
+T3	Medication 58 70	LEVOTIROXINA
+T4	Abbreviation 0 1	M
+T5	Clinical_Finding 0 2	M3
+T6	Clinical_Finding 18 29	MENOPAUSICA
+T7	Disease 31 45	HIPOTIROIDISMO
+T8	Disease 73 101	INCONTINENCIA ORINA ESFUERZO
+T9	Disease 103 111	OBESIDAD

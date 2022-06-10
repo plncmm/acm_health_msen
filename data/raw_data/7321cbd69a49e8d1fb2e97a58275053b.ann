@@ -1,0 +1,12 @@
+T1	Abbreviation 42 45	APS
+T2	Abbreviation 47 51	Pcte
+T3	Abbreviation 61 64	hta
+T4	Abbreviation 66 68	ic
+T5	Abbreviation 164 166	qx
+T6	Disease 2 18	HERNIA UMBILICAL
+T8	Disease 61 64	hta
+T9	Disease 66 68	ic
+T10	Disease 70 90	resistencia insulina
+T12	Therapeutic_Procedure 164 166	qx
+T13	Disease 167 183	Hernia umbilical
+T7	Disease 92 122	hernia umbilical no complicada

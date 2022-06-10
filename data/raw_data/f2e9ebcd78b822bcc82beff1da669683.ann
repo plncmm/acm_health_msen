@@ -1,0 +1,16 @@
+T1	Body_Part 2 8	LENGUA
+T2	Abbreviation 40 43	APS
+T3	Body_Part 123 129	lengua
+T4	Abbreviation 146 149	cms
+T5	Abbreviation 151 156	aprox
+T6	Body_Part 271 277	lengua
+T7	Body_Part 288 294	Lengua
+T8	Body_Part 76 100	dorso anterior izquierdo
+T9	Body_Part 102 108	mucosa
+T10	Disease 2 16	LENGUA PLEGADA
+T11	Sign_or_Symptom 58 100	lesión lingual en dorso anterior izquierdo
+T12	Sign_or_Symptom 102 129	mucosa similiar a la lengua
+T13	Sign_or_Symptom 163 222	dolor leve , relata que ha aumentado de tamaño gradualmente
+T14	Sign_or_Symptom 246 268	superficie no ulcerada
+T15	Sign_or_Symptom 271 286	lengua saburral
+T16	Disease 288 302	Lengua plegada

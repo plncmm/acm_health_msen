@@ -1,0 +1,31 @@
+T1	Body_Part 2 11	TESTÍCULO
+T2	Abbreviation 81 84	APS
+T3	Abbreviation 86 89	ECO
+T4	Body_Part 113 123	testiculos
+T5	Body_Part 127 134	escroto
+T6	Abbreviation 214 216	IE
+T7	Body_Part 218 227	testiculo
+T8	Abbreviation 256 259	Abd
+T9	Abbreviation 261 264	BDI
+T10	Abbreviation 266 269	Rha
+T11	Body_Part 311 340	Testiculo derecho e izquierdo
+T12	Body_Part 373 388	region inguinal
+T13	Body_Part 447 456	Testiculo
+T14	Body_Part 36 45	testiculo
+T15	Body_Part 167 181	canal inguinal
+T16	Body_Part 256 259	Abd
+T17	Abbreviation 269 270	+
+T18	Disease 2 36	TESTÍCULO NO DESCENDIDO, BILATERAL
+T19	Disease 36 57	testiculo en ascensor
+T20	Diagnostic_Procedure 86 105	ECO inguinoescrotal
+T21	Laboratory_or_Test_Result 107 213	ambos testiculos en escroto alto con facil ascenso hacia el canal inguinalo tanto a derecha como izquierda
+R1	Has Arg1:T20 Arg2:T21	
+T22	Sign_or_Symptom 218 254	testiculo en ascensor en ambos lados
+T23	Sign_or_Symptom 261 264	BDI
+T24	Sign_or_Symptom 266 269	Rha
+T25	Sign_or_Symptom 275 286	palpo masas
+A1	Negated T25
+T26	Clinical_Finding 289 308	Fimosis fisiologica
+T27	Disease 312 352	esticulo derecho e izquierdo en ascensor
+T28	Sign_or_Symptom 354 404	ambos palpables en region inguinal correspondiente
+T29	Disease 447 481	Testiculo no descendido, bilateral

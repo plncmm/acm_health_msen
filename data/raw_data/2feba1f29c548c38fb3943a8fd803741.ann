@@ -1,0 +1,15 @@
+T1	Abbreviation 0 1;3 4;6 7	G P A
+T2	Clinical_Finding 0 8	G4 P3 A1
+T3	Disease 17 26	DM TIPO 2
+T5	Abbreviation 11 15	PTVE
+T8	Disease 50 66	HIPOTIROIDISMO  
+T10	Abbreviation 69 74	TTO  
+T12	Abbreviation 96 99	LME
+T14	Abbreviation 31 34	MTF
+T4	Abbreviation 17 19	DM
+T15	Abbreviation 39 41	mg
+T6	Therapeutic_Procedure 11 17	PTVE  
+T7	Medication 31 34	MTF
+T9	Clinical_Finding 74 82	PUERPERA
+T11	Clinical_Finding 96 99	LME
+T16	Clinical_Finding 100 116	PARIDAD CUMPLIDA

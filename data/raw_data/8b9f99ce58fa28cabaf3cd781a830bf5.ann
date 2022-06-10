@@ -1,0 +1,8 @@
+T1	Sign_or_Symptom 18 74	ERUPCION ECTOPIA DE PZA. 1.3 CON PERSISTENCIA DE PZA 5.3
+T2	Abbreviation 38 41	PZA
+T3	Body_Part 38 46	PZA. 1.3
+T4	Body_Part 67 74	PZA 5.3
+T5	Abbreviation 67 70	PZA
+T6	Abbreviation 102 105	TTO
+T7	Therapeutic_Procedure 102 116	TTO ORTODONICO
+A1	Pending T7

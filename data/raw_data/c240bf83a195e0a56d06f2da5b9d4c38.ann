@@ -1,0 +1,10 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Abbreviation 44 47	APS
+T3	Body_Part 49 56	Maxilar
+T4	Sign_or_Symptom 49 87	Maxilar: 4.1 Kennedy, reborde V Atwwod
+T5	Body_Part 88 97	Mandibula
+T6	Sign_or_Symptom 88 126	Mandibula: 4 Kennedy, reborde V Atwwod
+T7	Therapeutic_Procedure 128 137	Exodoncia
+T8	Body_Part 150 159	3.4 y 3.5
+T9	Therapeutic_Procedure 172 196	rehabilitacion protesica
+A2	Pending T9

@@ -1,0 +1,12 @@
+T1	Abbreviation 43 46	APS
+T2	Abbreviation 48 52	pcte
+T3	Abbreviation 70 73	sup
+T4	Abbreviation 77 80	inf
+T5	Abbreviation 110 113	sup
+T6	Abbreviation 116 119	inf
+T7	Abbreviation 158 162	pcte
+T8	Body_Part 264 271	dientes
+T9	Disease 2 18	DESDENTADO TOTAL
+T10	Disease 53 80	desdentada total sup e  inf
+T11	Clinical_Finding 82 119	portadora de protesis total sup e inf
+T12	Disease 226 302	Otras afecciones especificadas de los dientes y de sus estructuras de sosten

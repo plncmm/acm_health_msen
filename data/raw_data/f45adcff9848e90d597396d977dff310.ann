@@ -1,0 +1,17 @@
+T1	Abbreviation 49 52	HTA
+T2	Abbreviation 115 117	+-
+T3	Body_Part 147 167	región de epigastrio
+T4	Abbreviation 263 265	mg
+T5	Abbreviation 266 268	dl
+T6	Abbreviation 287 290	hto
+T7	Abbreviation 296 298	hb
+T8	Disease 2 16	HERNIA VENTRAL
+T9	Disease 49 52	HTA
+T10	Disease 55 80	Resistencia a la insulina
+T11	Disease 84 92	obesidad
+T12	Sign_or_Symptom 125 194	aumento de volumen en región de epigastrio  de gran tamaño reductible
+T13	Sign_or_Symptom 218 231	intenso dolor
+T14	Laboratory_Procedure 251 259	glicemia
+T15	Laboratory_Procedure 270 280	creatinina
+T16	Laboratory_Procedure 287 290	hto
+T17	Laboratory_Procedure 296 298	hb

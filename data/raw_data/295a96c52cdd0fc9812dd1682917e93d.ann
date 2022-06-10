@@ -1,0 +1,11 @@
+T1	Abbreviation 51 54	APS
+T2	Body_Part 78 90	pieza. # 1.7
+T3	Abbreviation 170 173	aps
+T4	Body_Part 186 193	dientes
+T5	Disease 2 27	FRACTURA CORONO RADICULAR
+T6	Therapeutic_Procedure 65 74	exodoncia
+T7	Therapeutic_Procedure 157 166	exodoncia
+T8	Disease 95 121	fractura  corono radicular
+T9	Disease 175 255	Perdida de dientes debida a accidente, extraccion o enfermedad periodontal local
+A1	Pending T7
+A2	Pending T6

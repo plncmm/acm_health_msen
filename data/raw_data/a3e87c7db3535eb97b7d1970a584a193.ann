@@ -1,0 +1,28 @@
+T1	Disease 2 15	PROLAPSO ANAL
+T2	Disease 57 59	DM
+T3	Disease 65 68	DLP
+T4	Disease 71 74	HTA
+T5	Disease 144 158	Prolapsia anal
+T6	Sign_or_Symptom 261 291	aumento de tamaño de prolapsoa
+T7	Sign_or_Symptom 299 324	dificultda para reduccion
+T8	Sign_or_Symptom 333 345	incontinecia
+T9	Disease 436 449	Prolapso anal
+T10	Abbreviation 39 42	APS
+#1	AnnotatorNotes T10	atención primaria de salud
+T11	Abbreviation 57 59	DM
+#2	AnnotatorNotes T11	diabetes mellitus
+T12	Abbreviation 60 62	IR
+#3	AnnotatorNotes T12	insulino requiriente
+T13	Abbreviation 63 64	+
+#4	AnnotatorNotes T13	más
+T14	Abbreviation 69 70	+
+#5	AnnotatorNotes T14	más
+T15	Abbreviation 71 74	HTA
+#6	AnnotatorNotes T15	hipertensión arterial
+T16	Abbreviation 65 68	DLP
+#7	AnnotatorNotes T16	dislipemia
+T17	Abbreviation 117 120	+/-
+#8	AnnotatorNotes T17	más o menos
+T18	Abbreviation 141 143	Dg
+#9	AnnotatorNotes T18	diagnóstico
+T19	Abbreviation 99 103	Poli

@@ -1,0 +1,5 @@
+T1	Disease 0 23	Sarcoma retroperitoneal
+T2	Therapeutic_Procedure 36 57	nefrectomia isquierda
+T3	Disease 58 72	tumor pulmonar
+T4	Therapeutic_Procedure 0 30	Sarcoma retroperitoneal operad
+T5	Therapeutic_Procedure 58 90	tumor pulmonar operado izquierdo

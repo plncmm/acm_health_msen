@@ -1,0 +1,9 @@
+T1	Body_Part 0 12	PIEZA DENTAL
+T2	Body_Part 103 108	PIEZA
+T3	Therapeutic_Procedure 13 22	TREPANADA
+T4	Disease 27 44	NECROSIS ACEPTICA
+T5	Disease 47 67	PERIODONTITIS APICAL
+T6	Disease 82 88	CARIES
+A1	Negated T6
+T7	Therapeutic_Procedure 180 189	EXODONCIA
+A2	Pending T7

@@ -1,0 +1,9 @@
+T1	Abbreviation 78 81	MRS
+T2	Abbreviation 119 123	poli
+T3	Abbreviation 124 128	gine
+T4	Abbreviation 177 180	pap
+T5	Clinical_Finding 56 66	climaterio
+T6	Diagnostic_Procedure 177 180	pap
+T7	Diagnostic_Procedure 78 81	MRS
+T8	Clinical_Finding 11 15	SANO
+T9	Clinical_Finding 24 28	sano

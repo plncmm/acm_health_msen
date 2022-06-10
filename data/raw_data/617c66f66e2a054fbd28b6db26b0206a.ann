@@ -1,0 +1,17 @@
+T1	Body_Part 14 19	L3-L4
+T2	Body_Part 95 109	columna lumbar
+T3	Abbreviation 23 25	AM
+T4	Abbreviation 88 89	-
+T5	Abbreviation 111 114	HNP
+T6	Abbreviation 91 93	Qx
+T7	Abbreviation 157 159	VP
+T8	Disease 0 19	RADICULOPATIA L3-L4
+T9	Disease 27 39	hidrocefalia
+T10	Therapeutic_Procedure 27 47	hidrocefalia operado
+T11	Disease 49 64	hernia inguinal
+T12	Clinical_Finding 77 85	Alergias
+A1	Negated T12
+T13	Therapeutic_Procedure 91 109	Qx: columna lumbar
+T14	Disease 111 114	HNP
+T15	Disease 129 141	hidrocefalia
+T16	Therapeutic_Procedure 146 159	derivativa VP

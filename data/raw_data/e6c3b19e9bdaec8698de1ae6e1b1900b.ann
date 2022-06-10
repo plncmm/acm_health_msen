@@ -1,0 +1,10 @@
+T1	Body_Part 0 7	PZA 1.4
+T2	Abbreviation 0 3	PZA
+T3	Abbreviation 88 91	PZA
+T4	Body_Part 88 95	PZA 2.5
+T5	Disease 12 40	DESTRUCCIN CORONARIA EXTERNA
+T6	Therapeutic_Procedure 60 86	REHABILITACION ENDONDOTICA
+T7	Sign_or_Symptom 109 128	REMANENTE RADICULAR
+T8	Therapeutic_Procedure 149 163	REHABILITACION
+A1	Negated T6
+A2	Negated T8

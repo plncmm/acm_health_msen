@@ -1,0 +1,13 @@
+T1	Abbreviation 49 52	APS
+T2	Abbreviation 306 308	ms
+T3	Disease 2 25	ENFERMEDAD DE ALZHEIMER
+T4	Sign_or_Symptom 100 124	deterioro neurocognitivo
+T5	Sign_or_Symptom 144 161	delirium nocturno
+T6	Sign_or_Symptom 163 186	leve perdida de memoria
+T7	Clinical_Finding 215 224	audifonos
+T8	Clinical_Finding 226 250	Buen control de esfinter
+T9	Sign_or_Symptom 256 287	perdida de estabilidad o marcha
+A1	Negated T9
+T10	Sign_or_Symptom 324 343	delirium vespertino
+T11	Disease 384 407	Enfermedad de Alzheimer
+T12	Body_Part 242 250	esfinter

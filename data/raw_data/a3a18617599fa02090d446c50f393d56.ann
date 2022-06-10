@@ -1,0 +1,16 @@
+T1	Abbreviation 67 70	APS
+T2	Abbreviation 313 316	BCG
+T3	Body_Part 404 411	pupilas
+T4	Body_Part 336 358	hendiduras palpebrales
+T5	Disease 2 35	OTROS TRASTORNOS DE LA REFRACCIÓN
+T6	Disease 35 41	Miopia
+T7	Disease 112 118	miopia
+T8	Sign_or_Symptom 130 169	dismincion de agudeza visual progresiva
+T9	Sign_or_Symptom 232 261	dismunucion de agudeza visual
+T10	Clinical_Finding 313 316	BCG
+T11	Clinical_Finding 318 326	eupneica
+T12	Clinical_Finding 327 334	afebril
+T13	Clinical_Finding 336 368	hendiduras palpebrales simtricas
+T14	Clinical_Finding 370 402	movimientos oculares conservados
+T15	Clinical_Finding 404 437	pupilas isocoricas normoreactivas
+T16	Disease 439 472	Otros trastornos de la refraccion

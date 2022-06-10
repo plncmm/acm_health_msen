@@ -1,0 +1,11 @@
+T1	Abbreviation 0 3	Dm2
+T2	Abbreviation 111 113	ml
+T3	Abbreviation 114 117	min
+T4	Abbreviation 118 121	hta
+T5	Abbreviation 125 128	tto
+T6	Disease 0 3	Dm2
+T7	Laboratory_Procedure 56 65	glicemias
+T8	Laboratory_Procedure 76 89	triglicéridos
+T9	Laboratory_Procedure 97 108	creatinemia
+T10	Disease 118 121	hta
+T11	Disease 129 141	dislipidemia

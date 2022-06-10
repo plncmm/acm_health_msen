@@ -1,0 +1,13 @@
+T1	Abbreviation 0 1	G
+T2	Abbreviation 2 3	P
+T3	Abbreviation 27 30	EMB
+T4	Abbreviation 35 38	SEM
+T5	Abbreviation 59 62	TTO
+T6	Medication 100 111	AMOXICILINA
+T7	Clinical_Finding 0 1	G
+T8	Clinical_Finding 2 3	P
+T9	Clinical_Finding 27 30	EMB
+T10	Disease 40 55	ANEMIA MODERADA
+T11	Sign_or_Symptom 64 73	NORMAPESO
+T12	Disease 87 111	ALERGIA A LA AMOXICILINA
+T13	Clinical_Finding 7 24	PRIMIGESTA PRECOZ

@@ -1,0 +1,7 @@
+T1	Body_Part 2 9	MOLARES
+T2	Body_Part 32 49	PIEZA   16  Y  17
+T3	Body_Part 122 129	MOLARES
+T4	Sign_or_Symptom 2 28	MOLARES  SEMI ERUPCIONADOS
+T5	Clinical_Finding 32 74	PIEZA   16  Y  17   CARIADAS  EN   OCLUSAL
+T6	Therapeutic_Procedure 108 129	EXODONCIA  3  MOLARES
+A1	Pending T6

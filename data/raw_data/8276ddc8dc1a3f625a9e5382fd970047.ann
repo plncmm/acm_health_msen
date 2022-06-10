@@ -1,0 +1,11 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Abbreviation 44 47	APS
+T4	Body_Part 82 89	MAXILAR
+T7	Abbreviation 134 137	DTE
+T8	Body_Part 134 142	DTE. 3.4
+T9	Body_Part 146 150	BOCA
+T10	Disease 152 228	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T3	Disease 65 89	DESDENTADO TOTAL MAXILAR
+T5	Disease 92 121	DESDENTADO PARCIAL MANDIBULAR
+T11	Sign_or_Symptom 123 150	SOLO QUEDA DTE. 3.4 EN BOCA
+T6	Body_Part 190 197	dientes

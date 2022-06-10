@@ -1,0 +1,41 @@
+T1	Disease 2 48	TUMOR MALIGNO DEL COLON, PARTE NO ESPECIFICADA
+T2	Disease 52 82	ANEMIA DE TIPO NO ESPECIFICADO
+T3	Abbreviation 106 109	APS
+T4	Sign_or_Symptom 158 168	decamiento
+T5	Disease 170 176	anemia
+T6	Sign_or_Symptom 178 199	tos productiva escasa
+T7	Sign_or_Symptom 201 216	perdida de peso
+T8	Sign_or_Symptom 218 236	perdida de apetito
+T9	Abbreviation 238 240	ex
+T10	Sign_or_Symptom 249 255	palido
+T11	Sign_or_Symptom 257 266	hidratado
+T12	Abbreviation 268 274	cardio
+T13	Abbreviation 276 283	rr2t.ss
+T14	Sign_or_Symptom 276 283	rr2t.ss
+T15	Abbreviation 293 295	mp
+T17	Abbreviation 299 302	sra
+T18	Abbreviation 320 323	Abd
+T19	Abbreviation 324 327	rha
+T21	Abbreviation 332 335	bdi
+T23	Abbreviation 351 353	Rx
+T24	Body_Part 354 359	torax
+T25	Sign_or_Symptom 293 298	mp(+)
+T26	Sign_or_Symptom 299 302	sra
+T27	Sign_or_Symptom 304 318	cifosis dorsal
+T28	Sign_or_Symptom 324 331	rha (+)
+T29	Sign_or_Symptom 332 335	bdi
+T34	Body_Part 285 291	pulmon
+T35	Body_Part 320 323	Abd
+T36	Body_Part 20 25	COLON
+T16	Abbreviation 296 297	+
+T20	Abbreviation 329 330	+
+T22	Abbreviation 347 348	-
+T37	Sign_or_Symptom 337 345	blumberg
+A1	Negated T37
+T30	Diagnostic_Procedure 351 359	Rx torax
+T31	Laboratory_or_Test_Result 361 436	infiltrado intersticial difuso en campo derecho, sin signos de condensacion
+R1	Has Arg1:T30 Arg2:T31	
+T32	Diagnostic_Procedure 447 472	ENDOSCOPIA DIGESTIVA ALTA
+A2	Pending T32
+T33	Diagnostic_Procedure 475 487	COLONOSCOPIA
+A3	Pending T33

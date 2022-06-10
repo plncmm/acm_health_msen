@@ -1,0 +1,27 @@
+T1	Abbreviation 56 59	APS
+T2	Abbreviation 70 75	ANTEC
+T3	Abbreviation 212 214	KG
+T4	Abbreviation 215 220	APROX
+T5	Abbreviation 260 262	HB
+T6	Abbreviation 266 270	HCTO
+T7	Abbreviation 408 411	ETC
+T8	Disease 2 32	ANEMIA DE TIPO NO ESPECIFICADO
+T9	Disease 79 100	HIPERTENSIÓN ARTERIAL
+T10	Disease 102 123	FIBRILACIÓN AURICULAR
+T11	Medication 127 131	TACO
+T12	Sign_or_Symptom 147 163	MALESTAR GENERAL
+T13	Sign_or_Symptom 165 176	DECAIMIENTO
+T14	Sign_or_Symptom 178 190	FATIGA FACIL
+T15	Sign_or_Symptom 193 205	BAJA DE PESO
+T16	Laboratory_or_Test_Result 250 256	ANEMIA
+T17	Laboratory_Procedure 266 270	HCTO
+T18	Laboratory_Procedure 260 262	HB
+T19	Laboratory_or_Test_Result 319 328	HEMATURIA
+A1	Negated T19
+T20	Laboratory_Procedure 340 362	SANGRE EN DEPOSICIONES
+A2	Pending T20
+T21	Laboratory_Procedure 387 406	CINETICA DEL FIERRO
+A3	Pending T21
+T22	Disease 475 505	Anemia de tipo no especificado
+T23	Disease 250 256	ANEMIA
+T24	Disease 427 433	ANEMIA

@@ -1,0 +1,5 @@
+T1	Sign_or_Symptom 13 39	SENSACION DE MASA GASTRICA
+T2	Sign_or_Symptom 69 76	REFLUJO
+T3	Sign_or_Symptom 83 102	VOMITOS ALIMENTICIO
+T4	Clinical_Finding 51 64	COMER SENTADO
+A1	Negated T4

@@ -1,0 +1,8 @@
+T1	Sign_or_Symptom 18 42	apiñamiento grupo II y V
+T2	Sign_or_Symptom 43 71	mordida invertida simple pza
+T3	Body_Part 30 42	grupo II y V
+T4	Abbreviation 68 71	pza
+T5	Body_Part 68 74	pza. 7
+T6	Abbreviation 75 76	+
+T7	Sign_or_Symptom 77 119	erupciòn palatina 2º premolares superiores
+T8	Body_Part 95 119	2º premolares superiores

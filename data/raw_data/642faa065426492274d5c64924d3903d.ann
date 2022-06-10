@@ -1,0 +1,19 @@
+T1	Abbreviation 78 80	cx
+T2	Family_Member 117 124	Hermana
+T3	Abbreviation 152 155	PAP
+T4	Abbreviation 363 367	Atte
+T5	Body_Part 146 151	utero
+T6	Abbreviation 347 351	poli
+T7	Disease 2 47	ESTADOS MENOPÁUSICOS Y CLIMATÉRICOS FEMENINOS
+T8	Clinical_Finding 55 76	antecedentes morbidos
+A1	Negated T8
+T9	Clinical_Finding 93 101	alergias
+A2	Negated T9
+T10	Diagnostic_Procedure 152 155	PAP
+T11	Diagnostic_Procedure 169 179	Mamografia
+T12	Sign_or_Symptom 231 236	calor
+T13	Sign_or_Symptom 238 248	sudoración
+T14	Sign_or_Symptom 250 271	enrojecimiento facial
+T15	Disease 352 362	climaterio
+T16	Disease 136 151	cancer de utero
+R1	Has Arg1:T2 Arg2:T16	

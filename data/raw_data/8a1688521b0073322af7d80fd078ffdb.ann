@@ -1,0 +1,8 @@
+T1	Disease 2 46	HERNIA UMBILICAL SIN OBSTRUCCIÓN NI GANGRENA
+T2	Abbreviation 70 73	APS
+T3	Sign_or_Symptom 75 104	AUMENTO VOLUMEN PERIUMBILICAL
+T4	Abbreviation 106 109	OBS
+T5	Sign_or_Symptom 110 124	MASA HERNIARIA
+T6	Sign_or_Symptom 131 153	SIGNOS DE COMPLICACIÓN
+A1	Negated T6
+T7	Disease 155 199	Hernia umbilical sin obstruccion ni gangrena

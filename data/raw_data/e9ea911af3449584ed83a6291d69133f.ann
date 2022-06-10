@@ -1,0 +1,22 @@
+T1	Abbreviation 0 2	DX
+T2	Abbreviation 64 67	DM2
+T3	Abbreviation 70 73	HTA
+T4	Abbreviation 76 79	EVE
+T5	Abbreviation 122 125	VFG
+T6	Abbreviation 129 131	ML
+T7	Abbreviation 133 136	MIN
+T8	Abbreviation 156 159	NUS
+T9	Abbreviation 210 215	HBA1C
+T10	Disease 5 39	ISUFICIENCIA RENAL CRONICA ETAPA 3
+T11	Disease 64 67	DM2
+T12	Disease 70 73	HTA
+T13	Disease 76 89	EVE SECUELADO
+T14	Diagnostic_Procedure 111 119	EXÁMENES
+T15	Laboratory_Procedure 122 125	VFG
+T16	Laboratory_Procedure 139 149	CREATININA
+T17	Laboratory_Procedure 156 159	NUS
+T18	Laboratory_Procedure 167 171	UREA
+T19	Laboratory_Procedure 178 189	ACIDO URICO
+T20	Laboratory_Procedure 197 204	GLUCOSA
+T21	Laboratory_Procedure 210 215	HBA1C
+T22	Laboratory_Procedure 222 237	EXAMEN DE ORINA

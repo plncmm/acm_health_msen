@@ -1,0 +1,7 @@
+T1	Clinical_Finding 25 44	PATOLOGIAS CRONICAS
+A1	Negated T1
+T2	Disease 46 84	DESDENTADO PARCIAL SUPERIOR E INFERIOR
+T3	Abbreviation 109 112	APS
+T4	Therapeutic_Procedure 125 137	EXTRACCIONES
+T5	Therapeutic_Procedure 143 144	T
+T6	Therapeutic_Procedure 113 123	OPERATORIA

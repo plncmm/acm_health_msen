@@ -1,0 +1,13 @@
+T1	Body_Part 31 37	DIENTE
+T2	Abbreviation 61 64	APS
+T3	Body_Part 82 90	dte. 2.3
+T4	Abbreviation 82 85	dte
+T6	Abbreviation 150 154	dtes
+T7	Body_Part 182 190	dte. 6.3
+T8	Abbreviation 182 185	dte
+T9	Body_Part 220 226	diente
+T5	Body_Part 140 165	apices de dtes. 2.1 y 2.2
+T10	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T11	Laboratory_or_Test_Result 82 165	dte. 2.3 intraóseo en posición mesioalgular en relación a apices de dtes. 2.1 y 2.2
+T12	Sign_or_Symptom 167 190	Permanencia de dte. 6.3
+T13	Disease 191 226	Anomalias de la posicion del diente

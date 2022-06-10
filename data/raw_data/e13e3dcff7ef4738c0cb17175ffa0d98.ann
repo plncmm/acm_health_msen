@@ -1,0 +1,14 @@
+T1	Body_Part 19 42	DISCOS INTERVERTEBRALES
+T2	Abbreviation 83 86	APS
+T3	Body_Part 126 136	pierna izq
+T4	Abbreviation 133 136	izq
+T5	Abbreviation 145 149	evol
+T6	Abbreviation 151 153	EF
+T7	Body_Part 192 215	discos intervertebrales
+T8	Disease 2 59	TRASTORNO DE LOS DISCOS INTERVERTEBRALES, NO ESPECIFICADO
+T9	Sign_or_Symptom 101 136	dolor lumbar irradiado a pierna izq
+T10	Disease 175 232	Trastorno de los discos intervertebrales, no especificado
+T11	Abbreviation 162 163	+
+T12	Abbreviation 173 174	+
+T13	Sign_or_Symptom 166 174	lasage +
+T14	Sign_or_Symptom 158 163	TEPE+

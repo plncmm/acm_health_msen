@@ -1,0 +1,9 @@
+T1	Abbreviation 107 110	APS
+T2	Abbreviation 213 216	tto
+T3	Disease 2 41	OTRAS ARRITMIAS CARDÍACAS ESPECIFICADAS
+T4	Laboratory_or_Test_Result 41 71	Extrasistolia supraventricular
+T5	Sign_or_Symptom 120 129	cansancio
+T6	Sign_or_Symptom 131 144	palpitaciones
+T7	Sign_or_Symptom 180 193	falta de aire
+T8	Disease 195 209	Hipotiroidismo
+T9	Disease 218 257	Otras arritmias cardiacas especificadas

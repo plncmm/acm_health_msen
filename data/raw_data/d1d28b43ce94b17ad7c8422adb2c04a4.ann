@@ -1,0 +1,25 @@
+T1	Body_Part 43 50	CORAZÓN
+T2	Abbreviation 103 106	hta
+T3	Abbreviation 109 112	dm2
+T4	Medication 138 147	enalapril
+T5	Medication 150 167	hidroclorotiazida
+T6	Medication 169 177	aspirina
+T7	Medication 178 188	famotidina
+T8	Medication 189 201	gemfibrozilo
+T9	Medication 203 216	glibenclamida
+T10	Medication 219 229	metformina
+T11	Abbreviation 113 116	nir
+T12	Body_Part 306 318	rama derecha
+T13	Disease 2 50	OTROS TIPOS ESPECIFICADOS DE BLOQUEO DEL CORAZÓN
+T14	Disease 103 106	hta
+T15	Disease 109 112	dm2
+T16	Diagnostic_Procedure 234 254	electrocardiograma  
+T17	Laboratory_or_Test_Result 286 318	bloqueo completo de rama derecha
+T18	Laboratory_or_Test_Result 321 366	signos sugerentes de infarto inferior posible
+R1	Has Arg1:T16 Arg2:T18	
+R2	Has Arg1:T16 Arg2:T17	
+T19	Disease 286 318	bloqueo completo de rama derecha
+T20	Disease 342 358	infarto inferior
+T21	Clinical_Finding 401 413	asintomatico
+T22	Clinical_Finding 415 440	hemodinamicamente estable
+T23	Clinical_Finding 380 399	buen estado general

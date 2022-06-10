@@ -1,0 +1,8 @@
+T1	Disease 2 46	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T2	Body_Part 19 46	ARTICULACIÓN TEMPOROMAXILAR
+T3	Abbreviation 70 73	APS
+T4	Disease 87 95	bruxismo
+T5	Sign_or_Symptom 95 124	desgaste excesivo de cuspides
+T6	Sign_or_Symptom 124 148	desalojo de obturaciones
+T7	Disease 149 193	Trastornos de la articulacion temporomaxilar
+T8	Body_Part 166 193	articulacion temporomaxilar

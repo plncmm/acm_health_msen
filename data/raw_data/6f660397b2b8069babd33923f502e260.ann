@@ -1,0 +1,10 @@
+T1	Abbreviation 62 65	APS
+T2	Abbreviation 240 243	KHZ
+T3	Disease 2 38	HIPOACUSIA NEUROSENSORIAL, BILATERAL
+T4	Sign_or_Symptom 116 151	habla segun desarrollo para la edad
+A1	Negated T4
+T5	Diagnostic_Procedure 152 172	potenciales evocados
+T6	Laboratory_or_Test_Result 188 223	hipoacusia sensorial leve bilateral
+R1	Has Arg1:T5 Arg2:T6	
+T7	Sign_or_Symptom 245 264	signos de inmadurez
+T8	Therapeutic_Procedure 284 324	estimulacion con audioprotesis digitales

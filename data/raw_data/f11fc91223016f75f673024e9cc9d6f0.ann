@@ -1,0 +1,9 @@
+T1	Disease 2 39	ANOMALÍA DENTOFACIAL, NO ESPECIFICADA
+T2	Abbreviation 63 66	APS
+T3	Disease 86 103	mordida invertida
+T4	Sign_or_Symptom 105 118	overjet -1 mm
+T5	Abbreviation 116 118	mm
+T6	Clinical_Finding 120 134	overbite +2 mm
+T7	Abbreviation 132 134	mm
+T8	Sign_or_Symptom 136 164	Clase III de angle bilateral
+T9	Disease 167 204	Anomalia dentofacial, no especificada

@@ -1,0 +1,17 @@
+T1	Abbreviation 12 15	IAM
+T2	Abbreviation 95 98	HTA
+T3	Abbreviation 99 102	DM2
+T4	Abbreviation 103 106	ICC
+T6	Disease 0 11	C CORONARIA
+T7	Disease 12 15	IAM
+T8	Therapeutic_Procedure 19 41	ANGIOPLASTIA CON STENT
+T9	Diagnostic_Procedure 45 61	TEST DE ESFUERZO
+T10	Disease 75 94	ISQUEMIA MIOCARDICA
+T11	Laboratory_or_Test_Result 75 94	ISQUEMIA MIOCARDICA
+R1	Has Arg1:T9 Arg2:T11	
+T12	Disease 95 98	HTA
+T13	Disease 99 102	DM2
+T14	Disease 103 106	ICC
+T15	Sign_or_Symptom 107 112	CF II
+T16	Abbreviation 0 1	C
+T5	Abbreviation 107 109	CF

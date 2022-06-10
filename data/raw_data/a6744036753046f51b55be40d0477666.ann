@@ -1,0 +1,10 @@
+T1	Disease 20 58	desdentado parcial superior e inferior
+T2	Abbreviation 81 84	pza
+T3	Body_Part 81 87	pza 11
+T4	Abbreviation 111 114	tto
+T5	Abbreviation 136 139	tto
+T6	Therapeutic_Procedure 136 151	tto endodóntico
+T7	Abbreviation 226 229	tto
+T8	Therapeutic_Procedure 226 251	tto de protesis removible
+A2	Pending T8
+A1	Negated T6

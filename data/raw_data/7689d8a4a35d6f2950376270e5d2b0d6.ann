@@ -1,0 +1,6 @@
+T1	Disease 2 33	OTRAS PULPITIS, SIN ESPECIFICAR
+T2	Abbreviation 57 60	APS
+T3	Abbreviation 62 67	pacte
+T4	Sign_or_Symptom 72 95	dolor en diente 3.7-4.7
+T5	Body_Part 81 95	diente 3.7-4.7
+T6	Disease 101 115	pulpitis aguda

@@ -1,0 +1,10 @@
+T1	Abbreviation 77 81	PCTE
+T2	Abbreviation 76 77	+
+T3	Abbreviation 102 104	Qx
+T4	Body_Part 105 112	TÍMPANO
+T5	Disease 0 18	OTITIS MEDIA AGUDA
+T6	Disease 20 24	H669
+T7	Disease 26 44	OTITIS MEDIA AGUDA
+T8	Disease 45 63	OTITIS MEDIA AGUDA
+T9	Clinical_Finding 66 76	REPETICIÓN
+T10	Therapeutic_Procedure 102 112	Qx TÍMPANO

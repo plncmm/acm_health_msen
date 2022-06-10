@@ -1,0 +1,10 @@
+T1	Body_Part 21 25	PIEL
+T2	Body_Part 101 105	piel
+T3	Abbreviation 186 189	APS
+T4	Abbreviation 191 195	pcte
+T5	Body_Part 329 333	piel
+T6	Body_Part 253 256	pie
+T7	Disease 2 82	CAMBIO AGUDO DE LA PIEL DEBIDO A RADIACIÓN ULTRAVIOLETA, SIN OTRA ESPECIFICACIÓN
+T8	Disease 82 162	Cambio agudo de la piel debido a radiación ultravioleta, sin otra especificación
+T10	Disease 310 390	Cambio agudo de la piel debido a radiacion ultravioleta, sin otra especificacion
+T9	Sign_or_Symptom 229 309	cambio de coloracion en pie a exposicion al sol aumenta , con cese al evitar sol

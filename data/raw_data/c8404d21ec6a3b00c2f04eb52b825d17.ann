@@ -1,0 +1,8 @@
+T1	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T2	Therapeutic_Procedure 53 63	endodoncia
+A1	Pending T2
+T3	Abbreviation 67 68	p
+T4	Body_Part 67 73	p. 1.4
+T5	Disease 78 107	caries od dentinaria profunda
+T6	Abbreviation 85 87	od
+T7	Body_Part 120 133	camara pulpar

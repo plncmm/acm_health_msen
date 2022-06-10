@@ -1,0 +1,111 @@
+T2	Medication 949 959	S. Ferroso
+T3	Medication 1741 1749	Aspirina
+T4	Medication 1757 1767	 glafornil
+T5	Medication 1784 1792	losartan
+T6	Medication 1811 1828	Hidroclorotiazida
+T7	Medication 1844 1859	sulfato ferroso
+T8	Abbreviation 949 950	S
+T9	Body_Part 20 26	URÉTER
+T10	Body_Part 37 51	VÍAS URINARIAS
+T11	Disease 217 220	HTA
+T12	Disease 223 226	DM2
+T13	Abbreviation 217 220	HTA
+T14	Abbreviation 223 226	DM2
+T15	Abbreviation 1688 1691	abd
+T16	Body_Part 1688 1691	abd
+T17	Body_Part 1898 1904	ureter
+T18	Body_Part 1915 1929	vias urinarias
+T19	Disease 2 26	TUMOR MALIGNO DEL URÉTER
+T20	Disease 331 341	Ca uterino
+T22	Abbreviation 331 333	Ca
+T1	Medication 934 944	suplemento
+T23	Abbreviation 114 117	APS
+T24	Abbreviation 208 213	antec
+T25	Abbreviation 266 271	antec
+T26	Abbreviation 319 321	dg
+T27	Abbreviation 439 444	aprox
+T28	Abbreviation 618 620	Hb
+T29	Abbreviation 711 713	hb
+T30	Abbreviation 721 723	hb
+T31	Abbreviation 851 855	sept
+T32	Abbreviation 964 966	mg
+T33	Abbreviation 975 978	hrs
+T34	Abbreviation 1070 1075	Hba1c
+T35	Abbreviation 1082 1084	PA
+T36	Abbreviation 1126 1129	BUN
+T37	Abbreviation 1159 1161	Hb
+T38	Abbreviation 1170 1173	Hto
+T39	Abbreviation 1570 1573	PAP
+T40	Abbreviation 1693 1696	BDI
+T41	Abbreviation 1697 1700	RHA
+T42	Abbreviation 1754 1756	mg
+T43	Abbreviation 1772 1774	mg
+T44	Abbreviation 1796 1798	mg
+T45	Abbreviation 1807 1810	hrs
+T46	Abbreviation 1832 1834	mg
+T47	Abbreviation 1864 1866	mg
+T48	Abbreviation 1875 1878	hrs
+T49	Disease 56 90	HEMATURIA RECURRENTE Y PERSISTENTE
+T50	Laboratory_or_Test_Result 142 156	microhematuria
+T51	Disease 159 165	anemia
+T52	Clinical_Finding 231 259	excelente control metabolico
+T53	Therapeutic_Procedure 275 288	histerectomia
+T54	Disease 293 304	metrorragia
+T55	Therapeutic_Procedure 356 367	transfusion
+T56	Therapeutic_Procedure 385 398	histerectomia
+T57	Therapeutic_Procedure 514 530	cirugia curativa
+T58	Disease 589 595	anemia
+T59	Laboratory_Procedure 618 620	Hb
+T61	Laboratory_Procedure 711 713	hb
+T62	Laboratory_Procedure 721 723	hb
+T63	Laboratory_or_Test_Result 730 744	microhematuria
+T64	Laboratory_Procedure 768 806	test hemorragia oculta en deposiciones
+T65	Laboratory_or_Test_Result 807 815	negativo
+R1	Has Arg1:T64 Arg2:T65	
+T66	Laboratory_Procedure 831 847	control de orina
+T67	Laboratory_or_Test_Result 872 881	hematuria
+T68	Laboratory_Procedure 1021 1034	nuevo control
+T69	Laboratory_or_Test_Result 1045 1068	buen control metabolico
+T70	Laboratory_Procedure 1070 1075	Hba1c
+T71	Laboratory_Procedure 1110 1120	creatinina
+T72	Laboratory_or_Test_Result 1135 1151	Microalbuminuria
+T73	Laboratory_Procedure 1126 1129	BUN
+T74	Laboratory_Procedure 1159 1161	Hb
+T75	Laboratory_Procedure 1170 1173	Hto
+T76	Laboratory_Procedure 1180 1188	hematies
+T77	Laboratory_Procedure 1204 1214	leucocitos
+T78	Laboratory_or_Test_Result 1230 1246	bacterias escasa
+T79	Laboratory_or_Test_Result 1249 1267	nitritos negativos
+T80	Laboratory_or_Test_Result 1280 1308	dimorfismo de globulos rojos
+T81	Laboratory_Procedure 1312 1327	examen de orina
+R2	Has Arg1:T81 Arg2:T80	
+T82	Sign_or_Symptom 1359 1371	leve palidez
+T83	Sign_or_Symptom 1377 1386	molestias
+A1	Negated T83
+T85	Sign_or_Symptom 1453 1488	sintomatologia irritaitiva urinaria
+A3	Negated T85
+T86	Sign_or_Symptom 1502 1524	hematuria macroscopica
+A4	Negated T86
+T87	Sign_or_Symptom 1530 1542	baja de peso
+A5	Negated T87
+T88	Sign_or_Symptom 1548 1568	sangrado via vaginal
+A6	Negated T88
+T89	Diagnostic_Procedure 1570 1573	PAP
+T90	Sign_or_Symptom 1620 1629	hidratada
+T93	Sign_or_Symptom 1693 1696	BDI
+T94	Sign_or_Symptom 1697 1709	RHA normales
+T95	Sign_or_Symptom 1713 1724	palpo masas
+A7	Negated T95
+T21	Disease 1880 1929	Tumor maligno del ureter, ( de las vias urinarias
+T96	Laboratory_or_Test_Result 1594 1600	normal
+R3	Has Arg1:T89 Arg2:T96	
+T97	Sign_or_Symptom 408 428	sangrado persistente
+T98	Clinical_Finding 535 557	remision de enfermedad
+T84	Sign_or_Symptom 1427 1447	molestias urologicas
+A2	Negated T84
+T60	Clinical_Finding 633 650	focos de sangrado
+A8	Negated T60
+T91	Sign_or_Symptom 1631 1648	leve palidez piel
+T99	Sign_or_Symptom 1649 1655	activa
+T92	Sign_or_Symptom 1666 1687	cardiopulmonar normal
+T100	Sign_or_Symptom 1656 1665	tranquila

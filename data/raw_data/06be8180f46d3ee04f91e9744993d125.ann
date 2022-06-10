@@ -1,0 +1,5 @@
+T1	Therapeutic_Procedure 45 54	EXODONCIA
+A1	Pending T1
+T2	Body_Part 55 64	PIEZA 1.4
+T3	Sign_or_Symptom 69 95	GRAN DESTRUCCINN CORONARIA
+T4	Disease 97 103	CARIES

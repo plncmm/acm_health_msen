@@ -1,0 +1,10 @@
+T1	Abbreviation 89 92	APS
+T2	Abbreviation 175 180	APROX
+T3	Disease 2 30	BRADICARDIA, NO ESPECIFICADA
+T4	Disease 34 65	PRESENCIA DE MARCAPASO CARDIACO
+T5	Disease 210 241	Presencia de marcapaso cardiaco
+T6	Sign_or_Symptom 111 154	"DESCARGAS ELECTRICAS" EN ZONA DE MARCAPASO
+T7	Sign_or_Symptom 193 208	MAREOS INTENSOS
+T8	Therapeutic_Procedure 47 65	MARCAPASO CARDIACO
+T9	Therapeutic_Procedure 145 154	MARCAPASO
+T10	Therapeutic_Procedure 223 241	marcapaso cardiaco

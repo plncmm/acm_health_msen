@@ -1,0 +1,14 @@
+T1	Abbreviation 65 68	TTO
+T3	Abbreviation 72 75	ENL
+T4	Medication 72 75	ENL
+T5	Abbreviation 78 80	MG
+T6	Abbreviation 83 86	HRS
+T7	Medication 87 97	MERFORMINA
+T8	Abbreviation 100 102	mg
+T9	Abbreviation 105 108	HCT
+T10	Medication 105 108	HCT
+T11	Abbreviation 103 104	+
+T12	Abbreviation 112 114	mg
+T2	Abbreviation 69 71	C/
+T13	Disease 0 28	ENFERMEDADA ARTERIAL CRONICA
+T14	Sign_or_Symptom 140 157	DOLOR A LA MARCHA

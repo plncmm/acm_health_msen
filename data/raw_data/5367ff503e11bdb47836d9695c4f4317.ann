@@ -1,0 +1,18 @@
+T1	Disease 2 9	MIGRAÑA
+T2	Abbreviation 33 36	APS
+T3	Abbreviation 59 64	ANTEC
+T4	Clinical_Finding 59 73	ANTEC MORBIDOS
+A1	Negated T4
+T5	Sign_or_Symptom 96 125	CEFALEA HOLOCRANEANA PULSATIL
+T6	Abbreviation 143 146	HRS
+T7	Sign_or_Symptom 209 213	AURA
+T8	Sign_or_Symptom 219 226	VOMITOS
+A2	Negated T8
+T9	Sign_or_Symptom 239 245	MAREOS
+T10	Sign_or_Symptom 251 258	SINCOPE
+A3	Negated T10
+T11	Sign_or_Symptom 264 285	FOLCAIDAD NEUROLOGICA
+A4	Negated T11
+T12	Abbreviation 287 289	EX
+T13	Abbreviation 334 338	ATTE
+T14	Disease 342 349	Migraña

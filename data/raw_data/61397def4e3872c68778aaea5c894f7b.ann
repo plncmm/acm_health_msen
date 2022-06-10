@@ -1,0 +1,9 @@
+T1	Abbreviation 40 43	APS
+T2	Body_Part 78 96	planta de los pies
+T3	Abbreviation 136 138	rx
+T4	Body_Part 142 146	pies
+T5	Disease 0 16	ESPOLÓN CALCÁNEO
+T6	Sign_or_Symptom 66 96	dolor en la planta de los pies
+T7	Diagnostic_Procedure 136 146	rx de pies
+T8	Laboratory_or_Test_Result 151 180	espolon de calcaneo bilateral
+R1	Has Arg1:T7 Arg2:T8	

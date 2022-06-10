@@ -1,0 +1,11 @@
+T1	Disease 40 52	CA. TIROIDEA
+T2	Body_Part 148 154	TIRODE
+T3	Abbreviation 40 42	CA
+T4	Family_Member 55 60	MADRE
+T5	Family_Member 62 65	TIA
+T6	Family_Member 68 74	ABUELA
+R1	Has Arg1:T6 Arg2:T1	
+R2	Has Arg1:T5 Arg2:T1	
+R3	Has Arg1:T4 Arg2:T1	
+T7	Abbreviation 105 108	DRA
+T8	Diagnostic_Procedure 132 154	SCREENING DE LA TIRODE

@@ -1,0 +1,6 @@
+T1	Body_Part 18 26	pieza 14
+T2	Disease 18 48	pieza 14 con lesion periapical
+T3	Therapeutic_Procedure 89 110	tratamiento radicular
+T4	Therapeutic_Procedure 49 78	eliminacion de caries parcial
+A1	Pending T3
+T5	Laboratory_or_Test_Result 31 48	lesion periapical

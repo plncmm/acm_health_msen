@@ -1,0 +1,22 @@
+T1	Abbreviation 396 399	CAE
+T2	Abbreviation 421 428	AMIGDAS
+T3	Body_Part 421 428	AMIGDAS
+T4	Abbreviation 444 446	rx
+T5	Body_Part 450 464	cavum faringeo
+T6	Body_Part 540 559	amigdalas palatinas
+T7	Abbreviation 633 637	atte
+T8	Body_Part 46 73	CONDUCTO AUDITIVO (EXTERNO)
+T9	Body_Part 396 399	CAE
+T10	Disease 2 73	AUSENCIA CONGÉNITA, ATRESIA O ESTRECHEZ DEL CONDUCTO AUDITIVO (EXTERNO)
+T11	Sign_or_Symptom 107 127	HIPOACUSIA IZQUIERDA
+T12	Clinical_Finding 286 331	OTOSCOPIA DERECHA DENTRO DE LIMITES NORMNALES
+T13	Disease 384 399	AGENESIA DE CAE
+T14	Sign_or_Symptom 421 437	AMIGDAS GRADO IV
+T15	Diagnostic_Procedure 444 464	rx de cavum faringeo
+T16	Laboratory_or_Test_Result 480 515	hipertrofia adenoidea significativa
+T17	Laboratory_or_Test_Result 525 559	hipertrofia de amigdalas palatinas
+R1	Has Arg1:T15 Arg2:T16	
+R2	Has Arg1:T15 Arg2:T17	
+T18	Sign_or_Symptom 569 578	ronquidos
+T19	Clinical_Finding 595 601	apneas
+A1	Negated T19

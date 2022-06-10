@@ -1,0 +1,5 @@
+OBESIDAD - Obesidad, no especificada
+HIPERCOLESTEROLEMIA - Hipercolesterolemia pura
+HIPERTRIGLICERIDEMIA - Hipergliceridemia pura
+RESISTENCIA A LA INSULINA - Trastorno metabólico, no especificado
+HIGADO GRASO - Degeneración grasa del hígado, no clasificad

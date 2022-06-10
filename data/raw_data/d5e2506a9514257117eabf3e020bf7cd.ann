@@ -1,0 +1,14 @@
+T1	Abbreviation 0 4	PCTE
+T2	Abbreviation 10 12	RX
+T3	Body_Part 35 46	RAIZ PZA 31
+T4	Abbreviation 82 85	IZQ
+T5	Body_Part 101 107	DIENTE
+T6	Abbreviation 122 124	RX
+T7	Abbreviation 40 43	PZA
+T8	Body_Part 64 85	SECTOR MANDIBULAR IZQ
+T9	Body_Part 119 121	31
+T10	Diagnostic_Procedure 10 23	RX PANORAMICA
+T11	Laboratory_or_Test_Result 35 46	RAIZ PZA 31
+R1	Has Arg1:T10 Arg2:T11	
+T12	Sign_or_Symptom 55 121	DOLOR EN SECTOR MANDIBULAR IZQ. EN RELACION A DIENTE MENCIONADO 31
+T13	Diagnostic_Procedure 122 135	RX PANORAMICO

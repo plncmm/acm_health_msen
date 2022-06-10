@@ -1,0 +1,7 @@
+T1	Body_Part 0 8	prepucio
+T2	Sign_or_Symptom 0 19	prepucio redundante
+T3	Disease 22 29	fimosis
+T4	Disease 32 42	parafimosi
+T5	Clinical_Finding 57 92	antecedents morbidos de importancia
+A1	Negated T5
+T6	Sign_or_Symptom 129 136	fimosis

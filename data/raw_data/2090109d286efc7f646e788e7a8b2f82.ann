@@ -1,0 +1,23 @@
+T1	Disease 2 10	ENFISEMA
+T2	Sign_or_Symptom 49 55	disnea
+T3	Disease 92 109	enfisema pulmonar
+T4	Sign_or_Symptom 225 232	diosnea
+A1	Negated T4
+T5	Sign_or_Symptom 278 281	SRA
+T6	Abbreviation 197 199	dr
+#1	AnnotatorNotes T6	doctor
+T7	Abbreviation 61 64	TAC
+#2	AnnotatorNotes T7	tomografía axial computarizada
+T8	Abbreviation 275 277	MP
+#3	AnnotatorNotes T8	murmullo pulmonar
+T9	Abbreviation 277 278	+
+#4	AnnotatorNotes T9	positivo
+T10	Abbreviation 278 281	SRA
+#5	AnnotatorNotes T10	síndrome respiratorio agudo 
+T11	Medication 131 142	inhaladores
+T12	Medication 254 265	inhaladores
+T13	Diagnostic_Procedure 61 64	TAC
+T14	Laboratory_or_Test_Result 92 109	enfisema pulmonar
+R1	Has Arg1:T13 Arg2:T14	
+T15	Clinical_Finding 275 281	MP+SRA
+T16	Clinical_Finding 283 333	sin otros halkllazgos patologicos al examen fisico

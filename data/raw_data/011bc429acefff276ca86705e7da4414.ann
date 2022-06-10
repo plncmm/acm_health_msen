@@ -1,0 +1,11 @@
+T1	Abbreviation 73 76	HTA
+T2	Abbreviation 83 86	ERC
+T3	Abbreviation 78 81	DM2
+T4	Body_Part 39 47	prostata
+T5	Disease 29 47	cáncer de prostata
+T6	Disease 73 76	HTA
+T7	Disease 78 81	DM2
+T8	Disease 83 95	ERC etapa II
+T9	Laboratory_or_Test_Result 132 154	incontinencia urinaria
+T10	Laboratory_or_Test_Result 155 172	esfuerzo urinario
+T11	Laboratory_or_Test_Result 175 196	disminución de chorro

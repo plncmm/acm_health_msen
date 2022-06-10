@@ -1,0 +1,21 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 108 110	DM
+T3	Abbreviation 114 116	IR
+T4	Body_Part 152 197	extremidades superiores e inferiores a distal
+T5	Body_Part 415 420	brazo
+T6	Sign_or_Symptom 2 9	MIALGIA
+T7	Disease 13 50	TRASTORNOS DEL METABOLISMO DEL CALCIO
+T8	Disease 108 110	DM
+T9	Sign_or_Symptom 140 197	mialgias en extremidades superiores e inferiores a distal
+T10	Sign_or_Symptom 257 273	dolores aumentan
+T11	Laboratory_Procedure 321 329	calcemia
+T12	Laboratory_or_Test_Result 340 373	otras alteraciones electroliticas
+A1	Pending T12
+T13	Sign_or_Symptom 385 420	dolor a la palpacion media de brazo
+T14	Sign_or_Symptom 426 438	contractiura
+A2	Negated T14
+T15	Sign_or_Symptom 448 456	sintomas
+A3	Negated T15
+T16	Sign_or_Symptom 458 475	perdida de fuerza
+A4	Negated T16
+T17	Sign_or_Symptom 534 541	Mialgia

@@ -1,0 +1,25 @@
+T1	Disease 2 10	PULPITIS
+T2	Body_Part 14 23	pieza 2.2
+T3	Disease 28 51	caries extensa palatina
+T4	Laboratory_or_Test_Result 53 72	dentinaria profunda
+T5	Therapeutic_Procedure 88 111	trepanacion de urgencia
+T6	Therapeutic_Procedure 113 151	se irriga el conducto con clorhexidina
+T7	Therapeutic_Procedure 154 190	se deja mota de algodon con paramono
+T8	Therapeutic_Procedure 192 214	se obtura con eugenato
+T9	Medication 139 151	clorhexidina
+T10	Medication 182 190	paramono
+T11	Medication 206 214	eugenato
+T12	Body_Part 216 225	pieza 3.5
+T13	Disease 230 251	pulpitis irreversible
+T14	Disease 253 279	caries dentinaria profunda
+T15	Therapeutic_Procedure 292 315	trepanacion de urgencia
+T16	Therapeutic_Procedure 317 357	se irriga conducto con suero fisiologico
+T17	Therapeutic_Procedure 360 394	se deja mota de paramono en camara
+T18	Therapeutic_Procedure 396 418	se obtura con eugenato
+T19	Medication 410 418	eugenato
+T20	Medication 376 384	paramono
+T21	Abbreviation 182 190	paramono
+T22	Abbreviation 376 384	paramono
+T23	Medication 340 357	suero fisiologico
+T24	Body_Part 126 134	conducto
+T25	Body_Part 327 335	conducto

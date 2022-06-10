@@ -1,0 +1,19 @@
+T1	Disease 2 40	SUPERVISIÓN DE EMBARAZO DE ALTO RIESGO
+T2	Clinical_Finding 47 57	primigesta
+T3	Abbreviation 59 62	obs
+T6	Abbreviation 143 146	fur
+T7	Abbreviation 191 194	fur
+T8	Abbreviation 218 221	eco
+T9	Abbreviation 251 254	dbp
+T11	Abbreviation 326 329	epf
+T12	Abbreviation 335 337	gr
+#1	AnnotatorNotes T7	Fecha última regla
+T4	Clinical_Finding 63 71	embarazo
+T13	Laboratory_or_Test_Result 84 118	fetro creciendo sobre perecntil 90
+T5	Diagnostic_Procedure 218 221	eco
+T10	Laboratory_or_Test_Result 251 290	dbp 34 semanas, no concuerda con 4.4.17
+T14	Laboratory_or_Test_Result 291 324	feto creciendo sobre percenitl 90
+T15	Laboratory_or_Test_Result 326 337	epf 2146 gr
+R1	Has Arg1:T5 Arg2:T10	
+R2	Has Arg1:T5 Arg2:T14	
+R3	Has Arg1:T5 Arg2:T15	

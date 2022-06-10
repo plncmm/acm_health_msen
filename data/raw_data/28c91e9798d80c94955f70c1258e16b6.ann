@@ -1,0 +1,24 @@
+T1	Abbreviation 85 88	HTA
+T2	Abbreviation 90 95	DM II
+T3	Abbreviation 99 101	IR
+T4	Abbreviation 103 106	HTD
+T5	Abbreviation 175 178	FEV
+T6	Abbreviation 73 75	Sd
+T7	Abbreviation 146 155	Ecocardio
+T8	Disease 2 32	HIPERTENSIÓN PULMONAR PRIMARIA
+T9	Disease 73 83	Sd Sjogren
+T10	Disease 85 88	HTA
+T12	Disease 103 106	HTD
+T13	Sign_or_Symptom 122 128	disnea
+T14	Diagnostic_Procedure 146 155	Ecocardio
+T15	Laboratory_or_Test_Result 175 189	FEV conservada
+T16	Disease 202 227	insuficiencia tricuspidea
+T17	Laboratory_or_Test_Result 202 236	insuficiencia tricuspidea moderada
+T18	Laboratory_or_Test_Result 238 259	hipertension pulmonar
+T19	Laboratory_or_Test_Result 261 291	disfuncion diastolica moderada
+R1	Has Arg1:T14 Arg2:T15	
+R2	Has Arg1:T14 Arg2:T17	
+R3	Has Arg1:T14 Arg2:T18	
+R4	Has Arg1:T14 Arg2:T19	
+T11	Disease 90 95	DM II
+T20	Disease 238 259	hipertension pulmonar

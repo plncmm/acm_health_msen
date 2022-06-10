@@ -1,0 +1,11 @@
+T1	Medication 61 70	captopril
+T2	Abbreviation 73 75	mg
+T3	Medication 128 137	captopril
+T4	Abbreviation 139 142	EGG
+T5	Medication 179 186	Enapril
+T6	Abbreviation 190 192	mg
+T8	Abbreviation 199 202	hrs
+T7	Abbreviation 194 196	c/
+T9	Diagnostic_Procedure 139 142	EGG
+T10	Laboratory_or_Test_Result 154 165	HEMIBLOQUEO
+R1	Has Arg1:T9 Arg2:T10	

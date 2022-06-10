@@ -1,0 +1,12 @@
+T1	Sign_or_Symptom 2 13	DOLOR AGUDO
+T2	Disease 17 59	INSUFICIENCIA VENOSA (CRÓNICA) (PERIFÉRICA
+T3	Abbreviation 84 87	APS
+T9	Medication 360 371	analgesicos
+T10	Medication 373 381	tramadol
+T11	Disease 384 426	Insuficiencia venosa (cronica) (periferica
+T12	Body_Part 144 159	pierna izquerda
+T13	Body_Part 239 245	pierna
+T14	Disease 188 214	tromboflebitis superficial
+T15	Disease 217 230	ulcera venosa
+T4	Disease 118 159	trombosis venosa profunda pierna izquerda
+T5	Sign_or_Symptom 296 343	mantiene intenso dolor claudicacion a la marcha

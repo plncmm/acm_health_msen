@@ -1,0 +1,6 @@
+T1	Disease 0 4	K053
+T2	Disease 5 26	PERIODONTITIS CRONICA
+T3	Therapeutic_Procedure 117 127	EXODONCIAS
+A1	Pending T3
+T4	Therapeutic_Procedure 163 171	PROTESIS
+A2	Pending T4

@@ -1,0 +1,13 @@
+T1	Abbreviation 42 44	OH
+T2	Abbreviation 77 80	DM2
+T3	Abbreviation 81 83	IR
+T4	Abbreviation 85 88	DHC
+T5	Abbreviation 89 91	OH
+T6	Abbreviation 110 112	QX
+T7	Disease 0 4	E660
+T8	Disease 5 41	OBESIDAD DEBIDA A EXCESO DE CALORÍAS
+T9	Disease 42 52	OH CRÓNICO
+T10	Disease 77 80	DM2
+T11	Disease 85 99	DHC OH CHILD B
+T12	Therapeutic_Procedure 110 123	QX BARIÁTRICA
+A1	Pending T12

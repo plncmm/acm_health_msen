@@ -1,0 +1,10 @@
+T1	Sign_or_Symptom 0 24	Desarmonia Dento-maxilar
+T2	Body_Part 48 60	pieza 7 y 10
+T3	Disease 62 73	macrodoncia
+T4	Clinical_Finding 76 96	neutro oclusión 3/19
+T5	Sign_or_Symptom 111 147	Falta espacio sector antero inferior
+T6	Sign_or_Symptom 98 109	disto 14/30
+T7	Body_Part 104 109	14/30
+T8	Body_Part 92 96	3/19
+T9	Abbreviation 98 103	disto
+T10	Body_Part 125 147	sector antero inferior

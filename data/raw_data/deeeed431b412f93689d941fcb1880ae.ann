@@ -1,0 +1,10 @@
+T1	Disease 2 17	RESTO RADICULAR
+T2	Abbreviation 41 44	APS
+T5	Abbreviation 62 65	pza
+T6	Body_Part 71 82	raiz mesial
+T7	Body_Part 113 120	dientes
+T8	Disease 102 182	Perdida de dientes debida a accidente, extraccion o enfermedad periodontal local
+T4	Body_Part 62 69	pza 3.7
+T9	Therapeutic_Procedure 90 100	extraccion
+A1	Pending T9
+T3	Disease 46 61	resto radicular

@@ -1,0 +1,20 @@
+T1	Disease 31 60	Adenopatia cervical bilateral
+T2	Abbreviation 84 87	APS
+T3	Abbreviation 102 107	antec
+T4	Disease 121 150	cuadros virales respiratorios
+T5	Sign_or_Symptom 245 267	adenopatias cervicales
+T6	Sign_or_Symptom 341 368	no han variado en el tiempo
+T7	Laboratory_Procedure 433 443	histograma
+T8	Abbreviation 445 447	ex
+T9	Laboratory_Procedure 445 456	ex de orina
+T10	Laboratory_Procedure 459 482	estudio de deposiciones
+T11	Laboratory_or_Test_Result 487 508	hallazgos patologicos
+A1	Negated T11
+R1	Has Arg1:T10 Arg2:T11	
+T12	Sign_or_Symptom 519 552	persistencia de ambas adenopatias
+T13	Clinical_Finding 583 595	asintomatico
+T14	Laboratory_or_Test_Result 620 638	laboratorio normal
+T15	Abbreviation 728 732	ATTE
+T16	Abbreviation 180 185	aprox
+T17	Abbreviation 280 282	cm
+T18	Abbreviation 271 276	parox

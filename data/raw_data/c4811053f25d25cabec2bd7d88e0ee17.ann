@@ -1,0 +1,14 @@
+T1	Disease 2 32	PERIODONTITIS CRÓNICA MODERADA
+T2	Disease 36 64	PERIODONTITIS APICAL CRÓNICA
+T3	Abbreviation 88 91	APS
+T4	Sign_or_Symptom 112 149	dolor localizado en dientes 2.4 y 2.5
+T5	Body_Part 132 149	dientes 2.4 y 2.5
+T6	Disease 165 195	periodontitis cronica Moderada
+T7	Sign_or_Symptom 198 215	movilidad grado 2
+T8	Sign_or_Symptom 218 247	dolor a la percusión vertical
+T9	Body_Part 251 268	dientes 2.4 y 2.5
+T10	Disease 299 321	enfermedad periodontal
+T11	Diagnostic_Procedure 376 398	radiografía periapical
+T12	Body_Part 402 419	dientes 2.4 y 2.5
+T13	Disease 445 466	Periodontitis cronica
+A1	Pending T11

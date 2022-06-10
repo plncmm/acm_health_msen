@@ -1,0 +1,6 @@
+T1	Disease 2 58	ENFERMEDAD NO ESPECIFICADA DE LOS TEJIDOS DENTALES DUROS
+T2	Sign_or_Symptom 65 112	dolor generalizado a los cambios de temperatura
+T3	Sign_or_Symptom 115 145	mál hábito de apriete dentario
+T5	Sign_or_Symptom 170 189	atrición importante
+T6	Sign_or_Symptom 191 222	cuspides invertidas posteriores
+T4	Disease 148 165	bruxismo nocturno

@@ -1,0 +1,15 @@
+T1	Sign_or_Symptom 2 20	HERIDA DEL TOBILLO
+T2	Disease 24 48	OTRAS INMUNODEFICIENCIAS
+T3	Abbreviation 72 75	APS
+T5	Sign_or_Symptom 146 200	herida en zona de maleolo externo de tobillo izquierdo
+T4	Body_Part 164 200	maleolo externo de tobillo izquierdo
+T6	Body_Part 13 20	TOBILLO
+T9	Disease 302 305	DM2
+A1	Implicit_Family_Background T9
+T10	Family_Member 316 321	Madre
+T11	Sign_or_Symptom 358 405	problemas con el proceso de curacion de heridas
+T12	Sign_or_Symptom 430 436	lesion
+T13	Disease 455 472	inmunodeficiencia
+T14	Disease 505 529	Otras inmunodeficiencias
+T15	Disease 475 502	alteración en cicatrizacion
+T7	Sign_or_Symptom 230 280	mala respuesta en cierre y cicatrizacion de herida

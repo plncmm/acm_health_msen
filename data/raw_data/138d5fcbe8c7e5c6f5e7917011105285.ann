@@ -1,0 +1,12 @@
+T4	Abbreviation 11 14	CCA
+T5	Abbreviation 17 20	EMB
+T6	Clinical_Finding 0 2	G6
+T7	Clinical_Finding 3 5	P2
+T9	Therapeutic_Procedure 11 14	CCA
+T10	Disease 48 62	ABORTO ABITUAL
+T11	Disease 74 93	ABORTOS ESPOSTANEOS
+T13	Disease 6 8	A3
+T1	Abbreviation 0 1;3 4;6 7	G P A
+T2	Disease 99 127	EMB , CON HUEVO ANEMBRIONADO
+T3	Clinical_Finding 17 20	EMB
+T8	Abbreviation 99 102	EMB

@@ -1,0 +1,10 @@
+T1	Disease 112 123	SD ULCEROSO
+T2	Abbreviation 112 114	SD
+T3	Abbreviation 72 75	APS
+T4	Abbreviation 147 148	+
+T5	Disease 2 48	HELICOBACTER PYLORI COMO CAUSA DE ENFERMEDADES
+T6	Sign_or_Symptom 125 137	BAJA DE PESO
+T7	Sign_or_Symptom 149 160	INAPETENCIA
+T8	Diagnostic_Procedure 177 183	EXAMEN
+A1	Pending T8
+T9	Disease 205 251	Helicobacter Pylori como causa de enfermedades

@@ -1,0 +1,13 @@
+T1	Disease 2 50	PERIODONTITIS APICAL AGUDA ORIGINADA EN LA PULPA
+T2	Body_Part 57 66	pieza 3.1
+T3	Body_Part 45 50	PULPA
+T4	Disease 71 103	periodontitis apical sintomatica
+T5	Laboratory_or_Test_Result 116 160	lesion endoperiodontal de origen periodontal
+T6	Disease 181 197	quiste radicular
+T7	Diagnostic_Procedure 167 169	rx
+T8	Laboratory_or_Test_Result 181 235	quiste radicular que abarca apical de piezas 3.1 y 4.1
+T9	Body_Part 219 235	piezas 3.1 y 4.1
+T10	Body_Part 237 246	pieza 3.1
+T11	Sign_or_Symptom 251 277	test de percusion positivo
+R1	Has Arg1:T7 Arg2:T8	
+R2	Has Arg1:T7 Arg2:T5	

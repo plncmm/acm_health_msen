@@ -1,0 +1,12 @@
+T1	Disease 2 42	OTROS TRASTORNOS ESPECIFICADOS DEL HUESO
+T2	Disease 46 122	MALFORMACIÓN CONGÉNITA NO ESPECIFICADA DE LOS HUESOS DEL CRÁNEO Y DE LA CARA
+T3	Body_Part 103 109	CRÁNEO
+T4	Body_Part 118 122	CARA
+T5	Abbreviation 146 149	APS
+T6	Body_Part 211 229	fontanela anterior
+T7	Sign_or_Symptom 211 237	fontanela anterior abierta
+T8	Clinical_Finding 248 258	DSM normal
+T9	Clinical_Finding 260 269	eutrofica
+T10	Disease 335 375	Otros trastornos especificados del hueso
+T11	Abbreviation 243 245	mm
+T12	Abbreviation 248 251	DSM

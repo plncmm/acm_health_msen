@@ -1,0 +1,7 @@
+T3	Sign_or_Symptom 123 136	Mesioangulado
+T4	Disease 2 19	DIENTES INCLUIDOS
+T6	Abbreviation 43 46	APS
+T12	Body_Part 2 9	DIENTES
+T7	Laboratory_or_Test_Result 65 85	Evolución intra ósea
+T8	Laboratory_or_Test_Result 97 117	Evolución extra ósea
+T5	Body_Part 118 121;48 63;86 95	4.8 Pieza 1.8 y 2.8 3.8 y 4.8

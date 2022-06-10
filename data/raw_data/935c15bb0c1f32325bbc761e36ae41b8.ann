@@ -1,0 +1,9 @@
+T1	Body_Part 0 10	Pieza N  9
+T2	Abbreviation 6 7	N
+T3	Abbreviation 49 51	Rx
+T4	Sign_or_Symptom 0 36	Pieza N  9: con cambio de coloracion
+T5	Laboratory_or_Test_Result 63 79	granuloma apical
+T6	Diagnostic_Procedure 49 51	Rx
+R1	Has Arg1:T6 Arg2:T5	
+T7	Therapeutic_Procedure 92 103	trepanacion
+A1	Pending T7

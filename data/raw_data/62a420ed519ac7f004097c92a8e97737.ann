@@ -1,0 +1,8 @@
+T1	Abbreviation 58 61	APS
+T2	Abbreviation 63 67	pcte
+T3	Abbreviation 68 69	q
+T4	Body_Part 156 169	region lumbar
+T5	Disease 2 34	ENFERMEDAD RENAL CRÓNICA ETAPA 2
+T6	Laboratory_Procedure 79 98	filtrado glomerualr
+T7	Sign_or_Symptom 137 169	dolor persisten en region lumbar
+T8	Clinical_Finding 206 213	afebril

@@ -1,0 +1,15 @@
+T1	Abbreviation 57 60	APS
+T2	Abbreviation 75 80	ANTEC
+T3	Abbreviation 150 153	EXS
+T4	Abbreviation 163 166	TSH
+T5	Abbreviation 173 175	T4
+T6	Abbreviation 180 182	T4
+T7	Body_Part 110 122	EXTREMIDADES
+T8	Disease 2 32	TIROTOXICOSIS (HIPERTIROIDISMO
+T9	Sign_or_Symptom 99 122	TEMBLOR DE EXTREMIDADES
+T10	Sign_or_Symptom 124 137	PALPITACIONES
+T11	Laboratory_Procedure 163 166	TSH
+T12	Laboratory_Procedure 173 175	T4
+T13	Laboratory_Procedure 180 188	T4 LIBRE
+T14	Clinical_Finding 75 89	ANTEC MORBIDOS
+A1	Negated T14

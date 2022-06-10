@@ -1,0 +1,14 @@
+T1	Body_Part 16 21	ÚTERO
+T2	Abbreviation 45 48	APS
+T3	Abbreviation 50 54	PCTE
+T4	Abbreviation 66 67	G
+T5	Abbreviation 68 69	A
+T6	Abbreviation 110 113	OBS
+T7	Abbreviation 153 155	MM
+T8	Disease 2 21	LEIOMIOMA DEL ÚTERO
+T9	Clinical_Finding 66 68	G0
+T10	Clinical_Finding 68 70	A0
+T11	Clinical_Finding 73 107	USUARIA DE IMPLANTE ANTICONCEPTIVO
+T12	Laboratory_or_Test_Result 117 149	MIOMA UTERINO INTRAMURAL FUNDICO
+T13	Therapeutic_Procedure 84 107	IMPLANTE ANTICONCEPTIVO
+T14	Disease 117 130	MIOMA UTERINO

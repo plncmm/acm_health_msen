@@ -1,0 +1,9 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Disease 25 53	PERIODONTITIS CRÓNICA SEVERA
+T3	Disease 69 107	desdentado parcial superior e inferior
+T4	Clinical_Finding 112 132	portador de prótesis
+A1	Negated T4
+T5	Disease 143 171	periodontitis crónica severa
+T6	Body_Part 185 192	dientes
+T7	Sign_or_Symptom 209 228	movilidad grado 2-3
+T8	Sign_or_Symptom 230 268	Clase I de Kennedy superior e inferior

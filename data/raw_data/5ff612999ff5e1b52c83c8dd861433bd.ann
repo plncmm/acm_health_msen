@@ -1,0 +1,12 @@
+T1	Body_Part 42 65	DISCOS INTERVERTEBRALES
+T2	Abbreviation 106 109	APS
+T3	Body_Part 203 215	extremidades
+T4	Abbreviation 217 219	ex
+T5	Abbreviation 266 270	tepe
+T6	Abbreviation 272 273	+
+T7	Disease 2 21	LUMBAGO CON CIÁTICA
+T8	Disease 25 82	TRASTORNO DE LOS DISCOS INTERVERTEBRALES, NO ESPECIFICADO
+T9	Sign_or_Symptom 156 215	dolor lumbar con parestesia, irradiado a ambas extremidades
+T10	Sign_or_Symptom 228 264	dolor a la palpacion de dolor lumbar
+T11	Sign_or_Symptom 266 274	tepe (+)
+T12	Disease 277 296	Lumbago con ciatica

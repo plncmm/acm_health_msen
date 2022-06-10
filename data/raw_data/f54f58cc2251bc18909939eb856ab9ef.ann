@@ -1,0 +1,7 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Abbreviation 74 77	APS
+T3	Sign_or_Symptom 79 95	Mordida cubierta
+T4	Sign_or_Symptom 97 118	overjet de 1 cm o más
+T5	Sign_or_Symptom 120 138	overbite aumentado
+T6	Disease 140 188	Anomalias dentofaciales (incluso la maloclusion)
+T7	Abbreviation 110 112	cm

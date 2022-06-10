@@ -1,0 +1,17 @@
+T1	Abbreviation 11 14	EMB
+T2	Abbreviation 21 24	SEM
+T3	Abbreviation 61 64	ANT
+T4	Abbreviation 119 121	EG
+T5	Abbreviation 125 128	SEM
+T6	Abbreviation 1 2	G
+T7	Abbreviation 4 5	P
+T8	Abbreviation 7 8	A
+T9	Clinical_Finding 1 3	G4
+T10	Clinical_Finding 4 6	P3
+T11	Clinical_Finding 7 9	A1
+T12	Clinical_Finding 11 14	EMB
+T13	Clinical_Finding 27 59	TRIPLE CICATRIZ CESAREA ANTERIOR
+T14	Disease 66 78	MORTINEONATO
+T15	Disease 91 117	ENTEROCOLITIS NECROTIZANTE
+T16	Disease 132 143	ANEMIA LEVE
+T17	Therapeutic_Procedure 43 50	CESAREA

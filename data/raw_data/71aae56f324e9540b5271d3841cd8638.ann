@@ -1,0 +1,6 @@
+T1	Disease 2 30	PERIODONTITIS CRÓNICA SEVERA
+T2	Sign_or_Symptom 37 49	Mala higiene
+T3	Sign_or_Symptom 51 70	sacos periodontales
+T4	Disease 72 90	desdentada parcial
+T5	Sign_or_Symptom 92 113	Recesión generalizada
+T6	Sign_or_Symptom 115 124	movilidad

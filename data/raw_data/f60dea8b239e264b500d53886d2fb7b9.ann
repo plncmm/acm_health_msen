@@ -1,0 +1,10 @@
+T1	Abbreviation 61 64	APS
+T2	Body_Part 229 260	caninos superiores e inferiores
+T3	Disease 2 37	MALOCLUSIÓN DE TIPO NO ESPECIFICADO
+T4	Clinical_Finding 79 104	antececedentes sistémicos
+A1	Negated T4
+T6	Sign_or_Symptom 153 170	overjet aumentado
+T7	Sign_or_Symptom 172 197	desviación de linea media
+T8	Sign_or_Symptom 199 260	poco espacio para erupción de caninos superiores e inferiores
+T9	Disease 262 297	Maloclusion de tipo no especificado
+T5	Sign_or_Symptom 115 137	clase molar II derecha

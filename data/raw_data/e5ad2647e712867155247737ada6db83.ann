@@ -1,0 +1,13 @@
+T1	Disease 2 21	PERIODONTITIS AGUDA
+T2	Abbreviation 45 48	APS
+T3	Therapeutic_Procedure 63 89	tratamiento de periodoncia
+T4	Therapeutic_Procedure 104 120	pulido radicular
+T5	Disease 133 136	HTA
+T6	Abbreviation 133 136	HTA
+T7	Abbreviation 139 141	DM
+T8	Disease 139 141	DM
+T9	Disease 146 165	periodontitis aguda
+T10	Sign_or_Symptom 168 179	inflamación
+T11	Sign_or_Symptom 183 201	movilidad dentaria
+T12	Disease 203 216	ABSCESO ENCIA
+T13	Body_Part 211 216	ENCIA

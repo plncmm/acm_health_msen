@@ -1,0 +1,8 @@
+T1	Abbreviation 31 34	RNM
+T2	Disease 0 4	Q070
+T3	Disease 5 30	SINDROME DE ARNOLD-CHIARI
+T4	Diagnostic_Procedure 31 34	RNM
+T5	Laboratory_or_Test_Result 50 63	CHIARI TIPO 1
+R1	Has Arg1:T4 Arg2:T5	
+T6	Diagnostic_Procedure 94 110	POLISOMNIOGRAFÍA
+A1	Pending T6

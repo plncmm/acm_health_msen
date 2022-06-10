@@ -1,0 +1,7 @@
+T1	Abbreviation 69 72	APS
+T2	Disease 2 45	TRASTORNO DE LA REFRACCIÓN, NO ESPECIFICADO
+T3	Sign_or_Symptom 78 107	DISMINUCION DE AGUDEZA VISUAL
+T4	Sign_or_Symptom 119 126	CEFALEA
+T5	Therapeutic_Procedure 132 138	LENTES
+T6	Disease 151 194	Trastorno de la refraccion, no especificado
+A1	Pending T5

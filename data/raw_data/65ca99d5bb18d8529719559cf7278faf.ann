@@ -1,0 +1,13 @@
+T1	Abbreviation 25 29	PCTE
+T2	Body_Part 70 94	PLANTA DEL PIE IZQUIERDO
+T3	Abbreviation 150 152	TK
+T4	Abbreviation 266 269	KTR
+T5	Abbreviation 285 290	PACTE
+T6	Abbreviation 304 307	TTA
+T7	Laboratory_or_Test_Result 2 18	ESPOLÓN CALCÁNEO
+T8	Sign_or_Symptom 54 94	MOLESTIAS EN LA PLANTA DEL PIE IZQUIERDO
+T9	Diagnostic_Procedure 150 152	TK
+T10	Sign_or_Symptom 195 218	DIFICULTA PARA  CAMINAR
+T11	Sign_or_Symptom 165 186	CALMADO LAS MOLESTIAS
+A1	Negated T11
+T12	Therapeutic_Procedure 266 269	KTR

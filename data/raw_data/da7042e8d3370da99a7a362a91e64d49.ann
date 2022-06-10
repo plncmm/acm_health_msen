@@ -1,0 +1,7 @@
+T1	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T2	Body_Part 31 37	DIENTE
+T3	Abbreviation 61 64	APS
+T4	Body_Part 66 69	4.8
+T5	Laboratory_or_Test_Result 66 82	4.8 semiincluida
+T6	Disease 84 119	Anomalias de la posicion del diente
+T7	Body_Part 113 119	diente

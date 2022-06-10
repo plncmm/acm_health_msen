@@ -1,0 +1,7 @@
+T1	Clinical_Finding 0 28	PERIODONTITIS APICAL CRONICA
+T2	Abbreviation 31 35	pzas
+T3	Body_Part 31 46	pzas 3, 14 y 30
+T4	Clinical_Finding 47 57	trepanadas
+T5	Disease 62 79	caries penetrante
+T6	Laboratory_or_Test_Result 62 79	caries penetrante
+T7	Abbreviation 112 116	atte

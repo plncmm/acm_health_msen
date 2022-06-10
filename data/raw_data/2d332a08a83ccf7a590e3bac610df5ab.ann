@@ -1,0 +1,10 @@
+T1	Disease 2 23	PERIODONTITIS CRÓNICA
+T2	Abbreviation 47 50	APS
+T3	Sign_or_Symptom 69 118	dolor y ardor en toda la boca intensidad variable
+T4	Body_Part 94 98	boca
+T5	Disease 135 158	Sindrome de Boca Urente
+T6	Body_Part 147 151	Boca
+T7	Therapeutic_Procedure 170 203	tratamiento con acido alfalipoico
+T8	Medication 186 203	acido alfalipoico
+T9	Abbreviation 208 210	mg
+T10	Disease 223 255	Periodontitis cronica generaliza

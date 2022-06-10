@@ -1,0 +1,6 @@
+T1	Therapeutic_Procedure 13 27	implantes oseo
+T2	Clinical_Finding 13 68	implantes oseo internados en zona reborde diente 4 y 12
+T3	Body_Part 42 68	zona reborde diente 4 y 12
+T4	Abbreviation 132 135	PFU
+T5	Therapeutic_Procedure 132 135	PFU
+A1	Pending T5

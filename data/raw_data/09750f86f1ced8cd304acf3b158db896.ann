@@ -1,0 +1,43 @@
+T1	Body_Part 834 836	OD
+T2	Abbreviation 834 836	OD
+T3	Abbreviation 924 926	OI
+T4	Body_Part 924 926	OI
+T5	Medication 474 476	SF
+T6	Medication 481 495	Metoclopramida
+T7	Medication 498 506	Mareamin
+T8	Medication 537 548	Domperidona
+T10	Disease 103 112	DM tipo 2
+T11	Disease 120 123	HTA
+T12	Disease 125 139	hipotiroidismo
+T14	Abbreviation 474 476	SF
+T9	Disease 2 23	ENFERMEDAD DE MÉNIÈRE
+T13	Disease 304 325	enfermedad de meniere
+T15	Abbreviation 120 123	HTA
+T16	Abbreviation 103 105	DM
+T17	Disease 283 303	sindrome vertiginoso
+T18	Abbreviation 116 118	IR
+T19	Abbreviation 158 160	Cx
+T20	Abbreviation 202 205	DAU
+T21	Abbreviation 243 245	Dr
+T22	Abbreviation 349 351	SU
+T23	Abbreviation 352 355	HRC
+T24	Abbreviation 511 513	mg
+T25	Abbreviation 521 524	hrs
+T27	Abbreviation 552 554	mg
+T26	Abbreviation 563 566	hrs
+T28	Abbreviation 590 594	Poli
+T29	Abbreviation 598 601	ORL
+T30	Abbreviation 682 684	SU
+T31	Abbreviation 685 688	HRC
+T33	Therapeutic_Procedure 166 181	Colecistectomia
+T34	Sign_or_Symptom 377 397	mareos al levantarse
+T35	Sign_or_Symptom 419 426	vómitos
+T36	Sign_or_Symptom 719 741	perdida de estabilidad
+T37	Sign_or_Symptom 769 777	acufenos
+T38	Sign_or_Symptom 779 799	sensacion de zumbido
+T39	Clinical_Finding 822 830	Audifono
+T40	Clinical_Finding 889 897	audifino
+T32	Clinical_Finding 52 74	Alergia a medicamentos
+A1	Negated T32
+T41	Sign_or_Symptom 747 753	caídas
+A2	Negated T41

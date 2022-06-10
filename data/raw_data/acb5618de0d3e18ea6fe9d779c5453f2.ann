@@ -1,0 +1,7 @@
+T1	Disease 9 27	desdentado parcial
+T2	Disease 38 76	gingivitis sobre periodonto disminuido
+T3	Therapeutic_Procedure 81 114	terapia de mantención periodontal
+T4	Body_Part 116 125	pieza 1.1
+T5	Sign_or_Symptom 116 139	pieza 1.1 con extrusión
+T6	Sign_or_Symptom 141 168	severa pérdida de inserción
+T7	Sign_or_Symptom 170 189	compromiso estético

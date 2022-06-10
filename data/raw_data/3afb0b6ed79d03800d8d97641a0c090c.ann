@@ -1,0 +1,10 @@
+T1	Abbreviation 148 150	RX
+T2	Abbreviation 140 143	Ref
+T3	Body_Part 154 161	columna
+T4	Body_Part 236 255	cuerpos vertebrales
+T5	Diagnostic_Procedure 148 161	RX de columna
+T6	Laboratory_or_Test_Result 162 255	perdida de lordosis lumbar fisiológica, dudoso estrechamiento del espacio cuerpos vertebrales
+R1	Has Arg1:T5 Arg2:T6	
+T7	Laboratory_or_Test_Result 40 58	estenosis múltiple
+T8	Sign_or_Symptom 89 120	incapacidad para la sedestacion
+T9	Sign_or_Symptom 122 138	marcha entalgica

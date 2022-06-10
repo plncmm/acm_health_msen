@@ -1,0 +1,9 @@
+T1	Body_Part 25 30	ENCÍA
+T2	Abbreviation 76 79	APS
+T3	Abbreviation 95 97	mm
+T5	Body_Part 149 158	pieza 4.2
+T6	Body_Part 39 52	ZONA EDÉNTULA
+T4	Body_Part 113 134	cara interna de labio
+T7	Disease 2 52	OTROS TRASTORNOS DE LA ENCÍA Y DE LA ZONA EDÉNTULA
+T8	Disease 82 90	Mucocele
+T9	Sign_or_Symptom 247 255	molestia

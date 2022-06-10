@@ -1,0 +1,38 @@
+T1	Disease 2 23	TENDINITIS DEL BÍCEPS
+T2	Disease 27 71	OTROS DESGARROS (NO TRAUMÁTICOS) DEL MÚSCULO
+T3	Disease 150 169	artrosis de rodilla
+T4	Sign_or_Symptom 226 263	dolor en  articulaciones de las manos
+T7	Sign_or_Symptom 382 414	dolor en  hombro y brazo derecho
+T8	Disease 813 828	desgarro del SE
+T9	Disease 831 856	peritendinitis  bicipital
+T10	Disease 909 953	Otros desgarros (no traumaticos) del musculo
+T5	Sign_or_Symptom 268 287	calambres matutinos
+T6	Sign_or_Symptom 290 316	perdida de fuerza murcular
+T11	Abbreviation 95 98	APS
+#1	AnnotatorNotes T11	atención primaria de salud
+T12	Abbreviation 630 632	mm
+#2	AnnotatorNotes T12	milímetros
+T13	Abbreviation 659 661	mm
+#3	AnnotatorNotes T13	milímetros
+T14	Abbreviation 807 809	dx
+#4	AnnotatorNotes T14	diagnóstico
+T15	Abbreviation 826 828	SE
+#5	AnnotatorNotes T15	supraespinoso
+T16	Body_Part 17 23	BÍCEPS
+T17	Body_Part 162 169	rodilla
+T18	Body_Part 236 263	articulaciones de las manos
+T20	Body_Part 487 492	hmbro
+T21	Body_Part 495 500	brazo
+T19	Body_Part 392 398	hombro
+T22	Body_Part 401 414	brazo derecho
+T23	Body_Part 589 602	supraespinoso
+T24	Body_Part 720 726	tendon
+T25	Body_Part 733 758	porcion larga del buiceps
+T26	Body_Part 826 828	SE
+T27	Diagnostic_Procedure 470 500	ecotomografia de hmbro y brazo
+T28	Laboratory_or_Test_Result 514 661	adelgazamiento e hipo ecogenicidad de las fibras anteriores y distales del supraespinoso con desgarro axial de 14,2 mm y anteroposterior de 13,1 mm
+R1	Has Arg1:T27 Arg2:T28	
+T29	Laboratory_or_Test_Result 675 782	extensa coleccion hipoecogenica que rodea al tendon da la porcion larga del buiceps a nivel de la corredera
+R2	Has Arg1:T27 Arg2:T29	
+T30	Body_Part 64 71	MÚSCULO
+T31	Body_Part 946 953	musculo

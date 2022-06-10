@@ -1,0 +1,6 @@
+T1	Abbreviation 16 18	dg
+T2	Abbreviation 35 38	ECG
+T3	Abbreviation 69 72	obs
+T4	Diagnostic_Procedure 35 38	ECG
+T5	Disease 73 93	enfermedad coronaria
+T6	Diagnostic_Procedure 95 111	Test de esfuerzo

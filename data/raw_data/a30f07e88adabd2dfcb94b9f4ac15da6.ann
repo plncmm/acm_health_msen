@@ -1,0 +1,9 @@
+T1	Abbreviation 71 74	APS
+T2	Abbreviation 76 79	ECO
+T3	Abbreviation 134 137	CMS
+T4	Disease 2 47	OTROS QUISTES OVÁRICOS Y LOS NO ESPECIFICADOS
+T5	Diagnostic_Procedure 76 79	ECO
+T6	Laboratory_or_Test_Result 95 127	QUISTE OVARICO DE GRUESO CALIBRE
+T7	Disease 95 109	QUISTE OVARICO
+T8	Disease 140 185	Otros quistes ovaricos y los no especificados
+R1	Has Arg1:T5 Arg2:T6	

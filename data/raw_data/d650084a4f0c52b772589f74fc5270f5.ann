@@ -1,0 +1,16 @@
+T1	Disease 2 19	DIENTES INCLUIDOS
+T2	Abbreviation 43 46	APS
+T3	Sign_or_Symptom 119 244	aumento de volumen óseo por vestibular en relacion a diente 8,3 de aprox 1,5 cm de diametro, no doloroso y consistencia firme
+T4	Body_Part 147 182	vestibular en relacion a diente 8,3
+T5	Abbreviation 257 259	Rx
+T6	Diagnostic_Procedure 257 270	Rx panorámica
+T7	Body_Part 271 281	diente 4,3
+T8	Laboratory_or_Test_Result 271 333	diente 4,3 incluido en maxilar inferior en posicion horizontal
+R1	Has Arg1:T6 Arg2:T8	
+T9	Disease 282 290	incluido
+T10	Disease 390 407	Dientes incluidos
+T11	Body_Part 390 397	Dientes
+T12	Body_Part 2 9	DIENTES
+T13	Abbreviation 196 198	cm
+T14	Abbreviation 186 191	aprox
+T15	Body_Part 294 310	maxilar inferior

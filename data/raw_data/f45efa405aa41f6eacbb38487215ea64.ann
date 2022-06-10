@@ -1,0 +1,16 @@
+T1	Disease 2 8	MIOPÍA
+T2	Disease 65 84	vicio de refraccion
+T3	Sign_or_Symptom 171 203	disminucion de la agudeza visual
+T4	Sign_or_Symptom 277 298	elementos patologicos
+A1	Negated T4
+T5	Abbreviation 32 35	APS
+#1	AnnotatorNotes T5	atención primaria de salud
+T6	Abbreviation 132 134	IC
+#2	AnnotatorNotes T6	interconsulta
+T7	Abbreviation 250 251	+
+#3	AnnotatorNotes T7	positivo
+T8	Body_Part 261 264	ojo
+T9	Clinical_Finding 237 251	rojo pupilar +
+T10	Therapeutic_Procedure 147 161	lentes opticos
+T11	Clinical_Finding 208 228	antecdentes morbidos
+A2	Negated T11

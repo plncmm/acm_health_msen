@@ -1,0 +1,10 @@
+T1	Disease 2 50	PERIODONTITIS APICAL AGUDA ORIGINADA EN LA PULPA
+T2	Body_Part 45 50	PULPA
+T3	Abbreviation 74 77	APS
+T4	Abbreviation 92 93	p
+T5	Body_Part 92 97	p.1.2
+T6	Clinical_Finding 102 120	obturación extensa
+T7	Disease 153 179	periodontitis apical aguda
+T8	Therapeutic_Procedure 195 206	trepanación
+T9	Disease 264 312	Periodontitis apical aguda originada en la pulpa
+T10	Body_Part 307 312	pulpa

@@ -1,0 +1,9 @@
+T1	Abbreviation 0 5	RN PT
+T2	Abbreviation 74 76	EM
+T3	Abbreviation 79 80	+
+T4	Clinical_Finding 0 5	RN PT
+T5	Disease 16 40	DISPLASIA BRONCOPULMONAR
+T6	Laboratory_or_Test_Result 40 70	PORTADOR ENTEROCOCO RESISTENTE
+T7	Disease 74 78	EM I
+T8	Disease 80 99	HEMORRAGIA PULMONAR
+T9	Disease 99 113	SEPSIS TRATADA

@@ -1,0 +1,21 @@
+T1	Body_Part 56 62	VAGINA
+T2	Abbreviation 86 89	APS
+T3	Abbreviation 104 107	obs
+T4	Body_Part 163 179	labios vaginales
+T5	Abbreviation 249 251	ex
+T6	Body_Part 270 289	labio menor derecho
+T7	Body_Part 452 458	vagina
+T8	Abbreviation 340 342	cm
+T9	Abbreviation 330 335	aprox
+T10	Disease 2 62	OTROS TRASTORNOS ESPECIFICADOS NO INFLAMATORIOS DE LA VAGINA
+T11	Clinical_Finding 91 100	multipara
+T12	Sign_or_Symptom 108 123	quiste? vaginal
+T13	Sign_or_Symptom 144 179	masa en uno de sus labios vaginales
+T14	Sign_or_Symptom 216 244	dolor al sentarse, o al roce
+T15	Sign_or_Symptom 256 289	palpa masa en labio menor derecho
+T16	Sign_or_Symptom 299 328	duro y sensible ala palpacion
+T17	Sign_or_Symptom 367 381	zona inflamada
+A1	Negated T17
+T18	Sign_or_Symptom 385 395	enrojecida
+A2	Negated T18
+T19	Disease 398 458	Otros trastornos especificados no inflamatorios de la vagina

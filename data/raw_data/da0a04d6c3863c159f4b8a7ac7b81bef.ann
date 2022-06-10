@@ -1,0 +1,14 @@
+T1	Abbreviation 0 4	Pcte
+T2	Abbreviation 8 11	tto
+T3	Disease 17 43	periodontitis generalizada
+T4	Therapeutic_Procedure 59 68	exodoncia
+A1	Pending T4
+T5	Body_Part 69 83	dientes 7 y 24
+T6	Abbreviation 99 102	PPR
+T7	Abbreviation 121 124	tto
+T8	Abbreviation 144 147	PPR
+T9	Disease 148 169	Periodontitis cronica
+T10	Therapeutic_Procedure 121 136	tto periodontal
+A2	Pending T10
+T11	Therapeutic_Procedure 144 147	PPR
+A3	Pending T11

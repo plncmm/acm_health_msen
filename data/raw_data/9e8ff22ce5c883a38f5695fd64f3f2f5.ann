@@ -1,0 +1,10 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Sign_or_Symptom 76 99	clase III molar derecha
+T3	Sign_or_Symptom 101 125	clase II molar izquierda
+T4	Sign_or_Symptom 127 145	overjet aumentadoo
+T5	Sign_or_Symptom 147 161	paladar ojival
+T6	Sign_or_Symptom 163 183	apiñamiento dentario
+T7	Disease 163 174	apiñamiento
+T8	Body_Part 147 154	paladar
+T9	Sign_or_Symptom 185 232	sin espacio para erupción de caninos superiores
+T10	Body_Part 214 232	caninos superiores

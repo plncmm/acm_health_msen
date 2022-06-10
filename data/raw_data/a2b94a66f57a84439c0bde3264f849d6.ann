@@ -1,0 +1,8 @@
+T1	Abbreviation 109 112	APS
+T2	Body_Part 177 190	region muñeca
+T3	Body_Part 195 209	zona tendinosa
+T4	Body_Part 234 240	tendon
+T5	Disease 2 85	OTROS TRASTORNOS SINOVIALES Y TENDINOSOS EN ENFERMEDADES CLASIFICADAS EN OTRA PARTE
+T6	Sign_or_Symptom 147 190	dolor y aumento de volumen en region muñeca
+T7	Sign_or_Symptom 215 240	movilidad al mover tendon
+T8	Disease 258 273	Quiste sinovial

@@ -1,0 +1,15 @@
+T1	Abbreviation 68 70	DM
+T2	Abbreviation 72 75	HTA
+T3	Abbreviation 91 94	ECG
+T4	Disease 0 3	N18
+T5	Disease 4 31	INSUFICIENCIA RENAL CRONICA
+T6	Clinical_Finding 32 61	TRANSPLANTADO RENAL (DERECHO)
+T7	Disease 68 70	DM
+T8	Disease 72 75	HTA
+T9	Sign_or_Symptom 77 89	SEPSIS BUCAL
+T10	Diagnostic_Procedure 91 94	ECG
+T11	Laboratory_or_Test_Result 95 103	ALTERADO
+R1	Has Arg1:T10 Arg2:T11	
+T12	Therapeutic_Procedure 149 169	EXODONCIAS MULTIPLES
+A1	Pending T12
+T13	Disease 77 83	SEPSIS

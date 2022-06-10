@@ -1,0 +1,7 @@
+T1	Abbreviation 20 24	TACO
+T2	Abbreviation 78 82	TACO
+T3	Medication 20 24	TACO
+T4	Medication 78 82	TACO
+T5	Therapeutic_Procedure 181 206	reconstitucion intestinal
+A1	Pending T5
+T6	Therapeutic_Procedure 219 240	operacion de hartmann

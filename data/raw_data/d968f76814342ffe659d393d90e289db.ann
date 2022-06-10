@@ -1,0 +1,11 @@
+T1	Disease 13 24	HTA cronico
+T2	Abbreviation 13 16	HTA
+T3	Disease 26 31	DM II
+T5	Abbreviation 26 34	DM II IR
+T6	Sign_or_Symptom 54 108	dolor lumbar a nivel de L5-L4 mediado a pierna derecha
+T7	Sign_or_Symptom 120 130	parestesia
+T11	Body_Part 94 108	pierna derecha
+T10	Body_Part 78 80	L5
+T12	Body_Part 81 83	L4
+T4	Medication 157 168	paracetamol
+T8	Abbreviation 170 171	g

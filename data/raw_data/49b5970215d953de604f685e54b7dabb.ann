@@ -1,0 +1,9 @@
+T1	Abbreviation 33 36	APS
+T2	Body_Part 134 139	oidos
+T3	Disease 2 9	CEFALEA
+T4	Sign_or_Symptom 60 75	cefalea frontal
+T5	Sign_or_Symptom 113 119	mareos
+T6	Sign_or_Symptom 122 139	zumbidos en oidos
+T7	Clinical_Finding 160 183	presion arterial normal
+T8	Sign_or_Symptom 190 211	signos  de enfermedad
+A1	Negated T8

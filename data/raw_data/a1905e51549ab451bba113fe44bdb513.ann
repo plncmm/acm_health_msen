@@ -1,0 +1,5 @@
+T1	Body_Part 0 3	2.5
+T2	Disease 4 37	pulpitis irreversible sintomatico
+T3	Therapeutic_Procedure 58 69	pulpectomia
+A1	Pending T3
+T4	Clinical_Finding 71 100	obturacion coronaria temporal

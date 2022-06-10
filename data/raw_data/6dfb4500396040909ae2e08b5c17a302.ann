@@ -1,0 +1,5 @@
+T1	Therapeutic_Procedure 24 39	DESFOCALIZACION
+T2	Therapeutic_Procedure 88 106	PROTESIS REMOVIBLE
+A1	Pending T2
+T3	Therapeutic_Procedure 125 148	TRATAMIENTO PERIODONTAL
+A2	Pending T3

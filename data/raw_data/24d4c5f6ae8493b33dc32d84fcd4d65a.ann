@@ -1,0 +1,10 @@
+T1	Abbreviation 0 4	Pcte
+T2	Abbreviation 43 46	tto
+T3	Abbreviation 149 152	tto
+T4	Clinical_Finding 18 39	antecedentes morbidos
+A1	Negated T4
+T5	Therapeutic_Procedure 43 58	tto periodontal
+T6	Sign_or_Symptom 67 98	mal control de placa bacteriana
+T7	Disease 100 138	desdentada parcial superior e inferior
+T8	Therapeutic_Procedure 149 166	tto rehabilitador
+A2	Pending T8

@@ -1,0 +1,11 @@
+T1	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T2	Disease 41 59	RETRASO PSICOMOTOR
+T3	Therapeutic_Procedure 98 107	DESFOCADA
+A1	Pending T3
+T4	Abbreviation 131 134	APS
+T5	Sign_or_Symptom 149 169	POLICARIES PROFUNDAS
+T6	Therapeutic_Procedure 203 214	DESFOCACION
+A2	Pending T6
+T7	Disease 234 252	RETRASO PSICOMOTOR
+T8	Disease 254 274	Caries de la dentina
+T9	Body_Part 267 274	dentina

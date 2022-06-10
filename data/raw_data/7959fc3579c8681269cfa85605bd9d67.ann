@@ -1,0 +1,7 @@
+T1	Body_Part 43 50	CORAZÓN
+T2	Abbreviation 85 88	APS
+T3	Disease 2 50	OTROS TIPOS ESPECIFICADOS DE BLOQUEO DEL CORAZÓN
+T4	Laboratory_or_Test_Result 50 61	bigeminismo
+T5	Sign_or_Symptom 107 125	disnea a la marcha
+T6	Sign_or_Symptom 204 220	dolor precordial
+A1	Negated T6

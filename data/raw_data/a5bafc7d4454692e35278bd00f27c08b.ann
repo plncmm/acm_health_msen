@@ -1,0 +1,18 @@
+T1	Abbreviation 9 12	EMB
+T2	Abbreviation 14 17	EGD
+T3	Abbreviation 37 40	SEM
+T4	Abbreviation 43 46	ECO
+T5	Abbreviation 70 73	EMB
+T6	Abbreviation 77 80	SEM
+T7	Abbreviation 0 1	G
+T8	Abbreviation 3 4	P
+T9	Abbreviation 6 7	A
+T10	Abbreviation 41 42	X
+T11	Clinical_Finding 0 2	G4
+T12	Clinical_Finding 3 5	P3
+T13	Clinical_Finding 6 8	A0
+T14	Clinical_Finding 9 12	EMB
+T15	Diagnostic_Procedure 43 46	ECO
+T16	Laboratory_or_Test_Result 14 17	EGD
+R1	Has Arg1:T15 Arg2:T16	
+T17	Clinical_Finding 70 73	EMB

@@ -1,0 +1,11 @@
+T1	Abbreviation 57 60	APS
+T2	Abbreviation 62 63	G
+T3	Abbreviation 65 66	P
+T4	Abbreviation 68 69	A
+T5	Clinical_Finding 2 33	ATENCIÓN PARA LA ANTICONCEPCIÓN
+T6	Clinical_Finding 62 64	G3
+T7	Clinical_Finding 65 67	P3
+T8	Clinical_Finding 68 70	A0
+T9	Therapeutic_Procedure 80 94	ESTERILIZACION
+A1	Pending T9
+T10	Clinical_Finding 95 126	Atencion para la anticoncepcion

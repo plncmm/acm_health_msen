@@ -1,0 +1,7 @@
+T1	Disease 2 15	CARIES DENTAL
+T2	Abbreviation 39 42	APS
+T3	Body_Part 44 54	Diente 4.5
+T4	Disease 55 76	pulpitis irreversible
+T5	Therapeutic_Procedure 90 100	endodoncia
+A1	Pending T5
+T6	Disease 101 114	Caries dental

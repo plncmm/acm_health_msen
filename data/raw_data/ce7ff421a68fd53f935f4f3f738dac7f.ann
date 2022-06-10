@@ -1,0 +1,9 @@
+T1	Disease 2 19	CERUMEN IMPACTADO
+T2	Abbreviation 43 46	APS
+T4	Abbreviation 161 163	EX
+T5	Abbreviation 165 168	OTC
+T6	Sign_or_Symptom 165 191	OTC DERECHA: TAPON CERUMEN
+T7	Disease 192 209	Cerumen impactado
+T8	Disease 89 96	OTALGIA
+#1	AnnotatorNotes T8	Se puede discutir para mi hallazgo, para cie10 enf
+T3	Sign_or_Symptom 89 157	OTALGIA BILATERAL, MAYOR A DERECHA, ASOCIADO A HIPOACUSIA PROGRESIVA

@@ -1,0 +1,10 @@
+T1	Body_Part 0 9	pieza 4.8
+T2	Body_Part 145 154	pieza 3.8
+T3	Body_Part 26 47	espacio pericoronario
+T4	Body_Part 75 81	raíces
+T6	Body_Part 127 143	canal mandibular
+T7	Body_Part 195 201	raíces
+T5	Laboratory_or_Test_Result 0 143	pieza 4.8 semincluida con espacio pericoronario ensanchado por distal, dos raíces convergentes hacia apical, ápices próximos a canal mandibular
+T8	Laboratory_or_Test_Result 145 255	pieza 3.8 semi incluida en posición vertical, dos raíces convergentes hacia apical con ápices sobre proyectado
+T9	Body_Part 232 238	ápices
+T10	Body_Part 109 115	ápices

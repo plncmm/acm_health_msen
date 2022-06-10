@@ -1,0 +1,6 @@
+T1	Body_Part 0 7	pieza 5
+T2	Clinical_Finding 8 32	tratada endodonticamente
+T3	Disease 37 53	estado radicular
+T4	Sign_or_Symptom 59 88	provisional en regular estado
+T5	Therapeutic_Procedure 99 132	rehabilitación coronaria unitaria
+A1	Pending T5

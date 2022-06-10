@@ -1,0 +1,10 @@
+T1	Abbreviation 34 38	ADAC
+T2	Body_Part 85 94	pieza 2.4
+T3	Abbreviation 99 103	ADAC
+T4	Medication 141 160	hidroxido de calcio
+T5	Medication 162 170	eugenato
+T6	Disease 2 38	ABSCESO DENTO ALVEOLAR CRÓNICO (ADAC
+T7	Clinical_Finding 70 74	sano
+T8	Disease 85 103	pieza 2.4 con ADAC
+T9	Therapeutic_Procedure 116 127	trepanación
+T10	Therapeutic_Procedure 173 188	vidrio ionomero

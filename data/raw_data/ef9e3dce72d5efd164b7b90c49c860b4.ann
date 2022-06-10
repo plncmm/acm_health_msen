@@ -1,0 +1,8 @@
+T1	Abbreviation 84 86	Rx
+#1	AnnotatorNotes T1	radiografía
+T2	Body_Part 87 92	cavum
+T3	Sign_or_Symptom 0 5	Ronca
+T4	Sign_or_Symptom 59 76	rinitis purulenta
+T5	Sign_or_Symptom 21 54	cuadros respiratorios recurrentes
+T6	Disease 112 133	HIPERTROFIA ADENOIDEA
+T7	Diagnostic_Procedure 84 92	Rx cavum

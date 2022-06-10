@@ -1,0 +1,7 @@
+T1	Disease 2 41	GINGIVITIS Y ENFERMEDADES PERIODONTALES
+T2	Abbreviation 65 68	APS
+T3	Disease 79 97	desdentado parcial
+T4	Sign_or_Symptom 99 116	Movilidad grado 1
+T5	Body_Part 117 125	grupo IV
+T6	Sign_or_Symptom 125 156	Tartaro evidente supra gingival
+T7	Disease 157 196	Gingivitis y enfermedades periodontales

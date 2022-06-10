@@ -1,0 +1,4 @@
+T1	Abbreviation 0 3	IAM
+T2	Abbreviation 4 8	SDST
+T3	Disease 0 8	IAM SDST
+T4	Sign_or_Symptom 81 97	DOLOR PRECORDIAL

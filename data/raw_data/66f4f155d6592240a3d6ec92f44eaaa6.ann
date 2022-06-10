@@ -1,0 +1,6 @@
+T1	Body_Part 35 79	límite de paladar duro-blando lado izquierdo
+T2	Body_Part 103 117	pilar anterior
+T4	Sign_or_Symptom 118 191	lesión plana, textura aspera, indolora a la palpación de forma estrellada
+T3	Sign_or_Symptom 18 117	lesión blanca en límite de paladar duro-blando lado izquierdo, comprometiendo además pilar anterior
+T5	Diagnostic_Procedure 208 231	estudio histopatologica
+T6	Disease 18 31	lesión blanca

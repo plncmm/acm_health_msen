@@ -1,0 +1,19 @@
+T1	Body_Part 25 33	PRÓSTATA
+T2	Abbreviation 57 60	APS
+T3	Abbreviation 102 105	hta
+T4	Abbreviation 164 167	HRC
+T5	Abbreviation 221 224	PSA
+T6	Abbreviation 249 251	ml
+T7	Abbreviation 372 376	atte
+T8	Body_Part 400 408	prostata
+T9	Abbreviation 246 248	ng
+T10	Disease 2 33	OTROS TRASTORNOS DE LA PRÓSTATA
+T11	Disease 102 105	hta
+T14	Laboratory_or_Test_Result 231 239	alterado
+T15	Laboratory_Procedure 277 294	analisis de orina
+T16	Laboratory_or_Test_Result 295 321	dentro de limites normales
+R2	Has Arg1:T15 Arg2:T16	
+T17	Disease 377 408	Otros trastornos de la prostata
+T13	Laboratory_Procedure 221 230	PSA total
+R1	Has Arg1:T13 Arg2:T14	
+T12	Disease 109 126	estenosis aortica

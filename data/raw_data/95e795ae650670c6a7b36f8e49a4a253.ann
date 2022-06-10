@@ -1,0 +1,5 @@
+T1	Body_Part 28 36	pieza 11
+T2	Therapeutic_Procedure 37 60	tratamiento de conducto
+A1	Pending T2
+T3	Laboratory_or_Test_Result 92 111	presenta una lesion
+T4	Sign_or_Symptom 118 135	dolor persistente

@@ -1,0 +1,14 @@
+T1	Abbreviation 70 73	APS
+T2	Body_Part 121 136	nivel abdominal
+T3	Abbreviation 158 160	Ex
+T4	Body_Part 195 210	nivel umbilical
+T5	Abbreviation 219 221	cm
+T6	Disease 2 46	HERNIA UMBILICAL SIN OBSTRUCCIÓN NI GANGRENA
+T7	Disease 102 118	hernia umbilical
+T8	Sign_or_Symptom 141 157	dolor esporadico
+T9	Sign_or_Symptom 167 210	aumento de volumen blando a nivel umbilical
+T10	Sign_or_Symptom 222 237	poco reductible
+T11	Sign_or_Symptom 239 245	blando
+T12	Sign_or_Symptom 250 258	doloroso
+A1	Negated T12
+T13	Disease 260 304	Hernia umbilical sin obstruccion ni gangrena

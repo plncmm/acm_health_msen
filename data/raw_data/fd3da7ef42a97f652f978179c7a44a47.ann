@@ -1,0 +1,9 @@
+T1	Body_Part 19 28	ADENOIDES
+T2	Body_Part 55 64	ADENOIDES
+T3	Abbreviation 114 118	SBOR
+T4	Disease 0 28	HIPERTROFIA DE LAS ADENOIDES
+T5	Disease 30 34	J352
+T6	Disease 36 64	HIPERTROFIA DE LAS ADENOIDES
+T7	Sign_or_Symptom 66 82	Respirador bucal
+T8	Sign_or_Symptom 85 102	roncador nocturno
+T9	Disease 114 118	SBOR

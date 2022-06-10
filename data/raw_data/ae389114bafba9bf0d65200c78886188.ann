@@ -1,0 +1,13 @@
+T2	Abbreviation 0 3	P.D
+T3	Body_Part 0 7	P.D 1.2
+T1	Clinical_Finding 8 18	TREAPANADA
+T4	Disease 24 41	CARIES PENETRANTE
+T5	Laboratory_or_Test_Result 24 41	CARIES PENETRANTE
+T6	Disease 44 59	NECROSIS PULPAR
+T7	Abbreviation 70 75	PMNCA
+T8	Medication 70 75	PMNCA
+T9	Medication 78 86	EUGENATO
+T10	Therapeutic_Procedure 105 115	ENDODONCIA
+A1	Pending T10
+T11	Abbreviation 116 119	P.D
+T12	Body_Part 116 123	P.D 1.2

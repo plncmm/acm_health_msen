@@ -1,0 +1,11 @@
+T1	Disease 2 32	PROLAPSO UTEROVAGINAL COMPLETO
+T3	Abbreviation 81 84	APS
+T4	Therapeutic_Procedure 99 111	Histerctomia
+T5	Abbreviation 123 124	+
+T6	Therapeutic_Procedure 125 145	cirugoa por prolapso
+T7	Disease 156 184	episodiso recurrentes de ITU
+T8	Abbreviation 181 184	ITU
+T9	Abbreviation 231 233	Dr
+T10	Abbreviation 292 295	HRC
+T11	Disease 297 327	Prolapso uterovaginal completo
+T2	Disease 32 57	Prolpaso completo etapa 3

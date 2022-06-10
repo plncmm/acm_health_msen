@@ -1,0 +1,10 @@
+T1	Disease 2 56	ENFERMEDADES DE LA PULPA Y DE LOS TEJIDOS PARIAPICALES
+T2	Body_Part 21 26	PULPA
+T3	Body_Part 63 72	Pieza 2.4
+T4	Disease 73 88	necrosis pulpar
+T5	Laboratory_or_Test_Result 107 125	lesion radiolúcida
+T6	Diagnostic_Procedure 95 106	radiografía
+R1	Has Arg1:T6 Arg2:T5	
+T7	Laboratory_or_Test_Result 141 161	granuloma periapical
+R2	Has Arg1:T6 Arg2:T7	
+T8	Body_Part 36 56	TEJIDOS PARIAPICALES

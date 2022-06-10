@@ -1,0 +1,9 @@
+T1	Disease 14 35	fractura mandibula op
+T2	Abbreviation 33 35	op
+T3	Abbreviation 60 63	APS
+T4	Abbreviation 78 81	ANT
+T5	Sign_or_Symptom 86 114	ACCIDENTE VEHICULAR RECIENTE
+T6	Disease 134 155	FRACTURA MANDIBULA OP
+T7	Abbreviation 153 155	OP
+T8	Body_Part 143 152	MANDIBULA
+T9	Body_Part 23 32	mandibula

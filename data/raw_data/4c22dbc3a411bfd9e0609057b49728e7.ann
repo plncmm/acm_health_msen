@@ -1,0 +1,8 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Abbreviation 74 77	APS
+T3	Sign_or_Symptom 79 103	mordida cruzada anterior
+T4	Body_Part 104 107	1.4
+T5	Sign_or_Symptom 104 114	1.4 rotada
+T6	Therapeutic_Procedure 115 125	exodoncias
+T7	Body_Part 129 147	molares temporales
+T8	Sign_or_Symptom 115 163	exodoncias de molares temporales a temprana edad

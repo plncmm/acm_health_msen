@@ -1,0 +1,23 @@
+T1	Body_Part 2 10	PREPUCIO
+T2	Abbreviation 68 71	APS
+T3	Abbreviation 113 116	HRC
+T4	Family_Member 155 160	MADRE
+T5	Abbreviation 252 254	AM
+T6	Abbreviation 258 263	MEDIC
+T7	Abbreviation 267 270	AQX
+T8	Abbreviation 297 299	EX
+T9	Body_Part 326 334	PREPUCIO
+T10	Body_Part 344 350	GLANDE
+T11	Disease 2 44	PREPUCIO REDUNDANTE, FIMOSIS Y PARAFIMOSIS
+T12	Therapeutic_Procedure 174 181	CIRUGIA
+T13	Clinical_Finding 252 254	AM
+A1	Negated T13
+T14	Clinical_Finding 267 270	AQX
+A2	Negated T14
+T15	Clinical_Finding 274 281	ALERGIA
+A3	Negated T15
+T16	Sign_or_Symptom 300 350	INCAPACIDAD DE RETRAER EL PREPUCIO SOBRE EL GLANDE
+T17	Sign_or_Symptom 356 364	LESIONES
+A4	Negated T17
+T18	Sign_or_Symptom 370 379	SECRECION
+A5	Negated T18

@@ -1,0 +1,15 @@
+T1	Body_Part 0 8	PIEZA 30
+T2	Disease 9 35	CARIES DENTINARIA PROFUNDA
+T4	Abbreviation 36 38	C/
+T3	Laboratory_or_Test_Result 0 56	PIEZA 30 CARIES DENTINARIA PROFUNDA C/ COMPROMISO PULPAR
+T5	Family_Member 69 73	MAMA
+T6	Body_Part 102 110	PIEZA 30
+T7	Sign_or_Symptom 118 130	EXTENSO DAÑO
+T8	Therapeutic_Procedure 143 152	EXODONCIA
+A1	Pending T8
+T9	Family_Member 154 158	MAMA
+T10	Abbreviation 192 194	UD
+T11	Therapeutic_Procedure 219 242	TRATAMIENTO ENDODONTUCO
+A2	Pending T11
+T12	Abbreviation 243 244	P
+T13	Body_Part 243 247	P.30

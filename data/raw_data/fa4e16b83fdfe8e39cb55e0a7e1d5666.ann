@@ -1,0 +1,8 @@
+T1	Disease 2 11	PTERIGION
+T2	Sign_or_Symptom 63 84	PTERIGION A IZQUIERDA
+T3	Sign_or_Symptom 94 114	MOLESTIAS CONSTANTES
+T4	Disease 115 124	Pterigion
+T5	Abbreviation 35 38	APS
+#1	AnnotatorNotes T5	atención primaria de salud
+T6	Abbreviation 52 55	EXS
+#2	AnnotatorNotes T6	examen

@@ -1,0 +1,9 @@
+T1	Abbreviation 21 23	op
+T2	Abbreviation 9 10	C
+T3	Body_Part 44 50	Hombro
+T4	Abbreviation 60 63	der
+T5	Abbreviation 74 78	eval
+T6	Disease 9 20	C.coronaria
+T7	Therapeutic_Procedure 29 42	doble by pass
+T8	Sign_or_Symptom 44 64	Hombro doloroso der.
+T9	Disease 100 136	Enfermedad cardiaca, no especificada

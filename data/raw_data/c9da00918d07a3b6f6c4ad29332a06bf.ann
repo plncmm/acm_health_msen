@@ -1,0 +1,6 @@
+T1	Disease 2 33	OTRAS PULPITIS, SIN ESPECIFICAR
+T2	Disease 37 72	pulpitiis irreversible asintomatica
+T3	Body_Part 73 82	diente 13
+T4	Therapeutic_Procedure 117 128	pulpectomia
+T5	Medication 158 162	caoh
+T6	Clinical_Finding 166 185	obturacion temporal

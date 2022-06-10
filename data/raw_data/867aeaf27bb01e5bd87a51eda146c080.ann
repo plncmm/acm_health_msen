@@ -1,0 +1,13 @@
+T1	Body_Part 17 22	PULPA
+T2	Body_Part 29 39	Diente 1.4
+T3	Body_Part 203 208	pulpa
+T4	Disease 2 22	NECROSIS DE LA PULPA
+T5	Disease 49 75	caries dentinaria profunda
+T6	Sign_or_Symptom 80 100	cambio de coloracion
+T7	Disease 113 144	necrosis pulpar parcial o total
+T8	Disease 213 237	necrosis septica parcial
+T9	Disease 172 178	caries
+T10	Therapeutic_Procedure 251 262	trepanacion
+T11	Therapeutic_Procedure 355 365	endodoncia
+A1	Pending T11
+T12	Therapeutic_Procedure 265 308	medicacion intraconducto y cemento temporal

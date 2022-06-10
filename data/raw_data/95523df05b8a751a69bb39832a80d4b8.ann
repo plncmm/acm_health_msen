@@ -1,0 +1,9 @@
+T1	Disease 2 16	HIPOTIROIDISMO
+T2	Abbreviation 40 43	APS
+T3	Disease 73 81	OBESIDAD
+T4	Abbreviation 98 100	EX
+T5	Abbreviation 118 121	OBS
+T6	Disease 122 136	HIPOTIROIDISMO
+T7	Laboratory_Procedure 98 115	EX DE LABORATORIO
+T8	Laboratory_or_Test_Result 122 136	HIPOTIROIDISMO
+R1	Has Arg1:T7 Arg2:T8	

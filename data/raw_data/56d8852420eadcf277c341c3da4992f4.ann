@@ -1,0 +1,10 @@
+T1	Abbreviation 0 2	TU
+T2	Abbreviation 4 8	VADS
+T3	Abbreviation 50 51	I
+T4	Abbreviation 52 54	PA
+T5	Abbreviation 56 57	U
+T6	Abbreviation 74 76	CM
+T7	Body_Part 168 172	OIDO
+T8	Disease 24 34	TABAQUISMO
+T9	Sign_or_Symptom 63 123	MASA  1 X1 CM   MOVIL  PETREA  POCO DOLOROSA  A LA PALPACION
+T10	Disease 0 8	TU  VADS

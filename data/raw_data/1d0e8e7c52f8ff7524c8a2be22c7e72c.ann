@@ -1,0 +1,24 @@
+T1	Abbreviation 0 5	enfer
+T2	Abbreviation 42 46	eitc
+T3	Abbreviation 51 53	fr
+T4	Body_Part 158 168	cuadriceps
+T5	Body_Part 203 207	piel
+T6	Body_Part 223 227	cara
+T7	Abbreviation 257 260	esd
+T8	Abbreviation 269 272	les
+T9	Body_Part 362 368	hombro
+T10	Body_Part 452 456	piel
+T11	Disease 0 14	enfer.colageno
+T12	Laboratory_Procedure 51 53	fr
+T13	Laboratory_Procedure 61 68	antidna
+T14	Disease 109 112	les
+T15	Sign_or_Symptom 147 168	hipotrofia cuadriceps
+T16	Sign_or_Symptom 175 207	alteraciones de trofismo de piel
+T17	Sign_or_Symptom 211 236	lesiones en cara y escote
+T18	Disease 276 286	neuropatia
+T19	Disease 269 272	les
+T20	Disease 347 368	liposarcoma de hombro
+T21	Diagnostic_Procedure 441 456	biopsia de piel
+T22	Laboratory_or_Test_Result 54 58	alto
+T23	Laboratory_or_Test_Result 69 73	alto
+T24	Disease 42 46	eitc

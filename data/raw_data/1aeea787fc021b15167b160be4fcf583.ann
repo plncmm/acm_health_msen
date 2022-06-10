@@ -1,0 +1,7 @@
+T1	Clinical_Finding 34 63	dentición permanente completa
+T2	Body_Part 34 43	dentición
+T3	Sign_or_Symptom 65 98	Mordida invertida de p. 3.3 y 4.3
+T4	Body_Part 86 98	p. 3.3 y 4.3
+T5	Abbreviation 86 87	p
+T6	Therapeutic_Procedure 112 137	tratamiento de ortodoncia
+A1	Pending T6

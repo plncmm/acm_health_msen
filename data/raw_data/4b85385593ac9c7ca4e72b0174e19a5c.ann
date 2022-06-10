@@ -1,0 +1,6 @@
+T1	Abbreviation 0 4	Pcte
+T2	Disease 14 22	fumadora
+T3	Therapeutic_Procedure 27 49	mantencion periodontal
+T4	Disease 51 78	desdentada parcial inferior
+T5	Therapeutic_Procedure 89 113	rehabilitacion protésica
+A1	Pending T5

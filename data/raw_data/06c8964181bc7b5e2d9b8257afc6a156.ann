@@ -1,0 +1,8 @@
+T1	Abbreviation 80 83	APS
+T2	Body_Part 85 94	PIEZA 1.4
+T3	Body_Part 133 146	CAMARA PULPAR
+T4	Body_Part 148 157	PIEZA 1.5
+T5	Body_Part 226 233	dientes
+T7	Sign_or_Symptom 2 21	CAIDA DE OBTURACION
+T8	Disease 188 264	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T6	Sign_or_Symptom 85 146	PIEZA 1.4 CAVIDAD PROFUNDA POR DISTO OCLUSAL EN CAMARA PULPAR

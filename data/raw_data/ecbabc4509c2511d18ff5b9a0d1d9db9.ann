@@ -1,0 +1,8 @@
+T1	Body_Part 0 9	Diente 11
+T2	Medication 74 93	hidroxido de calcio
+T3	Abbreviation 93 94	+
+T4	Abbreviation 119 121	IV
+T5	Body_Part 138 143	PULPA
+T6	Disease 0 32	Diente 11 necrosis séptica total
+T7	Therapeutic_Procedure 45 56	trepanación
+T8	Disease 123 143	NECROSIS DE LA PULPA

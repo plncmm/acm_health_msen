@@ -1,0 +1,4 @@
+T2	Disease 0 35	Carcinoma oral de células escamosas
+T3	Diagnostic_Procedure 52 59	biopsia
+T1	Body_Part 80 85	encía
+T4	Sign_or_Symptom 80 114	encía insertada vestibular grupo V

@@ -1,0 +1,9 @@
+T1	Abbreviation 82 85	APS
+T2	Abbreviation 129 131	Rx
+T3	Abbreviation 133 135	Tx
+T4	Body_Part 133 135	Tx
+T5	Abbreviation 176 178	O2
+T6	Disease 2 58	NEUMOCONIOSIS DEBIDA A OTROS POLVOS QUE CONTIENEN SÍLICE
+T7	Diagnostic_Procedure 129 135	Rx  Tx
+T8	Sign_or_Symptom 146 160	folor toracico
+T10	Disease 182 238	Neumoconiosis debida a otros polvos que contienen silice

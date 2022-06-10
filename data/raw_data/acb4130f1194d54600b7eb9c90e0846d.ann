@@ -1,0 +1,4 @@
+T1	Disease 9 47	desdentada parcial superior e inferior
+T2	Therapeutic_Procedure 64 91	rehabilitacion ppr superior
+A1	Pending T2
+T3	Abbreviation 79 82	ppr

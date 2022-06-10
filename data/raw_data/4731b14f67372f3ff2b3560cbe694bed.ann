@@ -1,0 +1,7 @@
+T1	Disease 2 15	CARIES DENTAL
+T2	Abbreviation 39 42	APS
+T3	Abbreviation 44 49	pacte
+T4	Laboratory_or_Test_Result 68 115	lesion radiolucida semejante a quiste radicular
+T5	Disease 99 115	quiste radicular
+T6	Therapeutic_Procedure 128 139	trepanacion
+T7	Disease 154 167	Caries dental

@@ -1,0 +1,8 @@
+T1	Laboratory_or_Test_Result 0 21	hallazgo radiografico
+T2	Therapeutic_Procedure 27 37	extraccion
+T3	Body_Part 61 95	tercio mesial de raiz de diente 30
+T4	Therapeutic_Procedure 125 135	extraccion
+A1	Pending T4
+T5	Disease 140 145	resto
+T6	Sign_or_Symptom 183 191	molestia
+T7	Sign_or_Symptom 194 206	sencibilidad

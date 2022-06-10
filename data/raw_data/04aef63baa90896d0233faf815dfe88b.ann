@@ -1,0 +1,8 @@
+T1	Abbreviation 43 46	APS
+T2	Abbreviation 77 80	HTA
+T3	Body_Part 171 177	cuello
+T4	Body_Part 180 187	espalda
+T5	Disease 2 19	NEVO MELANOCÍTICO
+T6	Disease 77 80	HTA
+T7	Disease 81 93	dislipidemia
+T8	Sign_or_Symptom 150 283	lunares en region de cuello y espalda que ultimamente ha notado un cambio de color siendo estos mas claros ademas con cierta asperesa

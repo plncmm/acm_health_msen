@@ -1,0 +1,12 @@
+T1	Abbreviation 0 4	ADAC
+T2	Disease 0 4	ADAC
+T3	Body_Part 5 14	diente 18
+T4	Body_Part 35 58	camara pulpar diente 12
+T5	Clinical_Finding 16 58	caries inmediata a camara pulpar diente 12
+T6	Clinical_Finding 61 87	caries penetrante diente 6
+T7	Body_Part 79 87	diente 6
+T8	Body_Part 90 98	diente 4
+T10	Body_Part 181 187	diente
+T9	Therapeutic_Procedure 99 120	trepanada de urgencia
+T11	Therapeutic_Procedure 152 177	tratamiento de endodoncia
+A1	Pending T11

@@ -1,0 +1,8 @@
+T1	Body_Part 0 7	PIEZA 4
+T2	Clinical_Finding 8 44	IMPLANTE OSEO INTEGRADO SIN CONECTAR
+T3	Body_Part 46 54	PIEZA 13
+T4	Laboratory_or_Test_Result 55 96	IMPLANTE OSEO INTEGRADO DE MAL PRONOSTICO
+T5	Clinical_Finding 97 109	ROM MODERADA
+T6	Abbreviation 147 150	TTO
+T7	Abbreviation 152 154	EX
+T8	Abbreviation 97 100	ROM

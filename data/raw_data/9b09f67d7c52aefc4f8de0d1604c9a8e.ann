@@ -1,0 +1,11 @@
+T1	Disease 2 28	CARIES DENTINARIA PROFUNDA
+T2	Disease 32 47	RESTO RADICULAR
+T3	Disease 76 102	CARIES DENTIANRIA PROFUNDA
+T4	Abbreviation 71 74	APS
+T5	Body_Part 103 110	PZA 3.8
+T6	Abbreviation 103 106	PZA
+T7	Sign_or_Symptom 113 149	PERDIDA DE LA TOTALIDAD DE LA CORONA
+T8	Therapeutic_Procedure 166 176	EXTRACCION
+A1	Pending T8
+T9	Disease 179 199	Caries de la dentina
+T10	Body_Part 192 199	dentina

@@ -1,0 +1,9 @@
+T1	Abbreviation 54 57	APS
+T2	Body_Part 131 137	PZA 19
+T3	Abbreviation 131 134	PZA
+T4	Disease 2 30	PERIODONTITIS APICAL CRÓNICA
+T5	Clinical_Finding 80 100	ANTECEDENTES MEDICOS
+A1	Negated T5
+T6	Sign_or_Symptom 111 137	OBTURACION PROFUNDA PZA 19
+T7	Sign_or_Symptom 139 159	DOLOR A LA PERCUSION
+T8	Disease 213 241	Periodontitis apical cronica

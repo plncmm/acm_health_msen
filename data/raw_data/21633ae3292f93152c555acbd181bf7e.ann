@@ -1,0 +1,11 @@
+T1	Body_Part 27 34	DIENTES
+T2	Body_Part 55 82	ARTICULACIÓN TEMPOROMAXILAR
+T3	Abbreviation 106 109	APS
+T4	Abbreviation 122 125	atm
+T5	Body_Part 122 133	atm derecha
+T6	Disease 2 34	ATRICIÓN EXCESIVA DE LOS DIENTES
+T7	Disease 38 82	TRASTORNOS DE LA ARTICULACIÓN TEMPOROMAXILAR
+T8	Sign_or_Symptom 111 133	disfunción atm derecha
+T9	Sign_or_Symptom 135 158	crepitación en apertura
+T10	Disease 160 168	bruxismo
+T11	Disease 179 211	Atricion excesiva de los dientes

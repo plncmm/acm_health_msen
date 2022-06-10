@@ -1,0 +1,7 @@
+T1	Abbreviation 69 72	APS
+T2	Abbreviation 87 90	ANT
+T3	Disease 2 45	TRASTORNO DE LA REFRACCIÓN, NO ESPECIFICADO
+T4	Disease 94 110	VICIO REFRACCION
+T6	Disease 196 239	Trastorno de la refraccion, no especificado
+T5	Therapeutic_Procedure 158 174	AJUSTE DE LENTES
+A1	Pending T5

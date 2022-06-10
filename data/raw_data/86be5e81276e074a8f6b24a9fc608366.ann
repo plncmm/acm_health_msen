@@ -1,0 +1,10 @@
+T1	Disease 0 32	- DIENTES INCLUIDOS E IMPACTADOS
+T2	Body_Part 2 9	DIENTES
+T3	Abbreviation 56 59	APS
+T4	Abbreviation 61 66	pacte
+T5	Body_Part 71 81	diente 2.8
+T6	Laboratory_or_Test_Result 71 107	diente 2.8 semiincluidos e impactado
+T7	Disease 98 107	impactado
+T8	Disease 109 139	Dientes incluidos e impactados
+T9	Body_Part 109 116	Dientes
+T10	Disease 82 95	semiincluidos

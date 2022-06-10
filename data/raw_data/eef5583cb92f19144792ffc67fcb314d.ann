@@ -1,0 +1,8 @@
+T1	Disease 2 32	PERIODONTITIS CRÓNICA MODERADA
+T2	Abbreviation 56 59	APS
+T3	Disease 61 91	periodontitis cronica moderada
+T4	Sign_or_Symptom 93 112	sacos periodontales
+T5	Sign_or_Symptom 115 134	calculo subgingival
+T6	Therapeutic_Procedure 145 168	tratamiento periodontal
+A1	Pending T6
+T7	Disease 170 191	Periodontitis cronica

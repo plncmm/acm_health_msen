@@ -1,0 +1,6 @@
+T1	Body_Part 42 61	orbita lado derecho
+T2	Body_Part 138 144	ORBITA
+T3	Disease 30 61	fractura de orbita lado derecho
+T4	Sign_or_Symptom 82 96	vision borrosa
+T5	Sign_or_Symptom 99 122	dificultad en la vision
+T6	Disease 123 144	FRACTURA DE LA ORBITA

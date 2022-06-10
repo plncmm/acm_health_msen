@@ -1,0 +1,14 @@
+T4	Sign_or_Symptom 71 89	marcha neurológica
+T2	Body_Part 112 114	l1
+T6	Abbreviation 112 114	l1
+T7	Abbreviation 123 125	l5
+T8	Abbreviation 128 130	s1
+T9	Body_Part 128 130	s1
+T10	Body_Part 123 125	l5
+T5	Disease 90 114	fractura inestable de l1
+T1	Sign_or_Symptom 0 25	marcha calcunea bilateral
+T11	Therapeutic_Procedure 26 33	operada
+T3	Disease 34 62	fractura dealbricelo derecha
+T13	Therapeutic_Procedure 63 70	operada
+T12	Therapeutic_Procedure 115 122	operada
+T14	Body_Part 43 62	dealbricelo derecha

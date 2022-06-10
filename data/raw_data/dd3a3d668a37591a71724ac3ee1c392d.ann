@@ -1,0 +1,19 @@
+T1	Abbreviation 0 4	Pzas
+T2	Body_Part 0 12	Pzas 23 y 24
+T3	Sign_or_Symptom 13 39	recesión gingival avanzada
+T4	Sign_or_Symptom 41 60	movilidad aumentada
+T5	Abbreviation 68 71	obs
+T6	Clinical_Finding 72 99	oclusión como factor causal
+A1	Negated T6
+T7	Abbreviation 106 108	Rx
+T8	Diagnostic_Procedure 106 119	Rx Panorámica
+A2	Pending T8
+T9	Abbreviation 122 124	PA
+T10	Diagnostic_Procedure 122 124	PA
+T11	Abbreviation 125 129	pzas
+T12	Body_Part 125 135	pzas 23-24
+T13	Abbreviation 137 139	IC
+T14	Abbreviation 142 145	APS
+T15	Therapeutic_Procedure 151 176	destartraje supragingival
+A3	Pending T15
+T16	Abbreviation 120 121	+

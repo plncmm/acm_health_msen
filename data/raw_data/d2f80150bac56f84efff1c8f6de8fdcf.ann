@@ -1,0 +1,8 @@
+T1	Abbreviation 27 30	tto
+T2	Sign_or_Symptom 34 50	reabsorción osea
+T3	Sign_or_Symptom 80 145	encía marginal ulcerada, persistente después de destartraje e IHO
+T4	Therapeutic_Procedure 128 139	destartraje
+T5	Clinical_Finding 142 145	IHO
+T6	Abbreviation 142 145	IHO
+T7	Body_Part 80 85	encía
+T8	Disease 146 168	Periodontitis Agresiva

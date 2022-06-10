@@ -1,0 +1,14 @@
+T1	Body_Part 34 39	PULPA
+T2	Abbreviation 63 66	APS
+T3	Body_Part 98 107	pieza 2.1
+T4	Abbreviation 125 127	rx
+T5	Abbreviation 131 133	Cd
+T6	Clinical_Finding 2 15	CARIES DENTAL
+T7	Disease 19 39	NECROSIS DE LA PULPA
+T8	Clinical_Finding 98 118	pieza 2.1  trepanada
+T9	Diagnostic_Procedure 125 133	rx en Cd
+T10	Laboratory_or_Test_Result 145 193	restauraciones de composite en estado deficiente
+R1	Has Arg1:T9 Arg2:T10	
+T11	Therapeutic_Procedure 287 293	Corona
+A1	Pending T11
+T12	Clinical_Finding 318 331	Caries dental

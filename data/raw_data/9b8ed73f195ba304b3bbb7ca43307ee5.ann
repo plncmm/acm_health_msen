@@ -1,0 +1,8 @@
+T1	Disease 4 55	INSUFICIENCIA VENOSA DEL MIEMBRO INFERIOR IZQUIERDO
+T3	Disease 62 75	ROMBOFLEBITIS
+T4	Disease 80 105	FLEBOTROMBOSIS DEL M.I.I.
+T8	Body_Part 99 105	M.I.I.
+T9	Abbreviation 76 79	V/S
+T5	Abbreviation 99 104	M.I.I
+#1	AnnotatorNotes T5	Miembro inferior izquierdo (mii)
+T2	Body_Part 29 55	MIEMBRO INFERIOR IZQUIERDO

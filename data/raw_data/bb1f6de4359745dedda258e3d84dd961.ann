@@ -1,0 +1,14 @@
+T1	Disease 2 40	OTRAS DEGENERACIONES DE DISCO CERVICAL
+T2	Abbreviation 44 50	PCTE  
+T3	Sign_or_Symptom 62 137	DOLOR EN EL CUELLO Y SE EXTIENDE HASTA LA REGION  DE LOS HOMBROS  BILATERAL
+T4	Body_Part 74 80	CUELLO
+T6	Abbreviation 152 157	KTR  
+T9	Abbreviation 228 231	TTA
+T11	Body_Part 26 40	DISCO CERVICAL
+T5	Body_Part 119 128	HOMBROS  
+#1	AnnotatorNotes T9	tratar
+#2	AnnotatorNotes T2	paciente
+#3	AnnotatorNotes T6	kinesioterapia
+T7	Sign_or_Symptom 205 214	MOLESTIAS
+T8	Sign_or_Symptom 181 188	DOLORES
+T10	Therapeutic_Procedure 152 157	KTR  

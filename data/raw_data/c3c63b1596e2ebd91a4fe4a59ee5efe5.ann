@@ -1,0 +1,32 @@
+T1	Disease 2 44	OTRAS DEFORMIDADES CONGÉNITAS DE LA CADERA
+T2	Disease 46 126	DISPLASIA DE CADERAS ANTEVERSIÓN DEL CUELLO FEMORAL COXA CONGÉNITA: VARA O VALGA
+T3	Body_Part 38 44	CADERA
+T4	Body_Part 59 66	CADERAS
+T5	Body_Part 83 97	CUELLO FEMORAL
+T6	Abbreviation 151 154	APS
+T7	Abbreviation 204 206	rx
+T9	Body_Part 234 258	Techo acetabular derecho
+T11	Body_Part 272 298	Techo acetabular izquierdo
+T13	Body_Part 312 329	Cejas cotiloideas
+T16	Body_Part 351 377	fosetas de apoyo articular
+T18	Body_Part 426 432;440 447	Cadera derecha
+T19	Abbreviation 422 424	CE
+T23	Abbreviation 575 577	IC
+T22	Body_Part 506 526;527 534;537 546	angulos acetabulares derecho izquierdo
+#1	AnnotatorNotes T19	Angulo de Wiberg
+#2	AnnotatorNotes T23	interconsulta
+T24	Diagnostic_Procedure 204 213	rx pelvis
+T25	Diagnostic_Procedure 460 471	radiografia
+T8	Laboratory_or_Test_Result 190 200	alteracion
+R1	Has Arg1:T24 Arg2:T8	
+T12	Laboratory_or_Test_Result 488 545	mayor a 30 grados angulos acetabulares derecho e izquierd
+R3	Has Arg1:T25 Arg2:T12	
+T10	Laboratory_or_Test_Result 234 268	Techo acetabular derecho 29 grados
+T14	Laboratory_or_Test_Result 272 308	Techo acetabular izquierdo 28 grados
+T15	Laboratory_or_Test_Result 312 391	Cejas cotiloideas bien desarrolladas y fosetas de apoyo articular bien cerradas
+T17	Laboratory_or_Test_Result 409 420	leison osea
+A1	Negated T17
+R2	Has Arg1:T24 Arg2:T17	
+R4	Has Arg1:T24 Arg2:T10	
+R5	Has Arg1:T24 Arg2:T14	
+R6	Has Arg1:T24 Arg2:T15	

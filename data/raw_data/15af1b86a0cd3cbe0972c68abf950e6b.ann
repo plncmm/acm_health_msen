@@ -1,0 +1,10 @@
+T1	Body_Part 78 85	EPIPLON
+T2	Abbreviation 100 104	GIST
+T3	Abbreviation 196 198	QT
+T5	Diagnostic_Procedure 92 99	BIOPSIA
+T6	Laboratory_or_Test_Result 100 131	GIST DE PRONOSTICO DESFAVORABLE
+R1	Has Arg1:T5 Arg2:T6	
+T7	Disease 100 104	GIST
+T8	Therapeutic_Procedure 196 198	QT
+A1	Pending T8
+T4	Disease 37 52	TUMOR ABDOMINAL

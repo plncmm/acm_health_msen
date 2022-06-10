@@ -1,0 +1,15 @@
+T1	Medication 102 111	TENOFOVIR
+T2	Medication 113 123	LAMIVUDINA
+T3	Medication 126 135	EFAVIRENZ
+T4	Disease 0 6	CHAGAS
+T7	Abbreviation 51 54	TTO
+T8	Abbreviation 69 71	CV
+T9	Abbreviation 159 163	ATTE
+T11	Laboratory_Procedure 69 71	CV
+T12	Laboratory_or_Test_Result 72 84	INDETECTABLE
+R1	Has Arg1:T11 Arg2:T12	
+T13	Laboratory_Procedure 87 90	CD4
+T14	Laboratory_or_Test_Result 91 93	OK
+R2	Has Arg1:T13 Arg2:T14	
+T15	Abbreviation 7 8	+
+T10	Laboratory_or_Test_Result 0 8	CHAGAS +

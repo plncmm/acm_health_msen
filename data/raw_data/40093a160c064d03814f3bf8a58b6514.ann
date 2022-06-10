@@ -1,0 +1,12 @@
+T1	Body_Part 38 44	CADERA
+T2	Abbreviation 151 154	APS
+T3	Body_Part 233 257	techo acetabular derecho
+T4	Body_Part 264 290	techo acetabular izquierdo
+T5	Body_Part 59 66	CADERAS
+T6	Body_Part 341 348	caderas
+T7	Body_Part 83 97	CUELLO FEMORAL
+T8	Disease 2 126	OTRAS DEFORMIDADES CONGÉNITAS DE LA CADERA (DISPLASIA DE CADERAS ANTEVERSIÓN DEL CUELLO FEMORAL COXA CONGÉNITA: VARA O VALGA
+T9	Diagnostic_Procedure 201 221	radiografia pelviana
+T10	Laboratory_or_Test_Result 233 348	techo acetabular derecho 32° y techo acetabular izquierdo 35°  con lo que se confirma displasi bilateral de caderas
+R1	Has Arg1:T9 Arg2:T10	
+T11	Disease 319 348	displasi bilateral de caderas

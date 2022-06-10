@@ -1,0 +1,14 @@
+T1	Abbreviation 61 64	APS
+T2	Abbreviation 169 171	mm
+T3	Body_Part 306 312	diente
+T4	Body_Part 31 37	DIENTE
+T5	Body_Part 200 215	arcada superior
+T6	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T7	Sign_or_Symptom 75 98	alteración intermaxilar
+T8	Sign_or_Symptom 100 128	distoclusión molar bilateral
+T9	Sign_or_Symptom 131 146	clase II canina
+T10	Sign_or_Symptom 149 166	overjet aumentado
+T11	Sign_or_Symptom 175 215	falta de espacio leve en arcada superior
+T12	Disease 277 312	Anomalias de la posicion del diente
+T13	Disease 230 254	discapacidad intelectual
+T14	Clinical_Finding 255 265	cooperador

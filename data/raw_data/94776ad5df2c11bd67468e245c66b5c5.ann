@@ -1,0 +1,5 @@
+T1	Body_Part 67 71	MAMA
+T2	Body_Part 85 151	cuadrante superior derecho externo entre 9 y 11 en la mama derecha
+T3	Disease 47 71	TUMOR BENIGNO DE LA MAMA
+T4	Sign_or_Symptom 75 151	nodulo en cuadrante superior derecho externo entre 9 y 11 en la mama derecha
+T5	Sign_or_Symptom 152 160	doloroso

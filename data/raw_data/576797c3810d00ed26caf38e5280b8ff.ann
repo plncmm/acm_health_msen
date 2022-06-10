@@ -1,0 +1,14 @@
+T1	Disease 2 20	DERMATITIS ATÓPICA
+T2	Sign_or_Symptom 83 111	ronchas en piernas y abdomen
+T3	Disease 275 293	Dermatitis atopica
+T4	Sign_or_Symptom 211 219	lesiones
+T5	Abbreviation 44 47	APS
+#1	AnnotatorNotes T5	atención primaria de salud
+T6	Abbreviation 264 268	Atte
+#2	AnnotatorNotes T6	atentamente
+T7	Abbreviation 271 273	Ud
+#3	AnnotatorNotes T7	usted 
+T8	Body_Part 94 101	piernas
+T9	Body_Part 104 111	abdomen
+T10	Medication 136 148	clorfenamina
+T11	Medication 161 173	betametasona

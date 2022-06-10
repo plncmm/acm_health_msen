@@ -1,0 +1,7 @@
+T1	Body_Part 0 6	P. 3.5
+T2	Abbreviation 0 1	P
+T3	Clinical_Finding 11 39	terapia previamente iniciada
+T4	Therapeutic_Procedure 41 50	trepanada
+T5	Medication 65 69	PMCF
+T6	Abbreviation 65 69	PMCF
+T7	Clinical_Finding 85 91	Fermín

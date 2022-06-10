@@ -1,0 +1,15 @@
+T1	Abbreviation 0 3	dte
+T2	Body_Part 0 6	dte 10
+T3	Abbreviation 7 10	obt
+T4	Abbreviation 11 15	prof
+T5	Body_Part 43 49	dte 24
+T6	Abbreviation 43 46	dte
+T7	Body_Part 95 101	dte 10
+T8	Abbreviation 95 98	dte
+T9	Body_Part 112 118	dte 24
+T10	Abbreviation 112 115	dte
+T11	Therapeutic_Procedure 84 101	endodoncia dte 10
+A1	Pending T11
+T12	Sign_or_Symptom 43 67	dte 24 con lesion apical
+T13	Sign_or_Symptom 0 15	dte 10 obt prof
+T14	Sign_or_Symptom 17 40	Test vitalidad negativo

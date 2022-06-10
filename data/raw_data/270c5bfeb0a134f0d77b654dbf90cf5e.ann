@@ -1,0 +1,7 @@
+T1	Disease 0 32	EDENTULISMO  PARCIAL    SUPERIOR
+T2	Sign_or_Symptom 35 44	CLASE   V
+T3	Disease 49 75	DENTULISMO   PARCIAL   INT
+T4	Sign_or_Symptom 79 88	CLASE   I
+T5	Therapeutic_Procedure 106 133	REHABILITACION    PROTESICA
+A1	Pending T5
+T6	Abbreviation 72 75	INT

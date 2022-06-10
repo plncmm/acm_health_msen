@@ -1,0 +1,11 @@
+T1	Disease 0 4	K010
+T2	Disease 5 22	DIENTES INCLUIDOS
+T3	Body_Part 5 12	DIENTES
+T4	Therapeutic_Procedure 55 89	FENESTRAR PIEZA 11 ( 2 3) INCLUÍDA
+A1	Pending T4
+T5	Body_Part 65 80	PIEZA 11 ( 2 3)
+T6	Disease 81 89	INCLUÍDA
+T7	Disease 95 108	TRANSPOSICIÓN
+T8	Body_Part 113 116	2 2
+T9	Abbreviation 123 125	DR
+T10	Abbreviation 47 49	UC

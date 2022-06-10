@@ -1,0 +1,6 @@
+T1	Disease 2 64	CONJUNTIVITIS EN OTRAS ENFERMEDADES CLASIFICADAS EN OTRA PARTE
+T2	Abbreviation 88 91	APS
+T3	Body_Part 93 104	OJO DERECHO
+T4	Disease 105 114	PTERIGION
+T6	Disease 125 187	Conjuntivitis en otras enfermedades clasificadas en otra parte
+T5	Sign_or_Symptom 93 124	OJO DERECHO PTERIGION INFLAMADO

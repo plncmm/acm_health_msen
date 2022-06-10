@@ -1,0 +1,11 @@
+T1	Disease 2 30	QUISTE PILONIDAL SIN ABSCESO
+T2	Abbreviation 54 57	APS
+T3	Abbreviation 59 62	RNT
+T4	Therapeutic_Procedure 76 89	parto vaginal
+T5	Clinical_Finding 128 136	embarazo
+T6	Sign_or_Symptom 173 187	fosa pilonidal
+T7	Sign_or_Symptom 193 212	signos de infección
+A1	Negated T7
+T8	Sign_or_Symptom 218 225	exudado
+A2	Negated T8
+T9	Disease 257 285	Quiste pilonidal sin absceso

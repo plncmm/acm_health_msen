@@ -1,0 +1,20 @@
+T1	Abbreviation 74 77	APS
+T2	Abbreviation 266 269	FUR
+T3	Abbreviation 310 313	PAP
+T4	Abbreviation 242 243	G
+T5	Abbreviation 244 245	P
+T6	Abbreviation 246 247	A
+T7	Abbreviation 248 249	V
+T8	Disease 2 50	OTROS TRASTORNOS MENOPÁUSICOS Y PERIMENOPÁUSICOS
+T9	Sign_or_Symptom 133 141	CEFALEAS
+T10	Sign_or_Symptom 143 152	BOCHORNOS
+T11	Sign_or_Symptom 154 178	DOLORES OSTEOARTICULARES
+T12	Sign_or_Symptom 181 201	LABIL EMOCIONALMENTE
+T13	Sign_or_Symptom 204 228	DISMINUCION DE LA LIBIDO
+T14	Clinical_Finding 242 244	G3
+T15	Clinical_Finding 244 246	P3
+T16	Clinical_Finding 246 248	A0
+T17	Clinical_Finding 250 266	TRIPLECESARIZADA
+T18	Diagnostic_Procedure 310 313	PAP
+T19	Disease 322 370	Otros trastornos menopausicos y perimenopausicos
+T20	Clinical_Finding 278 294	CICLOS REGULARES

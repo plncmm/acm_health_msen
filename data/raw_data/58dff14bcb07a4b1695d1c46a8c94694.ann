@@ -1,0 +1,10 @@
+T1	Abbreviation 45 48	APS
+T2	Abbreviation 83 86	SEM
+T3	Abbreviation 90 93	FUR
+T4	Abbreviation 102 105	OBS
+T5	Abbreviation 88 89	X
+T6	Clinical_Finding 2 10	EMBARAZO
+T7	Clinical_Finding 50 60	PRIMIGESTA
+T8	Disease 110 127	BRADICARDIA FETAL
+T9	Sign_or_Symptom 128 146	VOMITOS FRECUENTES
+T10	Clinical_Finding 163 171	Embarazo

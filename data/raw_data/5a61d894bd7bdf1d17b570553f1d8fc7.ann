@@ -1,0 +1,11 @@
+T1	Abbreviation 129 131	+-
+T2	Abbreviation 139 140	-
+T3	Disease 0 24	SINDROME CERVICOBRAQUIAL
+T4	Sign_or_Symptom 36 44	cefalea 
+T5	Disease 72 81	depresion
+T6	Disease 83 93	diabetica 
+T7	Sign_or_Symptom 93 120	cefalea holocranea opresiva
+T8	Sign_or_Symptom 122 131	nauseas+-
+T9	Sign_or_Symptom 132 139	vomitos
+A1	Negated T9
+T10	Sign_or_Symptom 141 147	mareos

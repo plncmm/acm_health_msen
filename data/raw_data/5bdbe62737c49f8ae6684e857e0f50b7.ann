@@ -1,0 +1,6 @@
+T1	Body_Part 31 37	DIENTE
+T2	Body_Part 44 54	1.8 -  2.8
+T3	Body_Part 69 76	3.8-4.8
+T4	Disease 2 37	ANOMALÍAS DE LA POSICIÓN DEL DIENTE
+T5	Laboratory_or_Test_Result 44 66	1.8 -  2.8 : incluidos
+T6	Laboratory_or_Test_Result 69 102	3.8-4.8  : incluidos e impactados

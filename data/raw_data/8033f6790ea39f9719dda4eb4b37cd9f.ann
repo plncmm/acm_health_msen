@@ -1,0 +1,8 @@
+T1	Body_Part 0 13	Piezas 1 y 16
+T2	Body_Part 27 29	17
+T3	Body_Part 74 76	32
+T4	Body_Part 86 93	Dientes
+T5	Clinical_Finding 0 26	Piezas 1 y 16 erupcionados
+T7	Laboratory_or_Test_Result 74 85	32 incluido
+T6	Laboratory_or_Test_Result 27 73	17 incluido en posición horizontal e impactado
+T8	Disease 86 103	Dientes incluidos

@@ -1,0 +1,13 @@
+T1	Abbreviation 0 5	ANTEC
+T4	Abbreviation 48 51	DEF
+T5	Abbreviation 76 81	ANTEC
+T6	Abbreviation 102 105	TXP
+T2	Abbreviation 25 27	I°
+T3	Abbreviation 73 75	D°
+T7	Abbreviation 94 95	+
+T8	Sign_or_Symptom 62 75	HIPOACUSIA D°
+T9	Laboratory_Procedure 102 105	TXP
+T10	Laboratory_or_Test_Result 83 96	SEROLOGIA (+)
+R1	Has Arg1:T9 Arg2:T10	
+T11	Laboratory_or_Test_Result 7 47	VENTRICULOMEGALIA I° (ANTE Y POST NATAL)
+T12	Sign_or_Symptom 48 61	DEF. LENGUAJE

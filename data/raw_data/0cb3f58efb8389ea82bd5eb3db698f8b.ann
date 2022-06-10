@@ -1,0 +1,11 @@
+T1	Disease 2 87	COMPLICACIÓN MECÁNICA DE OTROS DISPOSITIVOS PROTÉSICOS, IMPLANTES E INJERTOS OCULARES
+T3	Body_Part 142 149	ojo izq
+T4	Sign_or_Symptom 156 170	lesion corneal
+T6	Body_Part 211 218	ojo izq
+T10	Medication 263 274	Oftabiotico
+T11	Disease 313 398	Complicacion mecanica de otros dispositivos protesicos, implantes e injertos oculares
+T12	Abbreviation 111 114	APS
+T15	Abbreviation 146 149	izq
+T16	Abbreviation 215 218	izq
+T5	Sign_or_Symptom 203 257	epifora ojo izq, recurrente, amarillenta, sin mal olor
+T2	Clinical_Finding 126 149	protesis ocualr ojo izq

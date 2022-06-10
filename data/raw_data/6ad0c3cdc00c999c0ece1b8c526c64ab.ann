@@ -1,0 +1,7 @@
+T1	Body_Part 36 39	8.5
+T2	Clinical_Finding 15 21	CARIES
+T3	Disease 90 106	SINDROME DE DAWN
+T4	Abbreviation 32 34	PD
+T5	Therapeutic_Procedure 0 31	TRATAMIENTO DE CARIES MULTIPLES
+T6	Sign_or_Symptom 44 57	PROCESO AGUDO
+T7	Sign_or_Symptom 59 76	DOLOR A ESTIMULOS

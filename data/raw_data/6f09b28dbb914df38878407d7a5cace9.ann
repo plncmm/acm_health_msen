@@ -1,0 +1,29 @@
+T1	Abbreviation 63 66	APS
+T2	Abbreviation 81 84	ant
+T3	Abbreviation 110 113	hta
+T4	Body_Part 209 213	boca
+T5	Abbreviation 346 348	AM
+T6	Abbreviation 354 356	PM
+T7	Abbreviation 369 372	NPH
+T8	Medication 360 372	insulina NPH
+T9	Medication 514 522	insulina
+T10	Abbreviation 548 550	AM
+T11	Abbreviation 591 593	HB
+T12	Abbreviation 594 598	GLIC
+T13	Disease 2 19	DIABETES MELLITUS
+T14	Disease 88 107	artritis reumatoide
+T15	Disease 110 113	hta
+T16	Laboratory_Procedure 124 141	examenes generlae
+T17	Laboratory_Procedure 168 185	glicemia de ayuna
+T18	Sign_or_Symptom 209 218	boca seca
+T19	Laboratory_Procedure 240 248	glicemia
+T20	Laboratory_Procedure 580 590	examenes  
+T21	Laboratory_Procedure 591 593	HB
+T22	Laboratory_Procedure 594 598	GLIC
+T23	Disease 724 741	Diabetes mellitus
+T24	Laboratory_Procedure 436 452	perfil glicemico
+T25	Laboratory_Procedure 465 482	glicmeia de ayuno
+T26	Laboratory_or_Test_Result 483 491	normales
+R1	Has Arg1:T25 Arg2:T26	
+T27	Disease 665 673	diabetes
+T28	Medication 539 547	insulina

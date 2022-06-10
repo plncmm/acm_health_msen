@@ -1,0 +1,7 @@
+T1	Disease 10 43	DESDENTADA PARCIAL SUP. E INFRIOR
+T2	Abbreviation 57 60	PPR
+T3	Sign_or_Symptom 57 82	PPR. SUPERIOR DESAJUSTADA
+T4	Abbreviation 102 105	PPR
+T5	Therapeutic_Procedure 102 126	PPR. SUPERIOR E INFERIOR
+A1	Pending T5
+T6	Abbreviation 29 32	SUP

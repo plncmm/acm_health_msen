@@ -1,0 +1,29 @@
+T1	Body_Part 12 17	PECHO
+T2	Abbreviation 41 44	APS
+T3	Abbreviation 198 201	EKG
+T4	Medication 380 389	ENALAPRIL
+T5	Abbreviation 392 394	MG
+T6	Medication 402 415	ATORVASTATINA
+T7	Abbreviation 419 421	MG
+T8	Abbreviation 429 432	ASA
+T9	Medication 429 432	ASA
+T10	Abbreviation 436 438	MG
+T11	Medication 446 456	ISOSORBIDE
+T12	Abbreviation 459 461	MG
+T13	Abbreviation 462 465	SOS
+T14	Body_Part 476 481	pecho
+T15	Disease 2 17	ANGINA DE PECHO
+T16	Clinical_Finding 59 80	ANTECEDENTES MORBIDOS
+T17	Sign_or_Symptom 100 127	DOLOR PRECORDIAL ESPONTANEO
+T18	Diagnostic_Procedure 198 201	EKG
+T19	Laboratory_or_Test_Result 214 230	ARRITMIA SINUSAL
+T20	Laboratory_or_Test_Result 235 270	INFRADESNIVEL DE ST EN DI Y II, aVL
+T21	Laboratory_or_Test_Result 272 288	T ELEVADA EN aVR
+T22	Laboratory_or_Test_Result 291 316	ENSANCHAMIENTO DE Q EN V1
+R1	Has Arg1:T18 Arg2:T19	
+R2	Has Arg1:T18 Arg2:T20	
+R3	Has Arg1:T18 Arg2:T21	
+R4	Has Arg1:T18 Arg2:T22	
+T23	Disease 466 481	Angina de pecho
+T24	Disease 214 230	ARRITMIA SINUSAL
+A1	Negated T16

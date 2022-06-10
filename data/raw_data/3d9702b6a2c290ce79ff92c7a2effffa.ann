@@ -1,0 +1,48 @@
+T2	Abbreviation 22 26	SDST
+T3	Abbreviation 30 32	AM
+T4	Abbreviation 34 37	HTA
+T5	Abbreviation 41 44	TTO
+T6	Abbreviation 49 52	ENL
+T7	Medication 49 52	ENL
+T8	Medication 59 71	NITRENDIPINO
+T9	Abbreviation 81 84	NIR
+T10	Abbreviation 85 88	MTF
+T11	Medication 85 88	MTF
+T12	Abbreviation 109 111	MC
+T13	Abbreviation 120 123	HRS
+T14	Body_Part 178 190	EXTREMIDADES
+T15	Abbreviation 217 219	EF
+T16	Body_Part 237 241	PIEL
+T17	Abbreviation 272 274	SS
+T18	Abbreviation 278 281	EKG
+T19	Abbreviation 283 285	FA
+T20	Abbreviation 286 289	RVR
+T21	Abbreviation 300 303	LPM
+T22	Abbreviation 359 363	SDST
+T23	Abbreviation 384 387	EKG
+T27	Abbreviation 77 80	DM2
+T1	Abbreviation 15 17	CA
+T28	Abbreviation 268 270	2T
+T24	Disease 14 26	SCA SIN SDST
+T25	Disease 34 37	HTA
+T26	Disease 77 80	DM2
+T29	Clinical_Finding 95 103	ALERGIAS
+A1	Negated T29
+T30	Sign_or_Symptom 124 142	SENSACIÓN DE MAREO
+T31	Sign_or_Symptom 144 153	LIPOTIMIA
+T32	Sign_or_Symptom 155 165	SUDORACIÓN
+T33	Sign_or_Symptom 167 190	TEMBLOR DE EXTREMIDADES
+T34	Diagnostic_Procedure 278 281	EKG
+T35	Laboratory_or_Test_Result 283 303	FA RVR HASTA 150 LPM
+T36	Laboratory_or_Test_Result 305 324	INFRADESNIVEL V5-V6
+R1	Has Arg1:T34 Arg2:T35	
+R2	Has Arg1:T34 Arg2:T36	
+T37	Diagnostic_Procedure 339 357	DERIVADAS DERECHAS
+T38	Laboratory_or_Test_Result 359 370	SDST V1-V3?
+R3	Has Arg1:T37 Arg2:T38	
+T39	Diagnostic_Procedure 384 387	EKG
+T40	Laboratory_or_Test_Result 398 417	INFRADESNIVEL V5-V6
+R4	Has Arg1:T39 Arg2:T40	
+T41	Sign_or_Symptom 237 250	PIEL SUDOROSA
+T42	Sign_or_Symptom 252 274	RITMO IRREGULAR 2T, SS
+T43	Clinical_Finding 221 235	BIEN HIDRATADO

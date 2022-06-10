@@ -1,0 +1,13 @@
+T1	Body_Part 17 30	TABIQUE NASAL
+T2	Abbreviation 88 91	app
+T3	Abbreviation 95 98	hta
+T4	Abbreviation 99 100	+
+T5	Abbreviation 156 157	+
+T6	Abbreviation 181 182	+
+T7	Disease 2 30	DESVIACIÓN DEL TABIQUE NASAL
+T8	Disease 34 51	SINUSITIS CRÓNICA
+T9	Disease 95 98	hta
+T10	Disease 101 113	dislipidemia
+T11	Sign_or_Symptom 140 155	cefalea intensa
+T12	Sign_or_Symptom 158 181	disficultad para dormir
+T13	Sign_or_Symptom 183 213	perdida de la vision bilateral

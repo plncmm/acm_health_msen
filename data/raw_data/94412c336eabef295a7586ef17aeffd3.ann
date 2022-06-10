@@ -1,0 +1,17 @@
+T1	Body_Part 0 3	PIE
+T2	Abbreviation 97 99	RX
+T3	Body_Part 100 107	COLUMNA
+T4	Body_Part 117 121	PIES
+T5	Body_Part 204 207	PIE
+T6	Disease 0 19	PIE PLANO CONGENITO
+T7	Disease 73 92	ESCOLIOSIS POSTURAL
+T8	Diagnostic_Procedure 97 99	RX
+T9	Laboratory_or_Test_Result 100 114	COLUMNA NORMAL
+R1	Has Arg1:T8 Arg2:T9	
+T10	Laboratory_or_Test_Result 117 151	PIES PLANOS GRADO 4 CON TALO VALGO
+T11	Laboratory_or_Test_Result 154 175	AUMENTO DEL GENUVALGO
+T12	Laboratory_or_Test_Result 180 207	ANGULACION APARENTE DEL PIE
+A1	Negated T12
+R2	Has Arg1:T8 Arg2:T10	
+R3	Has Arg1:T8 Arg2:T11	
+R4	Has Arg1:T8 Arg2:T12	

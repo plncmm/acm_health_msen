@@ -1,0 +1,10 @@
+T1	Clinical_Finding 12 40	denticion mixta primera fase
+T2	Body_Part 42 53	diente 7-10
+T3	Laboratory_or_Test_Result 42 76	diente 7-10 en evolucion intraosea
+T4	Sign_or_Symptom 90 120	falta de espacio para erupcion
+T5	Abbreviation 155 157	mm
+T6	Sign_or_Symptom 162 201	insercion aberrante de frenillo labial,
+T7	Body_Part 185 201	frenillo labial,
+T8	Sign_or_Symptom 131 147	diastema central
+T9	Therapeutic_Procedure 225 249	tratamiento interceptivo
+A1	Pending T9

@@ -1,0 +1,9 @@
+T1	Abbreviation 0 2	AR
+T2	Body_Part 18 25	COLUMNA
+T3	Body_Part 28 34	VEJIGA
+T4	Disease 0 2	AR
+T5	Disease 28 46	VEJIGA NEUROGENICA
+T6	Therapeutic_Procedure 67 86	TERAPIA OCUPACIONAL
+T7	Therapeutic_Procedure 89 103	REHABILITACION
+A1	Pending T6
+A2	Pending T7

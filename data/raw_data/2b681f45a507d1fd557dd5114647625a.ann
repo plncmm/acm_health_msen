@@ -1,0 +1,5 @@
+T1	Abbreviation 0 4	pcte
+T2	Sign_or_Symptom 9 29	movilidad patologica
+T3	Body_Part 40 47	dientes
+T4	Sign_or_Symptom 40 68	dientes periodontitis apical
+T5	Disease 81 96	parto prematuro

@@ -1,0 +1,10 @@
+T1	Body_Part 0 8	pieza 30
+T2	Abbreviation 87 91	ADAC
+T3	Abbreviation 103 105	rx
+T4	Body_Part 139 150	raiz mesial
+T5	Laboratory_or_Test_Result 9 37	terapia previamente iniciada
+T6	Disease 58 65	absceso
+T8	Disease 87 99	ADAC lingual
+T9	Diagnostic_Procedure 103 105	rx
+T10	Laboratory_or_Test_Result 117 150	lesion osteolitica en raiz mesial
+R1	Has Arg1:T9 Arg2:T10	

@@ -1,0 +1,27 @@
+T1	Abbreviation 116 119	APS
+T2	Body_Part 188 202	COLUMNA LUMBAR
+T3	Abbreviation 230 233	DRA
+T4	Abbreviation 295 296	X
+T5	Body_Part 325 332	COLUMNA
+T6	Body_Part 335 340	FEMUR
+T7	Abbreviation 344 347	TTO
+T8	Abbreviation 375 378	AMP
+T9	Medication 385 399	HIDROCORTISONA
+T10	Abbreviation 402 404	MG
+T11	Medication 413 420	EUTIROX
+T12	Abbreviation 424 427	MCG
+T13	Medication 365 372	ACLASTA
+T14	Medication 353 360	ELCAL D
+T15	Abbreviation 362 363	X
+T16	Abbreviation 363 364	D
+T17	Abbreviation 410 411	X
+T18	Abbreviation 411 412	D
+T19	Abbreviation 428 429	X
+T20	Abbreviation 429 430	D
+T21	Disease 2 39	OSTEOPOROSIS CON FRACTURAS PATOLÓGICA
+T22	Disease 41 90	TRASTORNOS DE LA DENSIDAD Y DE LA ESTRUCTURA ÓSEA
+T23	Disease 149 163	HIPOTIROIDISMO
+T24	Disease 165 202	FRACTURA PATOLOGICA DE COLUMNA LUMBAR
+T25	Disease 305 340	OSTEOPOROSIS SEVERA COLUMNA Y FEMUR
+T26	Disease 431 468	Osteoporosis con fracturas patologica
+T27	Disease 470 519	trastornos de la densidad y de la estructura osea

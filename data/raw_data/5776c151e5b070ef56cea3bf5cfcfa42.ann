@@ -1,0 +1,22 @@
+T1	Sign_or_Symptom 2 17	RESTO RADICULAR
+T2	Abbreviation 41 44	APS
+T3	Clinical_Finding 84 94	embarazada
+T4	Clinical_Finding 120 147	con 32 semanas de gestación
+T6	Disease 248 272	síndrome coronario agudo
+T7	Medication 303 311	Aspirina
+T9	Abbreviation 350 353	aro
+T10	Abbreviation 357 360	HRC
+T11	Abbreviation 544 547	UCI
+T13	Abbreviation 646 651	aps  
+T14	Body_Part 858 870	pieza. # 1.6
+T15	Clinical_Finding 858 890	pieza. # 1.6 en estado radicular
+T16	Body_Part 903 910	dientes
+T17	Disease 892 972	Perdida de dientes debida a accidente, extraccion o enfermedad periodontal local
+#1	AnnotatorNotes T9	alta riesgo obstetrico 
+T5	Medication 313 321	atenolol
+T8	Therapeutic_Procedure 439 456	parto con cesaria
+T18	Therapeutic_Procedure 845 854	exodoncia
+A2	Pending T18
+T19	Abbreviation 327 329	mg
+A3	Pending T8
+T20	Procedure 492 499	parto  

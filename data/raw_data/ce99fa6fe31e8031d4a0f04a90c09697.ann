@@ -1,0 +1,8 @@
+T1	Disease 2 30	PERIODONTITIS CRÓNICA SEVERA
+T2	Abbreviation 54 57	APS
+T3	Disease 77 119	periodontitis cronica avanzada generlizada
+T4	Sign_or_Symptom 121 139	movilidad grado II
+T5	Body_Part 140 150	diente 2.3
+T6	Disease 161 180	absceso periodontal
+T7	Body_Part 184 194	diente 1.1
+T8	Disease 197 218	Periodontitis cronica

@@ -1,0 +1,11 @@
+T1	Body_Part 2 9	DIENTES
+T2	Abbreviation 88 91	APS
+T3	Body_Part 93 96	4.8
+T4	Body_Part 200 207	Dientes
+T5	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T6	Disease 36 64	CARIES DENTINARIA PENETRANTE
+T7	Disease 97 125	caries dentinaria penetrante
+T9	Sign_or_Symptom 152 174	dificil acceso clinico
+T10	Therapeutic_Procedure 189 199	eoxodoncia
+T11	Disease 200 230	Dientes incluidos e impactados
+T8	Sign_or_Symptom 127 150	cavidad oclusal extensa

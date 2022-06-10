@@ -1,0 +1,7 @@
+T1	Disease 0 15	INMUNODEPRESION
+T2	Abbreviation 19 22	TTO
+T3	Abbreviation 23 25	OK
+T5	Abbreviation 79 82	TTO
+T7	Abbreviation 98 102	ATTE
+T6	Sign_or_Symptom 26 41	FOCOS DENTARIOS
+#1	AnnotatorNotes T1	Hay que explicar que en chile se suele hablar ai del VIH porque  hay una lesgilación de revelar datos

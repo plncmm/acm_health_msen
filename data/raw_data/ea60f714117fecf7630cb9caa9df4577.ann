@@ -1,0 +1,12 @@
+T1	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T2	Laboratory_or_Test_Result 2 30	CARIES DENTINARIA PENETRANTE
+T3	Abbreviation 54 57	APS
+T4	Body_Part 59 62	1.4
+T5	Laboratory_or_Test_Result 59 80	1.4 caries penetrante
+T6	Therapeutic_Procedure 96 107	trepanación
+T7	Therapeutic_Procedure 112 161	irriga con hipoclorito ( con activación mecanica)
+T8	Therapeutic_Procedure 164 198	se deja hidroxido de calcio fluido
+T9	Medication 172 191	hidroxido de calcio
+T10	Medication 123 134	hipoclorito
+T11	Disease 200 218	Caries del cemento
+T12	Body_Part 211 218	cemento

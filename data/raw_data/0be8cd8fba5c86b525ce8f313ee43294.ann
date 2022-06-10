@@ -1,0 +1,7 @@
+T1	Disease 0 8	DIABETES
+T2	Disease 29 44	HIPERTIROIDISMO
+T3	Abbreviation 83 86	IAM
+T4	Disease 83 86	IAM
+T5	Sign_or_Symptom 83 94	IAM ANTIGUO
+T6	Disease 60 81	CARDIOPATIA CORONARIA
+T7	Abbreviation 140 142	DR

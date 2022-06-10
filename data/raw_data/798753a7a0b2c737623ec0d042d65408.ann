@@ -1,0 +1,9 @@
+T2	Abbreviation 112 114	mm
+T3	Body_Part 115 122	dientes
+T4	Body_Part 124 127	1.5
+T5	Body_Part 129 132	1.3
+T6	Body_Part 134 137	1.2
+T7	Body_Part 139 142	2.4
+T8	Disease 2 32	PERIODONTITIS CRÓNICA MODERADA
+T9	Disease 36 79	Periodontitis cronica moderada generalizada
+T10	Sign_or_Symptom 81 100	Sacos periodontales

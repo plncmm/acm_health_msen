@@ -1,0 +1,85 @@
+T1	Body_Part 38 44	CADERA
+T2	Body_Part 59 66	CADERAS
+T3	Body_Part 83 97	CUELLO FEMORAL
+T4	Abbreviation 151 154	APS
+T5	Abbreviation 239 242	APP
+T6	Medication 271 286	SULFATO FERROSO
+T7	Abbreviation 243 246	PRE
+T8	Abbreviation 287 291	PERI
+T9	Abbreviation 292 295	POS
+T10	Abbreviation 366 369	LME
+T11	Abbreviation 372 374	LD
+T12	Abbreviation 457 459	CC
+T13	Abbreviation 491 492	M
+T14	Abbreviation 495 496	D
+T15	Abbreviation 517 519	CC
+T16	Abbreviation 565 567	CC
+T17	Abbreviation 648 649	-
+T18	Abbreviation 657 658	-
+T19	Abbreviation 680 681	+
+T20	Abbreviation 617 623	OROFAR
+T21	Abbreviation 594 595	M
+T22	Abbreviation 650 654	UROG
+T23	Abbreviation 668 670	OK
+T24	Abbreviation 698 701	ANT
+T25	Abbreviation 720 723	+/-
+T26	Abbreviation 728 730	CM
+T27	Abbreviation 732 736	POST
+T28	Abbreviation 702 708	ABIERT
+T29	Abbreviation 690 693	DER
+T30	Body_Part 683 689	CADERA
+T31	Abbreviation 764 766	RX
+T32	Body_Part 770 776	CADERA
+T33	Abbreviation 798 801	DER
+T34	Abbreviation 806 809	IZQ
+T35	Abbreviation 830 831	+
+T36	Abbreviation 840 843	DER
+T37	Body_Part 833 839	CADERA
+T38	Body_Part 970 984	Cuello Femoral
+T39	Family_Member 198 203	MADRE
+T40	Abbreviation 625 629	NORM
+T41	Body_Part 925 931	cadera
+T42	Disease 2 126	OTRAS DEFORMIDADES CONGÉNITAS DE LA CADERA (DISPLASIA DE CADERAS ANTEVERSIÓN DEL CUELLO FEMORAL COXA CONGÉNITA: VARA O VALGA
+T43	Clinical_Finding 173 185	PARTO NORMAL
+T44	Disease 208 220	DISCAPACIDAD
+A1	Negated T44
+T45	Clinical_Finding 220 228	EMBARAZO
+T46	Disease 248 254	ANEMIA
+T47	Laboratory_or_Test_Result 297 305	NEGATIVO
+T48	Clinical_Finding 305 315	APGAR: 9/9
+T49	Disease 889 1000	Otras deformidades congenitas de la cadera (Displasia de caderas Anteversion del Cuello Femoral Coxa Congenita:
+T50	Sign_or_Symptom 813 843	ORTOLANI BARLOW (+) CADERA DER
+T51	Diagnostic_Procedure 764 776	RX DE CADERA
+T52	Sign_or_Symptom 339 352	SUEÑO REGULAR
+T53	Sign_or_Symptom 374 406	MICCION Y DEPOSICIONES: NORMALES
+T54	Medication 406 413	VACUNAS
+T55	Clinical_Finding 572 578	P/E: M
+T56	Clinical_Finding 578 584	T/E: M
+T57	Clinical_Finding 584 590	P/T: M
+T58	Sign_or_Symptom 594 604	M. HUMEDAS
+T59	Sign_or_Symptom 607 617	COLOREADAS
+T60	Sign_or_Symptom 642 650	ABD: (-)
+T61	Sign_or_Symptom 650 659	UROG: (-)
+T63	Sign_or_Symptom 693 708	FONT ANT ABIERT
+T64	Sign_or_Symptom 709 719	NORMOTENSA
+T65	Sign_or_Symptom 732 744	POST CERRADA
+T66	Sign_or_Symptom 744 764	REFLECTIVIDAD NORMAL
+T67	Body_Part 777 797	ANGULOS ACETABULARES
+T68	Sign_or_Symptom 659 670	PERIANAL OK
+T62	Sign_or_Symptom 670 693	ORTOLANI (+) CADERA DER
+T69	Sign_or_Symptom 629 634	MP(+)
+T70	Sign_or_Symptom 636 642	RR2TSS
+T71	Sign_or_Symptom 634 636	SE
+T72	Abbreviation 195 198	SEM
+T73	Abbreviation 256 257	T
+T74	Abbreviation 572 575	P/E
+T75	Abbreviation 578 581	T/E
+T76	Abbreviation 584 587	P/T
+T77	Abbreviation 577 578	M
+T78	Abbreviation 583 584	M
+T79	Abbreviation 589 590	M
+T80	Abbreviation 629 631	MP
+T81	Abbreviation 632 633	+
+T82	Abbreviation 636 642	RR2TSS
+T83	Abbreviation 634 636	SE
+T84	Abbreviation 693 697	FONT

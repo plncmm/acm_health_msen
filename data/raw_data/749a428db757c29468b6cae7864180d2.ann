@@ -1,0 +1,6 @@
+T1	Abbreviation 19 22	PFU
+T2	Body_Part 27 36	PIEZA 2.1
+T3	Abbreviation 132 135	TTO
+T4	Therapeutic_Procedure 19 22	PFU
+T5	Sign_or_Symptom 19 67	PFU EN  PIEZA 2.1, DESAJUSTADO, SIN  CIMENTACION
+T6	Therapeutic_Procedure 83 105	CIMENTACION PROVISORIA

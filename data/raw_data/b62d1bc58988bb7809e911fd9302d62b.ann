@@ -1,0 +1,7 @@
+T2	Therapeutic_Procedure 37 47	extraccion
+A1	Pending T2
+T3	Body_Part 51 59	pieza 12
+T4	Therapeutic_Procedure 101 129	reparacion de dicha protesis
+A2	Pending T4
+T5	Clinical_Finding 51 77	pieza 12 pilar de protesis
+T1	Disease 0 27	desdentada parcial inferior

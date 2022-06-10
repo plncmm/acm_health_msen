@@ -1,0 +1,24 @@
+T1	Body_Part 52 66	CUELLO UTERINO
+T2	Abbreviation 237 240	PAP
+T3	Abbreviation 319 322	PAP
+T4	Abbreviation 423 426	UPC
+T5	Abbreviation 440 443	MAC
+T6	Abbreviation 445 448	FUR
+T7	Abbreviation 478 481	PAP
+T8	Body_Part 140 157	ÓRGANOS GENITALES
+T9	Disease 2 66	CELULAS ATIPICAS DE SIGNIFICADO INDETERMINADO DEL CUELLO UTERINO
+T10	Disease 70 93	DISPLASIA CERVICAL LEVE
+T12	Laboratory_or_Test_Result 170 201	HALLAZGOS CITOLÓGICOS ANORMALES
+T13	Laboratory_or_Test_Result 203 233	FROTIS ANORMAL DE PAPANICOLAOU
+T14	Diagnostic_Procedure 237 240	PAP
+T15	Laboratory_or_Test_Result 255 310	Células escamosas atípicas de significado indeterminado
+R1	Has Arg1:T14 Arg2:T15	
+T16	Diagnostic_Procedure 319 322	PAP
+T17	Laboratory_or_Test_Result 337 363	Células escamosas atípicas
+R2	Has Arg1:T16 Arg2:T17	
+T18	Laboratory_or_Test_Result 365 406	No puede descartarse lesión de alto grado
+R3	Has Arg1:T16 Arg2:T18	
+T19	Diagnostic_Procedure 478 481	PAP
+T20	Laboratory_or_Test_Result 506 512	Normal
+R4	Has Arg1:T19 Arg2:T20	
+T11	Laboratory_or_Test_Result 97 157	HALLAZGOS ANORMALES EN MUESTRAS TOMADAS DE ÓRGANOS GENITALES

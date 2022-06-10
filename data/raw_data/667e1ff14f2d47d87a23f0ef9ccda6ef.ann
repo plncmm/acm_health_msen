@@ -1,0 +1,12 @@
+T1	Abbreviation 82 85	OBS
+T2	Abbreviation 86 89	PTI
+T3	Disease 0 4	B179
+T4	Disease 5 43	HEPATITIS VIRAL AGUDA, NO ESPECIFICADA
+T5	Disease 86 89	PTI
+T6	Laboratory_Procedure 96 105	PLAQUETAS
+T7	Laboratory_or_Test_Result 106 116	NORMALES  
+R1	Has Arg1:T6 Arg2:T7	
+T8	Laboratory_Procedure 151 168	PRUEBAS HEPATICAS
+T9	Laboratory_or_Test_Result 136 143	AUMENTO
+R2	Has Arg1:T8 Arg2:T9	
+T10	Sign_or_Symptom 193 205	ASINTOMATICA

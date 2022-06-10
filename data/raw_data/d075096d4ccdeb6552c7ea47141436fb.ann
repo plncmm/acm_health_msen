@@ -1,0 +1,9 @@
+T1	Body_Part 65 72	tiroide
+T2	Disease 55 72	cancer de tiroide
+T3	Disease 93 127	periodontitis cronica generalizada
+T4	Abbreviation 88 91	tto
+T5	Clinical_Finding 24 43	patologias cronicas
+A1	Negated T5
+T6	Therapeutic_Procedure 44 51	operada
+T7	Disease 138 176	desdentada parcial superior e inferior
+T8	Clinical_Finding 44 72	operada de cancer de tiroide

@@ -1,0 +1,12 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Abbreviation 44 47	APS
+T3	Disease 58 96	desdentada parcial superior e inferior
+T4	Sign_or_Symptom 98 171	dejo de usar protesis superior ya que perdio piezas pilares ( por caries)
+T5	Disease 164 170	caries
+T6	Body_Part 143 149	piezas
+T7	Clinical_Finding 111 128	protesis superior
+T8	Body_Part 173 179	piezas
+T9	Sign_or_Symptom 173 217	piezas remanentes con enfermedad periodontal
+T10	Disease 195 217	enfermedad periodontal
+T11	Disease 219 295	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T12	Body_Part 257 264	dientes

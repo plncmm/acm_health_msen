@@ -1,0 +1,7 @@
+T1	Sign_or_Symptom 0 15	Atricion severa
+T2	Abbreviation 16 20	pzas
+T4	Abbreviation 40 41	x
+T5	Disease 42 50	bruxismo
+T6	Sign_or_Symptom 52 89	perdida de dimension vertical oclusal
+T7	Abbreviation 116 119	tto
+T3	Body_Part 16 39	pzas grupos ii, iv y vi

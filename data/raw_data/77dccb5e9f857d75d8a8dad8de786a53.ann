@@ -1,0 +1,10 @@
+T1	Disease 2 30	CARIES DENTINARIA PENETRANTE
+T2	Body_Part 59 68	Pieza 1.5
+T3	Laboratory_or_Test_Result 59 94	Pieza 1.5 con obturacion penetrante
+T4	Therapeutic_Procedure 109 119	endodoncia
+A1	Pending T4
+T5	Abbreviation 120 123	pza
+T6	Body_Part 120 127	pza 1.5
+T7	Disease 129 147	Caries del cemento
+T8	Body_Part 140 147	cemento
+T9	Laboratory_or_Test_Result 2 30	CARIES DENTINARIA PENETRANTE

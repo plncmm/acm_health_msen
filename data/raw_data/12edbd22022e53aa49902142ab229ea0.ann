@@ -1,0 +1,9 @@
+T1	Abbreviation 215 217	mb
+T2	Body_Part 215 235	mb timpánica derecha
+T3	Disease 2 29	HIPOACUSIA, NO ESPECIFICADA
+T4	Disease 74 84	hipoacusia
+T5	Sign_or_Symptom 116 144	alteración en comportamiento
+T6	Sign_or_Symptom 215 245	mb timpánica derecha perforada
+T7	Sign_or_Symptom 251 275	proceso infeccioso agudo
+A1	Negated T7
+T8	Clinical_Finding 172 189	falta de atención

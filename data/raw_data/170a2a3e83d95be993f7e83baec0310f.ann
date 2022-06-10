@@ -1,0 +1,6 @@
+T1	Medication 151 160	analgesia
+T2	Body_Part 19 34	rodilla derecha
+T3	Abbreviation 135 138	tto
+T4	Sign_or_Symptom 13 34	dolor rodilla derecha
+T7	Therapeutic_Procedure 135 147	tto kinesico
+T5	Sign_or_Symptom 68 118	aumento de volumenque se exacerba con el ejercicio

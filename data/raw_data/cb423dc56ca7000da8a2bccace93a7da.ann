@@ -1,0 +1,7 @@
+T1	Body_Part 0 9	diente 32
+T2	Laboratory_or_Test_Result 0 33	diente 32 semincluida e impactada
+T3	Disease 24 33	impactada
+T4	Disease 35 50	pericoronaritis
+T5	Sign_or_Symptom 99 110	dolor agudo
+T6	Body_Part 112 121	diente 17
+T7	Sign_or_Symptom 112 137	diente 17 semierupcionado

@@ -1,0 +1,4 @@
+T1	Disease 2 47	QUEILITIS ACTINICA (QUEMADURA LABIAL POR SOL)
+T2	Abbreviation 71 74	APS
+T3	Sign_or_Symptom 76 156	lesion en toda la extensión del labio inferior ulcerada, aveces con sangramiento
+T4	Body_Part 108 122	labio inferior

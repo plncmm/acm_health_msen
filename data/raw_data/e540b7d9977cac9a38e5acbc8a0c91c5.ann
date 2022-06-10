@@ -1,0 +1,9 @@
+T1	Body_Part 33 59	angulo pontocerebeloso izq
+T2	Body_Part 116 133	rodilla izquierda
+T3	Disease 7 10	TBQ
+T4	Abbreviation 56 59	izq
+T5	Disease 87 101	sd vertiginoso
+T6	Abbreviation 87 89	sd
+T7	Disease 27 59	tumor angulo pontocerebeloso izq
+T8	Sign_or_Symptom 61 85	altearación de la marcha
+T9	Sign_or_Symptom 110 133	dolor rodilla izquierda

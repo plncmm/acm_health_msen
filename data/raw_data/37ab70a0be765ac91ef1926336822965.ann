@@ -1,0 +1,14 @@
+T1	Abbreviation 55 58	APS
+T2	Body_Part 78 87	pieza 4.4
+T3	Body_Part 106 122	piezas 4.5 y 4.3
+T4	Body_Part 165 170	encía
+T5	Body_Part 226 235	pieza 4.4
+T6	Body_Part 255 264	pieza 1.8
+T7	Sign_or_Symptom 78 99	pieza 4.4 erupcionada
+T8	Sign_or_Symptom 106 137	piezas 4.5 y 4.3 por vestibular
+T9	Sign_or_Symptom 165 179	encía marginal
+T10	Therapeutic_Procedure 209 219	extracción
+A1	Pending T10
+T11	Laboratory_or_Test_Result 255 287	pieza 1.8 en evolución intraósea
+T12	Therapeutic_Procedure 324 334	extracción
+A2	Pending T12

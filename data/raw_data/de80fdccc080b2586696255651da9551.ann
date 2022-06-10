@@ -1,0 +1,18 @@
+T1	Abbreviation 0 1;3 4;6 7	G P A
+T4	Clinical_Finding 0 2	G4
+T5	Clinical_Finding 3 5	P1
+T6	Clinical_Finding 6 8	A2
+T7	Clinical_Finding 10 18	Embarazo
+T9	Abbreviation 90 92	sd
+T10	Disease 90 100	sd. charge
+T11	Disease 47 69	malformación congénita
+T12	Abbreviation 103 106	Obs
+T13	Disease 108 122	polihidramnios
+T14	Abbreviation 123 126	Obs
+T15	Disease 128 138	onfalocele
+T16	Clinical_Finding 140 155	embarazo actual
+T17	Disease 170 177	pie bot
+T18	Clinical_Finding 179 194	embarazo actual
+T19	Abbreviation 196 199	Obs
+T20	Disease 201 215	Hipotiroidismo
+T2	Clinical_Finding 70 88	embarazos anterior

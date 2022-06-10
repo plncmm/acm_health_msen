@@ -1,0 +1,22 @@
+T1	Abbreviation 92 94	rx
+T2	Body_Part 95 106	pie derecho
+T3	Abbreviation 181 184	inf
+T4	Body_Part 247 261	fascia plantar
+T5	Abbreviation 324 327	aps
+T6	Body_Part 117 129	arco plnatar
+T7	Body_Part 191 215	tuberosidad del calcaneo
+T8	Abbreviation 262 263	+
+T9	Disease 2 18	ESPOLÓN CALCÁNEO
+T10	Disease 46 63	fasceitis plantar
+T11	Laboratory_or_Test_Result 66 90	espolon calcaneo derecho
+T12	Disease 66 90	espolon calcaneo derecho
+T13	Laboratory_or_Test_Result 2 18	ESPOLÓN CALCÁNEO
+T14	Laboratory_or_Test_Result 109 150	ascenso arco plnatar longitudinal interno
+T15	Diagnostic_Procedure 92 106	rx pie derecho
+R1	Has Arg1:T15 Arg2:T14	
+T16	Laboratory_or_Test_Result 153 261	espina osificacion marginal inf en la tuberosidad del calcaneo, en relacion a insercion de la fascia plantar
+R2	Has Arg1:T15 Arg2:T16	
+T17	Laboratory_or_Test_Result 264 300	minima osificacion mrginal posterior
+R3	Has Arg1:T15 Arg2:T17	
+T18	Medication 332 341	analgesia
+T19	Therapeutic_Procedure 343 357	kinesioterapia

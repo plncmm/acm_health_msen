@@ -1,0 +1,5 @@
+T1	Body_Part 0 9	Pieza 4.5
+T2	Therapeutic_Procedure 10 19	trepanada
+T3	Disease 24 45	pulpitis irreversible
+T4	Therapeutic_Procedure 74 99	tratamiento de endodoncia
+A1	Pending T4

@@ -1,0 +1,5 @@
+T1	Abbreviation 53 56	APS
+T2	Disease 2 29	OTITIS MEDIA CRÓNICA SEROSA
+T3	Clinical_Finding 91 103	anatcedentes
+A1	Negated T3
+T4	Sign_or_Symptom 123 175	secrecion otica bilateral de mnal olor intermiotente

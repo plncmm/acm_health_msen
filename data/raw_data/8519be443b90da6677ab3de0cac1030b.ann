@@ -1,0 +1,7 @@
+T1	Body_Part 0 8	diente 6
+T2	Body_Part 62 68	diente
+T3	Disease 9 41	periodontitis apical sintomatica
+T4	Therapeutic_Procedure 73 105	tratamiento previamente iniciado
+T5	Therapeutic_Procedure 139 161	protesis fij aunitaria
+A1	Pending T5
+T6	Abbreviation 148 151	fij

@@ -1,0 +1,10 @@
+T1	Body_Part 2 9	DIENTES
+T2	Abbreviation 56 59	APS
+T3	Body_Part 61 73	dte 3.8 4 .8
+T4	Body_Part 132 139	Dientes
+T5	Abbreviation 61 64	dte
+T6	Body_Part 127 131	cara
+T7	Disease 2 32	DIENTES INCLUIDOS E IMPACTADOS
+T8	Disease 61 94	dte 3.8 4 .8 incluido e impactado
+T9	Sign_or_Symptom 107 131	dolor referido a la cara
+T10	Disease 132 162	Dientes incluidos e impactados

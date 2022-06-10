@@ -1,0 +1,10 @@
+T1	Abbreviation 57 60	APS
+T2	Abbreviation 62 66	PCTE
+T3	Body_Part 146 150	BOCA
+T4	Disease 2 33	TIROTOXICOSIS (HIPERTIROIDISMO)
+T5	Sign_or_Symptom 81 102	AGITACION PSICOMOTORA
+T6	Sign_or_Symptom 116 129	PALPITACIONES
+T7	Sign_or_Symptom 131 150	SEQUEDAD DE LA BOCA
+T8	Sign_or_Symptom 152 173	INTOLERANCIA AL CALOR
+T9	Sign_or_Symptom 176 184	INSOMNIO
+T10	Disease 185 216	Tirotoxicosis (hipertiroidismo)

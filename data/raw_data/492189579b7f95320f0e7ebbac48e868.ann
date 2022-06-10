@@ -1,0 +1,20 @@
+T1	Abbreviation 47 50	ant
+T2	Abbreviation 54 57	HTA
+T3	Abbreviation 120 122	T4
+T4	Abbreviation 133 135	ng
+T5	Abbreviation 136 138	dl
+T6	Abbreviation 151 156	T.S.H
+T8	Abbreviation 168 170	ml
+T7	Abbreviation 164 167	uUI
+T9	Abbreviation 257 259	ex
+T10	Abbreviation 259 266	oftalmo
+T11	Disease 2 33	TIROTOXICOSIS (HIPERTIROIDISMO)
+T12	Disease 54 57	HTA
+T13	Laboratory_Procedure 120 128	T4 LIBRE
+T14	Laboratory_Procedure 151 157	T.S.H.
+T15	Sign_or_Symptom 199 220	intolerancia al calor
+T16	Sign_or_Symptom 223 231	ansiedad
+T17	Sign_or_Symptom 239 251	baja de peso
+A1	Negated T17
+T18	Sign_or_Symptom 257 266	exoftalmo
+A2	Negated T18

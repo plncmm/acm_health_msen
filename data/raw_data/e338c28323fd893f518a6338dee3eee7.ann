@@ -1,0 +1,11 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Abbreviation 74 77	APS
+T3	Family_Member 112 117	madre
+T4	Abbreviation 159 162	ADM
+T5	Sign_or_Symptom 173 201	mal hábito de uso de chupete
+T6	Sign_or_Symptom 214 233	clase II esqueletal
+T7	Sign_or_Symptom 236 251	mordida abierta
+T8	Family_Member 253 258	Madre
+T9	Therapeutic_Procedure 385 420	educación, instrucción higiene oral
+T10	Therapeutic_Procedure 423 451	indico abandonar uso chupete
+T11	Disease 470 518	Anomalias dentofaciales (incluso la maloclusion)

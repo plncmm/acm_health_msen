@@ -1,0 +1,8 @@
+T1	Body_Part 0 3	2.4
+T2	Disease 4 10	CARIES
+T3	Abbreviation 11 13	OD
+T4	Disease 30 56	ABCESO DENTOALVEOLAR AGUDO
+T5	Therapeutic_Procedure 68 77	TREPANADA
+T6	Medication 92 97	PMCFA
+T7	Abbreviation 92 97	PMCFA
+T8	Clinical_Finding 98 127	OBSTURADA CON VIDRIO IONOMERO

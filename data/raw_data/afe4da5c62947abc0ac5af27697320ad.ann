@@ -1,0 +1,16 @@
+T1	Abbreviation 76 79	HTA
+T2	Abbreviation 169 172	VFG
+T3	Abbreviation 236 240	mg/L
+T4	Abbreviation 243 246	RPC
+T5	Abbreviation 253 255	mg
+T6	Abbreviation 120 123	sCr
+T7	Clinical_Finding 9 20	autovalente
+T8	Clinical_Finding 22 34	asintomático
+T9	Disease 76 79	HTA
+T10	Laboratory_Procedure 105 118	función renal
+T11	Laboratory_Procedure 120 123	sCr
+T12	Laboratory_Procedure 169 172	VFG
+T13	Laboratory_or_Test_Result 201 212	proteinuria
+T14	Laboratory_Procedure 243 246	RPC
+T15	Laboratory_Procedure 216 231	muestra aislada
+R1	Has Arg1:T15 Arg2:T13	

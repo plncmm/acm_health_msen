@@ -1,0 +1,15 @@
+T1	Disease 0 8	DHC X OH
+T2	Abbreviation 0 3	DHC
+T3	Clinical_Finding 9 16	CHILD B
+T4	Disease 19 22	HDA
+T5	Abbreviation 19 22	HDA
+T6	Disease 25 43	VARICES ESOFAGICAS
+T7	Disease 46 63	ANEMIA SECUNDARIA
+T8	Disease 66 76	POLICONSUO
+T9	Abbreviation 77 79	OH
+T10	Disease 96 107	TBQ CRONICO
+T11	Abbreviation 96 99	TBQ
+T12	Abbreviation 23 24	X
+T13	Abbreviation 88 91	ETC
+T14	Abbreviation 4 5	X
+T15	Abbreviation 6 8	OH

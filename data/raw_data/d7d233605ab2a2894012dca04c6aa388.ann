@@ -1,0 +1,8 @@
+T1	Abbreviation 44 47	APS
+T2	Abbreviation 99 101	CM
+T3	Abbreviation 91 94	+/-
+T4	Disease 2 20	GRANULOMA ACTÍNICO
+T6	Disease 189 207	Granuloma actinico
+T5	Sign_or_Symptom 73 87	LESION NODULAR
+T7	Sign_or_Symptom 128 139	INFLAMACION
+A1	Negated T7

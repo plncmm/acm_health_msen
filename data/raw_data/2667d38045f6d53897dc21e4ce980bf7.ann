@@ -1,0 +1,15 @@
+T1	Disease 2 19	DIENTES INCLUIDOS
+T2	Abbreviation 43 46	APS
+T3	Body_Part 48 55	1.8-2.8
+T4	Body_Part 83 86	4,8
+T5	Body_Part 108 111	3.8
+T6	Abbreviation 135 138	tto
+T7	Disease 160 177	Dientes incluidos
+T8	Sign_or_Symptom 143 159	multiples caries
+T9	Disease 153 159	caries
+T10	Laboratory_or_Test_Result 108 123	3.8 mesializado
+T11	Laboratory_or_Test_Result 83 106	4,8 raices convergentes
+T12	Laboratory_or_Test_Result 48 81	1.8-2.8 semiincluido y verticales
+T13	Body_Part 87 93	raices
+T14	Body_Part 160 167	Dientes
+T15	Body_Part 2 9	DIENTES

@@ -1,0 +1,14 @@
+T1	Abbreviation 0 3	pte
+T2	Abbreviation 9 11	tx
+T3	Body_Part 81 84	pza
+T4	Body_Part 186 191	pza 8
+T5	Abbreviation 186 189	pza
+T6	Abbreviation 81 84	pza
+T7	Therapeutic_Procedure 9 23	tx periodontal
+T8	Clinical_Finding 29 79	antecedentes personales patologicos de importancia
+A2	Negated T8
+T9	Clinical_Finding 94 120	mal pronostico periodontal
+T10	Therapeutic_Procedure 150 168	protesis inmediata
+A3	Pending T10
+T11	Therapeutic_Procedure 176 185	exodoncia
+A4	Pending T11

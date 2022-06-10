@@ -1,0 +1,15 @@
+T1	Abbreviation 71 74	APS
+T2	Abbreviation 81 83	tv
+T3	Abbreviation 85 86	c
+T4	Abbreviation 88 91	obs
+T5	Abbreviation 76 80	edco
+T6	Abbreviation 102 104	ov
+T7	Abbreviation 106 109	izq
+T8	Body_Part 102 109	ov. izq
+T9	Abbreviation 134 136	cm
+T10	Disease 2 47	OTROS QUISTES OVÁRICOS Y LOS NO ESPECIFICADOS
+T11	Diagnostic_Procedure 76 83	edco tv
+T12	Laboratory_or_Test_Result 96 118	quisteov. izq.  simple
+T13	Disease 96 118	quisteov. izq.  simple
+T14	Disease 138 183	Otros quistes ovaricos y los no especificados
+R1	Has Arg1:T11 Arg2:T12	

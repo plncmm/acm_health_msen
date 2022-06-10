@@ -1,0 +1,11 @@
+T1	Disease 0 4	K519
+T2	Disease 5 48	COLITIS ULCERATIVA, SIN OTRA ESPECIFICACION
+T3	Disease 51 75	DIARREA  NO  DISENTERICA
+T4	Abbreviation 88 93	OBS  
+T5	Disease 93 111	COLITIS COLAGENOSA
+T6	Abbreviation 131 137	COLONO
+T7	Abbreviation 146 148	BP
+T9	Diagnostic_Procedure 131 137	COLONO
+A1	Pending T9
+T10	Diagnostic_Procedure 146 163	BP .   ESCALONADA
+A2	Pending T10

@@ -1,0 +1,5 @@
+T1	Disease 2 45	TRASTORNO DE LA REFRACCIÓN, NO ESPECIFICADO
+T2	Disease 181 224	Trastorno de la refraccion, no especificado
+T3	Abbreviation 69 72	APS
+#1	AnnotatorNotes T3	atención primaria de salud
+T4	Sign_or_Symptom 97 122	YA NO VE CON SUS ANTEOJOS

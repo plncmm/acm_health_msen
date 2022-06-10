@@ -1,0 +1,13 @@
+T1	Abbreviation 34 37	APS
+#1	AnnotatorNotes T1	atención primaria de salud
+T2	Abbreviation 382 385	CAE
+#2	AnnotatorNotes T2	conducto auditivo externo
+T3	Medication 175 184	difenidol
+T4	Medication 187 197	cinarizina
+T5	Body_Part 331 337	cabeza
+T6	Body_Part 382 385	CAE
+T7	Disease 2 10	TINNITUS
+T8	Sign_or_Symptom 101 137	episodios de vértigo no especificado
+T9	Sign_or_Symptom 224 232	tinnitus
+T10	Disease 424 432	Tinnitus
+T11	Clinical_Finding 382 394	CAE indemnes

@@ -1,0 +1,26 @@
+T1	Body_Part 26 30	PIEL
+T2	Abbreviation 172 175	APS
+T3	Medication 206 215	enalapril
+T4	Medication 217 225	aspirina
+T5	Abbreviation 406 408	ex
+T6	Body_Part 410 414	piel
+T7	Body_Part 574 578	mano
+T8	Body_Part 594 611	zona inguinal izq
+T9	Abbreviation 608 611	izq
+T10	Body_Part 79 83	CARA
+T11	Abbreviation 335 338	aqx
+T12	Disease 2 83	CARCINOMA IN SITU DE LA PIEL DE OTRAS PARTES Y DE LAS NO ESPECIFICADAS DE LA CARA
+T13	Disease 83 94	basocelular
+T14	Disease 101 120	QUERATOSIS ACTÍNICA
+T15	Disease 125 146	QUERATOSIS SEBORREICA
+T16	Disease 186 196	hipertenso
+T17	Sign_or_Symptom 262 313	lesion eritematosa, solevantada, ulcerada, indurada
+T18	Sign_or_Symptom 315 333	sangrado ocasional
+T19	Disease 340 355	hernia inguinal
+T20	Clinical_Finding 357 363	tabaco
+A1	Negated T20
+T25	Sign_or_Symptom 552 578	lesion eritematosa en mano
+T26	Sign_or_Symptom 582 611	verucosa en zona inguinal izq
+T23	Sign_or_Symptom 445 543	lesion eritematosa, solevantada, ulcerada, indurada, sangrado ocasional. en zona frontal izquierda
+T21	Sign_or_Symptom 410 429	piel clara fotodaño
+T22	Sign_or_Symptom 435 440	nevos

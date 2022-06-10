@@ -1,0 +1,9 @@
+T1	Abbreviation 65 68	PAP
+T2	Abbreviation 104 107	APS
+T3	Disease 2 41	INCONTINENCIA URINARIA, NO ESPECIFICADA
+T4	Disease 41 63	Incontinencia urinaria
+T6	Diagnostic_Procedure 65 68	PAP
+T7	Laboratory_or_Test_Result 69 79	inadecuado
+R1	Has Arg1:T6 Arg2:T7	
+T5	Disease 134 168	incontinencia urinaria de esfuerzo
+T8	Disease 241 280	Incontinencia urinaria, no especificada

@@ -1,0 +1,10 @@
+T1	Disease 0 22	INSUFICIENCIA CARDIACA
+T2	Disease 28 30	FA
+T3	Abbreviation 23 25	AC
+#1	AnnotatorNotes T3	arritmia cardíaca 
+T4	Abbreviation 26 27	X
+#2	AnnotatorNotes T4	por
+T5	Abbreviation 28 30	FA
+#3	AnnotatorNotes T5	fibrilación auricular
+T6	Sign_or_Symptom 31 54	CAPACIDAD FUNCIONAL III
+T7	Medication 23 25	AC

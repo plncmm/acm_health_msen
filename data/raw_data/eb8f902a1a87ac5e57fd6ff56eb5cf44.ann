@@ -1,0 +1,10 @@
+T1	Disease 2 50	ANOMALÍAS DENTOFACIALES (INCLUSO LA MALOCLUSIÓN)
+T2	Abbreviation 74 77	APS
+T3	Sign_or_Symptom 79 133	Discrepancia dentomaxilar negativa superior e inferior
+T4	Sign_or_Symptom 135 152	overjet aumentado
+T5	Sign_or_Symptom 170 199	Distooclusión molar bilateral
+T6	Sign_or_Symptom 202 240	Falta de espacio en la arcada moderado
+T7	Disease 256 304	Anomalias dentofaciales (incluso la maloclusion)
+T8	Abbreviation 164 166	mm
+T9	Abbreviation 251 253	mm
+T10	Body_Part 225 231	arcada

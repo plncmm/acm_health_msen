@@ -1,0 +1,16 @@
+T1	Abbreviation 32 35	FUR
+T2	Abbreviation 37 40	ANT
+T3	Body_Part 44 49	UTERO
+T4	Abbreviation 113 116	TTO
+T5	Medication 130 140	CLONAZEPAM
+T6	Medication 143 153	FLUOXETINA
+T7	Abbreviation 0 1	G
+T8	Abbreviation 2 3	P
+T9	Abbreviation 4 5	A
+T10	Clinical_Finding 0 2	G5
+T11	Clinical_Finding 2 4	P0
+T12	Clinical_Finding 4 6	A4
+T13	Clinical_Finding 7 15	EMBARAZO
+T14	Therapeutic_Procedure 44 66	UTERO TABICADO OPERADO
+T15	Therapeutic_Procedure 68 90	SALPICTECTOMIA DERECHA
+T16	Disease 95 112	EMBARAZO ECTOPICO

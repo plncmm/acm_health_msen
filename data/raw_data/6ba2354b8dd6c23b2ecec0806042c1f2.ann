@@ -1,0 +1,14 @@
+T1	Body_Part 37 43	HOMBRO
+T2	Abbreviation 133 136	APS
+T3	Abbreviation 138 142	pcte
+T4	Abbreviation 172 175	rmn
+T5	Body_Part 179 193	hombro derecho
+T6	Abbreviation 243 247	post
+T7	Abbreviation 265 269	vcri
+T8	Body_Part 305 311	hombro
+T9	Abbreviation 263 264	+
+T10	Disease 2 43	SÍNDROME DE ABDUCCIÓN DOLOROSA DEL HOMBRO
+T11	Disease 47 109	OTROS TRASTORNOS OSTEOMUSCULARES CONSECUTIVOS A PROCEDIMIENTOS
+T12	Diagnostic_Procedure 172 193	rmn de hombro derecho
+T13	Therapeutic_Procedure 249 262	laringectomia
+T14	Disease 270 311	Sindrome de abduccion dolorosa del hombro

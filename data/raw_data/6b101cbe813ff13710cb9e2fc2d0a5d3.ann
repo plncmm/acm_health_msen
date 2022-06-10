@@ -1,0 +1,32 @@
+T1	Abbreviation 155 158	APS
+T2	Abbreviation 242 245	Dra
+T3	Body_Part 328 333	manos
+T4	Family_Member 761 767	esposa
+T5	Family_Member 771 777	suegra
+T6	Family_Member 792 797	hijos
+T7	Family_Member 838 844	Esposa
+T8	Family_Member 1521 1527	esposa
+T10	Medication 1621 1627	Trizol
+T9	Medication 1595 1605	Subelan xr
+T11	Abbreviation 1632 1634	Mg
+T12	Medication 1646 1651	Gofyl
+T13	Abbreviation 1656 1658	Mg
+T14	Family_Member 1690 1696	esposa
+T15	Abbreviation 2128 2135	especia
+T16	Disease 2 47	TRASTORNO DE LA PERSONALIDAD, NO ESPECIFICADO
+T17	Disease 51 101	TRASTORNO DE PÁNICO ANSIEDAD PAROXÍSTICA EPISÓDICA
+T18	Disease 105 131	TRASTORNO AFECTIVO BIPOLAR
+T19	Sign_or_Symptom 305 310	Fobia
+T22	Disease 477 482	fobia
+T23	Sign_or_Symptom 539 545	panico
+T24	Sign_or_Symptom 680 686	triste
+T25	Sign_or_Symptom 1265 1278	desesperacion
+T26	Sign_or_Symptom 1288 1298	sudoracion
+T27	Clinical_Finding 1310 1345	alucinaciones visuales ni auditivas
+A1	Negated T27
+T28	Sign_or_Symptom 2002 2013	Agresividad
+A2	Negated T28
+T29	Disease 2137 2163	Trastorno afectivo bipolar
+T20	Sign_or_Symptom 311 333	fobia a usar sus manos
+T21	Sign_or_Symptom 335 393	fobia al ser observado mientras el atendía a sus pacientes
+T30	Disease 635 646	bipolaridad

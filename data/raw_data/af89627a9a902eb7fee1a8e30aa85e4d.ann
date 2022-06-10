@@ -1,0 +1,6 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Disease 25 41	DESDENTADO TOTAL
+T3	Clinical_Finding 70 104	antecedentes medicos de relevancia
+A1	Negated T3
+T4	Disease 106 150	Desdentado total superior y parcial inferior
+T5	Sign_or_Symptom 164 196	prótesis removible en mal estado

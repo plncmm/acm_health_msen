@@ -1,0 +1,36 @@
+T1	Abbreviation 55 58	APS
+T2	Abbreviation 72 74	SU
+T3	Abbreviation 193 195	ex
+T4	Abbreviation 203 205	GR
+T5	Abbreviation 225 229	leuc
+T6	Abbreviation 234 238	cels
+T7	Abbreviation 252 256	Bact
+T8	Abbreviation 263 265	dg
+T9	Medication 289 299	ketorolaco
+T10	Abbreviation 300 303	SOS
+T11	Abbreviation 315 318	APS
+T12	Abbreviation 334 336	IC
+T13	Abbreviation 342 345	URO
+T14	Abbreviation 417 419	+-
+T15	Abbreviation 467 469	rx
+T16	Body_Part 107 126	zona lumbar derecha
+T17	Abbreviation 258 259	-
+T18	Abbreviation 337 341	poli
+T19	Disease 2 31	CÓLICO RENAL, NO ESPECIFICADO
+T20	Sign_or_Symptom 98 165	dolor en zona lumbar derecha, irradiado a zona inguinal ipsilateral
+T21	Sign_or_Symptom 168 182	orinas turbias
+T22	Laboratory_Procedure 193 201	ex orina
+T23	Laboratory_Procedure 203 205	GR
+T24	Laboratory_or_Test_Result 213 224	dismorficos
+R1	Has Arg1:T23 Arg2:T24	
+T25	Laboratory_Procedure 225 229	leuc
+T26	Laboratory_Procedure 234 250	cels epiteliales
+T27	Laboratory_Procedure 252 256	Bact
+T28	Disease 266 278	colico renal
+T29	Sign_or_Symptom 375 396	dolores intermitentes
+T30	Sign_or_Symptom 398 412	orinas trubias
+T31	Sign_or_Symptom 435 465	salida de piedrecitas en orina
+T32	Diagnostic_Procedure 467 484	rx reno - vesical
+T33	Body_Part 140 153	zona inguinal
+T34	Laboratory_or_Test_Result 258 259	-
+R2	Has Arg1:T27 Arg2:T34	

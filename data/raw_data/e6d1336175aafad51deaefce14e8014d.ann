@@ -1,0 +1,8 @@
+T1	Disease 2 20	DESDENTADO PARCIAL
+T2	Abbreviation 44 47	APS
+T3	Sign_or_Symptom 49 84	Fractura PPR maxilar, base acrilica
+T4	Therapeutic_Procedure 89 108	solicita reparacion
+A1	Pending T4
+T5	Disease 109 185	Otras afecciones especificadas de los dientes y de sus estructuras de sosten
+T6	Body_Part 147 154	dientes
+T7	Abbreviation 58 61	PPR

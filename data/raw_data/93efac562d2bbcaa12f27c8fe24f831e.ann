@@ -1,0 +1,14 @@
+T1	Abbreviation 56 59	APS
+T2	Abbreviation 74 79	ACXFA
+T3	Abbreviation 83 87	TACO
+T4	Medication 83 87	TACO
+T5	Abbreviation 118 120	DR
+T6	Medication 180 192	ACENOCUMAROL
+T7	Abbreviation 194 196	MG
+T8	Abbreviation 205 208	INR
+T9	Abbreviation 209 211	+-
+T10	Disease 2 32	FIBRILACIÓN Y ALETEO AURICULAR
+T11	Medication 74 76	AC
+T13	Laboratory_Procedure 205 208	INR
+T14	Disease 234 264	Fibrilacion y aleteo auricular
+T12	Disease 77 79	FA

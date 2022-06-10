@@ -1,0 +1,6 @@
+T1	Disease 2 32	PIEZA TRATADA ENDODÓNTICAMENTE
+T2	Abbreviation 32 35	tto
+T3	Disease 64 92	periodontitis apical crónica
+T4	Body_Part 93 103	diente 1.5
+T5	Therapeutic_Procedure 108 115	trepana
+T6	Therapeutic_Procedure 117 123	medica

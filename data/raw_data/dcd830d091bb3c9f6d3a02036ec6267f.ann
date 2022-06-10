@@ -1,0 +1,22 @@
+T1	Medication 295 302	eutirox
+T2	Medication 391 398	eutirox
+T3	Disease 2 16	HIPOTIROIDISMO
+T4	Disease 112 126	hipotiroidismo
+T5	Disease 128 131	DM2
+T6	Abbreviation 128 131	DM2
+T7	Disease 133 136	HTA
+T8	Abbreviation 133 136	HTA
+T9	Abbreviation 79 82	APS
+T10	Abbreviation 161 164	ECO
+T11	Abbreviation 307 309	ug
+T12	Abbreviation 313 316	tsh
+T15	Abbreviation 385 387	ug
+T18	Disease 20 55	NÓDULO TIROIDEO SOLITARIO NO TÓXICO
+T19	Laboratory_or_Test_Result 142 160	control metabolico
+A1	Negated T19
+T20	Diagnostic_Procedure 161 173	ECO tiroidea
+T21	Laboratory_or_Test_Result 175 263	rueso nodulo  tiroideo derecho con calcificaciones marginales seudonodulos (2)izquierdos
+T22	Disease 402 437	Nodulo tiroideo solitario no toxico
+R1	Has Arg1:T20 Arg2:T21	
+T13	Abbreviation 310 312	xd
+T14	Abbreviation 399 401	xd

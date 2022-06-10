@@ -1,0 +1,11 @@
+T1	Abbreviation 0 3	obs
+T2	Body_Part 28 47	1 dedo mano derecho
+T3	Disease 61 92	tendinitis del manguito rotador
+T4	Body_Part 76 92	manguito rotador
+T5	Body_Part 12 27	interfalangicas
+T6	Abbreviation 93 96	eco
+T7	Abbreviation 48 51	eco
+T8	Diagnostic_Procedure 48 51	eco
+T9	Laboratory_or_Test_Result 61 91	tendinitis del manguito rotado
+R1	Has Arg1:T8 Arg2:T9	
+T10	Diagnostic_Procedure 93 96	eco

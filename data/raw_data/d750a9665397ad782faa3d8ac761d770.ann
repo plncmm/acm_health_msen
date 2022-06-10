@@ -1,0 +1,7 @@
+T1	Disease 0 38	Desdentada parcial superior e inferior
+T2	Clinical_Finding 52 69	prótesis superior
+T3	Sign_or_Symptom 85 100	ruido articular
+T4	Therapeutic_Procedure 161 178	prótesis inferior
+A1	Pending T4
+T5	Body_Part 119 136	cóndilo izquierdo
+T6	Laboratory_or_Test_Result 103 136	aplanamiento de cóndilo izquierdo

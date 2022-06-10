@@ -1,0 +1,15 @@
+T1	Body_Part 0 6	P. 1.2
+T2	Abbreviation 0 1	P
+T3	Disease 7 25	CARIES DE PROFUNDA
+T4	Abbreviation 27 30	P.D
+T5	Body_Part 27 34	P.D 3.4
+T6	Disease 39 67	CARIES DISTINARIAS PROFUNDAS
+T7	Sign_or_Symptom 69 91	DESTRUCCION CORONARIAS
+T8	Abbreviation 101 104	P.D
+T9	Body_Part 101 104	P.D
+T10	Sign_or_Symptom 105 116	DOLOR P 3.4
+T11	Abbreviation 111 112	P
+T12	Body_Part 111 116	P 3.4
+T13	Clinical_Finding 136 145	TREPANADA
+T14	Body_Part 129 135	PZ 1.4
+T15	Abbreviation 129 131	PZ

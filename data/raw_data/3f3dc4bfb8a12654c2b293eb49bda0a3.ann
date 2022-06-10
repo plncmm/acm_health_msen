@@ -1,0 +1,7 @@
+T1	Disease 2 23	PERIODONTITIS CRÓNICA
+T2	Abbreviation 47 50	APS
+T3	Disease 66 80	hipotiroidismo
+T4	Sign_or_Symptom 91 108	mala higiene oral
+T5	Disease 111 145	periodontitis crónica generalizada
+T6	Sign_or_Symptom 147 180	supuración por crévice vestibular
+T7	Body_Part 184 199	pieza 4.2 y 4.3

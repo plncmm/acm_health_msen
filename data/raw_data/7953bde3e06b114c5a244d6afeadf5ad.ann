@@ -1,0 +1,17 @@
+T1	Body_Part 54 56	C5
+T2	Body_Part 57 59	C7
+T3	Abbreviation 138 140	Rx
+T4	Body_Part 150 152	C5
+T5	Body_Part 153 155	C7
+T6	Abbreviation 156 158	Rx
+T7	Body_Part 159 173	Columna dorsal
+T8	Disease 16 19	M19
+T9	Disease 0 14	OTRAS ARTROSIS
+T10	Disease 21 35	OTRAS ARTROSIS
+T11	Disease 36 59	Artrosis cervical C5 C7
+T12	Disease 59 78	Espondilosis dorsal
+T13	Sign_or_Symptom 79 115	Dolor cervical y parcial persistente
+T15	Diagnostic_Procedure 156 173	Rx Columna dorsal
+T16	Laboratory_or_Test_Result 174 193	espondilosis dorsal
+R1	Has Arg1:T15 Arg2:T16	
+T14	Diagnostic_Procedure 138 155	Rx cervical C5 C7

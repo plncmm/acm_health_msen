@@ -1,0 +1,9 @@
+T1	Abbreviation 141 144	sem
+T2	Body_Part 168 176	Placenta
+T3	Disease 2 79	CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCIÓNESTERILIZACIÓN TUBARIA
+T4	Therapeutic_Procedure 89 111	Esterilización Tubaria
+T5	Clinical_Finding 114 125	Multípara 3
+T6	Clinical_Finding 127 135	Embarazo
+T7	Disease 146 166	Diabetes Gestacional
+T8	Laboratory_or_Test_Result 168 191	Placenta inserción baja
+A1	Pending T4

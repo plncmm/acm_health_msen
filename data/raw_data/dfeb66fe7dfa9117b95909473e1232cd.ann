@@ -1,0 +1,5 @@
+T1	Body_Part 70 79	testiculo
+T2	Body_Part 101 108	escroto
+T3	Clinical_Finding 20 41	antecedentes morbidos
+A1	Negated T3
+T4	Sign_or_Symptom 70 127	testiculo decendido pero no en escroto de forma bilateral

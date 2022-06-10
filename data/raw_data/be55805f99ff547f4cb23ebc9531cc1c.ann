@@ -1,0 +1,7 @@
+T1	Body_Part 0 10	diente 2.1
+T2	Diagnostic_Procedure 28 47	examen radiográfico
+T3	Laboratory_or_Test_Result 59 78	lesión en periápice
+R1	Has Arg1:T2 Arg2:T3	
+T4	Therapeutic_Procedure 89 115	re-tratamiento endodóntico
+A1	Pending T4
+T5	Clinical_Finding 11 23	asintomático

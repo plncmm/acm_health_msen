@@ -1,0 +1,19 @@
+T1	Disease 2 32	FIBRILACIÓN Y ALETEO AURICULAR
+T2	Abbreviation 33 37	PCTE
+T3	Sign_or_Symptom 50 75	DOLOR PRECORDIA OCACIONAL
+T4	Abbreviation 123 125	FA
+T5	Disease 123 125	FA
+T8	Sign_or_Symptom 197 232	DOLOR ESPORADICO EN REGION TORAXICA
+T9	Body_Part 217 232	REGION TORAXICA
+T10	Abbreviation 234 237	APP
+T12	Abbreviation 239 242	HTA
+T13	Abbreviation 255 258	TTO
+T15	Abbreviation 273 275	MG
+T17	Abbreviation 290 293	HCT
+T11	Disease 239 242	HTA
+#1	AnnotatorNotes T4	Fibrilacion auricular
+T6	Medication 262 270	LOSARTAN
+T14	Medication 290 293	HCT
+T7	Medication 169 179	PROPANOLOL
+T16	Abbreviation 284 287	HRS
+T18	Abbreviation 296 298	MG

@@ -1,0 +1,8 @@
+T1	Abbreviation 0 4	PCTE
+T2	Abbreviation 9 14	ANTEC
+T3	Clinical_Finding 9 25	ANTEC SISTEMICOS
+A1	Negated T3
+T4	Disease 43 69	PERIODONTITIS APICAL AGUDA
+T5	Diagnostic_Procedure 71 88	RADIOGRAFICAMENTE
+T6	Laboratory_or_Test_Result 100 106	LESION
+R1	Has Arg1:T5 Arg2:T6	

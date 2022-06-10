@@ -1,0 +1,4 @@
+T1	Sign_or_Symptom 25 50	intolerancia a las grasas
+T2	Sign_or_Symptom 73 115	vomitar luego de consumir alimentos fritos
+T3	Diagnostic_Procedure 127 150	ecotomografia abdominal
+A1	Pending T3

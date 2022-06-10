@@ -1,0 +1,6 @@
+T1	Abbreviation 62 65	PZA
+T2	Body_Part 62 69	PZA. 30
+T3	Body_Part 72 78	DIENTE
+T4	Therapeutic_Procedure 35 61	TRATAMIENTO DE  ENDODONCIA
+A1	Pending T4
+T5	Clinical_Finding 83 110	TEMPIA PREVIAMENTE INICIADA

@@ -1,0 +1,7 @@
+T1	Abbreviation 0 3	Pza
+T2	Body_Part 0 7	Pza 1.5
+T4	Disease 20 67	caries profunda con compromiso de camara pulpar
+T5	Body_Part 54 67	camara pulpar
+T6	Abbreviation 18 19	x
+T7	Abbreviation 94 97	tto
+T3	Clinical_Finding 0 17	Pza 1.5 trepanada

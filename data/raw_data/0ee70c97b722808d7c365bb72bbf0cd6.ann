@@ -1,0 +1,6 @@
+T1	Abbreviation 92 94	CA
+T2	Sign_or_Symptom 0 14	EPIGASTRIALGIA
+T3	Medication 43 64	PROTECTORES GASTRICOS
+T4	Disease 92 103	CA GASTRICO
+T5	Disease 104 113	DEPRESION
+A1	Implicit_Family_Background T4

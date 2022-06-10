@@ -1,0 +1,14 @@
+T1	Disease 2 30	PERIODONTITIS CRÓNICA SEVERA
+T2	Abbreviation 54 57	APS
+T3	Abbreviation 69 70	T
+T4	Disease 68 71	HTA
+T5	Abbreviation 78 80	DM
+T6	Disease 78 80	DM
+T7	Sign_or_Symptom 85 112	Tartaro supra y subgingival
+T8	Sign_or_Symptom 114 144	movilidad tipo II generalizada
+T9	Sign_or_Symptom 146 168	Abscesos periodontales
+T10	Therapeutic_Procedure 182 205	tratamiento periodontal
+A1	Pending T10
+T11	Disease 207 228	Periodontitis cronica
+T12	Abbreviation 73 74	+
+T13	Abbreviation 82 83	+

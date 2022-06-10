@@ -1,0 +1,14 @@
+T1	Sign_or_Symptom 0 8	HEMATOMA
+T2	Disease 21 31	HEMANGIOMA
+T3	Sign_or_Symptom 76 93	AUMENTO DE TAMAÑO
+T4	Sign_or_Symptom 109 140	DOLOR ++ EN ACTIVIDADES DIARIAS
+T5	Abbreviation 34 35	X
+#1	AnnotatorNotes T5	por
+T6	Abbreviation 36 37	X
+#2	AnnotatorNotes T6	por
+T7	Abbreviation 40 42	MM
+#3	AnnotatorNotes T7	milímetros
+T8	Body_Part 58 70	GLUTEO MEDIO
+T9	Sign_or_Symptom 21 70	HEMANGIOMA 30X7X18 MM EN ESPESOR DEL GLUTEO MEDIO
+T10	Abbreviation 115 116	+
+T11	Abbreviation 116 117	+

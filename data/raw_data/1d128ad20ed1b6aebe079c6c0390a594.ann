@@ -1,0 +1,8 @@
+T2	Body_Part 25 33	PIEZA 32
+T3	Body_Part 107 121	PIEZAS 17 Y 32
+T4	Therapeutic_Procedure 97 106	EXODONCIA
+A1	Pending T4
+T5	Laboratory_or_Test_Result 67 86	EVOLUCION INTRAOSEA
+T6	Laboratory_or_Test_Result 11 23	MESIOVERSION
+T7	Laboratory_or_Test_Result 37 56	POSICION HORIZONTAL
+T1	Body_Part 0 7	PIEZA A

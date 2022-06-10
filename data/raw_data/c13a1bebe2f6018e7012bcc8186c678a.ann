@@ -1,0 +1,9 @@
+T1	Disease 0 4	K010
+T2	Disease 5 22	DIENTES INCLUIDOS
+T3	Abbreviation 23 26	PZA
+T4	Body_Part 23 29	PZA 11
+T5	Laboratory_or_Test_Result 23 49	PZA 11 INCLUIDA FENESTRADA
+T6	Therapeutic_Procedure 76 89	MICROTORNILLO
+A1	Pending T6
+T7	Abbreviation 110 113	PZA
+T8	Body_Part 110 119	PZA 3 Y 2

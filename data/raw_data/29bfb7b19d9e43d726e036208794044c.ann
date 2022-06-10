@@ -1,0 +1,9 @@
+T3	Abbreviation 79 82	MAX
+T4	Body_Part 79 93	MAX   SUPERIOR
+T5	Abbreviation 126 129	MAX
+T6	Body_Part 125 140	 MAX   INFERIOR
+T7	Abbreviation 153 156	MOD
+T8	Abbreviation 112 115	MOD
+T1	Disease 10 41	DESDENTADA  PARCIAL   BIMAXILAR
+T9	Sign_or_Symptom 126 160	MAX   INFERIOR   CLASE  1  MOD   1
+T2	Sign_or_Symptom 79 119	MAX   SUPERIOR    CLASE     1    MOD   1

@@ -1,0 +1,25 @@
+T1	Abbreviation 138 141	APS
+T2	Abbreviation 152 155	DM2
+T3	Abbreviation 157 160	ERC
+T4	Abbreviation 161 163	ET
+T5	Abbreviation 167 170	HTA
+T6	Abbreviation 193 197	EEII
+T7	Body_Part 193 197	EEII
+T8	Abbreviation 223 225	OC
+T9	Abbreviation 274 278	IECA
+T10	Abbreviation 319 323	ATTE
+T11	Disease 2 34	HIPERTENSIÓN ESENCIAL (PRIMARIA)
+T12	Disease 38 70	ENFERMEDAD RENAL CRÓNICA ETAPA 3
+T13	Disease 74 91	DIABETES MELLITUS
+T14	Disease 152 155	DM2
+T15	Disease 157 165	ERC ET 3
+T16	Disease 167 170	HTA
+T17	Sign_or_Symptom 175 197	EDEMA PALPEBRAL Y EEII
+T18	Laboratory_Procedure 223 225	OC
+T19	Laboratory_or_Test_Result 230 241	PROTEINURIA
+T20	Laboratory_or_Test_Result 243 253	GLUCOSURIA
+T21	Laboratory_or_Test_Result 255 269	MICROHEMATURIA
+R1	Has Arg1:T18 Arg2:T19	
+R2	Has Arg1:T18 Arg2:T20	
+R3	Has Arg1:T18 Arg2:T21	
+T22	Medication 274 278	IECA

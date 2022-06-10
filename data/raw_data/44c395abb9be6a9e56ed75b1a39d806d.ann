@@ -1,0 +1,5 @@
+T1	Sign_or_Symptom 0 29	overjet y overbite aumentados
+T2	Sign_or_Symptom 31 58	giroversion de diente 8 y 9
+T3	Body_Part 46 58	diente 8 y 9
+T4	Sign_or_Symptom 60 108	falta de desarollo de tercio inferior de la cara
+T5	Body_Part 82 108	tercio inferior de la cara
