@@ -1,5 +1,4 @@
-from unicodedata import bidirectional
-from flair_datasets import NERCorpus
+from dataset import NERCorpus
 from models import NERTagger
 from embeddings import Embeddings
 from trainers import NERTrainer
@@ -32,8 +31,8 @@ if __name__=='__main__':
 
     for file in os.listdir(directory):
         entity_type = os.fsdecode(file)
-        corpus = NERCorpus().create_corpus(entity_type)
+        corpus = NERCorpus(config['data_folder'], entity_type).create_corpus()
         tag_dictionary = corpus.make_label_dictionary(label_type = 'ner')
         embeddings = Embeddings(config).create_embeddings()
         tagger = NERTagger(embeddings = embeddings, tag_dictionary = tag_dictionary, config = config).create_tagger()
-        trainer = NERTrainer(corpus = corpus, tagger = tagger, config = config).train()
+        trainer = NERTrainer(corpus = corpus, tagger = tagger, entity_type = entity_type, config = config).train()

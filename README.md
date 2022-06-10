@@ -1,6 +1,6 @@
 
 #  Nested Named Entity Recognition in the Chilean Waiting List corpus.
-Code for the paper Automatic extraction of nested entities in clinical referrals in Spanish. This repository contains brat to conll transformation and MSEN code.
+Source code for the paper: Automatic extraction of nested entities in clinical referrals in Spanish. This repository contains brat to conll transformation and MSEN code.
 
 ## Install
 
@@ -28,6 +28,10 @@ The selection of embeddings to be used can be modified in the `config.yaml` file
 Training parameters can be changed in `config.yaml` file
 
 Run the script `src/main.py`. The results will be printed to console, the models will be saved in models folder.
+
+## Metrics
+
+To obtain the standard nested NER metric of the model considering all entity types outputs, install the library nestednereval `pip install git+https://github.com/matirojasg/nestednereval.git` and then execute the script `metrics`.
 
 ## Files
 

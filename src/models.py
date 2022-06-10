@@ -12,7 +12,7 @@ class NERTagger:
         tagger: SequenceTagger = SequenceTagger(
                                     embeddings = self.embeddings,
                                     tag_dictionary = self.tag_dictionary,
-                                    encoder = self.config['encoder'],
+                                    rnn_type = self.config['encoder'],
                                     hidden_size = self.config['hidden_size'],
                                     use_crf = self.config['use_crf'],
                                     tag_type = 'ner'

@@ -1,15 +1,15 @@
 # Embedding Layer Settings
 use_word_embeddings: True
 use_char_embeddings: True
-use_flair_embeddings: True 
-use_beto_embeddings: False 
+use_flair_embeddings: True
+use_beto_embeddings: False
 word_embeddings_path: embeddings/cwlce.vec
 
 
 # BETO settings
 subtoken_pooling: first
-layer_mean: True
-layers: 'all'
+layer_mean: True # False
+layers: 'all' # '-1,-2,-3,-4'
 
 # Encoder - Classification Layer Settings. Dropout = 0 when encoder layers = 1, 0.5 otherwise.
 encoder: LSTM 
@@ -20,7 +20,7 @@ use_crf: True
 # Training Settings
 max_epochs: 150
 learning_rate: 0.1
-mini_batch_size: 32
+mini_batch_size: 8
 optimizer: SGD
 word_dropout: 0.05
 
