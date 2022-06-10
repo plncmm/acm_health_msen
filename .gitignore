@@ -67,6 +67,8 @@ coverage.xml
 *.mo
 *.pot
 
+data/data_preprocessing/wl_files/
+
 # Django stuff:
 *.log
 local_settings.py

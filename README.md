@@ -11,9 +11,9 @@ Source code for the paper: Automatic extraction of nested entities in clinical r
 
 ## Data
 
-We release the CoNLL files already formatted for the MSEN model for simplicity. However, if you want to reproduce the transformation process, follow the steps in the Files section.
+We release the CoNLL files already formatted for the MSEN model for simplicity. However, if you want to reproduce the transformation process, follow the steps in the Files section (it tooks around 2 minutes). Unfortunately, the preprocessing code is not yet well documented, so we recommend using the already formatted files. We hope to have a detailed guide to this process soon :)
 
-The files associated with each type of entity are located in the folder src/wl_files. These files correspond to 5000 annotations of the Chilean Waiting List transformed to the traditional CoNLL file format.
+The files associated with each type of entity are located in the folder src/wl_files. These files correspond to 5000 annotations of the Chilean Waiting List transformed to the traditional CoNLL file format. 
 
 ## Embeddings
 
@@ -35,4 +35,7 @@ To obtain the standard nested NER metric of the model considering all entity typ
 
 ## Files
 
-ToDO
+The data_preprocessing folder has the code to convert files from standoff format to the standard CoNLL NER format.
+
+1. We will use the raw data (.ann and .txt files) located in the data/raw_data folder.
+2. Execute `python create_data.py` located in data_preprocessing folder.
