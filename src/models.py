@@ -13,6 +13,7 @@ class NERTagger:
                                     embeddings = self.embeddings,
                                     tag_dictionary = self.tag_dictionary,
                                     rnn_type = self.config['encoder'],
+                                    word_dropout = self.config['word_dropout'],
                                     hidden_size = self.config['hidden_size'],
                                     use_crf = self.config['use_crf'],
                                     tag_type = 'ner'

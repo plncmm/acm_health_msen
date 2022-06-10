@@ -34,7 +34,7 @@ MANIFEST
 *.spec
 
 # Embeddings
-embeddings/
+src/embeddings/
 
 # Models
 models/
